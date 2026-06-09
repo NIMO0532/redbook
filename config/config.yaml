@@ -57,7 +57,7 @@ notification:
 
 # 阿里云通义千问大模型配置
 aliyun_qwen:
-  enabled: false # 是否启用AI功能
+  enabled: true # 是否启用AI功能
   api_key: "" # 阿里云API Key（建议使用环境变量：ALIYUN_API_KEY）
   model: "qwen3.7-plus" # 模型名称：qwen-turbo、qwen-plus、qwen-max、qwen3.7-plus
   max_tokens: 2000 # 最大生成token数
