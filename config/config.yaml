@@ -1,0 +1,122 @@
+app:
+  # 将下面的 URL 替换为您自己的 GitHub Pages 地址
+  base_url: "https://joyce677.github.io/TrendRadar"
+  version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
+  show_version_update: true # 控制显示版本更新提示，改成 false 将不接受新版本提示
+
+crawler:
+  request_interval: 1000 # 请求间隔(毫秒)
+  enable_crawler: true # 是否启用爬取新闻功能，false 时直接停止程序
+  use_proxy: false # 是否启用代理，false 时为关闭
+  default_proxy: "http://127.0.0.1:10086"
+
+# 🔸 daily（当日汇总模式）
+#   • 推送时机：按时推送
+#   • 显示内容：当日所有匹配新闻 + 新增新闻区域
+#   • 适用场景：日报总结、全面了解当日热点趋势
+#
+# 🔸 current（当前榜单模式）
+#   • 推送时机：按时推送
+#   • 显示内容：当前榜单匹配新闻 + 新增新闻区域
+#   • 适用场景：实时热点追踪、了解当前最火的内容
+#
+# 🔸 incremental（增量监控模式）
+#   • 推送时机：有新增才推送
+#   • 显示内容：新出现的匹配频率词新闻
+#   • 适用场景：避免重复信息干扰
+
+report:
+  mode: "incremental" # 可选: "daily"|"incremental"|"current"
+  rank_threshold: 5 # 排名高亮阈值
+
+notification:
+  enable_notification: true # 是否启用通知功能，false 时不发送手机通知
+  message_batch_size: 4000 # 消息分批大小（字节）(这个配置别动)
+  batch_send_interval: 1 # 批次发送间隔（秒）
+  feishu_message_separator: "━━━━━━━━━━━━━━━━━━━" # feishu 消息分割线
+
+  silent_push:
+    enabled: false  # 是否启用静默推送模式，如果 true，则启用
+    # 因为我们白嫖的 github 服务器执行时间不稳定，所以时间范围要根据实际尽可能大一点，留足 2 小时
+    # 如果你想寻求稳定的按时的推送，建议部署在个人的服务器上
+    time_range:
+      start: "8:00"  # 推送时间范围开始（北京时间）
+      end: "12:00"    # 推送时间范围结束（北京时间）
+    once_per_day: true  # 每天在时间范围内只推送一次，如果 false，则时间范围内每次执行都推送一次
+    push_record_retention_days: 7  # 推送记录保留天数
+
+  # 请务必妥善保管好 webhooks，不要公开
+  # 如果你以 fork 的方式将本项目部署在 GitHub 上，请勿在此填写任何 webhooks，而是将 webhooks 填入 GitHub Secret
+  # 不然轻则手机上收到奇怪的广告推送，重则存在一定的安全隐患
+  webhooks:
+    feishu_url: "" # 飞书机器人的 webhook URL
+    dingtalk_url: "" # 钉钉机器人的 webhook URL
+    wework_url: "" # 企业微信机器人的 webhook URL
+    telegram_bot_token: "" # Telegram Bot Token
+    telegram_chat_id: "" # Telegram Chat ID
+
+# 阿里云通义千问大模型配置
+aliyun_qwen:
+  enabled: false # 是否启用AI功能
+  api_key: "" # 阿里云API Key（建议使用环境变量：ALIYUN_API_KEY）
+  model: "qwen3.7-plus" # 模型名称：qwen-turbo、qwen-plus、qwen-max、qwen3.7-plus
+  max_tokens: 2000 # 最大生成token数
+  temperature: 0.7 # 温度参数（0-1），越高越有创意
+  enable_news_analysis: false # 是否启用新闻智能分析
+  enable_copywriting: false # 是否启用文案生成
+  # 新闻筛选提示词（描述您想筛选的新闻类型）
+  news_filter_prompt: "筛选出有价值的、值得关注的新闻，排除娱乐八卦、广告等低价值内容"
+  # 文案生成提示词（描述您想要的文案风格和格式）
+  copywriting_prompt: "请为以下新闻生成一段吸引人的摘要文案，适合在社交媒体分享，控制在200字以内"
+
+# 小红书文案生成配置
+xiaohongshu:
+  enabled: true # 是否启用小红书文案生成功能
+  # 目标受众
+  target_audience: "18-34岁一二线城市高知女性"
+  # 筛选的新闻方向
+  news_categories:
+    - "智商税"
+    - "避雷"
+    - "塌房"
+    - "翻车"
+    - "消费降级"
+    - "平替战争"
+    - "情绪价值"
+    - "悦己"
+    - "平台算法"
+    - "信息茧房"
+
+# 用于让关注度更高的新闻在更前面显示，合起来是 1 就行
+weight:
+  rank_weight: 0.6 # 排名权重
+  frequency_weight: 0.3 # 频次权重
+  hotness_weight: 0.1 # 热度权重
+
+# 增加无聊的小知识
+# 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
+platforms:
+  - id: "toutiao"
+    name: "今日头条"
+  - id: "baidu"
+    name: "百度热搜"
+  - id: "wallstreetcn-hot"
+    name: "华尔街见闻"
+  - id: "thepaper"
+    name: "澎湃新闻"
+  - id: "bilibili-hot-search"
+    name: "bilibili 热搜"
+  - id: "cls-hot"
+    name: "财联社热门"
+  - id: "ifeng"
+    name: "凤凰网"
+  - id: "tieba"
+    name: "贴吧"
+  - id: "36kr-quick"
+    name: "36氪"
+  - id: "douyin"
+    name: "抖音"
+  - id: "zhihu"
+    name: "知乎"
+  - id: "kaopu"
+    name: "靠谱"
