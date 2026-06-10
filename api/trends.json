@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-10T11:18:08.508091+08:00",
+  "generated_at": "2026-06-10T11:25:01.205489+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口公司博睿康完成IPO辅导",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33339692",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
