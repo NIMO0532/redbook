@@ -62,8 +62,8 @@ aliyun_qwen:
   model: "qwen3.7-plus" # 模型名称：qwen-turbo、qwen-plus、qwen-max、qwen3.7-plus
   max_tokens: 2000 # 最大生成token数
   temperature: 0.7 # 温度参数（0-1），越高越有创意
-  enable_news_analysis: false # 是否启用新闻智能分析
-  enable_copywriting: false # 是否启用文案生成
+  enable_news_analysis: true # 是否启用新闻智能分析
+  enable_copywriting: true # 是否启用文案生成
   # 新闻筛选提示词（描述您想筛选的新闻类型）
   news_filter_prompt: "筛选出有价值的、值得关注的新闻，排除娱乐八卦、广告等低价值内容"
   # 文案生成提示词（描述您想要的文案风格和格式）
