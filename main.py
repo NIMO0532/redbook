@@ -5,7 +5,6 @@ import os
 import random
 import re
 import time
-import webbrowser
 import argparse
 from datetime import datetime
 from pathlib import Path
@@ -49,14 +48,6 @@ try:
     FLASK_AVAILABLE = True
 except ImportError:
     FLASK_AVAILABLE = False
-
-# 截图功能为可选依赖，尝试导入 Playwright
-try:
-    from playwright.sync_api import sync_playwright
-
-    PLAYWRIGHT_AVAILABLE = True
-except ImportError:
-    PLAYWRIGHT_AVAILABLE = False
 
 
 VERSION = "2.2.0"
@@ -617,38 +608,6 @@ class XiaohongshuContentGenerator:
             result["news_links"] = news_links
         
         return result
-
-
-# === 新增功能：网页截图 ===
-def generate_image_from_html(html_file_path: str, output_image_path: str):
-    """
-    使用 Playwright 渲染 HTML 文件并截取指定元素的图片。
-    """
-    if not PLAYWRIGHT_AVAILABLE:
-        print("Playwright 模块未安装，无法生成图片。请运行 'pip install playwright'。")
-        return
-
-    print(f"正在从 {html_file_path} 生成图片...")
-    try:
-        output_dir = Path(output_image_path).parent
-        output_dir.mkdir(parents=True, exist_ok=True)
-
-        with sync_playwright() as p:
-            browser = p.chromium.launch()
-            page = browser.new_page(viewport={"width": 650, "height": 1080})
-            uri = Path(html_file_path).resolve().as_uri()
-            page.goto(uri)
-            # 截取包含热点新闻分析的 .container 元素
-            element = page.query_selector('.container')
-            if element:
-                element.screenshot(path=output_image_path)
-                print(f"图片成功保存至: {output_image_path}")
-            else:
-                print("错误: 在HTML报告中未找到 '.container' 元素，无法截图。")
-            browser.close()
-    except Exception as e:
-        print(f"生成图片时发生错误: {e}")
-        print("请确保 Playwright 已正确安装 ('pip install playwright' 和 'playwright install')。")
 
 
 # === 工具函数 ===
@@ -3689,9 +3648,6 @@ class NewsAnalyzer:
         except Exception:
             return False
 
-    def _should_open_browser(self) -> bool:
-        """判断是否应该打开浏览器"""
-        return not self.is_github_actions and not self.is_docker_container
 
     def _setup_proxy(self) -> None:
         """设置代理配置"""
@@ -4111,21 +4067,11 @@ class NewsAnalyzer:
                 # daily模式：直接生成汇总报告并发送通知
                 summary_html = self._generate_summary_report(mode_strategy)
 
-        # 打开浏览器（仅在非容器环境）
-        if self._should_open_browser() and html_file:
+        if self.is_docker_container and html_file:
             if summary_html:
-                summary_url = "file://" + str(Path(summary_html).resolve())
-                print(f"正在打开汇总报告: {summary_url}")
-                webbrowser.open(summary_url)
+                print(f"汇总报告已生成: {summary_html}")
             else:
-                file_url = "file://" + str(Path(html_file).resolve())
-                print(f"正在打开HTML报告: {file_url}")
-                webbrowser.open(file_url)
-        elif self.is_docker_container and html_file:
-            if summary_html:
-                print(f"汇总报告已生成（Docker环境）: {summary_html}")
-            else:
-                print(f"HTML报告已生成（Docker环境）: {html_file}")
+                print(f"HTML报告已生成: {html_file}")
 
         return summary_html
 
@@ -4260,18 +4206,6 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         is_daily_summary=True,
     )
     print(f"为API数据生成了HTML报告: {api_html_report_path}")
-
-    # 从该HTML报告生成图片
-    image_path = "img/news.jpg"
-    generate_image_from_html(api_html_report_path, image_path)
-
-    # 将图片链接添加到API数据中
-    base_url = CONFIG.get("BASE_URL", "").rstrip("/")
-    if base_url:
-        api_data["report_image_url"] = f"{base_url}/{image_path}"
-    else:
-        api_data["report_image_url"] = f"/{image_path}"
-        print("警告: config.yaml中未设置 'base_url'，在API中使用相对图片路径。")
 
     # 确保API目录存在并将JSON文件保存到新路径
     output_path = "api/trends.json"
