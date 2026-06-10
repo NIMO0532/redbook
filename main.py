@@ -1482,12 +1482,6 @@ def count_word_frequency(
                 filtered_results[source_id][title] = title_data
             
             results = filtered_results
-        
-        # AI文案生成
-        if CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
-            ai_copywriting = AI_ANALYZER.generate_copywriting(all_news_list)
-            if ai_copywriting:
-                print("AI生成的文案:\n" + ai_copywriting)
 
     # 如果没有配置词组，创建一个包含所有新闻的虚拟词组
     if not word_groups:
@@ -1753,6 +1747,28 @@ def count_word_frequency(
             print(
                 f"当前榜单模式：{total_input_news} 条当前榜单新闻中有 {matched_count} 条{filter_status}"
             )
+
+    # === AI文案生成（使用经过frequency_words.txt筛选后的数据） ===
+    filtered_news_list = []
+    for source_id, titles_data in results_to_process.items():
+        source_name = id_to_name.get(source_id, source_id)
+        for title, title_data in titles_data.items():
+            # 再次检查是否匹配频率词，确保数据一致性
+            if matches_word_groups(title, word_groups, filter_words):
+                filtered_news_list.append({
+                    "title": title,
+                    "source": source_name,
+                    "source_id": source_id,
+                    "title_data": title_data
+                })
+    
+    if AI_ANALYZER.is_available() and CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
+        if filtered_news_list:
+            ai_copywriting = AI_ANALYZER.generate_copywriting(filtered_news_list)
+            if ai_copywriting:
+                print("AI生成的文案:\n" + ai_copywriting)
+        else:
+            print("没有匹配frequency_words的新闻，跳过AI文案生成")
 
     stats = []
     for group_key, data in word_stats.items():
