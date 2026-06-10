@@ -1912,6 +1912,43 @@ def generate_xiaohongshu_content(stats: List[Dict], failed_ids: Optional[List] =
         f.write(output_text)
 
     print(f"小红书文案已生成: {file_path}")
+
+    # 通过 webhook 发送小红书文案
+    if CONFIG["ENABLE_NOTIFICATION"] and CONFIG["FEISHU_WEBHOOK_URL"]:
+        try:
+            # 构建发送内容（简化版，只发送标题和正文预览）
+            send_text = "📕 **小红书文案已生成**\n\n"
+            if ai_copywriting and isinstance(ai_copywriting, dict) and "copies" in ai_copywriting:
+                for idx, copy in enumerate(ai_copywriting["copies"]):
+                    content = copy.get("content", {})
+                    send_text += f"--- 第 {idx+1} 条 ---\n"
+                    send_text += f"📰 **{copy.get('news_title', '')}**\n"
+                    send_text += f"📢 来源: {copy.get('news_source', '')}\n\n"
+                    send_text += f"【标题参考】\n"
+                    for title in content.get("title_options", [])[:2]:
+                        send_text += f"• {title}\n"
+                    send_text += "\n"
+                    send_text += f"【正文预览】\n{content.get('body', '')[:300]}...\n\n"
+            else:
+                send_text += f"📝 完整文案请查看文件: {file_path}\n"
+            
+            # 调用飞书 webhook 发送
+            import requests
+            headers = {"Content-Type": "application/json"}
+            payload = {
+                "msg_type": "text",
+                "content": {
+                    "text": send_text
+                }
+            }
+            response = requests.post(CONFIG["FEISHU_WEBHOOK_URL"], json=payload, headers=headers)
+            if response.status_code == 200:
+                print("小红书文案已通过 webhook 发送成功")
+            else:
+                print(f"webhook 发送失败: {response.status_code}")
+        except Exception as e:
+            print(f"发送小红书文案到 webhook 时发生错误: {e}")
+
     return file_path
 
 
@@ -2613,28 +2650,6 @@ def render_html_content(
 
         <div class="content">"""
 
-    # 展示AI生成的文案
-    if report_data.get("ai_copywriting"):
-        ai_text = report_data["ai_copywriting"]
-        # 如果是新的字典格式（包含多条文案），提取文本用于显示
-        if isinstance(ai_text, dict) and "copies" in ai_text:
-            text_parts = []
-            for copy in ai_text["copies"]:
-                content = copy.get("content", {})
-                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
-                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
-            ai_text = "\n\n".join(text_parts)
-        html += f"""
-            <div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border: 1px solid #bae6fd; border-radius: 8px; padding: 16px; margin-bottom: 24px;">
-                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
-                    <span style="font-size: 18px;">🤖</span>
-                    <span style="font-weight: 600; color: #0369a1;">AI 智能文案</span>
-                </div>
-                <div style="color: #1e293b; line-height: 1.6; white-space: pre-wrap;">
-                    {html_escape(str(ai_text))}
-                </div>
-            </div>"""
-
     # 处理失败ID错误信息
     if report_data["failed_ids"]:
         html += """
@@ -2826,19 +2841,6 @@ def render_feishu_content(
     """渲染飞书内容"""
     text_content = ""
 
-    # 添加AI生成的文案
-    if report_data.get("ai_copywriting"):
-        ai_text = report_data["ai_copywriting"]
-        # 如果是新的字典格式（包含多条文案），提取文本用于显示
-        if isinstance(ai_text, dict) and "copies" in ai_text:
-            text_parts = []
-            for copy in ai_text["copies"]:
-                content = copy.get("content", {})
-                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
-                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
-            ai_text = "\n\n".join(text_parts)
-        text_content += f"🤖 **AI 智能文案**\n\n{ai_text}\n\n{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
-
     if report_data["stats"]:
         text_content += f"📊 **热点词汇统计**\n\n"
 
@@ -2936,19 +2938,6 @@ def render_dingtalk_content(
     text_content += f"**类型：** 热点分析报告\n\n"
 
     text_content += "---\n\n"
-    
-    # 添加AI生成的文案
-    if report_data.get("ai_copywriting"):
-        ai_text = report_data["ai_copywriting"]
-        # 如果是新的字典格式（包含多条文案），提取文本用于显示
-        if isinstance(ai_text, dict) and "copies" in ai_text:
-            text_parts = []
-            for copy in ai_text["copies"]:
-                content = copy.get("content", {})
-                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
-                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
-            ai_text = "\n\n".join(text_parts)
-        text_content += f"🤖 **AI 智能文案**\n\n{ai_text}\n\n---\n\n"
 
     if report_data["stats"]:
         text_content += f"📊 **热点词汇统计**\n\n"
@@ -3064,41 +3053,6 @@ def split_content_into_batches(
         elif format_type == "telegram":
             stats_header = f"📊 热点词汇统计\n\n"
     
-    # 添加AI文案部分
-    ai_content = ""
-    if report_data.get("ai_copywriting"):
-        ai_text = report_data["ai_copywriting"]
-        # 如果是新的字典格式（包含多条文案），提取文本用于显示
-        if isinstance(ai_text, dict) and "copies" in ai_text:
-            text_parts = []
-            for copy in ai_text["copies"]:
-                content = copy.get("content", {})
-                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
-                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
-            ai_text = "\n\n".join(text_parts)
-        if format_type == "wework":
-            ai_content = f"🤖 **AI 智能文案**\n\n{ai_text}\n\n\n\n"
-        elif format_type == "telegram":
-            ai_content = f"🤖 AI 智能文案\n\n{ai_text}\n\n"
-    
-    # 如果有AI文案，先处理AI文案
-    if ai_content:
-        test_content = current_batch + ai_content
-        if (
-                len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8"))
-                < max_bytes
-        ):
-            current_batch = test_content
-            current_batch_has_content = True
-        else:
-            if current_batch_has_content:
-                batches.append(current_batch + base_footer)
-            current_batch = base_header + ai_content
-            current_batch_has_content = True
-
-    current_batch = base_header + (ai_content if ai_content else "")
-    current_batch_has_content = True if ai_content else False
-
     if (
             not report_data["stats"]
             and not report_data["new_titles"]
