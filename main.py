@@ -1447,41 +1447,7 @@ def count_word_frequency(
 ) -> Tuple[List[Dict], int]:
     """统计词频，支持必须词、频率词、过滤词，并标记新增标题"""
 
-    # === AI新闻分析 ===
     ai_copywriting = None
-    if AI_ANALYZER.is_available():
-        # 将所有新闻转换为列表格式供AI分析
-        all_news_list = []
-        for source_id, titles_data in results.items():
-            source_name = id_to_name.get(source_id, source_id)
-            for title, title_data in titles_data.items():
-                all_news_list.append({
-                    "title": title,
-                    "source": source_name,
-                    "source_id": source_id,
-                    "title_data": title_data
-                })
-        
-        # AI新闻筛选
-        if CONFIG["ALIYUN_QWEN"].get("ENABLE_NEWS_ANALYSIS"):
-            analyzed_news = AI_ANALYZER.analyze_news_batch(all_news_list)
-            
-            # 重建results字典，只保留筛选后的新闻
-            filtered_results = {}
-            for news in analyzed_news:
-                source_id = news.get("source_id")
-                if source_id not in filtered_results:
-                    filtered_results[source_id] = {}
-                title = news.get("title")
-                title_data = news.get("title_data", {})
-                # 添加AI分析结果到title_data
-                if "ai_score" in news:
-                    title_data["ai_score"] = news["ai_score"]
-                if "ai_reason" in news:
-                    title_data["ai_reason"] = news["ai_reason"]
-                filtered_results[source_id][title] = title_data
-            
-            results = filtered_results
 
     # 如果没有配置词组，创建一个包含所有新闻的虚拟词组
     if not word_groups:
@@ -1550,6 +1516,7 @@ def count_word_frequency(
     total_titles = 0
     processed_titles = {}
     matched_new_count = 0
+    filtered_news_list = []  # 词库匹配后的新闻列表（供 AI 分析使用）
 
     if title_info is None:
         title_info = {}
@@ -1577,6 +1544,14 @@ def count_word_frequency(
 
             if not matches_frequency_words:
                 continue
+
+            # 将词库匹配的新闻加入 AI 分析候选列表
+            filtered_news_list.append({
+                "title": title,
+                "source": id_to_name.get(source_id, source_id),
+                "source_id": source_id,
+                "title_data": title_data
+            })
 
             # 如果是增量模式或 current 模式第一次，统计匹配的新增新闻数量
             if (mode == "incremental" and all_news_are_new) or (
@@ -1748,33 +1723,49 @@ def count_word_frequency(
                 f"当前榜单模式：{total_input_news} 条当前榜单新闻中有 {matched_count} 条{filter_status}"
             )
 
-    # === AI文案生成（使用经过frequency_words.txt筛选后的数据） ===
-    filtered_news_list = []
-    for source_id, titles_data in results_to_process.items():
-        source_name = id_to_name.get(source_id, source_id)
-        for title, title_data in titles_data.items():
-            # 再次检查是否匹配频率词，确保数据一致性
-            if matches_word_groups(title, word_groups, filter_words):
-                filtered_news_list.append({
-                    "title": title,
-                    "source": source_name,
-                    "source_id": source_id,
-                    "title_data": title_data
-                })
-    
-    if AI_ANALYZER.is_available() and CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
-        if filtered_news_list:
-            ai_copywriting = AI_ANALYZER.generate_copywriting(filtered_news_list)
-            if ai_copywriting:
-                print("AI生成的文案:\n" + ai_copywriting)
-        else:
-            print("没有匹配frequency_words的新闻，跳过AI文案生成")
+    # === 第二步：AI新闻分析精选（只分析词库匹配后的新闻） ===
+    ai_analyzed_titles = None  # AI 精选后的标题集合（如启用了新闻分析）
+
+    if AI_ANALYZER.is_available():
+        # AI 新闻筛选（只处理词库匹配后的新闻，效率更高）
+        if CONFIG["ALIYUN_QWEN"].get("ENABLE_NEWS_ANALYSIS"):
+            if filtered_news_list:
+                analyzed_news = AI_ANALYZER.analyze_news_batch(filtered_news_list)
+                if analyzed_news:
+                    # 记录 AI 精选的标题集合，用于后续过滤 word_stats
+                    ai_analyzed_titles = {news.get("title") for news in analyzed_news}
+                    # 更新 filtered_news_list 为 AI 精选结果，供文案生成使用
+                    filtered_news_list = analyzed_news
+                    print(
+                        f"AI 新闻分析：词库匹配 {len(ai_analyzed_titles)} 条，经 AI 精选后保留"
+                    )
+            else:
+                print("没有词库匹配的新闻，跳过 AI 新闻分析")
+
+        # === 第三步：AI文案生成（使用 AI 精选后的新闻） ===
+        if CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
+            if filtered_news_list:
+                ai_copywriting = AI_ANALYZER.generate_copywriting(filtered_news_list)
+                if ai_copywriting:
+                    print("AI生成的文案:\n" + ai_copywriting)
+            else:
+                print("没有匹配frequency_words的新闻，跳过AI文案生成")
 
     stats = []
     for group_key, data in word_stats.items():
         all_titles = []
         for source_id, title_list in data["titles"].items():
-            all_titles.extend(title_list)
+            for t in title_list:
+                # 如果启用了 AI 新闻分析，只保留 AI 精选后的标题
+                if ai_analyzed_titles is not None:
+                    if t["title"] in ai_analyzed_titles:
+                        all_titles.append(t)
+                else:
+                    all_titles.append(t)
+
+        # 如果启用了 AI 新闻分析且该词组下没有匹配的新闻，跳过
+        if ai_analyzed_titles is not None and not all_titles:
+            continue
 
         # 按权重排序
         sorted_titles = sorted(
@@ -1789,10 +1780,10 @@ def count_word_frequency(
         stats.append(
             {
                 "word": group_key,
-                "count": data["count"],
+                "count": len(sorted_titles),
                 "titles": sorted_titles,
                 "percentage": (
-                    round(data["count"] / total_titles * 100, 2)
+                    round(len(sorted_titles) / total_titles * 100, 2)
                     if total_titles > 0
                     else 0
                 ),
@@ -1800,7 +1791,7 @@ def count_word_frequency(
         )
 
     stats.sort(key=lambda x: x["count"], reverse=True)
-    
+
     # 如果有AI生成的文案，添加到返回结果中
     if ai_copywriting:
         # 将文案添加到stats的第一个元素中，或者创建一个专门的条目
@@ -1814,7 +1805,7 @@ def count_word_frequency(
                 "percentage": 0,
                 "ai_copywriting": ai_copywriting
             })
-    
+
     return stats, total_titles
 
 
