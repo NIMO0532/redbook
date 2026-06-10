@@ -31,10 +31,8 @@ output/*.tmp
 output/*.bak
 output/[0-9]*.log
 # 保留 output 下的子目录，比如 html、xiaohongshu
-!output/html/
 !output/txt/
 !output/xiaohongshu/
-!output/*.html
 !output/*.txt
 
 # IDE
