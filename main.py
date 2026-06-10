@@ -1701,12 +1701,40 @@ def count_word_frequency(
             else:
                 print("没有词库匹配的新闻，跳过 AI 新闻分析")
 
-        # === 第三步：AI文案生成（使用 AI 精选后的新闻） ===
+        # === 第三步：AI文案生成（使用词库筛选后的新闻，每条新闻生成独立文案） ===
         if CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
             if filtered_news_list:
-                ai_copywriting = AI_ANALYZER.generate_copywriting(filtered_news_list)
-                if ai_copywriting:
-                    print("AI生成的文案:\n" + ai_copywriting)
+                # 从匹配的新闻中最多选2条，各生成一条独立的小红书文案
+                import random
+                selected_news = random.sample(
+                    filtered_news_list,
+                    min(2, len(filtered_news_list))
+                ) if len(filtered_news_list) >= 2 else filtered_news_list
+
+                ai_copywriting_list = []
+                for idx, news_item in enumerate(selected_news):
+                    # 将 news_item 转换为 XiaohongshuContentGenerator 需要的格式
+                    xhs_news = [{
+                        "title": news_item.get("title", ""),
+                        "source": news_item.get("source", ""),
+                        "url": news_item.get("title_data", {}).get("url", ""),
+                        "mobile_url": news_item.get("title_data", {}).get("mobileUrl", "")
+                    }]
+                    try:
+                        print(f"开始为第 {idx+1} 条新闻生成小红书文案: {news_item.get('title', '')[:30]}...")
+                        content = XiaohongshuContentGenerator.generate_full_content(xhs_news)
+                        ai_copywriting_list.append({
+                            "news_title": news_item.get("title", ""),
+                            "news_source": news_item.get("source", ""),
+                            "content": content
+                        })
+                    except Exception as e:
+                        print(f"第 {idx+1} 条新闻文案生成失败: {e}")
+
+                if ai_copywriting_list:
+                    # 存储为列表格式，供后续处理
+                    ai_copywriting = {"copies": ai_copywriting_list}
+                    print(f"AI文案生成完成，共生成 {len(ai_copywriting_list)} 条")
             else:
                 print("没有匹配frequency_words的新闻，跳过AI文案生成")
 
@@ -1775,64 +1803,114 @@ def generate_xiaohongshu_content(stats: List[Dict], failed_ids: Optional[List] =
     if not CONFIG["XIAOHONGSHU"]["ENABLED"]:
         print("小红书文案生成功能未启用，跳过")
         return None
-    
-    # 收集新闻列表
-    news_list = []
-    for stat in stats:
-        for title_data in stat.get("titles", []):
-            news_list.append({
-                "title": title_data.get("title", ""),
-                "source": title_data.get("source_name", ""),
-                "url": title_data.get("url", ""),
-                "mobile_url": title_data.get("mobile_url", "")
-            })
-    
-    if not news_list:
-        print("没有足够的新闻内容生成小红书文案")
-        return None
-    
-    # 生成文案
-    content = XiaohongshuContentGenerator.generate_full_content(news_list)
-    
-    # 格式化输出
-    output_text = "=" * 50 + "\n"
-    output_text += "           📕 小红书文案生成\n"
-    output_text += "=" * 50 + "\n\n"
-    
-    output_text += "【第一部分：封面图文案】\n"
-    for i, cover in enumerate(content["cover_options"], 1):
-        output_text += f"{i}. {cover}\n"
-    output_text += "\n"
-    
-    output_text += "【第二部分：标题】\n"
-    for i, title in enumerate(content["title_options"], 1):
-        output_text += f"{i}. {title}\n"
-    output_text += "\n"
-    
-    output_text += "【第三部分：正文】\n"
-    output_text += content["body"] + "\n\n"
-    
-    output_text += "【第四部分：末尾固定人设标签】\n"
-    output_text += content["ending"] + "\n\n"
-    
-    output_text += "【第五部分：首评钩子】\n"
-    for i, comment in enumerate(content["first_comment_options"], 1):
-        output_text += f"{i}. {comment}\n"
-    output_text += "\n"
-    
-    # 添加新闻链接
-    if "news_links" in content and content["news_links"]:
-        output_text += "【第六部分：参考新闻链接】\n"
-        for i, link in enumerate(content["news_links"], 1):
-            output_text += f"{i}. {link['title']}\n"
-            output_text += f"   {link['url']}\n"
+
+    # 检查是否有预生成的 AI 文案（从 count_word_frequency 传入）
+    ai_copywriting = None
+    if stats and "ai_copywriting" in stats[0]:
+        ai_copywriting = stats[0]["ai_copywriting"]
+
+    if ai_copywriting and isinstance(ai_copywriting, dict) and "copies" in ai_copywriting:
+        # 使用预生成的 AI 文案（多条）
+        copies = ai_copywriting["copies"]
+        output_text = "=" * 50 + "\n"
+        output_text += "           📕 小红书文案生成\n"
+        output_text += "=" * 50 + "\n\n"
+
+        for idx, copy in enumerate(copies):
+            content = copy.get("content", {})
+            output_text += f"--- 第 {idx+1} 条新闻 ---\n"
+            output_text += f"📰 {copy.get('news_title', '')}\n"
+            output_text += f"📢 来源: {copy.get('news_source', '')}\n\n"
+
+            output_text += "【第一部分：封面图文案】\n"
+            for i, cover in enumerate(content.get("cover_options", []), 1):
+                output_text += f"{i}. {cover}\n"
+            output_text += "\n"
+
+            output_text += "【第二部分：标题】\n"
+            for i, title in enumerate(content.get("title_options", []), 1):
+                output_text += f"{i}. {title}\n"
+            output_text += "\n"
+
+            output_text += "【第三部分：正文】\n"
+            output_text += content.get("body", "") + "\n\n"
+
+            output_text += "【第四部分：末尾固定人设标签】\n"
+            output_text += content.get("ending", "") + "\n\n"
+
+            output_text += "【第五部分：首评钩子】\n"
+            for i, comment in enumerate(content.get("first_comment_options", []), 1):
+                output_text += f"{i}. {comment}\n"
+            output_text += "\n"
+
+            # 添加新闻链接
+            if content.get("news_links"):
+                output_text += "【参考新闻链接】\n"
+                for i, link in enumerate(content["news_links"], 1):
+                    output_text += f"{i}. {link['title']}\n"
+                    output_text += f"   {link['url']}\n"
+                output_text += "\n"
+
+            output_text += "\n"
+
+    else:
+        # 兜底：从 stats 收集新闻并重新生成文案
+        news_list = []
+        for stat in stats:
+            for title_data in stat.get("titles", []):
+                news_list.append({
+                    "title": title_data.get("title", ""),
+                    "source": title_data.get("source_name", ""),
+                    "url": title_data.get("url", ""),
+                    "mobile_url": title_data.get("mobile_url", "")
+                })
+
+        if not news_list:
+            print("没有足够的新闻内容生成小红书文案")
+            return None
+
+        # 生成文案
+        content = XiaohongshuContentGenerator.generate_full_content(news_list)
+
+        # 格式化输出
+        output_text = "=" * 50 + "\n"
+        output_text += "           📕 小红书文案生成\n"
+        output_text += "=" * 50 + "\n\n"
+
+        output_text += "【第一部分：封面图文案】\n"
+        for i, cover in enumerate(content["cover_options"], 1):
+            output_text += f"{i}. {cover}\n"
         output_text += "\n"
-    
+
+        output_text += "【第二部分：标题】\n"
+        for i, title in enumerate(content["title_options"], 1):
+            output_text += f"{i}. {title}\n"
+        output_text += "\n"
+
+        output_text += "【第三部分：正文】\n"
+        output_text += content["body"] + "\n\n"
+
+        output_text += "【第四部分：末尾固定人设标签】\n"
+        output_text += content["ending"] + "\n\n"
+
+        output_text += "【第五部分：首评钩子】\n"
+        for i, comment in enumerate(content["first_comment_options"], 1):
+            output_text += f"{i}. {comment}\n"
+        output_text += "\n"
+
+        # 添加新闻链接
+        if "news_links" in content and content["news_links"]:
+            output_text += "【第六部分：参考新闻链接】\n"
+            for i, link in enumerate(content["news_links"], 1):
+                output_text += f"{i}. {link['title']}\n"
+                output_text += f"   {link['url']}\n"
+            output_text += "\n"
+
     # 保存到文件
     file_path = get_output_path("xiaohongshu", f"小红书文案_{format_time_filename()}.txt")
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(output_text)
-    
+
     print(f"小红书文案已生成: {file_path}")
     return file_path
 
@@ -2537,6 +2615,15 @@ def render_html_content(
 
     # 展示AI生成的文案
     if report_data.get("ai_copywriting"):
+        ai_text = report_data["ai_copywriting"]
+        # 如果是新的字典格式（包含多条文案），提取文本用于显示
+        if isinstance(ai_text, dict) and "copies" in ai_text:
+            text_parts = []
+            for copy in ai_text["copies"]:
+                content = copy.get("content", {})
+                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
+                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
+            ai_text = "\n\n".join(text_parts)
         html += f"""
             <div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border: 1px solid #bae6fd; border-radius: 8px; padding: 16px; margin-bottom: 24px;">
                 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
@@ -2544,7 +2631,7 @@ def render_html_content(
                     <span style="font-weight: 600; color: #0369a1;">AI 智能文案</span>
                 </div>
                 <div style="color: #1e293b; line-height: 1.6; white-space: pre-wrap;">
-                    {html_escape(report_data["ai_copywriting"])}
+                    {html_escape(str(ai_text))}
                 </div>
             </div>"""
 
@@ -2741,9 +2828,16 @@ def render_feishu_content(
 
     # 添加AI生成的文案
     if report_data.get("ai_copywriting"):
-        text_content += f"🤖 **AI 智能文案**\n\n"
-        text_content += f"{report_data['ai_copywriting']}\n\n"
-        text_content += f"{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
+        ai_text = report_data["ai_copywriting"]
+        # 如果是新的字典格式（包含多条文案），提取文本用于显示
+        if isinstance(ai_text, dict) and "copies" in ai_text:
+            text_parts = []
+            for copy in ai_text["copies"]:
+                content = copy.get("content", {})
+                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
+                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
+            ai_text = "\n\n".join(text_parts)
+        text_content += f"🤖 **AI 智能文案**\n\n{ai_text}\n\n{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
 
     if report_data["stats"]:
         text_content += f"📊 **热点词汇统计**\n\n"
@@ -2845,9 +2939,16 @@ def render_dingtalk_content(
     
     # 添加AI生成的文案
     if report_data.get("ai_copywriting"):
-        text_content += f"🤖 **AI 智能文案**\n\n"
-        text_content += f"{report_data['ai_copywriting']}\n\n"
-        text_content += "---\n\n"
+        ai_text = report_data["ai_copywriting"]
+        # 如果是新的字典格式（包含多条文案），提取文本用于显示
+        if isinstance(ai_text, dict) and "copies" in ai_text:
+            text_parts = []
+            for copy in ai_text["copies"]:
+                content = copy.get("content", {})
+                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
+                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
+            ai_text = "\n\n".join(text_parts)
+        text_content += f"🤖 **AI 智能文案**\n\n{ai_text}\n\n---\n\n"
 
     if report_data["stats"]:
         text_content += f"📊 **热点词汇统计**\n\n"
@@ -2966,10 +3067,19 @@ def split_content_into_batches(
     # 添加AI文案部分
     ai_content = ""
     if report_data.get("ai_copywriting"):
+        ai_text = report_data["ai_copywriting"]
+        # 如果是新的字典格式（包含多条文案），提取文本用于显示
+        if isinstance(ai_text, dict) and "copies" in ai_text:
+            text_parts = []
+            for copy in ai_text["copies"]:
+                content = copy.get("content", {})
+                body = content.get("body", "")[:200] + "..." if content.get("body") else ""
+                text_parts.append(f"📰 {copy.get('news_title', '')}\n📢 来源: {copy.get('news_source', '')}\n📝 {body}")
+            ai_text = "\n\n".join(text_parts)
         if format_type == "wework":
-            ai_content = f"🤖 **AI 智能文案**\n\n{report_data['ai_copywriting']}\n\n\n\n"
+            ai_content = f"🤖 **AI 智能文案**\n\n{ai_text}\n\n\n\n"
         elif format_type == "telegram":
-            ai_content = f"🤖 AI 智能文案\n\n{report_data['ai_copywriting']}\n\n"
+            ai_content = f"🤖 AI 智能文案\n\n{ai_text}\n\n"
     
     # 如果有AI文案，先处理AI文案
     if ai_content:
