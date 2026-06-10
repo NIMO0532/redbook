@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-06-10T11:46:48.711098+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-10T11:53:50.222014+08:00",
+  "total_titles_processed": 324,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "皮肤好是可以洗出来的",
+          "url": "https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E5%A5%BD%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%B4%97%E5%87%BA%E6%9D%A5%E7%9A%84&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“碳水脸”是一种审美霸凌的伪概念",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A2%B3%E6%B0%B4%E8%84%B8%E2%80%9D%E6%98%AF%E4%B8%80%E7%A7%8D%E5%AE%A1%E7%BE%8E%E9%9C%B8%E5%87%8C%E7%9A%84%E4%BC%AA%E6%A6%82%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时53分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
