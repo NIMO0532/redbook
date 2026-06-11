@@ -210,6 +210,8 @@ print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
 class AliyunQwenClient:
     """阿里云通义千问大模型客户端"""
 
+    _consecutive_failures = 0  # 连续失败次数，用于快速降级
+
     def __init__(self, api_key: str, model: str, 
                  max_tokens: int = 2000, temperature: float = 0.7):
         self.api_key = api_key
@@ -234,6 +236,11 @@ class AliyunQwenClient:
         Returns:
             模型回复内容，失败返回None
         """
+        # 连续失败次数过多时直接降级，避免长时间阻塞
+        if AliyunQwenClient._consecutive_failures >= 3:
+            print(f"阿里云API连续失败{AliyunQwenClient._consecutive_failures}次，跳过调用")
+            return None
+
         try:
             if system_prompt:
                 messages.insert(0, {"role": "system", "content": system_prompt})
@@ -249,10 +256,11 @@ class AliyunQwenClient:
                 self.api_url,
                 headers=self.headers,
                 json=payload,
-                timeout=120
+                timeout=30
             )
 
             if response.status_code == 200:
+                AliyunQwenClient._consecutive_failures = 0
                 result = response.json()
                 # OpenAI兼容格式解析
                 if result.get("choices", []) and len(result["choices"]) > 0:
@@ -263,13 +271,13 @@ class AliyunQwenClient:
                 print(f"阿里云API响应格式: {result}")
                 return str(result)
             else:
+                AliyunQwenClient._consecutive_failures += 1
                 print(f"阿里云API请求失败: {response.status_code} - {response.text}")
                 return None
 
         except Exception as e:
+            AliyunQwenClient._consecutive_failures += 1
             print(f"阿里云通义千问调用异常: {e}")
-            import traceback
-            traceback.print_exc()
             return None
 
 
