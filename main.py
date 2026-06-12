@@ -3098,6 +3098,10 @@ def split_content_into_batches(
     # 处理热点词汇统计
     if report_data["stats"]:
         total_count = len(report_data["stats"])
+        
+        # 初始化当前批次
+        current_batch = base_header
+        current_batch_has_content = False
 
         # 添加统计标题
         test_content = current_batch + stats_header
