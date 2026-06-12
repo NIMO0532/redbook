@@ -273,9 +273,9 @@ class OpenAICompatibleClient:
         import time
         
         # 连续失败次数过多时直接降级，避免长时间阻塞
+        # 注意：这里不阻止调用，由上层逻辑决定是否切换API
         if OpenAICompatibleClient._consecutive_failures >= 3:
-            print(f"{self.provider_name} API连续失败{OpenAICompatibleClient._consecutive_failures}次，跳过调用")
-            return None
+            print(f"{self.provider_name} API连续失败{OpenAICompatibleClient._consecutive_failures}次，建议切换API")
 
         max_retries = 2  # 最大重试次数
         
