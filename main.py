@@ -371,7 +371,7 @@ class AINewsAnalyzer:
                 model=self.config["MODEL"],
                 max_tokens=self.config["MAX_TOKENS"],
                 temperature=self.config["TEMPERATURE"],
-                base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+                base_url="https://dashscope-us.aliyuncs.com/compatible-mode/v1",
                 provider_name="阿里云"
             )
             self.current_client = self.client
