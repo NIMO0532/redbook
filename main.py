@@ -178,6 +178,12 @@ def load_config():
             config["ALIYUN_QWEN"]["ENABLED"] = False
         elif config["ALIYUN_QWEN"]["API_KEY"]:
             print(f"  模型: {config['ALIYUN_QWEN']['MODEL']}")
+            # 调试：显示API Key的前几位和后几位，确保加载成功
+            api_key = config["ALIYUN_QWEN"]["API_KEY"]
+            if len(api_key) > 8:
+                print(f"  API Key: {api_key[:4]}...{api_key[-4:]}")
+            else:
+                print(f"  API Key: {api_key}")
             if config["ALIYUN_QWEN"]["ENABLE_NEWS_ANALYSIS"]:
                 print("  新闻智能分析: 已启用")
             if config["ALIYUN_QWEN"]["ENABLE_COPYWRITING"]:
