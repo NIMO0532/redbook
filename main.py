@@ -370,7 +370,12 @@ class AINewsAnalyzer:
         # 初始化备用API客户端（SiliconFlow）
         backup_enabled = self.backup_config.get("ENABLED", False)
         backup_api_key = self.backup_config.get("API_KEY", "")
-        print(f"备用API配置检查: enabled={backup_enabled}, has_api_key={bool(backup_api_key)}")
+        print(f"==== 备用API配置检查 ====")
+        print(f"  enabled: {backup_enabled}")
+        print(f"  has_api_key: {bool(backup_api_key)}")
+        print(f"  api_key_length: {len(backup_api_key) if backup_api_key else 0}")
+        print(f"  model: {self.backup_config.get('MODEL', '未配置')}")
+        print(f"  base_url: {self.backup_config.get('BASE_URL', '未配置')}")
         
         if backup_enabled and backup_api_key:
             self.backup_client = OpenAICompatibleClient(
@@ -382,7 +387,13 @@ class AINewsAnalyzer:
                 provider_name="SiliconFlow"
             )
             api_key_display = backup_api_key[:4] + "..." + backup_api_key[-4:] if len(backup_api_key) > 8 else backup_api_key
-            print(f"备用API(SiliconFlow)已初始化，模型: {self.backup_config['MODEL']}, API Key: {api_key_display}")
+            print(f"  ✅ 备用API(SiliconFlow)已初始化，模型: {self.backup_config['MODEL']}, API Key: {api_key_display}")
+        else:
+            print(f"  ❌ 备用API未初始化")
+            if not backup_enabled:
+                print(f"    原因: 备用API未启用 (enabled=false)")
+            if not backup_api_key:
+                print(f"    原因: 未配置API Key (环境变量 SIJILIUDONG_API_API_KEY 不存在)")
 
     def is_available(self) -> bool:
         """检查AI功能是否可用（包括备用API）"""
