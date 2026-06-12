@@ -218,8 +218,8 @@ class AliyunQwenClient:
         self.model = model  # 必须明确指定模型名称
         self.max_tokens = max_tokens
         self.temperature = temperature
-        # 使用兼容的API URL
-        self.api_url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+        # 使用美国地域的API URL（更适合GitHub Actions等海外环境）
+        self.api_url = "https://dashscope-us.aliyuncs.com/compatible-mode/v1/chat/completions"
         self.headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
