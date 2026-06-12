@@ -224,6 +224,12 @@ class AliyunQwenClient:
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
         }
+    
+    @classmethod
+    def reset_consecutive_failures(cls):
+        """重置连续失败计数（用于API Key更新后恢复调用）"""
+        cls._consecutive_failures = 0
+        print("阿里云API连续失败计数已重置")
 
     def chat(self, messages: list, system_prompt: str = None) -> Optional[str]:
         """
@@ -308,6 +314,8 @@ class AINewsAnalyzer:
         self.client = None
         
         if self.enabled and self.config.get("API_KEY"):
+            # 重置连续失败计数，确保新的API Key可以立即生效
+            AliyunQwenClient.reset_consecutive_failures()
             self.client = AliyunQwenClient(
                 api_key=self.config["API_KEY"],
                 model=self.config["MODEL"],
