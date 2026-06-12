@@ -3547,6 +3547,18 @@ def send_to_webhooks(
 
     # 检查是否有 AI 生成的小红书文案
     ai_copywriting = None
+    print(f"==== send_to_webhooks 调试 ====")
+    print(f"stats 长度: {len(stats) if stats else 0}")
+    if stats:
+        print(f"stats[0] 键: {list(stats[0].keys())}")
+        print(f"stats[0] 包含 ai_copywriting: {'ai_copywriting' in stats[0]}")
+        if "ai_copywriting" in stats[0]:
+            ai_copywriting_data = stats[0]["ai_copywriting"]
+            print(f"ai_copywriting 类型: {type(ai_copywriting_data)}")
+            print(f"ai_copywriting 包含 copies: {isinstance(ai_copywriting_data, dict) and 'copies' in ai_copywriting_data}")
+            if isinstance(ai_copywriting_data, dict) and "copies" in ai_copywriting_data:
+                print(f"copies 数量: {len(ai_copywriting_data['copies'])}")
+    
     if stats and stats[0].get("ai_copywriting"):
         ai_copywriting = stats[0]["ai_copywriting"]
     
