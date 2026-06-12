@@ -69,6 +69,15 @@ aliyun_qwen:
   # 文案生成提示词（描述您想要的文案风格和格式）
   copywriting_prompt: "请为以下新闻生成一段吸引人的摘要文案，适合在社交媒体分享，控制在200字以内"
 
+# 备用API配置（SiliconFlow）
+backup_api:
+  enabled: true # 是否启用备用API
+  api_key: "" # SiliconFlow API Key（建议使用环境变量：SIJILIUDONG_api_key）
+  model: "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B" # 模型名称
+  base_url: "https://api.siliconflow.cn/v1" # API基础URL
+  max_tokens: 2000 # 最大生成token数
+  temperature: 0.7 # 温度参数（0-1）
+
 # 小红书文案生成配置
 xiaohongshu:
   enabled: true # 是否启用小红书文案生成功能

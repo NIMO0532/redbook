@@ -168,6 +168,17 @@ def load_config():
         "NEWS_FILTER_PROMPT": aliyun_config.get("news_filter_prompt", ""),
         "COPYWRITING_PROMPT": aliyun_config.get("copywriting_prompt", ""),
     }
+    
+    # 加载备用API配置（SiliconFlow）
+    backup_config = config_data.get("backup_api", {})
+    config["BACKUP_API"] = {
+        "ENABLED": backup_config.get("enabled", False),
+        "API_KEY": os.environ.get("SIJILIUDONG_api_key", "").strip() or backup_config.get("api_key", ""),
+        "MODEL": backup_config.get("model", "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"),
+        "BASE_URL": backup_config.get("base_url", "https://api.siliconflow.cn/v1"),
+        "MAX_TOKENS": backup_config.get("max_tokens", 2000),
+        "TEMPERATURE": backup_config.get("temperature", 0.7),
+    }
 
     if config["ALIYUN_QWEN"]["ENABLED"]:
         print("阿里云通义千问AI功能已启用")
@@ -212,20 +223,24 @@ print(f"TrendRadar v{VERSION} 配置加载完成")
 print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
 
 
-# === 阿里云通义千问大模型集成 ===
-class AliyunQwenClient:
-    """阿里云通义千问大模型客户端"""
+# === 通用AI大模型客户端 ===
+class OpenAICompatibleClient:
+    """通用OpenAI兼容API客户端，支持阿里云、SiliconFlow等服务"""
 
     _consecutive_failures = 0  # 连续失败次数，用于快速降级
+    _current_provider = "aliyun"  # 当前使用的服务商
 
     def __init__(self, api_key: str, model: str, 
-                 max_tokens: int = 2000, temperature: float = 0.7):
+                 max_tokens: int = 2000, temperature: float = 0.7,
+                 base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1",
+                 provider_name: str = "aliyun"):
         self.api_key = api_key
-        self.model = model  # 必须明确指定模型名称
+        self.model = model
         self.max_tokens = max_tokens
         self.temperature = temperature
-        # 尝试使用国内标准API URL
-        self.api_url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+        self.base_url = base_url
+        self.provider_name = provider_name
+        self.api_url = f"{base_url}/chat/completions"
         self.headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
@@ -233,9 +248,16 @@ class AliyunQwenClient:
     
     @classmethod
     def reset_consecutive_failures(cls):
-        """重置连续失败计数（用于API Key更新后恢复调用）"""
+        """重置连续失败计数"""
         cls._consecutive_failures = 0
-        print("阿里云API连续失败计数已重置")
+        print(f"API连续失败计数已重置")
+    
+    @classmethod
+    def switch_provider(cls, provider_name: str):
+        """切换服务商"""
+        cls._current_provider = provider_name
+        cls._consecutive_failures = 0
+        print(f"已切换到 {provider_name} 服务商")
 
     def chat(self, messages: list, system_prompt: str = None) -> Optional[str]:
         """
@@ -251,8 +273,8 @@ class AliyunQwenClient:
         import time
         
         # 连续失败次数过多时直接降级，避免长时间阻塞
-        if AliyunQwenClient._consecutive_failures >= 3:
-            print(f"阿里云API连续失败{AliyunQwenClient._consecutive_failures}次，跳过调用")
+        if OpenAICompatibleClient._consecutive_failures >= 3:
+            print(f"{self.provider_name} API连续失败{OpenAICompatibleClient._consecutive_failures}次，跳过调用")
             return None
 
         max_retries = 2  # 最大重试次数
@@ -274,9 +296,9 @@ class AliyunQwenClient:
 
                 # 调试：打印实际发送的headers（隐藏API Key）
                 debug_headers = {k: (v[:8] + "..." if k == "Authorization" and len(v) > 8 else v) for k, v in self.headers.items()}
-                print(f"发送的Headers: {debug_headers}")
-                print(f"发送的Payload model: {payload['model']}")
-                print(f"发送的Payload messages数量: {len(payload['messages'])}")
+                print(f"[{self.provider_name}] 发送的Headers: {debug_headers}")
+                print(f"[{self.provider_name}] 发送的Payload model: {payload['model']}")
+                print(f"[{self.provider_name}] API URL: {self.api_url}")
 
                 response = requests.post(
                     self.api_url,
@@ -286,11 +308,11 @@ class AliyunQwenClient:
                 )
 
                 # 调试：打印完整的响应状态和内容
-                print(f"阿里云API响应状态码: {response.status_code}")
-                print(f"阿里云API完整响应: {response.text}")
+                print(f"[{self.provider_name}] API响应状态码: {response.status_code}")
+                print(f"[{self.provider_name}] API完整响应: {response.text}")
 
                 if response.status_code == 200:
-                    AliyunQwenClient._consecutive_failures = 0
+                    OpenAICompatibleClient._consecutive_failures = 0
                     result = response.json()
                     # OpenAI兼容格式解析
                     if result.get("choices", []) and len(result["choices"]) > 0:
@@ -298,11 +320,11 @@ class AliyunQwenClient:
                         if choice.get("message", {}).get("content"):
                             return choice["message"]["content"]
                     # 尝试其他格式
-                    print(f"阿里云API响应格式: {result}")
+                    print(f"[{self.provider_name}] API响应格式: {result}")
                     return str(result)
                 else:
-                    AliyunQwenClient._consecutive_failures += 1
-                    print(f"阿里云API请求失败: {response.status_code} - {response.text}")
+                    OpenAICompatibleClient._consecutive_failures += 1
+                    print(f"[{self.provider_name}] API请求失败: {response.status_code} - {response.text}")
                     if attempt < max_retries:
                         wait_time = 2 ** attempt  # 指数退避
                         print(f"等待 {wait_time} 秒后重试...")
@@ -311,8 +333,8 @@ class AliyunQwenClient:
                     return None
 
             except Exception as e:
-                AliyunQwenClient._consecutive_failures += 1
-                print(f"阿里云通义千问调用异常(第{attempt+1}次): {e}")
+                OpenAICompatibleClient._consecutive_failures += 1
+                print(f"[{self.provider_name}] API调用异常(第{attempt+1}次): {e}")
                 if attempt < max_retries:
                     wait_time = 2 ** attempt  # 指数退避
                     print(f"等待 {wait_time} 秒后重试...")
@@ -322,26 +344,53 @@ class AliyunQwenClient:
 
 
 class AINewsAnalyzer:
-    """AI新闻分析器"""
+    """AI新闻分析器，支持主API和备用API"""
 
     def __init__(self):
         self.config = CONFIG.get("ALIYUN_QWEN", {})
+        self.backup_config = CONFIG.get("BACKUP_API", {})
         self.enabled = self.config.get("ENABLED", False)
         self.client = None
+        self.backup_client = None
+        self.current_client = None
         
+        # 初始化主API客户端（阿里云）
         if self.enabled and self.config.get("API_KEY"):
-            # 重置连续失败计数，确保新的API Key可以立即生效
-            AliyunQwenClient.reset_consecutive_failures()
-            self.client = AliyunQwenClient(
+            OpenAICompatibleClient.reset_consecutive_failures()
+            self.client = OpenAICompatibleClient(
                 api_key=self.config["API_KEY"],
                 model=self.config["MODEL"],
                 max_tokens=self.config["MAX_TOKENS"],
                 temperature=self.config["TEMPERATURE"],
+                base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+                provider_name="阿里云"
             )
+            self.current_client = self.client
+        
+        # 初始化备用API客户端（SiliconFlow）
+        if self.backup_config.get("ENABLED") and self.backup_config.get("API_KEY"):
+            self.backup_client = OpenAICompatibleClient(
+                api_key=self.backup_config["API_KEY"],
+                model=self.backup_config["MODEL"],
+                max_tokens=self.backup_config["MAX_TOKENS"],
+                temperature=self.backup_config["TEMPERATURE"],
+                base_url=self.backup_config["BASE_URL"],
+                provider_name="SiliconFlow"
+            )
+            print(f"备用API(SiliconFlow)已配置，模型: {self.backup_config['MODEL']}")
 
     def is_available(self) -> bool:
-        """检查AI功能是否可用"""
-        return self.enabled and self.client is not None
+        """检查AI功能是否可用（包括备用API）"""
+        return self.enabled and (self.client is not None or self.backup_client is not None)
+    
+    def _try_switch_backup(self) -> bool:
+        """尝试切换到备用API"""
+        if self.backup_client and self.current_client != self.backup_client:
+            OpenAICompatibleClient.switch_provider("SiliconFlow")
+            self.current_client = self.backup_client
+            print("已切换到备用API(SiliconFlow)")
+            return True
+        return False
 
     def analyze_news_batch(self, news_list: List[Dict]) -> List[Dict]:
         """
@@ -373,10 +422,18 @@ class AINewsAnalyzer:
 
             user_prompt = f"请分析以下新闻：\n\n{news_text}"
 
-            result = self.client.chat(
+            result = self.current_client.chat(
                 messages=[{"role": "user", "content": user_prompt}],
                 system_prompt=system_prompt
             )
+
+            # 如果主API失败，尝试切换到备用API
+            if not result and self._try_switch_backup():
+                print("重试使用备用API分析新闻...")
+                result = self.current_client.chat(
+                    messages=[{"role": "user", "content": user_prompt}],
+                    system_prompt=system_prompt
+                )
 
             if not result:
                 print("AI分析失败，使用原始新闻列表")
@@ -446,9 +503,16 @@ class AINewsAnalyzer:
 
             user_prompt = f"{copywriting_prompt}\n\n新闻内容：\n{news_text}"
 
-            result = self.client.chat(
+            result = self.current_client.chat(
                 messages=[{"role": "user", "content": user_prompt}]
             )
+
+            # 如果主API失败，尝试切换到备用API
+            if not result and self._try_switch_backup():
+                print("重试使用备用API生成文案...")
+                result = self.current_client.chat(
+                    messages=[{"role": "user", "content": user_prompt}]
+                )
 
             if result:
                 print("AI文案生成完成")
@@ -598,9 +662,16 @@ class XiaohongshuContentGenerator:
                 
                 prompt = cls.build_xiaohongshu_prompt(news_list)
                 
-                response = AI_ANALYZER.client.chat(
+                response = AI_ANALYZER.current_client.chat(
                     messages=[{"role": "user", "content": prompt}]
                 )
+
+                # 如果主API失败，尝试切换到备用API
+                if not response and AI_ANALYZER._try_switch_backup():
+                    print("重试使用备用API生成小红书文案...")
+                    response = AI_ANALYZER.current_client.chat(
+                        messages=[{"role": "user", "content": prompt}]
+                    )
 
                 if response:
                     # 解析AI返回的JSON
