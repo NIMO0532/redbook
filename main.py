@@ -236,49 +236,67 @@ class AliyunQwenClient:
         Returns:
             模型回复内容，失败返回None
         """
+        import time
+        
         # 连续失败次数过多时直接降级，避免长时间阻塞
         if AliyunQwenClient._consecutive_failures >= 3:
             print(f"阿里云API连续失败{AliyunQwenClient._consecutive_failures}次，跳过调用")
             return None
 
-        try:
-            if system_prompt:
-                messages.insert(0, {"role": "system", "content": system_prompt})
+        max_retries = 2  # 最大重试次数
+        
+        for attempt in range(max_retries + 1):
+            try:
+                # 复制消息列表以避免修改原始数据
+                messages_copy = [m.copy() for m in messages]
+                
+                if system_prompt:
+                    messages_copy.insert(0, {"role": "system", "content": system_prompt})
 
-            payload = {
-                "model": self.model,
-                "messages": messages,
-                "max_tokens": self.max_tokens,
-                "temperature": self.temperature,
-            }
+                payload = {
+                    "model": self.model,
+                    "messages": messages_copy,
+                    "max_tokens": self.max_tokens,
+                    "temperature": self.temperature,
+                }
 
-            response = requests.post(
-                self.api_url,
-                headers=self.headers,
-                json=payload,
-                timeout=30
-            )
+                response = requests.post(
+                    self.api_url,
+                    headers=self.headers,
+                    json=payload,
+                    timeout=120
+                )
 
-            if response.status_code == 200:
-                AliyunQwenClient._consecutive_failures = 0
-                result = response.json()
-                # OpenAI兼容格式解析
-                if result.get("choices", []) and len(result["choices"]) > 0:
-                    choice = result["choices"][0]
-                    if choice.get("message", {}).get("content"):
-                        return choice["message"]["content"]
-                # 尝试其他格式
-                print(f"阿里云API响应格式: {result}")
-                return str(result)
-            else:
+                if response.status_code == 200:
+                    AliyunQwenClient._consecutive_failures = 0
+                    result = response.json()
+                    # OpenAI兼容格式解析
+                    if result.get("choices", []) and len(result["choices"]) > 0:
+                        choice = result["choices"][0]
+                        if choice.get("message", {}).get("content"):
+                            return choice["message"]["content"]
+                    # 尝试其他格式
+                    print(f"阿里云API响应格式: {result}")
+                    return str(result)
+                else:
+                    AliyunQwenClient._consecutive_failures += 1
+                    print(f"阿里云API请求失败: {response.status_code} - {response.text}")
+                    if attempt < max_retries:
+                        wait_time = 2 ** attempt  # 指数退避
+                        print(f"等待 {wait_time} 秒后重试...")
+                        time.sleep(wait_time)
+                        continue
+                    return None
+
+            except Exception as e:
                 AliyunQwenClient._consecutive_failures += 1
-                print(f"阿里云API请求失败: {response.status_code} - {response.text}")
+                print(f"阿里云通义千问调用异常(第{attempt+1}次): {e}")
+                if attempt < max_retries:
+                    wait_time = 2 ** attempt  # 指数退避
+                    print(f"等待 {wait_time} 秒后重试...")
+                    time.sleep(wait_time)
+                    continue
                 return None
-
-        except Exception as e:
-            AliyunQwenClient._consecutive_failures += 1
-            print(f"阿里云通义千问调用异常: {e}")
-            return None
 
 
 class AINewsAnalyzer:
