@@ -224,8 +224,8 @@ class AliyunQwenClient:
         self.model = model  # 必须明确指定模型名称
         self.max_tokens = max_tokens
         self.temperature = temperature
-        # 使用美国地域的API URL（更适合GitHub Actions等海外环境）
-        self.api_url = "https://dashscope-us.aliyuncs.com/compatible-mode/v1/chat/completions"
+        # 尝试使用国内标准API URL
+        self.api_url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
         self.headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
@@ -272,12 +272,22 @@ class AliyunQwenClient:
                     "temperature": self.temperature,
                 }
 
+                # 调试：打印实际发送的headers（隐藏API Key）
+                debug_headers = {k: (v[:8] + "..." if k == "Authorization" and len(v) > 8 else v) for k, v in self.headers.items()}
+                print(f"发送的Headers: {debug_headers}")
+                print(f"发送的Payload model: {payload['model']}")
+                print(f"发送的Payload messages数量: {len(payload['messages'])}")
+
                 response = requests.post(
                     self.api_url,
                     headers=self.headers,
                     json=payload,
                     timeout=120
                 )
+
+                # 调试：打印完整的响应状态和内容
+                print(f"阿里云API响应状态码: {response.status_code}")
+                print(f"阿里云API完整响应: {response.text}")
 
                 if response.status_code == 200:
                     AliyunQwenClient._consecutive_failures = 0
