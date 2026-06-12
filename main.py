@@ -363,23 +363,10 @@ class AINewsAnalyzer:
         self.backup_client = None
         self.current_client = None
         
-        # 初始化主API客户端（阿里云）
-        if self.enabled and self.config.get("API_KEY"):
-            OpenAICompatibleClient.reset_consecutive_failures()
-            self.client = OpenAICompatibleClient(
-                api_key=self.config["API_KEY"],
-                model=self.config["MODEL"],
-                max_tokens=self.config["MAX_TOKENS"],
-                temperature=self.config["TEMPERATURE"],
-                base_url="https://dashscope-us.aliyuncs.com/compatible-mode/v1",
-                provider_name="阿里云"
-            )
-            self.current_client = self.client
-        
-        # 初始化备用API客户端（SiliconFlow）
+        # 初始化备用API客户端（SiliconFlow）- 作为主API使用
         backup_enabled = self.backup_config.get("ENABLED", False)
         backup_api_key = self.backup_config.get("API_KEY", "")
-        print(f"==== 备用API配置检查 ====")
+        print(f"==== SiliconFlow API配置检查 ====")
         print(f"  enabled: {backup_enabled}")
         print(f"  has_api_key: {bool(backup_api_key)}")
         print(f"  api_key_length: {len(backup_api_key) if backup_api_key else 0}")
@@ -387,7 +374,8 @@ class AINewsAnalyzer:
         print(f"  base_url: {self.backup_config.get('BASE_URL', '未配置')}")
         
         if backup_enabled and backup_api_key:
-            self.backup_client = OpenAICompatibleClient(
+            OpenAICompatibleClient.reset_consecutive_failures()
+            self.client = OpenAICompatibleClient(
                 api_key=backup_api_key,
                 model=self.backup_config["MODEL"],
                 max_tokens=self.backup_config["MAX_TOKENS"],
@@ -395,14 +383,15 @@ class AINewsAnalyzer:
                 base_url=self.backup_config["BASE_URL"],
                 provider_name="SiliconFlow"
             )
+            self.current_client = self.client
             api_key_display = backup_api_key[:4] + "..." + backup_api_key[-4:] if len(backup_api_key) > 8 else backup_api_key
-            print(f"  ✅ 备用API(SiliconFlow)已初始化，模型: {self.backup_config['MODEL']}, API Key: {api_key_display}")
+            print(f"  ✅ SiliconFlow API已初始化为主API，模型: {self.backup_config['MODEL']}, API Key: {api_key_display}")
         else:
-            print(f"  ❌ 备用API未初始化")
+            print(f"  ❌ SiliconFlow API未初始化")
             if not backup_enabled:
-                print(f"    原因: 备用API未启用 (enabled=false)")
+                print(f"    原因: API未启用 (enabled=false)")
             if not backup_api_key:
-                print(f"    原因: 未配置API Key (环境变量 SIJILIUDONG_API_API_KEY 不存在)")
+                print(f"    原因: 未配置API Key (环境变量 SIJILIUDONG_API_KEY 不存在)")
 
     def is_available(self) -> bool:
         """检查AI功能是否可用（包括备用API）"""
