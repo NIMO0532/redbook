@@ -541,7 +541,7 @@ class XiaohongshuContentGenerator:
         """生成完整的小红书文案内容（调用AI）"""
         
         # 检查AI是否可用
-        if not AI_ANALYZER.is_available() or not CONFIG["ALIYUN_QWEN"].get("enable_copywriting"):
+        if not AI_ANALYZER.is_available() or not CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
             print("AI功能未启用，返回示例文案")
             result = {
                 "cover_options": ["5个雷区💣女生必看", "智商税收割机⚠️", "塌房预警🚨避坑指南"],
