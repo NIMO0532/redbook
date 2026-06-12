@@ -390,6 +390,20 @@ class AINewsAnalyzer:
             self.current_client = self.backup_client
             print("已切换到备用API(SiliconFlow)")
             return True
+        elif self.current_client == self.backup_client and OpenAICompatibleClient._consecutive_failures >= 3:
+            # 备用API也失败，强制重置并重试
+            OpenAICompatibleClient.reset_consecutive_failures()
+            print("备用API也连续失败，重置计数")
+            return True
+        return False
+    
+    def should_switch_to_backup(self) -> bool:
+        """检查是否应该切换到备用API"""
+        if not self.backup_client:
+            return False
+        if self.current_client != self.backup_client:
+            # 主API失败3次以上，切换到备用
+            return OpenAICompatibleClient._consecutive_failures >= 3
         return False
 
     def analyze_news_batch(self, news_list: List[Dict]) -> List[Dict]:
@@ -422,6 +436,10 @@ class AINewsAnalyzer:
 
             user_prompt = f"请分析以下新闻：\n\n{news_text}"
 
+            # 检查是否需要切换到备用API
+            if self.should_switch_to_backup():
+                self._try_switch_backup()
+            
             result = self.current_client.chat(
                 messages=[{"role": "user", "content": user_prompt}],
                 system_prompt=system_prompt
@@ -503,6 +521,10 @@ class AINewsAnalyzer:
 
             user_prompt = f"{copywriting_prompt}\n\n新闻内容：\n{news_text}"
 
+            # 检查是否需要切换到备用API
+            if self.should_switch_to_backup():
+                self._try_switch_backup()
+            
             result = self.current_client.chat(
                 messages=[{"role": "user", "content": user_prompt}]
             )
@@ -661,6 +683,10 @@ class XiaohongshuContentGenerator:
                 print("开始用AI生成小红书文案...")
                 
                 prompt = cls.build_xiaohongshu_prompt(news_list)
+                
+                # 检查是否需要切换到备用API
+                if AI_ANALYZER.should_switch_to_backup():
+                    AI_ANALYZER._try_switch_backup()
                 
                 response = AI_ANALYZER.current_client.chat(
                     messages=[{"role": "user", "content": prompt}]
