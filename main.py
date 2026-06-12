@@ -368,16 +368,21 @@ class AINewsAnalyzer:
             self.current_client = self.client
         
         # 初始化备用API客户端（SiliconFlow）
-        if self.backup_config.get("ENABLED") and self.backup_config.get("API_KEY"):
+        backup_enabled = self.backup_config.get("ENABLED", False)
+        backup_api_key = self.backup_config.get("API_KEY", "")
+        print(f"备用API配置检查: enabled={backup_enabled}, has_api_key={bool(backup_api_key)}")
+        
+        if backup_enabled and backup_api_key:
             self.backup_client = OpenAICompatibleClient(
-                api_key=self.backup_config["API_KEY"],
+                api_key=backup_api_key,
                 model=self.backup_config["MODEL"],
                 max_tokens=self.backup_config["MAX_TOKENS"],
                 temperature=self.backup_config["TEMPERATURE"],
                 base_url=self.backup_config["BASE_URL"],
                 provider_name="SiliconFlow"
             )
-            print(f"备用API(SiliconFlow)已配置，模型: {self.backup_config['MODEL']}")
+            api_key_display = backup_api_key[:4] + "..." + backup_api_key[-4:] if len(backup_api_key) > 8 else backup_api_key
+            print(f"备用API(SiliconFlow)已初始化，模型: {self.backup_config['MODEL']}, API Key: {api_key_display}")
 
     def is_available(self) -> bool:
         """检查AI功能是否可用（包括备用API）"""
@@ -385,25 +390,31 @@ class AINewsAnalyzer:
     
     def _try_switch_backup(self) -> bool:
         """尝试切换到备用API"""
+        print(f"[切换尝试] backup_client存在: {bool(self.backup_client)}, current_client != backup_client: {self.current_client != self.backup_client if self.backup_client and self.current_client else 'N/A'}")
         if self.backup_client and self.current_client != self.backup_client:
             OpenAICompatibleClient.switch_provider("SiliconFlow")
             self.current_client = self.backup_client
             print("已切换到备用API(SiliconFlow)")
             return True
-        elif self.current_client == self.backup_client and OpenAICompatibleClient._consecutive_failures >= 3:
+        elif self.backup_client and self.current_client == self.backup_client and OpenAICompatibleClient._consecutive_failures >= 3:
             # 备用API也失败，强制重置并重试
             OpenAICompatibleClient.reset_consecutive_failures()
             print("备用API也连续失败，重置计数")
             return True
+        print(f"[切换尝试] 条件不满足，不切换")
         return False
     
     def should_switch_to_backup(self) -> bool:
         """检查是否应该切换到备用API"""
         if not self.backup_client:
+            print(f"[切换检查] 备用客户端未初始化，跳过切换")
             return False
         if self.current_client != self.backup_client:
             # 主API失败3次以上，切换到备用
-            return OpenAICompatibleClient._consecutive_failures >= 3
+            should_switch = OpenAICompatibleClient._consecutive_failures >= 3
+            print(f"[切换检查] 当前失败次数: {OpenAICompatibleClient._consecutive_failures}, 应切换: {should_switch}")
+            return should_switch
+        print(f"[切换检查] 当前已是备用客户端，不切换")
         return False
 
     def analyze_news_batch(self, news_list: List[Dict]) -> List[Dict]:
