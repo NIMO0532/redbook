@@ -219,6 +219,15 @@ def load_config():
 
 print("正在加载配置...")
 CONFIG = load_config()
+
+# 调试：检查备用API配置是否正确加载
+backup_api_config = CONFIG.get("BACKUP_API", {})
+print(f"\n==== CONFIG加载后检查 BACKUP_API ====")
+print(f"backup_api_config: {backup_api_config}")
+print(f"ENABLED: {backup_api_config.get('ENABLED')}")
+print(f"API_KEY (exists): {bool(backup_api_config.get('API_KEY'))}")
+print(f"API_KEY (length): {len(backup_api_config.get('API_KEY', ''))}")
+print(f"========================================\n")
 print(f"TrendRadar v{VERSION} 配置加载完成")
 print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
 
