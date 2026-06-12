@@ -173,7 +173,7 @@ def load_config():
     backup_config = config_data.get("backup_api", {})
     config["BACKUP_API"] = {
         "ENABLED": backup_config.get("enabled", False),
-        "API_KEY": os.environ.get("SIJILIUDONG_API_API_KEY", "").strip() or backup_config.get("api_key", ""),
+        "API_KEY": os.environ.get("SIJILIUDONG_API_KEY", "").strip() or backup_config.get("api_key", ""),
         "MODEL": backup_config.get("model", "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"),
         "BASE_URL": backup_config.get("base_url", "https://api.siliconflow.cn/v1"),
         "MAX_TOKENS": backup_config.get("max_tokens", 2000),

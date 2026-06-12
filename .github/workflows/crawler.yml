@@ -54,7 +54,7 @@ jobs:
           DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
           WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
           ALIYUN_API_KEY: ${{ secrets.ALIYUN_API_KEY }}
-          SIJILIUDONG_API_API_KEY: ${{ secrets.SIJILIUDONG_API_API_KEY }}
+          SIJILIUDONG_API_KEY: ${{ secrets.SIJILIUDONG_API_KEY }}
           GITHUB_ACTIONS: true
         run: python main.py
 
