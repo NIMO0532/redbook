@@ -3383,7 +3383,7 @@ def send_to_webhooks(
         proxy_url: Optional[str] = None,
         mode: str = "daily",
 ) -> Dict[str, bool]:
-    """发送数据到多个webhook平台"""
+    """发送数据到多个webhook平台（优先发送小红书文案）"""
     results = {}
 
     if CONFIG["SILENT_PUSH"]["ENABLED"]:
@@ -3404,45 +3404,67 @@ def send_to_webhooks(
             else:
                 print(f"静默模式：今天首次推送")
 
-    report_data = prepare_report_data(stats, failed_ids, new_titles, id_to_name, mode)
+    # 检查是否有 AI 生成的小红书文案
+    ai_copywriting = None
+    if stats and stats[0].get("ai_copywriting"):
+        ai_copywriting = stats[0]["ai_copywriting"]
+    
+    # 只发送AI生成的小红书文案，不发送新闻汇总
+    if ai_copywriting and isinstance(ai_copywriting, dict) and "copies" in ai_copywriting:
+        copies = ai_copywriting["copies"]
+        
+        feishu_url = CONFIG["FEISHU_WEBHOOK_URL"]
+        dingtalk_url = CONFIG["DINGTALK_WEBHOOK_URL"]
+        wework_url = CONFIG["WEWORK_WEBHOOK_URL"]
+        telegram_token = CONFIG["TELEGRAM_BOT_TOKEN"]
+        telegram_chat_id = CONFIG["TELEGRAM_CHAT_ID"]
+        
+        for idx, copy in enumerate(copies):
+            news_title = copy.get("news_title", "")
+            news_source = copy.get("news_source", "")
+            content = copy.get("content", {})
+            
+            cover_options = content.get("cover_options", [])
+            title_options = content.get("title_options", [])
+            body = content.get("body", "")
+            ending = content.get("ending", "")
+            
+            message = f"""📝 小红书文案 #{idx+1}
 
-    feishu_url = CONFIG["FEISHU_WEBHOOK_URL"]
-    dingtalk_url = CONFIG["DINGTALK_WEBHOOK_URL"]
-    wework_url = CONFIG["WEWORK_WEBHOOK_URL"]
-    telegram_token = CONFIG["TELEGRAM_BOT_TOKEN"]
-    telegram_chat_id = CONFIG["TELEGRAM_CHAT_ID"]
+【来源新闻】
+{news_title}
+来源: {news_source}
 
-    update_info_to_send = update_info if CONFIG["SHOW_VERSION_UPDATE"] else None
+【封面选项】
+{chr(10).join(f"- {opt}" for opt in cover_options)}
 
-    # 发送到飞书
-    if feishu_url:
-        results["feishu"] = send_to_feishu(
-            feishu_url, report_data, report_type, update_info_to_send, proxy_url, mode
-        )
+【标题选项】
+{chr(10).join(f"- {opt}" for opt in title_options)}
 
-    # 发送到钉钉
-    if dingtalk_url:
-        results["dingtalk"] = send_to_dingtalk(
-            dingtalk_url, report_data, report_type, update_info_to_send, proxy_url, mode
-        )
+【正文】
+{body}
 
-    # 发送到企业微信
-    if wework_url:
-        results["wework"] = send_to_wework(
-            wework_url, report_data, report_type, update_info_to_send, proxy_url, mode
-        )
-
-    # 发送到 Telegram
-    if telegram_token and telegram_chat_id:
-        results["telegram"] = send_to_telegram(
-            telegram_token,
-            telegram_chat_id,
-            report_data,
-            report_type,
-            update_info_to_send,
-            proxy_url,
-            mode,
-        )
+{ending}"""
+            
+            # 发送到飞书
+            if feishu_url:
+                results["feishu"] = send_text_to_feishu(feishu_url, message)
+            
+            # 发送到钉钉
+            if dingtalk_url:
+                results["dingtalk"] = send_text_to_dingtalk(dingtalk_url, message)
+            
+            # 发送到企业微信
+            if wework_url:
+                results["wework"] = send_text_to_wework(wework_url, message)
+            
+            # 发送到 Telegram
+            if telegram_token and telegram_chat_id:
+                results["telegram"] = send_text_to_telegram(telegram_token, telegram_chat_id, message)
+    
+    else:
+        # 没有AI生成的小红书文案，不发送任何通知
+        print("没有AI生成的小红书文案，跳过通知发送")
 
     if not results:
         print("未配置任何webhook URL，跳过通知发送")
