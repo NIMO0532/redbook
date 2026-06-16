@@ -1,386 +1,110 @@
 {
-  "generated_at": "2026-06-16T20:59:37.491060+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-06-17T02:03:13.973087+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 28,
+      "match_count": 9,
       "titles": [
         {
-          "title": "郭靖为什么要把女儿的名字取得跟妻子相似?",
-          "url": "https://www.zhihu.com/question/663010778",
-          "source": "知乎",
+          "title": "印尼一女子遭8米长蟒蛇缠绕活吞致死",
+          "url": "https://www.toutiao.com/trending/7651206284557844521/",
+          "source": "今日头条",
           "ranks": [
-            5
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时16分 ~ 20时10分]"
-        },
-        {
-          "title": "《家有儿女》的客厅为什么就能成为全家的中心？",
-          "url": "https://www.zhihu.com/question/2045195707540301705",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 20时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时01分]"
         },
         {
           "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
           "url": "https://www.toutiao.com/trending/7651547260879896585/",
           "source": "今日头条",
           "ranks": [
-            8,
-            7,
-            10,
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时26分 ~ 20时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时01分]"
         },
         {
-          "title": "女子囤金想买房结果亏了一套半房子",
-          "url": "https://www.toutiao.com/trending/7651873654158409769/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时13分 ~ 17时37分]"
-        },
-        {
-          "title": "海澜集团董事长回应女店员舍身救人",
-          "url": "https://www.toutiao.com/trending/7651841890183135258/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时13分 ~ 17时37分]"
-        },
-        {
-          "title": "女儿鼻孔塞进异物 爸爸嘴对嘴吹出",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%BC%BB%E5%AD%94%E5%A1%9E%E8%BF%9B%E5%BC%82%E7%89%A9+%E7%88%B8%E7%88%B8%E5%98%B4%E5%AF%B9%E5%98%B4%E5%90%B9%E5%87%BA",
+          "title": "成都女子家门口遇害案二审维持原判",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4",
           "source": "百度热搜",
           "ranks": [
-            21
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时13分 ~ 17时40分]"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时01分]"
         },
         {
-          "title": "女子骑粉色电动车被投放情趣用品",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E7%B2%89%E8%89%B2%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E6%8A%95%E6%94%BE%E6%83%85%E8%B6%A3%E7%94%A8%E5%93%81",
+          "title": "女子每天3杯奶茶 血液变乳白险丧命",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A93%E6%9D%AF%E5%A5%B6%E8%8C%B6+%E8%A1%80%E6%B6%B2%E5%8F%98%E4%B9%B3%E7%99%BD%E9%99%A9%E4%B8%A7%E5%91%BD",
           "source": "百度热搜",
           "ranks": [
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时13分 ~ 17时40分]"
-        },
-        {
-          "title": "女子乘电梯时被狗咬接种三针疫苗",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%98%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E7%8B%97%E5%92%AC%E6%8E%A5%E7%A7%8D%E4%B8%89%E9%92%88%E7%96%AB%E8%8B%97",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时13分 ~ 17时37分]"
-        },
-        {
-          "title": "韩国女球迷在墨西哥遭歧视",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 20时57分]"
-        },
-        {
-          "title": "女生每天都能遇到固定通勤搭子",
-          "url": "https://www.toutiao.com/trending/7651819733221834790/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时06分 ~ 20时57分]"
-        },
-        {
-          "title": "女子包的粽子被指像大摔炮",
-          "url": "https://www.toutiao.com/trending/7651482023852867627/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时07分 ~ 17时40分]"
-        },
-        {
-          "title": "女子玩手机憋尿3小时黄体破裂出血",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%86%8B%E5%B0%BF3%E5%B0%8F%E6%97%B6%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%87%BA%E8%A1%80",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 20时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时01分]"
         },
         {
           "title": "女子被困电梯获救时坠入井底身亡",
           "url": "https://www.toutiao.com/trending/7651601852219424822/",
           "source": "今日头条",
           "ranks": [
-            8,
-            27
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时06分 ~ 20时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时01分]"
         },
         {
-          "title": "女子被困电梯获救时坠入井底身亡",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E8%8E%B7%E6%95%91%E6%97%B6%E5%9D%A0%E5%85%A5%E4%BA%95%E5%BA%95%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时06分 ~ 20时57分]"
-        },
-        {
-          "title": "85花全员未入围百花奖女主",
-          "url": "https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%85%A8%E5%91%98%E6%9C%AA%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            15,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 17时40分]"
-        },
-        {
-          "title": "电影超级少女值得看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时08分 ~ 17时40分]"
-        },
-        {
-          "title": "巴西蹦极坠亡女子被发现时还活着",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%B9%A6%E6%9E%81%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E8%BF%98%E6%B4%BB%E7%9D%80%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 17时40分]"
-        },
-        {
-          "title": "丈母娘摇号能与女婿做邻居开心落泪",
-          "url": "https://www.toutiao.com/trending/7651442559878201387/",
+          "title": "女生每天都能遇到固定通勤搭子",
+          "url": "https://www.toutiao.com/trending/7651819733221834790/",
           "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 16时33分]"
-        },
-        {
-          "title": "女子被困电梯救援时坠落身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%95%91%E6%8F%B4%E6%97%B6%E5%9D%A0%E8%90%BD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时10分 ~ 20时57分]"
-        },
-        {
-          "title": "警方通报女子醉驾致2名环卫工死亡",
-          "url": "https://www.toutiao.com/trending/7651895220740558346/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 17时40分]"
-        },
-        {
-          "title": "内娱女演员什么时候高跟鞋自由",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%BC%94%E5%91%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%87%AA%E7%94%B1%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时57分]"
-        },
-        {
-          "title": "加拿大女子猛踢美洲狮救下自家山羊",
-          "url": "https://www.toutiao.com/trending/7651889696856227859/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时06分 ~ 20时10分]"
-        },
-        {
-          "title": "克里姆林宫：仍未确定美国总统特使威特科夫和特朗普女婿库什纳访问莫斯科的日期。",
-          "url": "https://flash.jin10.com/detail/20260616172551390800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时40分]"
-        },
-        {
-          "title": "81岁奶奶到武汉参加孙女毕业典礼",
-          "url": "https://www.toutiao.com/trending/7651836130682224676/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时06分 ~ 20时10分]"
-        },
-        {
-          "title": "小区电梯故障一女子坠亡家属发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E6%95%85%E9%9A%9C%E4%B8%80%E5%A5%B3%E5%AD%90%E5%9D%A0%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时28分]"
-        },
-        {
-          "title": "女子被困电梯30分钟获救时坠入井底",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF30%E5%88%86%E9%92%9F%E8%8E%B7%E6%95%91%E6%97%B6%E5%9D%A0%E5%85%A5%E4%BA%95%E5%BA%95%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "女子回忆母亲电梯逃生坠亡经过",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BF%86%E6%AF%8D%E4%BA%B2%E7%94%B5%E6%A2%AF%E9%80%83%E7%94%9F%E5%9D%A0%E4%BA%A1%E7%BB%8F%E8%BF%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "杨紫藏族少女妆",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%97%8F%E6%97%8F%E5%B0%91%E5%A5%B3%E5%A6%86&t=31&band_rank=26&Refer=top",
-          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时01分]"
+        },
+        {
+          "title": "内娱女演员什么时候高跟鞋自由",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%BC%94%E5%91%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%87%AA%E7%94%B1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆品 美妆 护肤品",
-      "match_count": 1,
-      "titles": [
+          "time_info": "02时01分"
+        },
         {
-          "title": "我的美妆宝藏大开箱",
-          "url": "https://www.douyin.com/hot/2535181",
-          "source": "抖音",
+          "title": "《家有儿女》的客厅为什么就能成为全家的中心？",
+          "url": "https://www.zhihu.com/question/2045195707540301705",
+          "source": "知乎",
           "ranks": [
-            29,
-            30
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时08分 ~ 17时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
         {
-          "title": "干将莫邪FMVP星传说皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B2%E5%B0%86%E8%8E%AB%E9%82%AAFMVP%E6%98%9F%E4%BC%A0%E8%AF%B4%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
+          "title": "韩国女球迷在墨西哥遭歧视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
+          "source": "贴吧",
           "ranks": [
-            18,
-            20
+            18
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时10分 ~ 20时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
         }
       ]
     }
