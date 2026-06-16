@@ -3612,21 +3612,9 @@ def send_to_webhooks(
 
 {ending}"""
             
-            # 发送到飞书
-            if feishu_url:
-                results["feishu"] = send_text_to_feishu(feishu_url, message)
-            
-            # 发送到钉钉
-            if dingtalk_url:
-                results["dingtalk"] = send_text_to_dingtalk(dingtalk_url, message)
-            
-            # 发送到企业微信
+            # 发送到企业微信（简单文本消息）
             if wework_url:
-                results["wework"] = send_text_to_wework(wework_url, message)
-            
-            # 发送到 Telegram
-            if telegram_token and telegram_chat_id:
-                results["telegram"] = send_text_to_telegram(telegram_token, telegram_chat_id, message)
+                results["wework"] = _send_simple_text_to_wework(wework_url, message)
     
     else:
         # 没有AI生成的小红书文案，不发送任何通知
@@ -3731,6 +3719,34 @@ def send_to_dingtalk(
             return False
     except Exception as e:
         print(f"钉钉通知发送出错 [{report_type}]：{e}")
+        return False
+
+
+def _send_simple_text_to_wework(webhook_url: str, text: str) -> bool:
+    """发送简单文本消息到企业微信"""
+    import requests
+    headers = {"Content-Type": "application/json"}
+    payload = {
+        "msgtype": "text",
+        "text": {
+            "content": text
+        }
+    }
+    try:
+        response = requests.post(webhook_url, headers=headers, json=payload, timeout=10)
+        if response.status_code == 200:
+            result = response.json()
+            if result.get("errcode") == 0:
+                print(f"企业微信文本消息发送成功")
+                return True
+            else:
+                print(f"企业微信文本消息发送失败: {result}")
+                return False
+        else:
+            print(f"企业微信文本消息发送失败，状态码: {response.status_code}")
+            return False
+    except Exception as e:
+        print(f"企业微信文本消息发送异常: {e}")
         return False
 
 
