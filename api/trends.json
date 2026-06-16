@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T02:03:13.973087+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-17T04:54:46.683974+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "印尼一女子遭8米长蟒蛇缠绕活吞致死",
@@ -15,30 +15,79 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 04时53分]"
         },
         {
           "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
           "url": "https://www.toutiao.com/trending/7651547260879896585/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 04时53分]"
         },
         {
           "title": "成都女子家门口遇害案二审维持原判",
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 04时53分]"
+        },
+        {
+          "title": "女生每天都能遇到固定通勤搭子",
+          "url": "https://www.toutiao.com/trending/7651819733221834790/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 04时53分]"
+        },
+        {
+          "title": "女子被困电梯获救时坠入井底身亡",
+          "url": "https://www.toutiao.com/trending/7651601852219424822/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 04时53分]"
+        },
+        {
+          "title": "内娱女演员什么时候高跟鞋自由",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%BC%94%E5%91%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%87%AA%E7%94%B1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时01分]"
+          "time_info": "[02时01分 ~ 04时53分]"
+        },
+        {
+          "title": "韩国女球迷在墨西哥遭歧视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "女子每天3杯奶茶 血液变乳白险丧命",
@@ -52,37 +101,15 @@
           "time_info": "[01时57分 ~ 02时01分]"
         },
         {
-          "title": "女子被困电梯获救时坠入井底身亡",
-          "url": "https://www.toutiao.com/trending/7651601852219424822/",
+          "title": "截瘫女子在医生帮助下重新站立走路",
+          "url": "https://www.toutiao.com/trending/7651118255175925779/",
           "source": "今日头条",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时01分]"
-        },
-        {
-          "title": "女生每天都能遇到固定通勤搭子",
-          "url": "https://www.toutiao.com/trending/7651819733221834790/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时01分]"
-        },
-        {
-          "title": "内娱女演员什么时候高跟鞋自由",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%BC%94%E5%91%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%87%AA%E7%94%B1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "[04时50分 ~ 04时53分]"
         },
         {
           "title": "《家有儿女》的客厅为什么就能成为全家的中心？",
@@ -91,18 +118,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "韩国女球迷在墨西哥遭歧视",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
