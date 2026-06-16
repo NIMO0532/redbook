@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-16T17:36:45.603726+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-06-16T17:41:38.900366+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "郭靖为什么要把女儿的名字取得跟妻子相似?",
+          "url": "https://www.zhihu.com/question/663010778",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 17时40分]"
+        },
         {
           "title": "女子囤金想买房结果亏了一套半房子",
           "url": "https://www.toutiao.com/trending/7651873654158409769/",
@@ -17,8 +28,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时13分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[16时13分 ~ 17时37分]"
         },
         {
           "title": "海澜集团董事长回应女店员舍身救人",
@@ -30,8 +41,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时13分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[16时13分 ~ 17时37分]"
         },
         {
           "title": "女儿鼻孔塞进异物 爸爸嘴对嘴吹出",
@@ -41,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时13分 ~ 17时35分]"
+          "appearance_count": 12,
+          "time_info": "[16时13分 ~ 17时40分]"
         },
         {
           "title": "女子骑粉色电动车被投放情趣用品",
@@ -52,8 +63,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时13分 ~ 17时35分]"
+          "appearance_count": 12,
+          "time_info": "[16时13分 ~ 17时40分]"
         },
         {
           "title": "女子乘电梯时被狗咬接种三针疫苗",
@@ -65,19 +76,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时13分 ~ 17时35分]"
-        },
-        {
-          "title": "郭靖为什么要把女儿的名字取得跟妻子相似?",
-          "url": "https://www.zhihu.com/question/663010778",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[16时13分 ~ 17时37分]"
         },
         {
           "title": "女子包的粽子被指像大摔炮",
@@ -85,11 +85,24 @@
           "source": "今日头条",
           "ranks": [
             8,
-            9
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时07分 ~ 17时40分]"
+        },
+        {
+          "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
+          "url": "https://www.toutiao.com/trending/7651547260879896585/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时07分 ~ 17时35分]"
+          "time_info": "[17时26分 ~ 17时40分]"
         },
         {
           "title": "《家有儿女》的客厅为什么就能成为全家的中心？",
@@ -100,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 17时40分]"
         },
         {
           "title": "85花全员未入围百花奖女主",
@@ -114,8 +127,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 17时40分]"
         },
         {
           "title": "韩国女球迷在墨西哥遭歧视",
@@ -126,19 +139,33 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 17时40分]"
         },
         {
-          "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
-          "url": "https://www.toutiao.com/trending/7651547260879896585/",
-          "source": "今日头条",
+          "title": "电影超级少女值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
+            7,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时26分 ~ 17时35分]"
+          "time_info": "[17时08分 ~ 17时40分]"
+        },
+        {
+          "title": "巴西蹦极坠亡女子被发现时还活着",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%B9%A6%E6%9E%81%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E8%BF%98%E6%B4%BB%E7%9D%80%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时40分]"
         },
         {
           "title": "丈母娘摇号能与女婿做邻居开心落泪",
@@ -152,29 +179,27 @@
           "time_info": "[16时13分 ~ 16时33分]"
         },
         {
-          "title": "电影超级少女值得看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "警方通报女子醉驾致2名环卫工死亡",
+          "url": "https://www.toutiao.com/trending/7651895220740558346/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8
+            30,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时08分 ~ 17时35分]"
+          "time_info": "[17时07分 ~ 17时40分]"
         },
         {
-          "title": "巴西蹦极坠亡女子被发现时还活着",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%B9%A6%E6%9E%81%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E8%BF%98%E6%B4%BB%E7%9D%80%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "克里姆林宫：仍未确定美国总统特使威特科夫和特朗普女婿库什纳访问莫斯科的日期。",
+          "url": "https://flash.jin10.com/detail/20260616172551390800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            17,
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时35分]"
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时40分]"
         },
         {
           "title": "小区电梯故障一女子坠亡家属发声",
@@ -187,28 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时08分 ~ 17时28分]"
-        },
-        {
-          "title": "警方通报女子醉驾致2名环卫工死亡",
-          "url": "https://www.toutiao.com/trending/7651895220740558346/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
-          "title": "克里姆林宫：仍未确定美国总统特使威特科夫和特朗普女婿库什纳访问莫斯科的日期。",
-          "url": "https://flash.jin10.com/detail/20260616172551390800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "女子被困电梯30分钟获救时坠入井底",
@@ -231,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "女子玩手机憋尿3小时黄体破裂出血",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%86%8B%E5%B0%BF3%E5%B0%8F%E6%97%B6%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%87%BA%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
@@ -247,8 +261,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 17时40分]"
         }
       ]
     }
