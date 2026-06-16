@@ -1964,13 +1964,16 @@ def count_word_frequency(
 
     stats.sort(key=lambda x: x["count"], reverse=True)
 
-    # 如果有AI生成的文案，添加到返回结果中
+    # 如果有AI生成的文案，确保它被添加到stats中
+    # 注意：如果所有词组的count都为0但有AI文案，需要创建专门的条目
     if ai_copywriting:
-        # 将文案添加到stats的第一个元素中，或者创建一个专门的条目
-        if stats:
-            stats[0]["ai_copywriting"] = ai_copywriting
-        else:
-            stats.append({
+        has_ai_copywriting_entry = any(
+            "ai_copywriting" in stat and stat["ai_copywriting"]
+            for stat in stats
+        )
+        if not has_ai_copywriting_entry:
+            # 创建一个专门包含AI文案的统计条目
+            stats.insert(0, {
                 "word": "AI文案",
                 "count": 0,
                 "titles": [],

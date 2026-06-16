@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T16:35:27.728961+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-06-16T17:08:20.685883+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "郭靖为什么要把女儿的名字取得跟妻子相似?",
@@ -15,30 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时08分]"
         },
         {
           "title": "女子囤金想买房结果亏了一套半房子",
           "url": "https://www.toutiao.com/trending/7651873654158409769/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 17时08分]"
         },
         {
           "title": "海澜集团董事长回应女店员舍身救人",
           "url": "https://www.toutiao.com/trending/7651841890183135258/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 17时08分]"
         },
         {
           "title": "女儿鼻孔塞进异物 爸爸嘴对嘴吹出",
@@ -48,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 17时08分]"
         },
         {
           "title": "女子骑粉色电动车被投放情趣用品",
@@ -59,8 +61,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 17时08分]"
+        },
+        {
+          "title": "女子乘电梯时被狗咬接种三针疫苗",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%98%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E7%8B%97%E5%92%AC%E6%8E%A5%E7%A7%8D%E4%B8%89%E9%92%88%E7%96%AB%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 17时08分]"
         },
         {
           "title": "丈母娘摇号能与女婿做邻居开心落泪",
@@ -74,26 +88,29 @@
           "time_info": "[16时13分 ~ 16时33分]"
         },
         {
-          "title": "女子乘电梯时被狗咬接种三针疫苗",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%98%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E7%8B%97%E5%92%AC%E6%8E%A5%E7%A7%8D%E4%B8%89%E9%92%88%E7%96%AB%E8%8B%97",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 16时33分]"
-        },
-        {
           "title": "《家有儿女》的客厅为什么就能成为全家的中心？",
           "url": "https://www.zhihu.com/question/2045195707540301705",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时08分]"
+        },
+        {
+          "title": "85花全员未入围百花奖女主",
+          "url": "https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%85%A8%E5%91%98%E6%9C%AA%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时08分]"
         },
         {
           "title": "韩国女球迷在墨西哥遭歧视",
@@ -103,20 +120,41 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时08分]"
         },
         {
-          "title": "85花全员未入围百花奖女主",
-          "url": "https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%85%A8%E5%91%98%E6%9C%AA%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "女子包的粽子被指像大摔炮",
+          "url": "https://www.toutiao.com/trending/7651482023852867627/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时33分]"
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "警方通报女子醉驾致2名环卫工死亡",
+          "url": "https://www.toutiao.com/trending/7651895220740558346/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "电影超级少女值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "女子被困电梯30分钟获救时坠入井底",
@@ -125,7 +163,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -136,7 +174,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -150,6 +188,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "小区电梯故障一女子坠亡家属发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E6%95%85%E9%9A%9C%E4%B8%80%E5%A5%B3%E5%AD%90%E5%9D%A0%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆品 美妆 护肤品",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我的美妆宝藏大开箱",
+          "url": "https://www.douyin.com/hot/2535181",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     }
