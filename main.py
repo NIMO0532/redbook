@@ -353,7 +353,7 @@ class OpenAICompatibleClient:
 
 
 class AINewsAnalyzer:
-    """AI新闻分析器，支持主API和备用API"""
+    """AI新闻分析器，使用SiliconFlow作为主API"""
 
     def __init__(self):
         self.config = CONFIG.get("ALIYUN_QWEN", {})
@@ -363,35 +363,48 @@ class AINewsAnalyzer:
         self.backup_client = None
         self.current_client = None
         
-        # 初始化备用API客户端（SiliconFlow）- 作为主API使用
-        backup_enabled = self.backup_config.get("ENABLED", False)
-        backup_api_key = self.backup_config.get("API_KEY", "")
-        print(f"==== SiliconFlow API配置检查 ====")
-        print(f"  enabled: {backup_enabled}")
-        print(f"  has_api_key: {bool(backup_api_key)}")
-        print(f"  api_key_length: {len(backup_api_key) if backup_api_key else 0}")
-        print(f"  model: {self.backup_config.get('MODEL', '未配置')}")
-        print(f"  base_url: {self.backup_config.get('BASE_URL', '未配置')}")
+        # SiliconFlow作为主API
+        print("==== AI API初始化 ====")
+        print(f"  阿里云 ENABLED: {self.enabled}, API_KEY: {bool(self.config.get('API_KEY'))}")
+        print(f"  SiliconFlow ENABLED: {self.backup_config.get('ENABLED')}, API_KEY: {bool(self.backup_config.get('API_KEY'))}")
         
-        if backup_enabled and backup_api_key:
+        # 优先使用SiliconFlow
+        siliconflow_key = self.backup_config.get("API_KEY", "")
+        if siliconflow_key:
             OpenAICompatibleClient.reset_consecutive_failures()
             self.client = OpenAICompatibleClient(
-                api_key=backup_api_key,
-                model=self.backup_config["MODEL"],
-                max_tokens=self.backup_config["MAX_TOKENS"],
-                temperature=self.backup_config["TEMPERATURE"],
-                base_url=self.backup_config["BASE_URL"],
+                api_key=siliconflow_key,
+                model=self.backup_config.get("MODEL", "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"),
+                max_tokens=self.backup_config.get("MAX_TOKENS", 2000),
+                temperature=self.backup_config.get("TEMPERATURE", 0.7),
+                base_url=self.backup_config.get("BASE_URL", "https://api.siliconflow.cn/v1"),
                 provider_name="SiliconFlow"
             )
             self.current_client = self.client
-            api_key_display = backup_api_key[:4] + "..." + backup_api_key[-4:] if len(backup_api_key) > 8 else backup_api_key
-            print(f"  ✅ SiliconFlow API已初始化为主API，模型: {self.backup_config['MODEL']}, API Key: {api_key_display}")
+            key_display = siliconflow_key[:4] + "..." + siliconflow_key[-4:] if len(siliconflow_key) > 8 else siliconflow_key
+            print(f"  ✅ SiliconFlow已初始化为主API")
+            print(f"     模型: {self.backup_config.get('MODEL')}")
+            print(f"     API Key: {key_display}")
         else:
-            print(f"  ❌ SiliconFlow API未初始化")
-            if not backup_enabled:
-                print(f"    原因: API未启用 (enabled=false)")
-            if not backup_api_key:
-                print(f"    原因: 未配置API Key (环境变量 SIJILIUDONG_API_KEY 不存在)")
+            print(f"  ⚠️ SiliconFlow API Key为空，尝试使用阿里云")
+            # Fallback到阿里云
+            aliyun_key = self.config.get("API_KEY", "")
+            if aliyun_key and self.enabled:
+                self.client = OpenAICompatibleClient(
+                    api_key=aliyun_key,
+                    model=self.config.get("MODEL", "qwen-plus"),
+                    max_tokens=self.config.get("MAX_TOKENS", 2000),
+                    temperature=self.config.get("TEMPERATURE", 0.7),
+                    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+                    provider_name="阿里云"
+                )
+                self.current_client = self.client
+                key_display = aliyun_key[:4] + "..." + aliyun_key[-4:] if len(aliyun_key) > 8 else aliyun_key
+                print(f"  ✅ 阿里云已初始化为备用API")
+                print(f"     模型: {self.config.get('MODEL')}")
+                print(f"     API Key: {key_display}")
+            else:
+                print(f"  ❌ 没有可用的AI API")
 
     def is_available(self) -> bool:
         """检查AI功能是否可用（包括备用API）"""
