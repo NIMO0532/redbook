@@ -3994,16 +3994,24 @@ class NewsAnalyzer:
             self, stats: List[Dict], new_titles: Optional[Dict] = None
     ) -> bool:
         """检查是否有有效的新闻内容"""
+        # 检查是否有AI生成的小红书文案
+        has_ai_copywriting = any("ai_copywriting" in stat and stat["ai_copywriting"] for stat in stats)
+        
         if self.report_mode in ["incremental", "current"]:
-            # 增量模式和current模式下，只要stats有内容就说明有匹配的新闻
-            return any(stat["count"] > 0 for stat in stats)
+            # 增量模式和current模式下，只要stats有内容或AI文案就说明有匹配的新闻
+            result = any(stat["count"] > 0 for stat in stats) or has_ai_copywriting
         else:
-            # 当日汇总模式下，检查是否有匹配的频率词新闻或新增新闻
+            # 当日汇总模式下，检查是否有匹配的频率词新闻或新增新闻或AI文案
             has_matched_news = any(stat["count"] > 0 for stat in stats)
             has_new_news = bool(
                 new_titles and any(len(titles) > 0 for titles in new_titles.values())
             )
-            return has_matched_news or has_new_news
+            result = has_matched_news or has_new_news or has_ai_copywriting
+        
+        print(f"[_has_valid_content] report_mode={self.report_mode}, stats长度={len(stats)}, result={result}")
+        if stats:
+            print(f"[_has_valid_content] stats[0]键={list(stats[0].keys())}, count={stats[0].get('count', 0)}, has_ai_copywriting={has_ai_copywriting}")
+        return result
 
     def _load_analysis_data(
             self,
