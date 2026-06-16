@@ -4213,7 +4213,7 @@ class NewsAnalyzer:
         return html_file
 
     def _generate_summary_html(self, mode: str = "daily") -> Optional[str]:
-        """生成汇总HTML"""
+        """生成汇总HTML（有AI文案时也发送通知）"""
         summary_type = "当前榜单汇总" if mode == "current" else "当日汇总"
         print(f"生成{summary_type}HTML...")
 
@@ -4227,7 +4227,7 @@ class NewsAnalyzer:
         )
 
         # 运行分析流水线
-        _, html_file = self._run_analysis_pipeline(
+        stats, html_file = self._run_analysis_pipeline(
             all_results,
             mode,
             title_info,
@@ -4239,6 +4239,25 @@ class NewsAnalyzer:
         )
 
         print(f"{summary_type}HTML已生成: {html_file}")
+
+        # 如果有AI生成的小红书文案，发送通知
+        has_ai_copywriting = any(
+            "ai_copywriting" in stat and stat["ai_copywriting"]
+            for stat in stats
+        )
+        if has_ai_copywriting and self._has_webhook_configured():
+            print(f"检测到AI文案，发送{summary_type}通知...")
+            send_to_webhooks(
+                stats,
+                [],
+                summary_type,
+                new_titles,
+                id_to_name,
+                self.update_info,
+                self.proxy_url,
+                mode=mode,
+            )
+
         return html_file
 
     def _initialize_and_check_config(self) -> None:
