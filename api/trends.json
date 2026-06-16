@@ -1,45 +1,134 @@
 {
-  "generated_at": "2026-06-10T13:18:36.751651+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-06-16T16:17:36.265456+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
+      "keyword_group": "女",
+      "match_count": 11,
       "titles": [
         {
-          "title": "皮肤好是可以洗出来的",
-          "url": "https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E5%A5%BD%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%B4%97%E5%87%BA%E6%9D%A5%E7%9A%84&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "郭靖为什么要把女儿的名字取得跟妻子相似?",
+          "url": "https://www.zhihu.com/question/663010778",
+          "source": "知乎",
           "ranks": [
-            28,
-            26
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "女子囤金想买房结果亏了一套半房子",
+          "url": "https://www.toutiao.com/trending/7651873654158409769/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "审美",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时16分]"
+        },
         {
-          "title": "“碳水脸”是一种审美霸凌的伪概念",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A2%B3%E6%B0%B4%E8%84%B8%E2%80%9D%E6%98%AF%E4%B8%80%E7%A7%8D%E5%AE%A1%E7%BE%8E%E9%9C%B8%E5%87%8C%E7%9A%84%E4%BC%AA%E6%A6%82%E5%BF%B5",
+          "title": "海澜集团董事长回应女店员舍身救人",
+          "url": "https://www.toutiao.com/trending/7651841890183135258/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时16分]"
+        },
+        {
+          "title": "女儿鼻孔塞进异物 爸爸嘴对嘴吹出",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%BC%BB%E5%AD%94%E5%A1%9E%E8%BF%9B%E5%BC%82%E7%89%A9+%E7%88%B8%E7%88%B8%E5%98%B4%E5%AF%B9%E5%98%B4%E5%90%B9%E5%87%BA",
           "source": "百度热搜",
           "ranks": [
-            24,
-            18,
-            26
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时16分]"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时16分]"
+        },
+        {
+          "title": "女子骑粉色电动车被投放情趣用品",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E7%B2%89%E8%89%B2%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E6%8A%95%E6%94%BE%E6%83%85%E8%B6%A3%E7%94%A8%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时16分]"
+        },
+        {
+          "title": "丈母娘摇号能与女婿做邻居开心落泪",
+          "url": "https://www.toutiao.com/trending/7651442559878201387/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时16分]"
+        },
+        {
+          "title": "女子乘电梯时被狗咬接种三针疫苗",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%98%E7%94%B5%E6%A2%AF%E6%97%B6%E8%A2%AB%E7%8B%97%E5%92%AC%E6%8E%A5%E7%A7%8D%E4%B8%89%E9%92%88%E7%96%AB%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时16分]"
+        },
+        {
+          "title": "《家有儿女》的客厅为什么就能成为全家的中心？",
+          "url": "https://www.zhihu.com/question/2045195707540301705",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "韩国女球迷在墨西哥遭歧视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "85花全员未入围百花奖女主",
+          "url": "https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%85%A8%E5%91%98%E6%9C%AA%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "杨紫藏族少女妆",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%97%8F%E6%97%8F%E5%B0%91%E5%A5%B3%E5%A6%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     }
-  ],
-  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
+  ]
 }
