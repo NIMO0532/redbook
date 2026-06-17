@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T06:52:47.756907+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-06-17T08:14:26.322639+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
@@ -14,11 +14,26 @@
           "ranks": [
             16,
             14,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 08时13分]"
+        },
+        {
+          "title": "女生每天都能遇到固定通勤搭子",
+          "url": "https://www.toutiao.com/trending/7651819733221834790/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23,
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 08时13分]"
         },
         {
           "title": "印尼一女子遭8米长蟒蛇缠绕活吞致死",
@@ -45,17 +60,29 @@
           "time_info": "[01时57分 ~ 06时51分]"
         },
         {
-          "title": "女生每天都能遇到固定通勤搭子",
-          "url": "https://www.toutiao.com/trending/7651819733221834790/",
+          "title": "女子被困电梯获救时坠入井底身亡",
+          "url": "https://www.toutiao.com/trending/7651601852219424822/",
           "source": "今日头条",
           "ranks": [
-            26,
-            23,
-            27
+            25,
+            24,
+            23
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时51分]"
+          "time_info": "[01时57分 ~ 08时13分]"
+        },
+        {
+          "title": "韩国女球迷在墨西哥遭歧视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 08时13分]"
         },
         {
           "title": "女子每天3杯奶茶 血液变乳白险丧命",
@@ -70,16 +97,16 @@
           "time_info": "[01时57分 ~ 06时51分]"
         },
         {
-          "title": "女子被困电梯获救时坠入井底身亡",
-          "url": "https://www.toutiao.com/trending/7651601852219424822/",
+          "title": "女儿鼻孔塞异物爸爸嘴对嘴吹出",
+          "url": "https://www.toutiao.com/trending/7651535488113803306/",
           "source": "今日头条",
           "ranks": [
-            25,
-            24
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时53分]"
+          "time_info": "[06时50分 ~ 08时13分]"
         },
         {
           "title": "内娱女演员什么时候高跟鞋自由",
@@ -95,27 +122,15 @@
           "time_info": "[02时01分 ~ 06时51分]"
         },
         {
-          "title": "韩国女球迷在墨西哥遭歧视",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
-          "source": "贴吧",
+          "title": "“成都27岁女子遇害案”二审维持原判：梁某滢死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33392654",
+          "source": "澎湃新闻",
           "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 06时51分]"
-        },
-        {
-          "title": "女儿鼻孔塞异物爸爸嘴对嘴吹出",
-          "url": "https://www.toutiao.com/trending/7651535488113803306/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时50分 ~ 06时51分]"
+          "time_info": "[08时11分 ~ 08时13分]"
         },
         {
           "title": "截瘫女子在医生帮助下重新站立走路",
@@ -138,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "女孩下体漏便两年用1400片卫生巾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8B%E4%BD%93%E6%BC%8F%E4%BE%BF%E4%B8%A4%E5%B9%B4%E7%94%A81400%E7%89%87%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         }
       ]
     },
@@ -152,7 +178,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         }
