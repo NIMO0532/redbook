@@ -383,11 +383,7 @@ class AINewsAnalyzer:
         Returns:
             筛选后的新闻列表，每条新闻可能添加ai_score和ai_reason字段
         """
-        if not self.is_available() or not self.config.get("ENABLE_NEWS_ANALYSIS"):
-            return news_list
-
-        filter_prompt = self.config.get("NEWS_FILTER_PROMPT", "")
-        if not filter_prompt:
+        if not self.is_available():
             return news_list
 
         try:
@@ -462,7 +458,7 @@ class AINewsAnalyzer:
 
     def generate_copywriting(self, news_list: List[Dict]) -> Optional[str]:
         """
-        为新闻生成文案
+        为新闻生成文案（此方法已废弃，请使用 XiaohongshuContentGenerator）
         
         Args:
             news_list: 新闻列表
@@ -470,11 +466,7 @@ class AINewsAnalyzer:
         Returns:
             生成的文案，失败返回None
         """
-        if not self.is_available() or not self.config.get("ENABLE_COPYWRITING"):
-            return None
-
-        copywriting_prompt = self.config.get("COPYWRITING_PROMPT", "")
-        if not copywriting_prompt:
+        if not self.is_available():
             return None
 
         try:
