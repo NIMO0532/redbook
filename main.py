@@ -207,7 +207,6 @@ def load_config():
     config["XIAOHONGSHU"] = {
         "ENABLED": xiaohongshu_config.get("enabled", True),
         "TARGET_AUDIENCE": xiaohongshu_config.get("target_audience", "18-34岁一二线城市高知女性"),
-        "NEWS_CATEGORIES": xiaohongshu_config.get("news_categories", []),
     }
 
     if config["XIAOHONGSHU"]["ENABLED"]:
