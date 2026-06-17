@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-06-17T16:05:17.153237+08:00",
-  "total_titles_processed": 1062,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-06-17T17:01:03.250331+08:00",
+  "total_titles_processed": 1177,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "“成都27岁女子遇害案”二审维持原判：梁某滢死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33392654",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时11分 ~ 16时02分]"
-        },
         {
           "title": "女子“怪病”缠身10年 竟是因为情绪",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E2%80%9C%E6%80%AA%E7%97%85%E2%80%9D%E7%BC%A0%E8%BA%AB10%E5%B9%B4+%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%83%85%E7%BB%AA",
@@ -29,11 +14,50 @@
           "ranks": [
             23,
             8,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[14时03分 ~ 16时56分]"
+        },
+        {
+          "title": "2人造谣“有人驾车抢女学生”被拘",
+          "url": "https://www.baidu.com/s?wd=2%E4%BA%BA%E9%80%A0%E8%B0%A3%E2%80%9C%E6%9C%89%E4%BA%BA%E9%A9%BE%E8%BD%A6%E6%8A%A2%E5%A5%B3%E5%AD%A6%E7%94%9F%E2%80%9D%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时03分 ~ 16时56分]"
+        },
+        {
+          "title": "14岁女孩误把10厘米肿瘤当正常发育",
+          "url": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E6%8A%8A10%E5%8E%98%E7%B1%B3%E8%82%BF%E7%98%A4%E5%BD%93%E6%AD%A3%E5%B8%B8%E5%8F%91%E8%82%B2",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时03分 ~ 16时56分]"
+        },
+        {
+          "title": "“成都27岁女子遇害案”二审维持原判：梁某滢死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33392654",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时11分 ~ 16时56分]"
         },
         {
           "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
@@ -48,29 +72,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时57分 ~ 08时13分]"
-        },
-        {
-          "title": "2人造谣“有人驾车抢女学生”被拘",
-          "url": "https://www.baidu.com/s?wd=2%E4%BA%BA%E9%80%A0%E8%B0%A3%E2%80%9C%E6%9C%89%E4%BA%BA%E9%A9%BE%E8%BD%A6%E6%8A%A2%E5%A5%B3%E5%AD%A6%E7%94%9F%E2%80%9D%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 16时02分]"
-        },
-        {
-          "title": "14岁女孩误把10厘米肿瘤当正常发育",
-          "url": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E6%8A%8A10%E5%8E%98%E7%B1%B3%E8%82%BF%E7%98%A4%E5%BD%93%E6%AD%A3%E5%B8%B8%E5%8F%91%E8%82%B2",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 16时02分]"
         },
         {
           "title": "女生每天都能遇到固定通勤搭子",
@@ -100,19 +101,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 16时02分]"
-        },
-        {
-          "title": "成都女子家门口遇害案二审维持原判",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时51分]"
         },
         {
           "title": "女大学生坠亡35岁男友已婚有两孩",
@@ -187,6 +175,17 @@
           "time_info": "[14时07分 ~ 15时24分]"
         },
         {
+          "title": "女孩被骗两万 骗子称不做就枪毙奶奶",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%AA%97%E4%B8%A4%E4%B8%87+%E9%AA%97%E5%AD%90%E7%A7%B0%E4%B8%8D%E5%81%9A%E5%B0%B1%E6%9E%AA%E6%AF%99%E5%A5%B6%E5%A5%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时56分]"
+        },
+        {
           "title": "截瘫女子在医生帮助下重新站立走路",
           "url": "https://www.toutiao.com/trending/7651118255175925779/",
           "source": "今日头条",
@@ -209,6 +208,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "林俊杰女友七七举报网友",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E4%B8%BE%E6%8A%A5%E7%BD%91%E5%8F%8B%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "女孩下体漏便两年用1400片卫生巾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8B%E4%BD%93%E6%BC%8F%E4%BE%BF%E4%B8%A4%E5%B9%B4%E7%94%A81400%E7%89%87%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -218,24 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "得了皮肤病一定不要自以为是",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%97%E4%BA%86%E7%9A%AE%E8%82%A4%E7%97%85%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%A6%81%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 15时24分]"
         }
       ]
     },
