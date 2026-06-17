@@ -389,6 +389,15 @@ class AINewsAnalyzer:
         try:
             print("开始使用AI分析新闻...")
             
+            # 默认新闻分析提示词
+            filter_prompt = """你是一个专业的新闻筛选助手，擅长分析新闻的价值和适合度。请根据以下标准筛选新闻：
+1. 是否适合18-34岁一二线城市高知女性阅读
+2. 是否有足够的话题性和讨论价值
+3. 是否包含女性视角或与女性相关的内容
+4. 是否适合作为小红书文案的素材
+
+请评估每条新闻的价值，并决定是否保留。"""
+            
             # 构建新闻列表文本
             news_text = "\n".join([
                 f"{i+1}. [{news.get('source', '未知')}] {news.get('title', '')}"
@@ -422,12 +431,17 @@ class AINewsAnalyzer:
 
             # 解析JSON结果
             import json
+            import re
             try:
                 # 尝试提取JSON部分
                 json_start = result.find("{")
                 json_end = result.rfind("}") + 1
                 if json_start >= 0 and json_end > json_start:
                     json_str = result[json_start:json_end]
+                    
+                    # 清理控制字符（换行、制表符等）
+                    json_str = re.sub(r'[\r\n\t]+', ' ', json_str)
+                    
                     analysis_result = json.loads(json_str)
                     
                     # 应用筛选结果
@@ -703,6 +717,10 @@ class XiaohongshuContentGenerator:
                         json_end = clean_response.rfind("}") + 1
                         if json_start >= 0 and json_end > json_start:
                             json_str = clean_response[json_start:json_end]
+                            
+                            # 清理控制字符（保留字符串内的换行符，但移除非法字符）
+                            json_str = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', json_str)
+                            
                             result = json.loads(json_str)
                             print("小红书文案AI生成完成")
                     except json.JSONDecodeError as e:
