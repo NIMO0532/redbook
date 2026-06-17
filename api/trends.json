@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-06-17T17:01:03.250331+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-06-17T19:54:54.858324+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 18,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "“成都27岁女子遇害案”二审维持原判：梁某滢死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33392654",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            14,
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[08时11分 ~ 19时47分]"
+        },
         {
           "title": "女子“怪病”缠身10年 竟是因为情绪",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E2%80%9C%E6%80%AA%E7%97%85%E2%80%9D%E7%BC%A0%E8%BA%AB10%E5%B9%B4+%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%83%85%E7%BB%AA",
@@ -33,47 +48,6 @@
           "time_info": "[14时03分 ~ 16时56分]"
         },
         {
-          "title": "14岁女孩误把10厘米肿瘤当正常发育",
-          "url": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E6%8A%8A10%E5%8E%98%E7%B1%B3%E8%82%BF%E7%98%A4%E5%BD%93%E6%AD%A3%E5%B8%B8%E5%8F%91%E8%82%B2",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时03分 ~ 16时56分]"
-        },
-        {
-          "title": "“成都27岁女子遇害案”二审维持原判：梁某滢死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33392654",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时11分 ~ 16时56分]"
-        },
-        {
-          "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
-          "url": "https://www.toutiao.com/trending/7651547260879896585/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            14,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 08时13分]"
-        },
-        {
           "title": "女生每天都能遇到固定通勤搭子",
           "url": "https://www.toutiao.com/trending/7651819733221834790/",
           "source": "今日头条",
@@ -88,19 +62,15 @@
           "time_info": "[01时57分 ~ 08时13分]"
         },
         {
-          "title": "韩国女球迷在墨西哥遭歧视",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
+          "title": "女子被困电梯救援时坠落身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355238&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%95%91%E6%8F%B4%E6%97%B6%E5%9D%A0%E8%90%BD%E8%BA%AB%E4%BA%A1",
           "source": "贴吧",
           "ranks": [
-            18,
-            19,
-            24,
-            28,
-            30
+            2
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "女大学生坠亡35岁男友已婚有两孩",
@@ -127,31 +97,6 @@
           "time_info": "[01时57分 ~ 06时51分]"
         },
         {
-          "title": "女儿鼻孔塞异物爸爸嘴对嘴吹出",
-          "url": "https://www.toutiao.com/trending/7651535488113803306/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时50分 ~ 08时13分]"
-        },
-        {
-          "title": "内娱女演员什么时候高跟鞋自由",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%BC%94%E5%91%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%87%AA%E7%94%B1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 06时51分]"
-        },
-        {
           "title": "女子晒妈妈包粽子用的米圆润似珍珠",
           "url": "https://www.toutiao.com/trending/7651605660299771910/",
           "source": "今日头条",
@@ -161,6 +106,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 14时07分]"
+        },
+        {
+          "title": "女子让2岁树蛙每晚帮自己盘核桃",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%AE%A92%E5%B2%81%E6%A0%91%E8%9B%99%E6%AF%8F%E6%99%9A%E5%B8%AE%E8%87%AA%E5%B7%B1%E7%9B%98%E6%A0%B8%E6%A1%83",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时47分]"
         },
         {
           "title": "石凯曾甩了谈了多年的素人女友",
@@ -186,6 +142,17 @@
           "time_info": "[16时53分 ~ 16时56分]"
         },
         {
+          "title": "13岁女孩被大伯起诉争房产",
+          "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%A4%A7%E4%BC%AF%E8%B5%B7%E8%AF%89%E4%BA%89%E6%88%BF%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时47分]"
+        },
+        {
           "title": "截瘫女子在医生帮助下重新站立走路",
           "url": "https://www.toutiao.com/trending/7651118255175925779/",
           "source": "今日头条",
@@ -197,28 +164,6 @@
           "time_info": "[04时50分 ~ 04时53分]"
         },
         {
-          "title": "《家有儿女》的客厅为什么就能成为全家的中心？",
-          "url": "https://www.zhihu.com/question/2045195707540301705",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "林俊杰女友七七举报网友",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E4%B8%BE%E6%8A%A5%E7%BD%91%E5%8F%8B%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
           "title": "女孩下体漏便两年用1400片卫生巾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8B%E4%BD%93%E6%BC%8F%E4%BE%BF%E4%B8%A4%E5%B9%B4%E7%94%A81400%E7%89%87%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -228,23 +173,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "特斯拉车顶维权女车主被判诽谤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E9%A1%B6%E7%BB%B4%E6%9D%83%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%88%A4%E8%AF%BD%E8%B0%A4%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "爷爷去世后13岁女孩被大伯起诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%90%8E13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%A4%A7%E4%BC%AF%E8%B5%B7%E8%AF%89%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
     {
-      "keyword_group": "审美",
+      "keyword_group": "脑机接口",
       "match_count": 1,
       "titles": [
         {
-          "title": "都在说电影行业低迷，究竟是短视频、短剧抢占用户，还是观众的审美阈值变高，不再为宣发物料、演员名气买单？",
-          "url": "https://www.zhihu.com/question/2049483220899426511",
-          "source": "知乎",
+          "title": "上交所：战略性新兴产业领域二级行业拟新增“量子”、“机器人”、“氢能”、“脑机接口、生物药品、基因工程药物和疫苗、生物医学工程”等",
+          "url": "https://wallstreetcn.com/livenews/3120857",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "16时56分"
         }
       ]
     }
