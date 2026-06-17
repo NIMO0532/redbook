@@ -155,20 +155,6 @@ def load_config():
     else:
         print("未配置任何 Webhook")
 
-    # 加载阿里云通义千问配置
-    aliyun_config = config_data.get("aliyun_qwen", {})
-    config["ALIYUN_QWEN"] = {
-        "ENABLED": aliyun_config.get("enabled", False),
-        "API_KEY": os.environ.get("ALIYUN_API_KEY", "").strip() or aliyun_config.get("api_key", ""),
-        "MODEL": aliyun_config.get("model"),  # 必须在 config.yaml 中明确配置
-        "MAX_TOKENS": aliyun_config.get("max_tokens", 2000),
-        "TEMPERATURE": aliyun_config.get("temperature", 0.7),
-        "ENABLE_NEWS_ANALYSIS": aliyun_config.get("enable_news_analysis", False),
-        "ENABLE_COPYWRITING": aliyun_config.get("enable_copywriting", False),
-        "NEWS_FILTER_PROMPT": aliyun_config.get("news_filter_prompt", ""),
-        "COPYWRITING_PROMPT": aliyun_config.get("copywriting_prompt", ""),
-    }
-    
     # 加载备用API配置（SiliconFlow）
     backup_config = config_data.get("backup_api", {})
     config["BACKUP_API"] = {
@@ -180,25 +166,16 @@ def load_config():
         "TEMPERATURE": backup_config.get("temperature", 0.7),
     }
 
-    if config["ALIYUN_QWEN"]["ENABLED"]:
-        print("阿里云通义千问AI功能已启用")
-        
-        # 检查模型配置
-        if not config["ALIYUN_QWEN"]["MODEL"]:
-            print("  ⚠️ 警告：未在 config.yaml 中配置模型名称，AI功能将不可用")
-            config["ALIYUN_QWEN"]["ENABLED"] = False
-        elif config["ALIYUN_QWEN"]["API_KEY"]:
-            print(f"  模型: {config['ALIYUN_QWEN']['MODEL']}")
-            # 调试：显示API Key的前几位和后几位，确保加载成功
-            api_key = config["ALIYUN_QWEN"]["API_KEY"]
+    # 检查SiliconFlow API配置
+    if config["BACKUP_API"]["ENABLED"]:
+        print("SiliconFlow AI功能已启用")
+        if config["BACKUP_API"]["API_KEY"]:
+            print(f"  模型: {config['BACKUP_API']['MODEL']}")
+            api_key = config["BACKUP_API"]["API_KEY"]
             if len(api_key) > 8:
                 print(f"  API Key: {api_key[:4]}...{api_key[-4:]}")
             else:
                 print(f"  API Key: {api_key}")
-            if config["ALIYUN_QWEN"]["ENABLE_NEWS_ANALYSIS"]:
-                print("  新闻智能分析: 已启用")
-            if config["ALIYUN_QWEN"]["ENABLE_COPYWRITING"]:
-                print("  文案生成: 已启用")
         else:
             print("  ⚠️ 警告：未配置API Key，AI功能将不可用")
 
@@ -355,19 +332,14 @@ class AINewsAnalyzer:
     """AI新闻分析器，使用SiliconFlow作为主API"""
 
     def __init__(self):
-        self.config = CONFIG.get("ALIYUN_QWEN", {})
         self.backup_config = CONFIG.get("BACKUP_API", {})
-        self.enabled = self.config.get("ENABLED", False)
+        self.enabled = self.backup_config.get("ENABLED", False)
         self.client = None
-        self.backup_client = None
         self.current_client = None
         
-        # SiliconFlow作为主API
         print("==== AI API初始化 ====")
-        print(f"  阿里云 ENABLED: {self.enabled}, API_KEY: {bool(self.config.get('API_KEY'))}")
-        print(f"  SiliconFlow ENABLED: {self.backup_config.get('ENABLED')}, API_KEY: {bool(self.backup_config.get('API_KEY'))}")
+        print(f"  SiliconFlow ENABLED: {self.enabled}, API_KEY: {bool(self.backup_config.get('API_KEY'))}")
         
-        # 优先使用SiliconFlow
         siliconflow_key = self.backup_config.get("API_KEY", "")
         if siliconflow_key:
             OpenAICompatibleClient.reset_consecutive_failures()
@@ -381,61 +353,24 @@ class AINewsAnalyzer:
             )
             self.current_client = self.client
             key_display = siliconflow_key[:4] + "..." + siliconflow_key[-4:] if len(siliconflow_key) > 8 else siliconflow_key
-            print(f"  ✅ SiliconFlow已初始化为主API")
+            print(f"  ✅ SiliconFlow已初始化")
             print(f"     模型: {self.backup_config.get('MODEL')}")
             print(f"     API Key: {key_display}")
         else:
-            print(f"  ⚠️ SiliconFlow API Key为空，尝试使用阿里云")
-            # Fallback到阿里云
-            aliyun_key = self.config.get("API_KEY", "")
-            if aliyun_key and self.enabled:
-                self.client = OpenAICompatibleClient(
-                    api_key=aliyun_key,
-                    model=self.config.get("MODEL", "qwen-plus"),
-                    max_tokens=self.config.get("MAX_TOKENS", 2000),
-                    temperature=self.config.get("TEMPERATURE", 0.7),
-                    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
-                    provider_name="阿里云"
-                )
-                self.current_client = self.client
-                key_display = aliyun_key[:4] + "..." + aliyun_key[-4:] if len(aliyun_key) > 8 else aliyun_key
-                print(f"  ✅ 阿里云已初始化为备用API")
-                print(f"     模型: {self.config.get('MODEL')}")
-                print(f"     API Key: {key_display}")
-            else:
-                print(f"  ❌ 没有可用的AI API")
+            print(f"  ❌ SiliconFlow API Key为空，AI功能不可用")
 
     def is_available(self) -> bool:
-        """检查AI功能是否可用（包括备用API）"""
-        return self.enabled and (self.client is not None or self.backup_client is not None)
+        """检查AI功能是否可用"""
+        return self.enabled and self.client is not None
     
     def _try_switch_backup(self) -> bool:
-        """尝试切换到备用API"""
-        print(f"[切换尝试] backup_client存在: {bool(self.backup_client)}, current_client != backup_client: {self.current_client != self.backup_client if self.backup_client and self.current_client else 'N/A'}")
-        if self.backup_client and self.current_client != self.backup_client:
-            OpenAICompatibleClient.switch_provider("SiliconFlow")
-            self.current_client = self.backup_client
-            print("已切换到备用API(SiliconFlow)")
-            return True
-        elif self.backup_client and self.current_client == self.backup_client and OpenAICompatibleClient._consecutive_failures >= 3:
-            # 备用API也失败，强制重置并重试
-            OpenAICompatibleClient.reset_consecutive_failures()
-            print("备用API也连续失败，重置计数")
-            return True
-        print(f"[切换尝试] 条件不满足，不切换")
+        """尝试切换到备用API（当前无备用，返回False）"""
+        print(f"[切换尝试] 无备用API，不切换")
         return False
     
     def should_switch_to_backup(self) -> bool:
-        """检查是否应该切换到备用API"""
-        if not self.backup_client:
-            print(f"[切换检查] 备用客户端未初始化，跳过切换")
-            return False
-        if self.current_client != self.backup_client:
-            # 主API失败3次以上，切换到备用
-            should_switch = OpenAICompatibleClient._consecutive_failures >= 3
-            print(f"[切换检查] 当前失败次数: {OpenAICompatibleClient._consecutive_failures}, 应切换: {should_switch}")
-            return should_switch
-        print(f"[切换检查] 当前已是备用客户端，不切换")
+        """检查是否应该切换到备用API（当前无备用，返回False）"""
+        print(f"[切换检查] 无备用API，跳过切换")
         return False
 
     def analyze_news_batch(self, news_list: List[Dict]) -> List[Dict]:
@@ -590,18 +525,33 @@ class XiaohongshuContentGenerator:
 
     @staticmethod
     def build_xiaohongshu_prompt(news_list: List[Dict]) -> str:
-        """构建小红书文案生成的详细prompt"""
+        """构建小红书文案生成的详细prompt（包含新闻详情）"""
         
-        # 格式化新闻内容，包含URL
-        news_content = "\n".join([
-            f"【{news.get('source', '未知来源')}】{news.get('title', '')}" +
-            (f" ({news.get('mobile_url', '') or news.get('url', '')})" 
-             if (news.get('mobile_url', '') or news.get('url', '')) 
-             else "")
-            for news in news_list[:15]  # 限制新闻数量避免token过长
-        ])
+        # 格式化新闻内容，包含详情
+        news_content_parts = []
+        for idx, news in enumerate(news_list[:3]):
+            title = news.get('title', '')
+            source = news.get('source', '未知来源')
+            url = news.get('mobile_url', '') or news.get('url', '')
+            
+            news_part = f"【新闻{idx+1}】来源: {source}\n标题: {title}"
+            
+            # 获取新闻详情
+            if url:
+                print(f"获取新闻详情: {title}")
+                detail = fetch_news_detail(url)
+                if detail:
+                    news_part += f"\n详情:\n{detail}"
+                else:
+                    news_part += f"\n链接: {url}"
+            else:
+                news_part += "\n（无链接）"
+            
+            news_content_parts.append(news_part)
+        
+        news_content = "\n\n".join(news_content_parts)
 
-        prompt = f"""你是一个擅长写小红书内容的资深文案，获得过金瞳奖。查询阅读新闻内容，请按照以下部分结构，为我生成一篇完整的内容。
+        prompt = f"""你是一个擅长写小红书内容的资深文案，获得过金瞳奖。仔细阅读新闻内容（包括标题和详情），请按照以下部分结构，为我生成一篇完整的内容。
 
 【目标受众】
 18-34岁、身处一二线城市的高知女性，
@@ -709,7 +659,7 @@ class XiaohongshuContentGenerator:
         """生成完整的小红书文案内容（调用AI）"""
         
         # 检查AI是否可用
-        if not AI_ANALYZER.is_available() or not CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
+        if not AI_ANALYZER.is_available():
             print("AI功能未启用，返回示例文案")
             result = {
                 "cover_options": ["5个雷区💣女生必看", "智商税收割机⚠️", "塌房预警🚨避坑指南"],
@@ -740,20 +690,32 @@ class XiaohongshuContentGenerator:
                     )
 
                 if response:
-                    # 解析AI返回的JSON
                     import json
+                    import re
                     try:
+                        clean_response = response.strip()
+                        
+                        # 移除markdown代码块标记
+                        if clean_response.startswith("```"):
+                            # 找到第一个```和最后一个```之间的内容
+                            first_backtick = clean_response.find("```")
+                            second_backtick = clean_response.find("```", first_backtick + 3)
+                            if second_backtick > first_backtick:
+                                clean_response = clean_response[second_backtick + 3:].strip()
+                            else:
+                                # 如果找不到结束标记，尝试移除开头的```json
+                                clean_response = re.sub(r'^```(json)?\s*', '', clean_response)
+                        
                         # 尝试从响应中提取JSON
-                        json_start = response.find("{")
-                        json_end = response.rfind("}") + 1
+                        json_start = clean_response.find("{")
+                        json_end = clean_response.rfind("}") + 1
                         if json_start >= 0 and json_end > json_start:
-                            json_str = response[json_start:json_end]
+                            json_str = clean_response[json_start:json_end]
                             result = json.loads(json_str)
                             print("小红书文案AI生成完成")
                     except json.JSONDecodeError as e:
                         print(f"解析AI响应失败: {e}")
-                        print(f"AI响应: {response}")
-                        # 如果解析失败，返回默认内容
+                        print(f"AI响应: {response[:500]}...")
                         result = {
                             "cover_options": ["5个雷区💣女生必看", "智商税收割机⚠️"],
                             "title_options": ["关于智商税，我想说点实话"],
@@ -834,6 +796,42 @@ def get_output_path(subfolder: str, filename: str) -> str:
     output_dir = Path("output") / date_folder / subfolder
     ensure_directory_exists(str(output_dir))
     return str(output_dir / filename)
+
+
+def fetch_news_detail(url: str, proxy_url: Optional[str] = None) -> str:
+    """获取新闻详情内容"""
+    try:
+        proxies = None
+        if proxy_url:
+            proxies = {"http": proxy_url, "https": proxy_url}
+
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Referer": "https://www.google.com/",
+        }
+
+        response = requests.get(url, proxies=proxies, headers=headers, timeout=15)
+        response.raise_for_status()
+
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        content_tags = soup.find_all(["article", "div"], class_=["article-content", "content", "main-content", "article-body", "post-content", "text"])
+        if content_tags:
+            text_content = "\n".join(tag.get_text(strip=True) for tag in content_tags)
+        else:
+            paragraphs = soup.find_all("p")
+            text_content = "\n".join(p.get_text(strip=True) for p in paragraphs)
+
+        cleaned_content = re.sub(r"\s+", " ", text_content).strip()
+
+        return cleaned_content[:3000]
+
+    except Exception as e:
+        print(f"获取新闻详情失败: {e}")
+        return ""
 
 
 def check_version_update(
@@ -1870,60 +1868,56 @@ def count_word_frequency(
             )
 
     # === 第二步：AI新闻分析精选（只分析词库匹配后的新闻） ===
-    ai_analyzed_titles = None  # AI 精选后的标题集合（如启用了新闻分析）
+    ai_analyzed_titles = None
 
     if AI_ANALYZER.is_available():
         # AI 新闻筛选（只处理词库匹配后的新闻，效率更高）
-        if CONFIG["ALIYUN_QWEN"].get("ENABLE_NEWS_ANALYSIS"):
-            if filtered_news_list:
-                analyzed_news = AI_ANALYZER.analyze_news_batch(filtered_news_list)
-                if analyzed_news:
-                    # 记录 AI 精选的标题集合，用于后续过滤 word_stats
-                    ai_analyzed_titles = {news.get("title") for news in analyzed_news}
-                    # 更新 filtered_news_list 为 AI 精选结果，供文案生成使用
-                    filtered_news_list = analyzed_news
-                    print(
-                        f"AI 新闻分析：词库匹配 {len(ai_analyzed_titles)} 条，经 AI 精选后保留"
-                    )
-            else:
-                print("没有词库匹配的新闻，跳过 AI 新闻分析")
+        if filtered_news_list:
+            analyzed_news = AI_ANALYZER.analyze_news_batch(filtered_news_list)
+            if analyzed_news:
+                ai_analyzed_titles = {news.get("title") for news in analyzed_news}
+                filtered_news_list = analyzed_news
+                print(
+                    f"AI 新闻分析：词库匹配 {len(ai_analyzed_titles)} 条，经 AI 精选后保留"
+                )
+        else:
+            print("没有词库匹配的新闻，跳过 AI 新闻分析")
 
         # === 第三步：AI文案生成（使用词库筛选后的新闻，每条新闻生成独立文案） ===
-        if CONFIG["ALIYUN_QWEN"].get("ENABLE_COPYWRITING"):
-            if filtered_news_list:
-                # 从匹配的新闻中最多选2条，各生成一条独立的小红书文案
-                import random
-                selected_news = random.sample(
-                    filtered_news_list,
-                    min(2, len(filtered_news_list))
-                ) if len(filtered_news_list) >= 2 else filtered_news_list
+        if filtered_news_list:
+            # 从匹配的新闻中最多选2条，各生成一条独立的小红书文案
+            import random
+            selected_news = random.sample(
+                filtered_news_list,
+                min(2, len(filtered_news_list))
+            ) if len(filtered_news_list) >= 2 else filtered_news_list
 
-                ai_copywriting_list = []
-                for idx, news_item in enumerate(selected_news):
-                    # 将 news_item 转换为 XiaohongshuContentGenerator 需要的格式
-                    xhs_news = [{
-                        "title": news_item.get("title", ""),
-                        "source": news_item.get("source", ""),
-                        "url": news_item.get("title_data", {}).get("url", ""),
-                        "mobile_url": news_item.get("title_data", {}).get("mobileUrl", "")
-                    }]
-                    try:
-                        print(f"开始为第 {idx+1} 条新闻生成小红书文案: {news_item.get('title', '')[:30]}...")
-                        content = XiaohongshuContentGenerator.generate_full_content(xhs_news)
-                        ai_copywriting_list.append({
-                            "news_title": news_item.get("title", ""),
-                            "news_source": news_item.get("source", ""),
-                            "content": content
-                        })
-                    except Exception as e:
-                        print(f"第 {idx+1} 条新闻文案生成失败: {e}")
+            ai_copywriting_list = []
+            for idx, news_item in enumerate(selected_news):
+                # 将 news_item 转换为 XiaohongshuContentGenerator 需要的格式
+                xhs_news = [{
+                    "title": news_item.get("title", ""),
+                    "source": news_item.get("source", ""),
+                    "url": news_item.get("title_data", {}).get("url", ""),
+                    "mobile_url": news_item.get("title_data", {}).get("mobileUrl", "")
+                }]
+                try:
+                    print(f"开始为第 {idx+1} 条新闻生成小红书文案: {news_item.get('title', '')[:30]}...")
+                    content = XiaohongshuContentGenerator.generate_full_content(xhs_news)
+                    ai_copywriting_list.append({
+                        "news_title": news_item.get("title", ""),
+                        "news_source": news_item.get("source", ""),
+                        "content": content
+                    })
+                except Exception as e:
+                    print(f"第 {idx+1} 条新闻文案生成失败: {e}")
 
-                if ai_copywriting_list:
-                    # 存储为列表格式，供后续处理
-                    ai_copywriting = {"copies": ai_copywriting_list}
-                    print(f"AI文案生成完成，共生成 {len(ai_copywriting_list)} 条")
-            else:
-                print("没有匹配frequency_words的新闻，跳过AI文案生成")
+            if ai_copywriting_list:
+                # 存储为列表格式，供后续处理
+                ai_copywriting = {"copies": ai_copywriting_list}
+                print(f"AI文案生成完成，共生成 {len(ai_copywriting_list)} 条")
+        else:
+            print("没有匹配frequency_words的新闻，跳过AI文案生成")
 
     stats = []
     for group_key, data in word_stats.items():
