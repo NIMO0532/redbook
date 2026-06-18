@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T18:20:43.438732+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-06-18T22:07:39.940093+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "女子被困电梯救援时坠落身亡",
@@ -16,11 +16,12 @@
             3,
             4,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 18时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 22时04分]"
         },
         {
           "title": "男店员回应赤裸上身急救卡喉女子",
@@ -56,18 +57,6 @@
           "time_info": "[01时48分 ~ 08时13分]"
         },
         {
-          "title": "男女就餐时与未成年女生发生冲突被罚",
-          "url": "https://www.toutiao.com/trending/7651638845809737771/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 08时13分]"
-        },
-        {
           "title": "印度女董事校门口遭行刑式枪决",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E8%91%A3%E4%BA%8B%E6%A0%A1%E9%97%A8%E5%8F%A3%E9%81%AD%E8%A1%8C%E5%88%91%E5%BC%8F%E6%9E%AA%E5%86%B3",
           "source": "百度热搜",
@@ -81,19 +70,16 @@
           "time_info": "[01时48分 ~ 08时13分]"
         },
         {
-          "title": "奥特曼改革,开拓女性市场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355242&amp;topic_name=%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%94%B9%E9%9D%A9%2C%E5%BC%80%E6%8B%93%E5%A5%B3%E6%80%A7%E5%B8%82%E5%9C%BA",
-          "source": "贴吧",
+          "title": "厨师赤裸上身施救卡喉女子引争议",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%A8%E5%B8%88%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E6%96%BD%E6%95%91%E5%8D%A1%E5%96%89%E5%A5%B3%E5%AD%90%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            6,
             7,
-            8,
-            15,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 22时04分]"
         },
         {
           "title": "女子带娃避雨被保安驱赶 店家道歉",
@@ -130,6 +116,17 @@
           "time_info": "[13时50分 ~ 13时56分]"
         },
         {
+          "title": "57岁女子参加婚礼发现新娘是自己",
+          "url": "https://www.toutiao.com/trending/7652656566210822186/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时04分]"
+        },
+        {
           "title": "女子临时加码30万彩礼悔婚",
           "url": "https://www.toutiao.com/trending/7652576623187640361/",
           "source": "今日头条",
@@ -139,28 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时10分 ~ 18时17分]"
-        },
-        {
-          "title": "厨师赤裸上身施救卡喉女子引争议",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%A8%E5%B8%88%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E6%96%BD%E6%95%91%E5%8D%A1%E5%96%89%E5%A5%B3%E5%AD%90%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 18时17分]"
-        },
-        {
-          "title": "已婚男女打工相识生子同居15年获刑",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%A5%B3%E6%89%93%E5%B7%A5%E7%9B%B8%E8%AF%86%E7%94%9F%E5%AD%90%E5%90%8C%E5%B1%8515%E5%B9%B4%E8%8E%B7%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时56分]"
         },
         {
           "title": "女警30秒拔卡断网保住老人血汗钱",
@@ -207,6 +182,17 @@
           "time_info": "[13时50分 ~ 13时56分]"
         },
         {
+          "title": "女子跳出故障电梯不慎坠井身亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%B3%E5%87%BA%E6%95%85%E9%9A%9C%E7%94%B5%E6%A2%AF%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%95%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时04分]"
+        },
+        {
           "title": "男子与15岁女孩发生冲突被行拘5日",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E15%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -219,15 +205,16 @@
           "time_info": "[01时55分 ~ 06时45分]"
         },
         {
-          "title": "4岁女童走失获11岁女孩暖心相助",
-          "url": "https://www.toutiao.com/trending/7651427744642891795/",
-          "source": "今日头条",
+          "title": "13岁女孩两个月暴瘦30斤确诊糖尿病",
+          "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%9A%B4%E7%98%A630%E6%96%A4%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85",
+          "source": "百度热搜",
           "ranks": [
-            20
+            21,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时10分 ~ 08时13分]"
+          "time_info": "[01时48分 ~ 01时55分]"
         },
         {
           "title": "18岁女孩已全职崩老头四五年",
@@ -241,15 +228,15 @@
           "time_info": "[18时10分 ~ 18时17分]"
         },
         {
-          "title": "女子试岗期在办公室喝酒后男友报警",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%AF%95%E5%B2%97%E6%9C%9F%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%96%9D%E9%85%92%E5%90%8E%E7%94%B7%E5%8F%8B%E6%8A%A5%E8%AD%A6",
+          "title": "美国一父亲带两幼女进女厕遭质问",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E5%B8%A6%E4%B8%A4%E5%B9%BC%E5%A5%B3%E8%BF%9B%E5%A5%B3%E5%8E%95%E9%81%AD%E8%B4%A8%E9%97%AE",
           "source": "百度热搜",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时10分 ~ 18时17分]"
+          "time_info": "[21时58分 ~ 22时04分]"
         },
         {
           "title": "吴倩 我是全中国最会使AI的女演员",
@@ -274,6 +261,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "日本女护士为缓解压力杀死2名老人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E4%B8%BA%E7%BC%93%E8%A7%A3%E5%8E%8B%E5%8A%9B%E6%9D%80%E6%AD%BB2%E5%90%8D%E8%80%81%E4%BA%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "很多欧美影视中贵族女子骑马都是侧骑的，侧骑是否比跨骑难得多？",
           "url": "https://www.zhihu.com/question/21289988",
           "source": "知乎",
@@ -291,27 +289,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "王者金蝉史诗皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E9%87%91%E8%9D%89%E5%8F%B2%E8%AF%97%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
+          "title": "少女友谊的生长痛",
+          "url": "https://www.douyin.com/hot/2539527",
+          "source": "抖音",
           "ranks": [
-            25,
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美国女子因赢球尖叫宠物狗遭击毙",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9B%A0%E8%B5%A2%E7%90%83%E5%B0%96%E5%8F%AB%E5%AE%A0%E7%89%A9%E7%8B%97%E9%81%AD%E5%87%BB%E6%AF%99%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 08时13分]"
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     }
