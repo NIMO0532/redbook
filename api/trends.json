@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-18T06:47:44.416243+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-06-18T08:14:20.910330+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "女子被困电梯救援时坠落身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355238&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%95%91%E6%8F%B4%E6%97%B6%E5%9D%A0%E8%90%BD%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 06时45分]"
-        },
         {
           "title": "星舰女王？SpaceX华裔女工程师辟谣：没有硕博学位，仅是飞控操作员之一",
           "url": "https://m.thepaper.cn/newsDetail_forward_33396142",
@@ -27,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 08时13分]"
         },
         {
           "title": "女子坠入电梯井身亡，家属质疑保安违规打开电梯门",
@@ -38,20 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时45分]"
-        },
-        {
-          "title": "印度女董事校门口遭行刑式枪决",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E8%91%A3%E4%BA%8B%E6%A0%A1%E9%97%A8%E5%8F%A3%E9%81%AD%E8%A1%8C%E5%88%91%E5%BC%8F%E6%9E%AA%E5%86%B3",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 08时13分]"
         },
         {
           "title": "女子带娃避雨被保安驱赶 店家道歉",
@@ -66,15 +42,17 @@
           "time_info": "[01时48分 ~ 06时45分]"
         },
         {
-          "title": "女警30秒拔卡断网保住老人血汗钱",
-          "url": "https://www.toutiao.com/trending/7652318887862157318/",
-          "source": "今日头条",
+          "title": "奥特曼改革,开拓女性市场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355242&amp;topic_name=%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%94%B9%E9%9D%A9%2C%E5%BC%80%E6%8B%93%E5%A5%B3%E6%80%A7%E5%B8%82%E5%9C%BA",
+          "source": "贴吧",
           "ranks": [
-            10
+            6,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 08时13分]"
         },
         {
           "title": "26 岁成年人在家做游戏代练被送入戒网瘾机构遭非法拘禁，背后体现何问题？父母有权限制成年子女人身自由吗？",
@@ -84,8 +62,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 08时13分]"
+        },
+        {
+          "title": "女警30秒拔卡断网保住老人血汗钱",
+          "url": "https://www.toutiao.com/trending/7652318887862157318/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时55分 ~ 06时45分]"
+          "time_info": "[06时42分 ~ 06时45分]"
         },
         {
           "title": "男子与15岁女孩发生冲突被行拘5日",
@@ -98,6 +87,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 06时45分]"
+        },
+        {
+          "title": "4岁女童走失获11岁女孩暖心相助",
+          "url": "https://www.toutiao.com/trending/7651427744642891795/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时13分]"
         },
         {
           "title": "13岁女孩两个月暴瘦30斤确诊糖尿病",
@@ -118,31 +118,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "很多欧美影视中贵族女子骑马都是侧骑的，侧骑是否比跨骑难得多？",
-          "url": "https://www.zhihu.com/question/21289988",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "已婚男女打工相识同居15年获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%A5%B3%E6%89%93%E5%B7%A5%E7%9B%B8%E8%AF%86%E5%90%8C%E5%B1%8515%E5%B9%B4%E8%8E%B7%E5%88%91%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "06时45分"
         }
       ]
     }
