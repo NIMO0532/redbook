@@ -1,23 +1,86 @@
 {
-  "generated_at": "2026-06-20T04:29:55.803746+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-06-20T06:04:02.380434+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "租借女友作者自曝男主原型",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 06时02分]"
+        },
         {
           "title": "女子追尾不服处罚让交警找她老公",
           "url": "https://www.toutiao.com/trending/7652697692207874074/",
           "source": "今日头条",
           "ranks": [
             7,
-            21
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时02分]"
+        },
+        {
+          "title": "媒体评男厨师半裸救女客被指耍流氓",
+          "url": "https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E7%94%B7%E5%8E%A8%E5%B8%88%E5%8D%8A%E8%A3%B8%E6%95%91%E5%A5%B3%E5%AE%A2%E8%A2%AB%E6%8C%87%E8%80%8D%E6%B5%81%E6%B0%93",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时02分]"
+        },
+        {
+          "title": "女子追尾不服处罚让交警找她老公",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%BD%E5%B0%BE%E4%B8%8D%E6%9C%8D%E5%A4%84%E7%BD%9A%E8%AE%A9%E4%BA%A4%E8%AD%A6%E6%89%BE%E5%A5%B9%E8%80%81%E5%85%AC",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时02分]"
+        },
+        {
+          "title": "本届世界杯首位出场的女主裁，彭索的追梦之旅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33416163",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时02分]"
+        },
+        {
+          "title": "越南前女首富爱马仕包拍出44万美元",
+          "url": "https://www.toutiao.com/trending/7652907945642135082/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "time_info": "[00时29分 ~ 06时02分]"
         },
         {
           "title": "酒店再回应女子入住第5天发现摄像头",
@@ -32,39 +95,86 @@
           "time_info": "[00时29分 ~ 04时27分]"
         },
         {
-          "title": "女子追尾不服处罚让交警找她老公",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%BD%E5%B0%BE%E4%B8%8D%E6%9C%8D%E5%A4%84%E7%BD%9A%E8%AE%A9%E4%BA%A4%E8%AD%A6%E6%89%BE%E5%A5%B9%E8%80%81%E5%85%AC",
+          "title": "女子施救尼克斯球迷后被多次亲吻",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%B0%BC%E5%85%8B%E6%96%AF%E7%90%83%E8%BF%B7%E5%90%8E%E8%A2%AB%E5%A4%9A%E6%AC%A1%E4%BA%B2%E5%90%BB",
           "source": "百度热搜",
           "ranks": [
             19,
-            27
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "time_info": "[04时24分 ~ 06时02分]"
         },
         {
-          "title": "本届世界杯首位出场的女主裁，彭索的追梦之旅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33416163",
-          "source": "澎湃新闻",
+          "title": "C罗球迷攻陷内维斯女友社媒",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时02分]"
+        },
+        {
+          "title": "女子遗体情夫车里被发现丈夫希望严判",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E6%83%85%E5%A4%AB%E8%BD%A6%E9%87%8C%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E5%B8%8C%E6%9C%9B%E4%B8%A5%E5%88%A4%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时02分]"
+        },
+        {
+          "title": "Camera Ready舞台女团感",
+          "url": "https://search.bilibili.com/all?keyword=Camera%20Ready%E8%88%9E%E5%8F%B0%E5%A5%B3%E5%9B%A2%E6%84%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时02分]"
+        },
+        {
+          "title": "半裸救人被质疑不穿上衣贴近女性",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%A3%B8%E6%95%91%E4%BA%BA%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%8D%E7%A9%BF%E4%B8%8A%E8%A1%A3%E8%B4%B4%E8%BF%91%E5%A5%B3%E6%80%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20,
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时02分]"
         },
         {
-          "title": "女子施救尼克斯球迷后被多次亲吻",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%B0%BC%E5%85%8B%E6%96%AF%E7%90%83%E8%BF%B7%E5%90%8E%E8%A2%AB%E5%A4%9A%E6%AC%A1%E4%BA%B2%E5%90%BB",
-          "source": "百度热搜",
+          "title": "媒体评男厨师半裸救女客被质疑耍流氓",
+          "url": "https://www.toutiao.com/trending/7652651093691744310/",
+          "source": "今日头条",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时27分]"
+          "time_info": "[05时59分 ~ 06时02分]"
+        },
+        {
+          "title": "女子施救尼克斯球迷后被多次亲吻",
+          "url": "https://www.toutiao.com/trending/7652873652911816723/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时02分]"
         },
         {
           "title": "警方回应男子醉驾致16岁女孩身亡",
@@ -78,24 +188,35 @@
           "time_info": "[00时29分 ~ 00时34分]"
         },
         {
-          "title": "C罗球迷攻陷内维斯女友社媒",
-          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92%23&t=31&band_rank=10&Refer=top",
+          "title": "北大女学霸谈数学50分如何逆袭",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%B0%88%E6%95%B0%E5%AD%A650%E5%88%86%E5%A6%82%E4%BD%95%E9%80%86%E8%A2%AD&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
         {
-          "title": "Camera Ready舞台女团感",
-          "url": "https://search.bilibili.com/all?keyword=Camera%20Ready%E8%88%9E%E5%8F%B0%E5%A5%B3%E5%9B%A2%E6%84%9F",
-          "source": "bilibili 热搜",
+          "title": "中国女排3比0法国女排",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%B3%95%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "王主任带女团闯进了更大的地库",
+          "url": "https://www.douyin.com/hot/2540722",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         }
