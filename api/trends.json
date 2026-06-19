@@ -1,88 +1,103 @@
 {
-  "generated_at": "2026-06-20T00:36:29.243631+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-20T04:29:55.803746+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "女子追尾不服处罚让交警找她老公",
           "url": "https://www.toutiao.com/trending/7652697692207874074/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时34分]"
-        },
-        {
-          "title": "媒体评男厨师半裸救女客被指耍流氓",
-          "url": "https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E7%94%B7%E5%8E%A8%E5%B8%88%E5%8D%8A%E8%A3%B8%E6%95%91%E5%A5%B3%E5%AE%A2%E8%A2%AB%E6%8C%87%E8%80%8D%E6%B5%81%E6%B0%93",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时34分]"
-        },
-        {
-          "title": "女子外出次日情夫车内发现其遗体",
-          "url": "https://www.toutiao.com/trending/7652653649323261979/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时34分]"
-        },
-        {
-          "title": "越南前女首富爱马仕包拍出44万美元",
-          "url": "https://www.toutiao.com/trending/7652907945642135082/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "酒店再回应女子入住第5天发现摄像头",
           "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%86%8D%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%85%A5%E4%BD%8F%E7%AC%AC5%E5%A4%A9%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "女子追尾不服处罚让交警找她老公",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%BD%E5%B0%BE%E4%B8%8D%E6%9C%8D%E5%A4%84%E7%BD%9A%E8%AE%A9%E4%BA%A4%E8%AD%A6%E6%89%BE%E5%A5%B9%E8%80%81%E5%85%AC",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "本届世界杯首位出场的女主裁，彭索的追梦之旅",
           "url": "https://m.thepaper.cn/newsDetail_forward_33416163",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时27分]"
+        },
+        {
+          "title": "女子施救尼克斯球迷后被多次亲吻",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%BD%E6%95%91%E5%B0%BC%E5%85%8B%E6%96%AF%E7%90%83%E8%BF%B7%E5%90%8E%E8%A2%AB%E5%A4%9A%E6%AC%A1%E4%BA%B2%E5%90%BB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 04时27分]"
+        },
+        {
+          "title": "警方回应男子醉驾致16岁女孩身亡",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E8%87%B416%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时34分]"
+        },
+        {
+          "title": "C罗球迷攻陷内维斯女友社媒",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "Camera Ready舞台女团感",
+          "url": "https://search.bilibili.com/all?keyword=Camera%20Ready%E8%88%9E%E5%8F%B0%E5%A5%B3%E5%9B%A2%E6%84%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     }
