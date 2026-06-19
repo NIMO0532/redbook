@@ -1,106 +1,22 @@
 {
-  "generated_at": "2026-06-19T21:35:52.960561+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-06-20T00:36:29.243631+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "女子退租遭房东索要688元月子红包",
-          "url": "https://www.toutiao.com/trending/7652992200691417129/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时07分]"
-        },
         {
           "title": "女子追尾不服处罚让交警找她老公",
           "url": "https://www.toutiao.com/trending/7652697692207874074/",
           "source": "今日头条",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时33分]"
-        },
-        {
-          "title": "专家：女性更年期别再“硬扛”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%A5%B3%E6%80%A7%E6%9B%B4%E5%B9%B4%E6%9C%9F%E5%88%AB%E5%86%8D%E2%80%9C%E7%A1%AC%E6%89%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 07时52分]"
-        },
-        {
-          "title": "女子试岗期在办公室喝酒后男友报警",
-          "url": "https://www.toutiao.com/trending/7652616763171553334/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 07时52分]"
-        },
-        {
-          "title": "独生女只分到父亲银行存款四分之一",
-          "url": "https://www.toutiao.com/trending/7652277705106587711/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 07时52分]"
-        },
-        {
-          "title": "多名女子转呼啦圈导致脾脏破裂",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E8%BD%AC%E5%91%BC%E5%95%A6%E5%9C%88%E5%AF%BC%E8%87%B4%E8%84%BE%E8%84%8F%E7%A0%B4%E8%A3%82",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 07时52分]"
-        },
-        {
-          "title": "租借女友作者自曝男主原型",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "女子临时加码30万彩礼悔婚",
-          "url": "https://www.toutiao.com/trending/7652576623187640361/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 06时02分]"
+          "time_info": "[00时29分 ~ 00时34分]"
         },
         {
           "title": "媒体评男厨师半裸救女客被指耍流氓",
@@ -111,96 +27,62 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时33分]"
+          "time_info": "[00时29分 ~ 00时34分]"
+        },
+        {
+          "title": "女子外出次日情夫车内发现其遗体",
+          "url": "https://www.toutiao.com/trending/7652653649323261979/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时34分]"
         },
         {
           "title": "越南前女首富爱马仕包拍出44万美元",
           "url": "https://www.toutiao.com/trending/7652907945642135082/",
           "source": "今日头条",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时33分]"
+          "time_info": "[00时29分 ~ 00时34分]"
         },
         {
-          "title": "日本女护士杀人解压",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E4%BA%BA%E8%A7%A3%E5%8E%8B&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 11时40分]"
-        },
-        {
-          "title": "专家：女性更年期别再“硬扛”",
-          "url": "https://www.toutiao.com/trending/7652481477711593510/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 06时02分]"
-        },
-        {
-          "title": "美加墨世界杯首位女主裁亮相",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%BD%8D%E5%A5%B3%E4%B8%BB%E8%A3%81%E4%BA%AE%E7%9B%B8",
+          "title": "酒店再回应女子入住第5天发现摄像头",
+          "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%86%8D%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%85%A5%E4%BD%8F%E7%AC%AC5%E5%A4%A9%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4",
           "source": "百度热搜",
           "ranks": [
-            25
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时40分]"
+          "time_info": "[00时29分 ~ 00时34分]"
         },
         {
-          "title": "越南前女首富爱马仕包拍出44万美元",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%89%8D%E5%A5%B3%E9%A6%96%E5%AF%8C%E7%88%B1%E9%A9%AC%E4%BB%95%E5%8C%85%E6%8B%8D%E5%87%BA44%E4%B8%87%E7%BE%8E%E5%85%83",
+          "title": "女子追尾不服处罚让交警找她老公",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%BD%E5%B0%BE%E4%B8%8D%E6%9C%8D%E5%A4%84%E7%BD%9A%E8%AE%A9%E4%BA%A4%E8%AD%A6%E6%89%BE%E5%A5%B9%E8%80%81%E5%85%AC",
           "source": "百度热搜",
           "ranks": [
-            27
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时33分]"
+          "time_info": "[00时29分 ~ 00时34分]"
         },
         {
-          "title": "半裸救人被质疑不穿上衣贴近女性",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%A3%B8%E6%95%91%E4%BA%BA%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%8D%E7%A9%BF%E4%B8%8A%E8%A1%A3%E8%B4%B4%E8%BF%91%E5%A5%B3%E6%80%A7%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "本届世界杯首位出场的女主裁，彭索的追梦之旅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33416163",
+          "source": "澎湃新闻",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "女神异闻录4 Revival预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%954%20Revival%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        },
-        {
-          "title": "王主任带女团闯进了更大的地库",
-          "url": "https://www.douyin.com/hot/2540722",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时34分]"
         }
       ]
     }
