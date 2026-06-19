@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T07:54:41.593528+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-06-19T11:42:41.910935+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "专家：女性更年期别再“硬扛”",
@@ -14,6 +14,19 @@
           "ranks": [
             10,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时28分 ~ 07时52分]"
+        },
+        {
+          "title": "女子试岗期在办公室喝酒后男友报警",
+          "url": "https://www.toutiao.com/trending/7652616763171553334/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -33,16 +46,28 @@
           "time_info": "[03时28分 ~ 07时52分]"
         },
         {
-          "title": "多名女子转呼啦圈导致脾脏破裂",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E8%BD%AC%E5%91%BC%E5%95%A6%E5%9C%88%E5%AF%BC%E8%87%B4%E8%84%BE%E8%84%8F%E7%A0%B4%E8%A3%82",
-          "source": "百度热搜",
+          "title": "女子临时加码30万彩礼悔婚",
+          "url": "https://www.toutiao.com/trending/7652576623187640361/",
+          "source": "今日头条",
           "ranks": [
-            25,
-            16
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 06时02分]"
+        },
+        {
+          "title": "日本女护士杀人解压",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E4%BA%BA%E8%A7%A3%E5%8E%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 11时40分]"
         },
         {
           "title": "专家：女性更年期别再“硬扛”",
@@ -54,6 +79,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 06时02分]"
+        },
+        {
+          "title": "美加墨世界杯首位女主裁亮相",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%BD%8D%E5%A5%B3%E4%B8%BB%E8%A3%81%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时40分]"
+        },
+        {
+          "title": "魔女养成计划第一篇章完结",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AD%94%E5%A5%B3%E5%85%BB%E6%88%90%E8%AE%A1%E5%88%92%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AB%A0%E5%AE%8C%E7%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "92岁父亲房产全留女儿后称此生无憾",
