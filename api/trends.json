@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T03:16:42.322384+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-06-21T05:13:44.663709+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "女子不会包粽子发明“新式粽子”",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时12分]"
         },
         {
           "title": "女生被男友突然分手患心碎综合征",
@@ -28,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时12分]"
         },
         {
           "title": "张艺谋大女儿张末现身上海电影节",
@@ -40,8 +41,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时12分]"
         },
         {
           "title": "租借女友作者自曝男主原型",
@@ -49,11 +50,23 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时12分]"
+        },
+        {
+          "title": "张艺谋大女儿张末现身上海电影节",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%BC%A0%E6%9C%AB%E7%8E%B0%E8%BA%AB%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时15分]"
+          "time_info": "[05时08分 ~ 05时12分]"
         }
       ]
     }
