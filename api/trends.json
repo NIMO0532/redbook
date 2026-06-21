@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T07:04:12.670830+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-06-21T11:01:39.990066+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "女生被男友突然分手患心碎综合征",
@@ -47,6 +47,21 @@
           "time_info": "[01时18分 ~ 07时02分]"
         },
         {
+          "title": "租借女友作者自曝男主原型",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 10时59分]"
+        },
+        {
           "title": "张艺谋大女儿张末现身上海电影节",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%BC%A0%E6%9C%AB%E7%8E%B0%E8%BA%AB%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E8%8A%82",
           "source": "百度热搜",
@@ -57,6 +72,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时08分 ~ 07时02分]"
+        },
+        {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时59分]"
+        },
+        {
+          "title": "「小马云」范小勤女友自曝怀双胞胎，他能否胜任父亲角色？",
+          "url": "https://www.zhihu.com/question/2051386760165318905",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "女子烧烤中毒出院1个月后大小便失禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%83%A7%E7%83%A4%E4%B8%AD%E6%AF%92%E5%87%BA%E9%99%A21%E4%B8%AA%E6%9C%88%E5%90%8E%E5%A4%A7%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "女子凌晨送外卖3岁儿子睡醒走失",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E9%80%81%E5%A4%96%E5%8D%963%E5%B2%81%E5%84%BF%E5%AD%90%E7%9D%A1%E9%86%92%E8%B5%B0%E5%A4%B1%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     }
