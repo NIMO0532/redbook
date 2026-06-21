@@ -1,154 +1,44 @@
 {
-  "generated_at": "2026-06-21T22:00:21.952858+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-06-22T01:26:24.562644+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
         {
-          "title": "女生被男友突然分手患心碎综合征",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%AA%81%E7%84%B6%E5%88%86%E6%89%8B%E6%82%A3%E5%BF%83%E7%A2%8E%E7%BB%BC%E5%90%88%E5%BE%81",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "张艺谋大女儿张末现身上海电影节",
-          "url": "https://www.toutiao.com/trending/7653022611178127396/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "霍光如果想要自己的女儿为皇后，当初为什么不阻止许平君做皇后？",
-          "url": "https://www.zhihu.com/question/2048134240462714441",
-          "source": "知乎",
+          "title": "月经弄脏火车床单女子再发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E5%BC%84%E8%84%8F%E7%81%AB%E8%BD%A6%E5%BA%8A%E5%8D%95%E5%A5%B3%E5%AD%90%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "01时25分"
         },
         {
-          "title": "女子用AI写3000字股市谣言被罚",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
+          "title": "广东3岁女童遭幼儿园老师暴力喂食受伤，涉事教师已被拘留",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33423858",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 16时02分]"
-        },
-        {
-          "title": "张艺谋大女儿张末现身上海电影节",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%BC%A0%E6%9C%AB%E7%8E%B0%E8%BA%AB%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时08分 ~ 07时02分]"
-        },
-        {
-          "title": "女子烧烤中毒出院1个月后大小便失禁",
-          "url": "https://www.toutiao.com/trending/7653634207537938475/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时02分]"
+          "time_info": "[01时21分 ~ 01时25分]"
         },
         {
-          "title": "75岁爸爸回应被女儿同学问年纪",
-          "url": "https://www.baidu.com/s?wd=75%E5%B2%81%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%90%8C%E5%AD%A6%E9%97%AE%E5%B9%B4%E7%BA%AA",
+          "title": "45岁女子突然闭经暴瘦30斤查出肿瘤",
+          "url": "https://www.baidu.com/s?wd=45%E5%B2%81%E5%A5%B3%E5%AD%90%E7%AA%81%E7%84%B6%E9%97%AD%E7%BB%8F%E6%9A%B4%E7%98%A630%E6%96%A4%E6%9F%A5%E5%87%BA%E8%82%BF%E7%98%A4",
           "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时02分]"
-        },
-        {
-          "title": "国内唯一的男女混浴什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E7%9A%84%E7%94%B7%E5%A5%B3%E6%B7%B7%E6%B5%B4%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "陈贺霖为了接广说被女演员传染口臭",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B4%BA%E9%9C%96%E4%B8%BA%E4%BA%86%E6%8E%A5%E5%B9%BF%E8%AF%B4%E8%A2%AB%E5%A5%B3%E6%BC%94%E5%91%98%E4%BC%A0%E6%9F%93%E5%8F%A3%E8%87%AD%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "女子烧烤中毒出院1个月后大小便失禁",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%83%A7%E7%83%A4%E4%B8%AD%E6%AF%92%E5%87%BA%E9%99%A21%E4%B8%AA%E6%9C%88%E5%90%8E%E5%A4%A7%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
           "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "女孩点燃野草父亲扑火不幸身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%82%B9%E7%87%83%E9%87%8E%E8%8D%89%E7%88%B6%E4%BA%B2%E6%89%91%E7%81%AB%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "36岁男子因喝偏方皮肤多处癌变",
-          "url": "https://www.baidu.com/s?wd=36%E5%B2%81%E7%94%B7%E5%AD%90%E5%9B%A0%E5%96%9D%E5%81%8F%E6%96%B9%E7%9A%AE%E8%82%A4%E5%A4%9A%E5%A4%84%E7%99%8C%E5%8F%98",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时57分]"
+          "time_info": "[01时21分 ~ 01时25分]"
         }
       ]
     }
