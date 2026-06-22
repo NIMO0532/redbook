@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T07:08:13.735626+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-06-22T17:23:35.500920+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "广东3岁女童遭幼儿园老师暴力喂食受伤，涉事教师已被拘留",
@@ -32,6 +32,17 @@
           "time_info": "[01时21分 ~ 07时06分]"
         },
         {
+          "title": "女儿和妈妈是一本书的两页",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E5%84%BF%E5%92%8C%E5%A6%88%E5%A6%88%E6%98%AF%E4%B8%80%E6%9C%AC%E4%B9%A6%E7%9A%84%E4%B8%A4%E9%A1%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "月经弄脏火车床单女子再发声",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E5%BC%84%E8%84%8F%E7%81%AB%E8%BD%A6%E5%BA%8A%E5%8D%95%E5%A5%B3%E5%AD%90%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -39,19 +50,6 @@
             5,
             9,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 07时06分]"
-        },
-        {
-          "title": "租借女友作者自曝男主原型",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            20,
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -70,26 +68,92 @@
           "time_info": "[03时21分 ~ 07时06分]"
         },
         {
-          "title": "45岁女子突然闭经暴瘦30斤查出肿瘤",
-          "url": "https://www.baidu.com/s?wd=45%E5%B2%81%E5%A5%B3%E5%AD%90%E7%AA%81%E7%84%B6%E9%97%AD%E7%BB%8F%E6%9A%B4%E7%98%A630%E6%96%A4%E6%9F%A5%E5%87%BA%E8%82%BF%E7%98%A4",
+          "title": "女子凌晨四点偷菜被监控吓走",
+          "url": "https://www.toutiao.com/trending/7653277609333342251/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时20分]"
+        },
+        {
+          "title": "周星驰新电影《功夫女足》7月上映",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B7%E6%9C%88%E4%B8%8A%E6%98%A0",
           "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时20分]"
+        },
+        {
+          "title": "大马女子嘲笑中国人不洗澡被批后道歉",
+          "url": "https://www.toutiao.com/trending/7653674292672249910/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时25分]"
+          "time_info": "[17时16分 ~ 17时20分]"
         },
         {
-          "title": "国内唯一的男女混浴什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E7%9A%84%E7%94%B7%E5%A5%B3%E6%B7%B7%E6%B5%B4%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
+          "title": "马来西亚女子就嘲笑中国人道歉",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A5%B3%E5%AD%90%E5%B0%B1%E5%98%B2%E7%AC%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
           "ranks": [
-            14
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时20分]"
+        },
+        {
+          "title": "遭歧视韩国女球迷收到道歉和签名球衣",
+          "url": "https://www.toutiao.com/trending/7653061106656067625/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时20分]"
+        },
+        {
+          "title": "如何看待雷军在路边摊吃早饭被路过小女孩吐槽「吃个饭还这么多人拍照」，后续回应「大家笑一笑就好」？",
+          "url": "https://www.zhihu.com/question/2050882489007204297",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "17时20分"
+        },
+        {
+          "title": "圣女果是转基因食品吗",
+          "url": "https://www.douyin.com/hot/2543249",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "男子地铁抢座与母女发生肢体冲突",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E6%8A%A2%E5%BA%A7%E4%B8%8E%E6%AF%8D%E5%A5%B3%E5%8F%91%E7%94%9F%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
