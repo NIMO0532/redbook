@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T14:50:59.541233+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-06-23T18:39:07.481941+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "30岁女警为救跳楼轻生者牺牲",
@@ -20,50 +20,83 @@
           "time_info": "[03时19分 ~ 07时20分]"
         },
         {
-          "title": "巴拉圭女球迷谈爆火出圈",
-          "url": "https://www.toutiao.com/trending/7653242664464777262/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 07时20分]"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "周星驰官宣新电影《功夫女足》7 月上映，目前后期制作中，你期待周氏喜剧回归吗？",
           "url": "https://www.zhihu.com/question/2052334858995594599",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 18时36分]"
         },
         {
-          "title": "30岁女副所长为救跳楼轻生者牺牲",
-          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E5%A5%B3%E5%89%AF%E6%89%80%E9%95%BF%E4%B8%BA%E6%95%91%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E8%80%85%E7%89%BA%E7%89%B2",
+          "title": "中国央行等印发《关于进一步加强金融支持妇女就业发展的实施意见》",
+          "url": "https://wallstreetcn.com/livenews/3123370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "王鹤棣给王彦霖女儿寄了六十多件衣服",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%99%E7%8E%8B%E5%BD%A6%E9%9C%96%E5%A5%B3%E5%84%BF%E5%AF%84%E4%BA%86%E5%85%AD%E5%8D%81%E5%A4%9A%E4%BB%B6%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "赵本山女儿自曝丈夫是悉尼大学硕士",
+          "url": "https://www.toutiao.com/trending/7654218748354396214/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 18时36分]"
+        },
+        {
+          "title": "女子反映问题被怼“举报个屁”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8D%E6%98%A0%E9%97%AE%E9%A2%98%E8%A2%AB%E6%80%BC%E2%80%9C%E4%B8%BE%E6%8A%A5%E4%B8%AA%E5%B1%81%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            9,
-            7
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 07时20分]"
+        },
+        {
+          "title": "大马女子嘲笑中国人不洗澡被批后道歉",
+          "url": "https://www.toutiao.com/trending/7653674292672249910/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时20分]"
+        },
+        {
+          "title": "1岁半男童被生父女友虐待致死，生父出具谅解书生母坚决反对",
+          "url": "https://news.ifeng.com/c/8uBsdimG0mB",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时31分]"
         },
         {
           "title": "女子称在江阴文旅局门口躲雨遭驱赶",
@@ -77,44 +110,23 @@
           "time_info": "[07时16分 ~ 07时20分]"
         },
         {
-          "title": "赵本山女儿自曝丈夫是悉尼大学硕士",
-          "url": "https://www.toutiao.com/trending/7654218748354396214/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时48分]"
-        },
-        {
-          "title": "49岁女子电梯坠亡获赔100万 今日安葬",
-          "url": "https://www.baidu.com/s?wd=49%E5%B2%81%E5%A5%B3%E5%AD%90%E7%94%B5%E6%A2%AF%E5%9D%A0%E4%BA%A1%E8%8E%B7%E8%B5%94100%E4%B8%87+%E4%BB%8A%E6%97%A5%E5%AE%89%E8%91%AC",
+          "title": "17岁女孩患罕见病样貌如六七岁",
+          "url": "https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%82%A3%E7%BD%95%E8%A7%81%E7%97%85%E6%A0%B7%E8%B2%8C%E5%A6%82%E5%85%AD%E4%B8%83%E5%B2%81",
           "source": "百度热搜",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时48分]"
+          "time_info": "[18时31分 ~ 18时36分]"
         },
         {
-          "title": "女子头回上高速33分钟开25公里被罚",
-          "url": "https://www.toutiao.com/trending/7654376082146967594/",
-          "source": "今日头条",
+          "title": "女子暴雨躲文旅局门口遭保安驱赶",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E8%BA%B2%E6%96%87%E6%97%85%E5%B1%80%E9%97%A8%E5%8F%A3%E9%81%AD%E4%BF%9D%E5%AE%89%E9%A9%B1%E8%B5%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时48分]"
-        },
-        {
-          "title": "滴露消毒液广告被指物化女性，品牌方道歉称系第三方达人创作，为何此类事件频繁发生？对品牌影响有多大？",
-          "url": "https://www.zhihu.com/question/2051710499239059925",
-          "source": "知乎",
-          "ranks": [
-            17
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -132,6 +144,17 @@
           "time_info": "[07时16分 ~ 07时20分]"
         },
         {
+          "title": "男子合成前女友不雅照致其自杀",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%88%E6%88%90%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%B8%8D%E9%9B%85%E7%85%A7%E8%87%B4%E5%85%B6%E8%87%AA%E6%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时36分]"
+        },
+        {
           "title": "女生称试衣被拉开帘子裸露遭围观",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E8%AF%95%E8%A1%A3%E8%A2%AB%E6%8B%89%E5%BC%80%E5%B8%98%E5%AD%90%E8%A3%B8%E9%9C%B2%E9%81%AD%E5%9B%B4%E8%A7%82%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -144,15 +167,59 @@
           "time_info": "[03时24分 ~ 07时20分]"
         },
         {
+          "title": "大狗未牵绳扑抱女童 狗主人拒不道歉",
+          "url": "https://www.toutiao.com/trending/7653449525257715758/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时36分]"
+        },
+        {
+          "title": "陌生男子凌晨狂试独居女子密码锁",
+          "url": "https://www.toutiao.com/trending/7654042388305920054/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时48分]"
+        },
+        {
+          "title": "男子凌晨狂试独居女子密码锁",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E7%8B%82%E8%AF%95%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E5%AF%86%E7%A0%81%E9%94%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时36分]"
+        },
+        {
           "title": "哈兰德与女友雨中拥吻",
           "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%8E%E5%A5%B3%E5%8F%8B%E9%9B%A8%E4%B8%AD%E6%8B%A5%E5%90%BB%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "女孩中考查分查到隐藏款",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83%E6%9F%A5%E5%88%86%E6%9F%A5%E5%88%B0%E9%9A%90%E8%97%8F%E6%AC%BE%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "租借女友作者自曝男主原型",
@@ -177,13 +244,24 @@
           "time_info": "07时20分"
         },
         {
+          "title": "给女朋友讲Niko夺冠的不易",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AE%B2Niko%E5%A4%BA%E5%86%A0%E7%9A%84%E4%B8%8D%E6%98%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "30岁女警为救跳楼轻生者牺牲",
           "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E8%AD%A6%E4%B8%BA%E6%95%91%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E8%80%85%E7%89%BA%E7%89%B2%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
@@ -218,7 +296,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
