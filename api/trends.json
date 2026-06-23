@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-06-24T03:11:45.854893+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-06-24T07:07:35.614626+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
       "match_count": 9,
       "titles": [
+        {
+          "title": "赵本山女儿自曝丈夫是悉尼大学硕士",
+          "url": "https://www.toutiao.com/trending/7654218748354396214/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            28,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 07时05分]"
+        },
+        {
+          "title": "《给阿嬷的情书》女主为母校打call",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E5%A5%B3%E4%B8%BB%E4%B8%BA%E6%AF%8D%E6%A0%A1%E6%89%93call",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 07时05分]"
+        },
         {
           "title": "《给阿嬷的情书》女主为母校打call",
           "url": "https://www.toutiao.com/trending/7654009751940120639/",
@@ -24,35 +49,12 @@
           "source": "微博",
           "ranks": [
             5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 03时08分]"
-        },
-        {
-          "title": "赵本山女儿自曝丈夫是悉尼大学硕士",
-          "url": "https://www.toutiao.com/trending/7654218748354396214/",
-          "source": "今日头条",
-          "ranks": [
-            22,
             28,
-            16
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时08分]"
-        },
-        {
-          "title": "《给阿嬷的情书》女主为母校打call",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E5%A5%B3%E4%B8%BB%E4%B8%BA%E6%AF%8D%E6%A0%A1%E6%89%93call",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 07时05分]"
         },
         {
           "title": "大四女生开发经期APP获苹果大奖",
@@ -71,22 +73,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 07时05分]"
         },
         {
           "title": "租借女友作者自曝男主原型",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 07时05分]"
         },
         {
           "title": "给女朋友讲Niko夺冠的不易",
@@ -105,23 +109,6 @@
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2025T1冠军皮肤",
-          "url": "https://s.weibo.com/weibo?q=2025T1%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
