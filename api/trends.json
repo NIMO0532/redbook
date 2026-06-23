@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T07:23:57.367449+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-06-23T14:50:59.541233+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "30岁女警为救跳楼轻生者牺牲",
@@ -38,9 +38,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "周星驰官宣新电影《功夫女足》7 月上映，目前后期制作中，你期待周氏喜剧回归吗？",
+          "url": "https://www.zhihu.com/question/2052334858995594599",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "30岁女副所长为救跳楼轻生者牺牲",
@@ -49,28 +60,6 @@
           "ranks": [
             9,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 07时20分]"
-        },
-        {
-          "title": "老人强拽女孩让座和家长扭打，成都地铁回应",
-          "url": "https://news.ifeng.com/c/8uAVMHxegaV",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 07时20分]"
-        },
-        {
-          "title": "女子反映问题被怼“举报个屁”",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8D%E6%98%A0%E9%97%AE%E9%A2%98%E8%A2%AB%E6%80%BC%E2%80%9C%E4%B8%BE%E6%8A%A5%E4%B8%AA%E5%B1%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -88,16 +77,37 @@
           "time_info": "[07时16分 ~ 07时20分]"
         },
         {
-          "title": "女子暴雨躲文旅局门口遭保安驱赶",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E8%BA%B2%E6%96%87%E6%97%85%E5%B1%80%E9%97%A8%E5%8F%A3%E9%81%AD%E4%BF%9D%E5%AE%89%E9%A9%B1%E8%B5%B6%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "赵本山女儿自曝丈夫是悉尼大学硕士",
+          "url": "https://www.toutiao.com/trending/7654218748354396214/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时24分 ~ 07时20分]"
+          "time_info": "[14时42分 ~ 14时48分]"
+        },
+        {
+          "title": "49岁女子电梯坠亡获赔100万 今日安葬",
+          "url": "https://www.baidu.com/s?wd=49%E5%B2%81%E5%A5%B3%E5%AD%90%E7%94%B5%E6%A2%AF%E5%9D%A0%E4%BA%A1%E8%8E%B7%E8%B5%94100%E4%B8%87+%E4%BB%8A%E6%97%A5%E5%AE%89%E8%91%AC",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时48分]"
+        },
+        {
+          "title": "女子头回上高速33分钟开25公里被罚",
+          "url": "https://www.toutiao.com/trending/7654376082146967594/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时48分]"
         },
         {
           "title": "滴露消毒液广告被指物化女性，品牌方道歉称系第三方达人创作，为何此类事件频繁发生？对品牌影响有多大？",
@@ -134,15 +144,48 @@
           "time_info": "[03时24分 ~ 07时20分]"
         },
         {
+          "title": "哈兰德与女友雨中拥吻",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%8E%E5%A5%B3%E5%8F%8B%E9%9B%A8%E4%B8%AD%E6%8B%A5%E5%90%BB%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "租借女友作者自曝男主原型",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
           "source": "贴吧",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "赵本山女儿曝丈夫是悉尼大学硕士",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E6%9B%9D%E4%B8%88%E5%A4%AB%E6%98%AF%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%A3%AB%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "30岁女警为救跳楼轻生者牺牲",
+          "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E8%AD%A6%E4%B8%BA%E6%95%91%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E8%80%85%E7%89%BA%E7%89%B2%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         }
       ]
     },
@@ -161,6 +204,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王者赵云孙权姬小满新皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%B5%B5%E4%BA%91%E5%AD%99%E6%9D%83%E5%A7%AC%E5%B0%8F%E6%BB%A1%E6%96%B0%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         }
       ]
     }
