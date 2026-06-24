@@ -1,23 +1,36 @@
 {
-  "generated_at": "2026-06-24T18:22:29.850168+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-06-24T21:22:08.096332+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
-          "title": "印度男孩看色情片后绑架并强奸女婴",
-          "url": "https://www.toutiao.com/trending/7653578961884184619/",
+          "title": "女孩中考查分查到“隐藏款”",
+          "url": "https://www.toutiao.com/trending/7653714997103280155/",
           "source": "今日头条",
           "ranks": [
-            15,
-            17
+            1,
+            18,
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 10时39分]"
+        },
+        {
+          "title": "女生高考查分601分 老师鸣礼炮欢呼",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E5%88%86+%E8%80%81%E5%B8%88%E9%B8%A3%E7%A4%BC%E7%82%AE%E6%AC%A2%E5%91%BC",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时39分]"
         },
         {
           "title": "《给阿嬷的情书》女主为母校打call",
@@ -42,12 +55,26 @@
           "time_info": "00时23分"
         },
         {
-          "title": "租借女友作者自曝男主原型",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
+          "title": "海贼王搞NTR,亲生崽变养女",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355603&amp;topic_name=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E6%90%9ENTR%2C%E4%BA%B2%E7%94%9F%E5%B4%BD%E5%8F%98%E5%85%BB%E5%A5%B3",
           "source": "贴吧",
           "ranks": [
-            26,
-            28
+            5,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 21时18分]"
+        },
+        {
+          "title": "女装退货率终于有救了",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E7%BB%88%E4%BA%8E%E6%9C%89%E6%95%91%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            28,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -61,27 +88,62 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时18分]"
         },
         {
-          "title": "假大师利用封建迷信性侵一对母女",
-          "url": "https://www.baidu.com/s?wd=%E5%81%87%E5%A4%A7%E5%B8%88%E5%88%A9%E7%94%A8%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%E6%80%A7%E4%BE%B5%E4%B8%80%E5%AF%B9%E6%AF%8D%E5%A5%B3",
-          "source": "百度热搜",
+          "title": "爸爸突然回家女儿闪现回屋假装写作业",
+          "url": "https://www.toutiao.com/trending/7654784512485720090/",
+          "source": "今日头条",
           "ranks": [
             13,
-            18
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时18分]"
+        },
+        {
+          "title": "5岁女孩摸邻居家兔子 头顶长脓包",
+          "url": "https://www.baidu.com/s?wd=5%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%91%B8%E9%82%BB%E5%B1%85%E5%AE%B6%E5%85%94%E5%AD%90+%E5%A4%B4%E9%A1%B6%E9%95%BF%E8%84%93%E5%8C%85",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 03时08分]"
+        },
+        {
+          "title": "租借女友作者自曝男主原型",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355286&amp;topic_name=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E4%BD%9C%E8%80%85%E8%87%AA%E6%9B%9D%E7%94%B7%E4%B8%BB%E5%8E%9F%E5%9E%8B",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 07时05分]"
+        },
+        {
+          "title": "女孩中考查分查到“隐藏款”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83%E6%9F%A5%E5%88%86%E6%9F%A5%E5%88%B0%E2%80%9C%E9%9A%90%E8%97%8F%E6%AC%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时27分]"
+          "time_info": "[10时35分 ~ 10时39分]"
         },
         {
-          "title": "飞身救人时发生意外，包头30岁派出所女副所长陈佳鑫为救轻生群众不幸牺牲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33435649",
-          "source": "澎湃新闻",
+          "title": "四名香港女子涉嫌拾遗不报被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%90%8D%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%90%E6%B6%89%E5%AB%8C%E6%8B%BE%E9%81%97%E4%B8%8D%E6%8A%A5%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -99,15 +161,15 @@
           "time_info": "[10时35分 ~ 10时39分]"
         },
         {
-          "title": "女子1年半内打赏男主播888万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%901%E5%B9%B4%E5%8D%8A%E5%86%85%E6%89%93%E8%B5%8F%E7%94%B7%E4%B8%BB%E6%92%AD888%E4%B8%87",
+          "title": "副院长出轨眼科主任事件女方已离职",
+          "url": "https://www.baidu.com/s?wd=%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%E4%BA%8B%E4%BB%B6%E5%A5%B3%E6%96%B9%E5%B7%B2%E7%A6%BB%E8%81%8C",
           "source": "百度热搜",
           "ranks": [
-            23
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时39分]"
+          "time_info": "[21时13分 ~ 21时18分]"
         },
         {
           "title": "男子救落水女孩遭对方家属埋怨",
@@ -132,6 +194,39 @@
           "time_info": "[18时15分 ~ 18时19分]"
         },
         {
+          "title": "女子上厕所闻到恶臭当晚扁桃体发炎",
+          "url": "https://www.toutiao.com/trending/7653816725155102726/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时18分]"
+        },
+        {
+          "title": "女子要司机帮忙搬行李被拒立马变脸",
+          "url": "https://www.toutiao.com/trending/7654351336097103908/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时18分]"
+        },
+        {
+          "title": "男子救起落水女孩遭对方家属埋怨",
+          "url": "https://www.toutiao.com/trending/7654222368525107243/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时18分]"
+        },
+        {
           "title": "给女朋友讲Niko夺冠的不易",
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AE%B2Niko%E5%A4%BA%E5%86%A0%E7%9A%84%E4%B8%8D%E6%98%93",
           "source": "bilibili 热搜",
@@ -143,21 +238,21 @@
           "time_info": "00时27分"
         },
         {
-          "title": "周星驰官宣新电影《功夫女足》7 月上映，目前后期制作中，你期待周氏喜剧回归吗？",
-          "url": "https://www.zhihu.com/question/2052334858995594599",
-          "source": "知乎",
+          "title": "日女子藏前夫尸体15年停缴电费败露",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%A5%B3%E5%AD%90%E8%97%8F%E5%89%8D%E5%A4%AB%E5%B0%B8%E4%BD%9315%E5%B9%B4%E5%81%9C%E7%BC%B4%E7%94%B5%E8%B4%B9%E8%B4%A5%E9%9C%B2%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "21时18分"
         }
       ]
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2025T1冠军皮肤",
@@ -177,7 +272,18 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "杨紫皮肤 以为开了磨皮",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9A%AE%E8%82%A4%20%E4%BB%A5%E4%B8%BA%E5%BC%80%E4%BA%86%E7%A3%A8%E7%9A%AE&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
