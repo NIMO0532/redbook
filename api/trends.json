@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T02:35:10.335257+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-06-25T04:35:21.695995+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩国女消防员被强迫陪酒后死亡，李在明怒斥：竟把下属当玩物",
@@ -15,8 +15,55 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 04时33分]"
+        },
+        {
+          "title": "印度歹徒轮奸女子警方拒立案引众怒",
+          "url": "https://www.toutiao.com/trending/7654106920257224755/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时11分 ~ 02时33分]"
+          "time_info": "[02时28分 ~ 04时33分]"
+        },
+        {
+          "title": "女孩感冒服用药店配药后急性心衰死亡",
+          "url": "https://www.toutiao.com/trending/7654937936777084947/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 04时33分]"
+        },
+        {
+          "title": "12岁女孩服感冒药后急性心衰死亡",
+          "url": "https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%8D%E6%84%9F%E5%86%92%E8%8D%AF%E5%90%8E%E6%80%A5%E6%80%A7%E5%BF%83%E8%A1%B0%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时33分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时33分]"
         },
         {
           "title": "副院长出轨眼科主任事件女方已离职",
@@ -30,72 +77,32 @@
           "time_info": "[00时11分 ~ 00时15分]"
         },
         {
-          "title": "印度歹徒轮奸女子警方拒立案引众怒",
-          "url": "https://www.toutiao.com/trending/7654106920257224755/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 02时33分]"
-        },
-        {
-          "title": "女孩感冒服用药店配药后急性心衰死亡",
-          "url": "https://www.toutiao.com/trending/7654937936777084947/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 02时33分]"
-        },
-        {
-          "title": "12岁女孩服感冒药后急性心衰死亡",
-          "url": "https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%8D%E6%84%9F%E5%86%92%E8%8D%AF%E5%90%8E%E6%80%A5%E6%80%A7%E5%BF%83%E8%A1%B0%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时33分]"
-        },
-        {
-          "title": "印度5名歹徒轮奸30岁已婚女子",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A65%E5%90%8D%E6%AD%B9%E5%BE%92%E8%BD%AE%E5%A5%B830%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时33分]"
-        },
-        {
-          "title": "如何看待周星驰新电影《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2053067286899058574",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
           "title": "13岁女孩称被强奸案细节披露",
           "url": "https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A7%B0%E8%A2%AB%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "孙权新皮肤仙扇使者二创",
+          "url": "https://www.douyin.com/hot/2546367",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "00时15分"
         }
       ]
     }
