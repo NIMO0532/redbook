@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T08:08:01.777268+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-06-25T13:05:00.899484+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩国女消防员被强迫陪酒后死亡，李在明怒斥：竟把下属当玩物",
@@ -33,18 +33,38 @@
           "time_info": "[02时28分 ~ 08时03分]"
         },
         {
-          "title": "如何看待周星驰新电影《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2053067286899058574",
-          "source": "知乎",
+          "title": "高考成绩被屏蔽 母女表情神同步",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD+%E6%AF%8D%E5%A5%B3%E8%A1%A8%E6%83%85%E7%A5%9E%E5%90%8C%E6%AD%A5",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8,
-            5,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 08时03分]"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 13时02分]"
+        },
+        {
+          "title": "女孩感冒服用药店配药后急性心衰死亡",
+          "url": "https://www.toutiao.com/trending/7654937936777084947/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时28分 ~ 06时13分]"
+        },
+        {
+          "title": "高考成绩被屏蔽母女表情神同步",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E6%AF%8D%E5%A5%B3%E8%A1%A8%E6%83%85%E7%A5%9E%E5%90%8C%E6%AD%A5%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "副院长出轨眼科主任女方离职男复出",
@@ -77,12 +97,13 @@
           "time_info": "[00时15分 ~ 08时03分]"
         },
         {
-          "title": "海贼王搞NTR,亲生崽变养女",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355603&amp;topic_name=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E6%90%9ENTR%2C%E4%BA%B2%E7%94%9F%E5%B4%BD%E5%8F%98%E5%85%BB%E5%A5%B3",
-          "source": "贴吧",
+          "title": "印度5名歹徒轮奸30岁已婚女子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A65%E5%90%8D%E6%AD%B9%E5%BE%92%E8%BD%AE%E5%A5%B830%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            16
+            23,
+            22,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -126,6 +147,17 @@
           "time_info": "[06时10分 ~ 08时03分]"
         },
         {
+          "title": "女子散步被落叶砸成十级伤残",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%95%A3%E6%AD%A5%E8%A2%AB%E8%90%BD%E5%8F%B6%E7%A0%B8%E6%88%90%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 13时02分]"
+        },
+        {
           "title": "副院长出轨眼科主任事件女方已离职",
           "url": "https://www.baidu.com/s?wd=%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%E4%BA%8B%E4%BB%B6%E5%A5%B3%E6%96%B9%E5%B7%B2%E7%A6%BB%E8%81%8C",
           "source": "百度热搜",
@@ -135,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时15分]"
+        },
+        {
+          "title": "女孩感冒服药店配药后急性心衰死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%84%9F%E5%86%92%E6%9C%8D%E8%8D%AF%E5%BA%97%E9%85%8D%E8%8D%AF%E5%90%8E%E6%80%A5%E6%80%A7%E5%BF%83%E8%A1%B0%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 13时02分]"
         },
         {
           "title": "特斯拉遭起诉：一辆Model 3撞入民宅致一名女性身亡",
@@ -148,6 +191,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "马思唯女友撞脸angelababy",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E5%94%AF%E5%A5%B3%E5%8F%8B%E6%92%9E%E8%84%B8angelababy%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "女子2根手指碳化变黑仨月才求医",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%902%E6%A0%B9%E6%89%8B%E6%8C%87%E7%A2%B3%E5%8C%96%E5%8F%98%E9%BB%91%E4%BB%A8%E6%9C%88%E6%89%8D%E6%B1%82%E5%8C%BB%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -157,6 +211,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口重新点燃医疗创投圈，有投资人称“几乎所有方向都能融到钱”",
+          "url": "https://wallstreetcn.com/livenews/3124299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     }
