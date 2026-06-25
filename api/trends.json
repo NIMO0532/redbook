@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T13:05:00.899484+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-06-25T16:33:02.741000+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "韩国女消防员被强迫陪酒后死亡，李在明怒斥：竟把下属当玩物",
@@ -31,6 +31,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时28分 ~ 08时03分]"
+        },
+        {
+          "title": "海贼王搞NTR,亲生崽变养女",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355603&amp;topic_name=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E6%90%9ENTR%2C%E4%BA%B2%E7%94%9F%E5%B4%BD%E5%8F%98%E5%85%BB%E5%A5%B3",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 16时29分]"
+        },
+        {
+          "title": "云南唯一女缉毒站长露脸缉毒9年",
+          "url": "https://www.toutiao.com/trending/7655230770050682395/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时29分]"
         },
         {
           "title": "高考成绩被屏蔽 母女表情神同步",
@@ -62,9 +87,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "副院长出轨眼科主任女方离职男复出",
@@ -123,18 +159,6 @@
           "time_info": "[02时33分 ~ 08时03分]"
         },
         {
-          "title": "爸爸突然回家女儿闪现回屋假装写作业",
-          "url": "https://www.toutiao.com/trending/7654784512485720090/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 06时13分]"
-        },
-        {
           "title": "李在明怒斥女消防员被强迫陪酒致死",
           "url": "https://www.toutiao.com/trending/7654589678322860070/",
           "source": "今日头条",
@@ -145,17 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时10分 ~ 08时03分]"
-        },
-        {
-          "title": "女子散步被落叶砸成十级伤残",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%95%A3%E6%AD%A5%E8%A2%AB%E8%90%BD%E5%8F%B6%E7%A0%B8%E6%88%90%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 13时02分]"
         },
         {
           "title": "副院长出轨眼科主任事件女方已离职",
@@ -169,6 +182,29 @@
           "time_info": "[00时11分 ~ 00时15分]"
         },
         {
+          "title": "马思唯女友撞脸angelababy",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E5%94%AF%E5%A5%B3%E5%8F%8B%E6%92%9E%E8%84%B8angelababy%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 16时29分]"
+        },
+        {
+          "title": "贵州女孩高考710分淡定与母亲拥抱",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83710%E5%88%86%E6%B7%A1%E5%AE%9A%E4%B8%8E%E6%AF%8D%E4%BA%B2%E6%8B%A5%E6%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时29分]"
+        },
+        {
           "title": "女孩感冒服药店配药后急性心衰死亡",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%84%9F%E5%86%92%E6%9C%8D%E8%8D%AF%E5%BA%97%E9%85%8D%E8%8D%AF%E5%90%8E%E6%80%A5%E6%80%A7%E5%BF%83%E8%A1%B0%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -180,37 +216,37 @@
           "time_info": "[12时58分 ~ 13时02分]"
         },
         {
-          "title": "特斯拉遭起诉：一辆Model 3撞入民宅致一名女性身亡",
-          "url": "https://wallstreetcn.com/livenews/3124125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "马思唯女友撞脸angelababy",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E5%94%AF%E5%A5%B3%E5%8F%8B%E6%92%9E%E8%84%B8angelababy%23&t=31&band_rank=16&Refer=top",
+          "title": "高考493分放弃本科读专科女生现状",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83493%E5%88%86%E6%94%BE%E5%BC%83%E6%9C%AC%E7%A7%91%E8%AF%BB%E4%B8%93%E7%A7%91%E5%A5%B3%E7%94%9F%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "16时29分"
         },
         {
-          "title": "女子2根手指碳化变黑仨月才求医",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%902%E6%A0%B9%E6%89%8B%E6%8C%87%E7%A2%B3%E5%8C%96%E5%8F%98%E9%BB%91%E4%BB%A8%E6%9C%88%E6%89%8D%E6%B1%82%E5%8C%BB%23&t=31&band_rank=23&Refer=top",
+          "title": "女友害死儿子生父同意撤销谅解书",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E5%AE%B3%E6%AD%BB%E5%84%BF%E5%AD%90%E7%94%9F%E7%88%B6%E5%90%8C%E6%84%8F%E6%92%A4%E9%94%80%E8%B0%85%E8%A7%A3%E4%B9%A6%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "16时29分"
+        },
+        {
+          "title": "17岁女孩长期吸食笑气无法行走",
+          "url": "https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%95%BF%E6%9C%9F%E5%90%B8%E9%A3%9F%E7%AC%91%E6%B0%94%E6%97%A0%E6%B3%95%E8%A1%8C%E8%B5%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
