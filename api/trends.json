@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T02:32:55.020779+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-06-27T06:09:22.408104+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "杨紫获白玉兰奖最佳女主",
@@ -15,31 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
         },
         {
           "title": "四提白玉兰 杨紫终获最佳女主角",
           "url": "https://www.toutiao.com/trending/7655292606620073990/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时28分]"
-        },
-        {
-          "title": "杨紫获白玉兰最佳女主角",
-          "url": "https://www.douyin.com/hot/2548999",
-          "source": "抖音",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
         },
         {
           "title": "长腿女孩身高178cm高考617分",
@@ -60,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
         },
         {
           "title": "女子称花16万从中石化烟台一加油站员工购花生油无法提货，分公司：正在处理",
@@ -71,8 +60,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
+        },
+        {
+          "title": "杨紫获白玉兰最佳女主角",
+          "url": "https://www.douyin.com/hot/2548999",
+          "source": "抖音",
+          "ranks": [
+            1,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时08分]"
         },
         {
           "title": "女子溪谷中玩水被卡石缝不幸身亡",
@@ -80,11 +82,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
         },
         {
           "title": "女生高考近700分：不比吃穿比学习",
@@ -92,22 +95,23 @@
           "source": "今日头条",
           "ranks": [
             15,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
         },
         {
-          "title": "8岁女孩心衰抢救费一天近1万",
-          "url": "https://www.baidu.com/s?wd=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%BF%83%E8%A1%B0%E6%8A%A2%E6%95%91%E8%B4%B9%E4%B8%80%E5%A4%A9%E8%BF%911%E4%B8%87",
-          "source": "百度热搜",
+          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
         },
         {
           "title": "世界杯墨西哥女裁判撞脸蔡依林",
@@ -115,7 +119,19 @@
           "source": "今日头条",
           "ranks": [
             23,
-            18
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时08分]"
+        },
+        {
+          "title": "8岁女孩心衰抢救费一天近1万",
+          "url": "https://www.baidu.com/s?wd=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%BF%83%E8%A1%B0%E6%8A%A2%E6%95%91%E8%B4%B9%E4%B8%80%E5%A4%A9%E8%BF%911%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -132,6 +148,82 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 02时28分]"
+        },
+        {
+          "title": "女子新婚2月遭3次家暴 检察院出手",
+          "url": "https://www.toutiao.com/trending/7654847145775595562/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 06时08分]"
+        },
+        {
+          "title": "阿根廷一女子抢劫商铺反被店主扒衣",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E6%8A%A2%E5%8A%AB%E5%95%86%E9%93%BA%E5%8F%8D%E8%A2%AB%E5%BA%97%E4%B8%BB%E6%89%92%E8%A1%A3",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 06时08分]"
+        },
+        {
+          "title": "迟蓬获白玉兰最佳女配角",
+          "url": "https://www.douyin.com/hot/2548993",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时08分]"
+        },
+        {
+          "title": "复旦出考神,沪女生高考631分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时08分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时08分]"
+        },
+        {
+          "title": "女子抹黑侮辱张桂梅被行拘10日",
+          "url": "https://www.douyin.com/hot/2547841",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 06时08分]"
         },
         {
           "title": "“多人将两女子关铁笼游街”系摆拍",
@@ -168,74 +260,26 @@
           "time_info": "[00时09分 ~ 00时15分]"
         },
         {
-          "title": "迟蓬获白玉兰最佳女配角",
-          "url": "https://www.douyin.com/hot/2548993",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时28分]"
-        },
-        {
-          "title": "复旦出考神,沪女生高考631分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时28分]"
-        },
-        {
-          "title": "女子新婚2月遭3次家暴 检察院出手",
-          "url": "https://www.toutiao.com/trending/7654847145775595562/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时28分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时28分]"
-        },
-        {
-          "title": "阿根廷一女子抢劫商铺反被店主扒衣",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E6%8A%A2%E5%8A%AB%E5%95%86%E9%93%BA%E5%8F%8D%E8%A2%AB%E5%BA%97%E4%B8%BB%E6%89%92%E8%A1%A3",
+          "title": "初中学历女生因面试走红 现状曝光",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E5%AD%A6%E5%8E%86%E5%A5%B3%E7%94%9F%E5%9B%A0%E9%9D%A2%E8%AF%95%E8%B5%B0%E7%BA%A2+%E7%8E%B0%E7%8A%B6%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            26
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时28分]"
+          "time_info": "[00时09分 ~ 00时15分]"
         },
         {
-          "title": "女子抹黑侮辱张桂梅被行拘10日",
-          "url": "https://www.douyin.com/hot/2547841",
-          "source": "抖音",
+          "title": "29岁女子顺产生下3儿1女四胞胎",
+          "url": "https://www.toutiao.com/trending/7654535880581431342/",
+          "source": "今日头条",
           "ranks": [
-            27,
-            28
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时28分]"
+          "time_info": "[06时05分 ~ 06时08分]"
         },
         {
           "title": "深外美女学霸高考分数达清北线",
@@ -258,6 +302,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时15分]"
+        },
+        {
+          "title": "白玉兰女星红毯百花齐放",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%B3%E6%98%9F%E7%BA%A2%E6%AF%AF%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时28分]"
+        },
+        {
+          "title": "如何看待 2026 年 6 月 26 日 DC 新作《超级少女》血扑，首日票房预测值不到 270 万人民币？",
+          "url": "https://www.zhihu.com/question/2053855466724315465",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "女子溪谷中玩水身体被卡石缝身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%BA%AA%E8%B0%B7%E4%B8%AD%E7%8E%A9%E6%B0%B4%E8%BA%AB%E4%BD%93%E8%A2%AB%E5%8D%A1%E7%9F%B3%E7%BC%9D%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     }
