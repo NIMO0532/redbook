@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T21:29:06.196493+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-06-27T23:17:59.339368+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "杨紫获白玉兰奖最佳女主",
@@ -20,6 +20,22 @@
           "time_info": "[00时09分 ~ 08时02分]"
         },
         {
+          "title": "白玉兰最佳女主角杨紫：四次来到白玉兰，第一次站在台上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459857",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 23时15分]"
+        },
+        {
           "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
           "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
           "source": "澎湃新闻",
@@ -32,6 +48,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时09分 ~ 14时52分]"
+        },
+        {
+          "title": "复旦出考神,沪女生高考631分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            22,
+            23,
+            24,
+            27,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 23时15分]"
         },
         {
           "title": "四提白玉兰 杨紫终获最佳女主角",
@@ -69,22 +102,6 @@
           "time_info": "[00时09分 ~ 08时02分]"
         },
         {
-          "title": "白玉兰最佳女主角杨紫：四次来到白玉兰，第一次站在台上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459857",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 21时21分]"
-        },
-        {
           "title": "女子溪谷中玩水被卡石缝不幸身亡",
           "url": "https://www.toutiao.com/trending/7655474971352088627/",
           "source": "今日头条",
@@ -97,23 +114,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 08时02分]"
-        },
-        {
-          "title": "复旦出考神,沪女生高考631分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            22,
-            23,
-            24,
-            27,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 21时21分]"
         },
         {
           "title": "杨紫获白玉兰最佳女主角",
@@ -156,6 +156,17 @@
           "time_info": "[14时47分 ~ 14时52分]"
         },
         {
+          "title": "新中国第一位女省委书记万绍芬逝世",
+          "url": "https://www.toutiao.com/trending/7656068956377058879/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时15分]"
+        },
+        {
           "title": "长腿女孩身高178cm高考617分",
           "url": "https://www.toutiao.com/trending/7655552569800081427/",
           "source": "今日头条",
@@ -178,6 +189,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 06时08分]"
+        },
+        {
+          "title": "白玉兰绽放｜喜极而泣！四提白玉兰，杨紫终获最佳女主角奖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451759",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 23时15分]"
         },
         {
           "title": "世界杯墨西哥女裁判撞脸蔡依林",
@@ -271,18 +295,6 @@
           "time_info": "[00时09分 ~ 02时28分]"
         },
         {
-          "title": "白玉兰绽放｜喜极而泣！四提白玉兰，杨紫终获最佳女主角奖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451759",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 21时21分]"
-        },
-        {
           "title": "应急部门回应女子玩水被卡石缝身亡",
           "url": "https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%8E%A9%E6%B0%B4%E8%A2%AB%E5%8D%A1%E7%9F%B3%E7%BC%9D%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
@@ -293,6 +305,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时47分 ~ 17时33分]"
+        },
+        {
+          "title": "女生高考政治考出满分100",
+          "url": "https://www.toutiao.com/trending/7655228594176655402/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时15分]"
+        },
+        {
+          "title": "女子第三胎生龙凤胎 公司奖励16万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%89%E8%83%8E%E7%94%9F%E9%BE%99%E5%87%A4%E8%83%8E+%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B116%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时15分]"
         },
         {
           "title": "女生高考政治竟然考出满分100",
@@ -380,6 +416,17 @@
           "time_info": "[00时09分 ~ 00时15分]"
         },
         {
+          "title": "女子开车经过村庄看到飞机正在滑行",
+          "url": "https://www.toutiao.com/trending/7656025163877040169/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时15分]"
+        },
+        {
           "title": "如何评价 DC 电影《超级少女》？",
           "url": "https://www.zhihu.com/question/2053584057317810791",
           "source": "知乎",
@@ -448,15 +495,15 @@
           "time_info": "[14时47分 ~ 14时52分]"
         },
         {
-          "title": "女生高考政治考出满分100",
-          "url": "https://www.toutiao.com/trending/7655228594176655402/",
-          "source": "今日头条",
+          "title": "女子把饮料当水喝一年半烂了15颗牙",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E9%A5%AE%E6%96%99%E5%BD%93%E6%B0%B4%E5%96%9D%E4%B8%80%E5%B9%B4%E5%8D%8A%E7%83%82%E4%BA%8615%E9%A2%97%E7%89%99",
+          "source": "百度热搜",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时21分]"
+          "time_info": "[23时10分 ~ 23时15分]"
         },
         {
           "title": "初中学历女生因面试走红 现状曝光",
@@ -490,17 +537,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 02时28分]"
-        },
-        {
-          "title": "女子第三胎生龙凤胎 公司奖励16万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%89%E8%83%8E%E7%94%9F%E9%BE%99%E5%87%A4%E8%83%8E+%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B116%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时21分]"
         },
         {
           "title": "委内瑞拉震区救出中国女孩",
@@ -559,6 +595,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "吴艳妮女子100米栏夺冠",
+          "url": "https://www.douyin.com/hot/2549949",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "14岁少女谈吸毒后割腕",
           "url": "https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%A5%B3%E8%B0%88%E5%90%B8%E6%AF%92%E5%90%8E%E5%89%B2%E8%85%95%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -568,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "泰17岁少女遭外国男子谋杀抛裸尸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B017%E5%B2%81%E5%B0%91%E5%A5%B3%E9%81%AD%E5%A4%96%E5%9B%BD%E7%94%B7%E5%AD%90%E8%B0%8B%E6%9D%80%E6%8A%9B%E8%A3%B8%E5%B0%B8%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "脑瘫女孩跳楼身亡生前表露轻生念头",
@@ -587,7 +645,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
