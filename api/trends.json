@@ -1,361 +1,44 @@
 {
-  "generated_at": "2026-06-28T23:22:00.046145+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-29T01:06:40.427294+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 30,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "新中国第一位女省委书记万绍芬逝世",
-          "url": "https://www.toutiao.com/trending/7656068956377058879/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时04分]"
-        },
-        {
-          "title": "爆了,Guma女枪台词太张狂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355697&amp;topic_name=%E7%88%86%E4%BA%86%2CGuma%E5%A5%B3%E6%9E%AA%E5%8F%B0%E8%AF%8D%E5%A4%AA%E5%BC%A0%E7%8B%82",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时10分 ~ 23时18分]"
-        },
-        {
-          "title": "女子开车经过村庄看到飞机正在滑行",
-          "url": "https://www.toutiao.com/trending/7656025163877040169/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            10,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时04分]"
-        },
-        {
-          "title": "女子开车经过村庄看到飞机正在滑行",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E7%BB%8F%E8%BF%87%E6%9D%91%E5%BA%84%E7%9C%8B%E5%88%B0%E9%A3%9E%E6%9C%BA%E6%AD%A3%E5%9C%A8%E6%BB%91%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时04分]"
-        },
         {
           "title": "25岁女生十年间从中职考上研究生，考研期间送外卖赚取生活费：这一路太不容易",
           "url": "https://m.thepaper.cn/newsDetail_forward_33468098",
           "source": "澎湃新闻",
           "ranks": [
-            19,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时57分 ~ 23时18分]"
-        },
-        {
-          "title": "三战高考女孩查分大哭",
-          "url": "https://www.toutiao.com/trending/7656138669929709609/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时02分]"
+          "time_info": "[01时01分 ~ 01时04分]"
         },
         {
-          "title": "广东女子差1秒就被脱落吊扇砸中了",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A5%B3%E5%AD%90%E5%B7%AE1%E7%A7%92%E5%B0%B1%E8%A2%AB%E8%84%B1%E8%90%BD%E5%90%8A%E6%89%87%E7%A0%B8%E4%B8%AD%E4%BA%86",
+          "title": "女子跑步4年不拉伸小腿肌肉硬如铁",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%91%E6%AD%A54%E5%B9%B4%E4%B8%8D%E6%8B%89%E4%BC%B8%E5%B0%8F%E8%85%BF%E8%82%8C%E8%82%89%E7%A1%AC%E5%A6%82%E9%93%81",
           "source": "百度热搜",
           "ranks": [
-            28,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 07时04分]"
-        },
-        {
-          "title": "当服刑人员子女面对大学志愿填报：两重困境下该如何选择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470845",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时45分 ~ 23时18分]"
-        },
-        {
-          "title": "女子吃见手青产生“看见小人”幻觉",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E8%A7%81%E6%89%8B%E9%9D%92%E4%BA%A7%E7%94%9F%E2%80%9C%E7%9C%8B%E8%A7%81%E5%B0%8F%E4%BA%BA%E2%80%9D%E5%B9%BB%E8%A7%89",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 07时04分]"
-        },
-        {
-          "title": "女子被骗500万丈夫自杀骗子获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97500%E4%B8%87%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80%E9%AA%97%E5%AD%90%E8%8E%B7%E5%88%91%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 23时18分]"
-        },
-        {
-          "title": "女子骑电动车走人行道被拦后发脾气",
-          "url": "https://www.toutiao.com/trending/7656049416549171241/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时21分 ~ 23时18分]"
-        },
-        {
-          "title": "女孩向警察借手机刷单 民警识破骗局",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%90%91%E8%AD%A6%E5%AF%9F%E5%80%9F%E6%89%8B%E6%9C%BA%E5%88%B7%E5%8D%95+%E6%B0%91%E8%AD%A6%E8%AF%86%E7%A0%B4%E9%AA%97%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时57分 ~ 07时04分]"
-        },
-        {
-          "title": "女子上班莫名发呆竟诊断为癫痫",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8A%E7%8F%AD%E8%8E%AB%E5%90%8D%E5%8F%91%E5%91%86%E7%AB%9F%E8%AF%8A%E6%96%AD%E4%B8%BA%E7%99%AB%E7%97%AB",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时45分 ~ 21时26分]"
-        },
-        {
-          "title": "复旦出考神,沪女生高考631分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 07时04分]"
-        },
-        {
-          "title": "三战高考女孩查分大哭看哭网友",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83%E5%A5%B3%E5%AD%A9%E6%9F%A5%E5%88%86%E5%A4%A7%E5%93%AD%E7%9C%8B%E5%93%AD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 06时01分]"
-        },
-        {
-          "title": "三战高考女孩查分大哭看哭网友",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83%E5%A5%B3%E5%AD%A9%E6%9F%A5%E5%88%86%E5%A4%A7%E5%93%AD%E7%9C%8B%E5%93%AD%E7%BD%91%E5%8F%8B",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时02分]"
-        },
-        {
-          "title": "吴艳妮女子100米栏夺冠",
-          "url": "https://www.douyin.com/hot/2549949",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时04分]"
-        },
-        {
-          "title": "女子花近2万摘囊肿得知根本不用摘",
-          "url": "https://www.toutiao.com/trending/7656007934576885803/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时02分]"
-        },
-        {
-          "title": "女生毕业寄几百斤包裹妈妈直呼可怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%AF%84%E5%87%A0%E7%99%BE%E6%96%A4%E5%8C%85%E8%A3%B9%E5%A6%88%E5%A6%88%E7%9B%B4%E5%91%BC%E5%8F%AF%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时02分]"
-        },
-        {
-          "title": "女子携两大包浸泡毒品旧衣入境",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%90%BA%E4%B8%A4%E5%A4%A7%E5%8C%85%E6%B5%B8%E6%B3%A1%E6%AF%92%E5%93%81%E6%97%A7%E8%A1%A3%E5%85%A5%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时50分]"
-        },
-        {
-          "title": "女子山间徒步遭蚂蝗吸血全程无感",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B1%B1%E9%97%B4%E5%BE%92%E6%AD%A5%E9%81%AD%E8%9A%82%E8%9D%97%E5%90%B8%E8%A1%80%E5%85%A8%E7%A8%8B%E6%97%A0%E6%84%9F",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时02分]"
-        },
-        {
-          "title": "电影抓特务里了不起的女性",
-          "url": "https://www.douyin.com/hot/2550281",
-          "source": "抖音",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时26分]"
-        },
-        {
-          "title": "当一档女性节目选择关“美颜滤镜”",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E6%A1%A3%E5%A5%B3%E6%80%A7%E8%8A%82%E7%9B%AE%E9%80%89%E6%8B%A9%E5%85%B3%E2%80%9C%E7%BE%8E%E9%A2%9C%E6%BB%A4%E9%95%9C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时02分]"
-        },
-        {
-          "title": "泰17岁少女遭外国男子谋杀抛裸尸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B017%E5%B2%81%E5%B0%91%E5%A5%B3%E9%81%AD%E5%A4%96%E5%9B%BD%E7%94%B7%E5%AD%90%E8%B0%8B%E6%9D%80%E6%8A%9B%E8%A3%B8%E5%B0%B8%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时10分]"
-        },
-        {
-          "title": "女子携两大包浸泡毒品旧衣入境",
-          "url": "https://www.toutiao.com/trending/7656279535306473491/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时02分]"
-        },
-        {
-          "title": "男子捅死前妻获子女谅解 被判14年",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB%E5%89%8D%E5%A6%BB%E8%8E%B7%E5%AD%90%E5%A5%B3%E8%B0%85%E8%A7%A3+%E8%A2%AB%E5%88%A414%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时50分]"
-        },
-        {
-          "title": "线路错接女子替7户邻居交17年电费",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%BF%E8%B7%AF%E9%94%99%E6%8E%A5%E5%A5%B3%E5%AD%90%E6%9B%BF7%E6%88%B7%E9%82%BB%E5%B1%85%E4%BA%A417%E5%B9%B4%E7%94%B5%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时18分]"
-        },
-        {
-          "title": "金卡戴珊女儿的腿",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E5%8D%A1%E6%88%B4%E7%8F%8A%E5%A5%B3%E5%84%BF%E7%9A%84%E8%85%BF&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "女子替7户邻居交了17年电费",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9B%BF7%E6%88%B7%E9%82%BB%E5%B1%85%E4%BA%A4%E4%BA%8617%E5%B9%B4%E7%94%B5%E8%B4%B9%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "01时04分"
         },
         {
-          "title": "女生高考政治考出满分100",
-          "url": "https://www.toutiao.com/trending/7655228594176655402/",
-          "source": "今日头条",
+          "title": "女子爬山被蚂蝗攻击伤口渗血7小时",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%AC%E5%B1%B1%E8%A2%AB%E8%9A%82%E8%9D%97%E6%94%BB%E5%87%BB%E4%BC%A4%E5%8F%A3%E6%B8%97%E8%A1%807%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
           "ranks": [
-            29
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时00分"
+          "time_info": "01时04分"
         }
       ]
     }
