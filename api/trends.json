@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T01:06:40.427294+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-29T03:11:20.814876+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "25岁女生十年间从中职考上研究生，考研期间送外卖赚取生活费：这一路太不容易",
@@ -15,8 +15,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时09分]"
+        },
+        {
+          "title": "当服刑人员子女面对大学志愿填报：两重困境下该如何选择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470845",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时09分]"
         },
         {
           "title": "女子跑步4年不拉伸小腿肌肉硬如铁",
@@ -25,20 +36,21 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时09分]"
         },
         {
-          "title": "女子爬山被蚂蝗攻击伤口渗血7小时",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%AC%E5%B1%B1%E8%A2%AB%E8%9A%82%E8%9D%97%E6%94%BB%E5%87%BB%E4%BC%A4%E5%8F%A3%E6%B8%97%E8%A1%807%E5%B0%8F%E6%97%B6",
+          "title": "线路错接女子替7户邻居交17年电费",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%BF%E8%B7%AF%E9%94%99%E6%8E%A5%E5%A5%B3%E5%AD%90%E6%9B%BF7%E6%88%B7%E9%82%BB%E5%B1%85%E4%BA%A417%E5%B9%B4%E7%94%B5%E8%B4%B9",
           "source": "百度热搜",
           "ranks": [
-            23
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时09分]"
         }
       ]
     }
