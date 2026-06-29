@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-29T08:18:31.609321+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-06-29T13:30:52.029711+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "当服刑人员子女面对大学志愿填报：两重困境下该如何选择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470845",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 13时28分]"
+        },
         {
           "title": "25岁女生十年间从中职考上研究生，考研期间送外卖赚取生活费：这一路太不容易",
           "url": "https://m.thepaper.cn/newsDetail_forward_33468098",
@@ -34,34 +48,6 @@
           "time_info": "[01时04分 ~ 08时16分]"
         },
         {
-          "title": "线路错接女子替7户邻居交17年电费",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%BF%E8%B7%AF%E9%94%99%E6%8E%A5%E5%A5%B3%E5%AD%90%E6%9B%BF7%E6%88%B7%E9%82%BB%E5%B1%85%E4%BA%A417%E5%B9%B4%E7%94%B5%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            17,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 08时16分]"
-        },
-        {
-          "title": "当服刑人员子女面对大学志愿填报：两重困境下该如何选择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470845",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 08时16分]"
-        },
-        {
           "title": "女子爬山被蚂蝗攻击伤口渗血7小时",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%AC%E5%B1%B1%E8%A2%AB%E8%9A%82%E8%9D%97%E6%94%BB%E5%87%BB%E4%BC%A4%E5%8F%A3%E6%B8%97%E8%A1%807%E5%B0%8F%E6%97%B6",
           "source": "百度热搜",
@@ -77,27 +63,27 @@
           "time_info": "[01时04分 ~ 07时02分]"
         },
         {
-          "title": "电影抓特务里了不起的女性",
-          "url": "https://www.douyin.com/hot/2550281",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 07时02分]"
-        },
-        {
           "title": "《步步惊心》播出 15 年后女主角若曦人设「塌房」，被指双标、恋爱脑，为何现代观众评价与以往大相径庭？",
           "url": "https://www.zhihu.com/question/2053535008317517945",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 13时28分]"
+        },
+        {
+          "title": "女儿称是生父强奸所生拒付赡养费",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%A7%B0%E6%98%AF%E7%94%9F%E7%88%B6%E5%BC%BA%E5%A5%B8%E6%89%80%E7%94%9F%E6%8B%92%E4%BB%98%E8%B5%A1%E5%85%BB%E8%B4%B9%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "13时28分"
         },
         {
           "title": "武汉大学回应女孩查完分喂猪",
