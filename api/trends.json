@@ -1,200 +1,23 @@
 {
-  "generated_at": "2026-06-30T21:16:19.771092+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-07-01T00:26:25.520460+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 28,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "女子发现孩子非现任亲生状告前任索赔",
-          "url": "https://www.toutiao.com/trending/7656678655938789412/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            8,
-            18,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时46分 ~ 08时02分]"
-        },
-        {
-          "title": "女子健身不当 居然“脑子漏水”了",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E4%B8%8D%E5%BD%93+%E5%B1%85%E7%84%B6%E2%80%9C%E8%84%91%E5%AD%90%E6%BC%8F%E6%B0%B4%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时46分 ~ 08时02分]"
-        },
-        {
-          "title": "知名配音演员病逝，冯程程、小龙女都是她配的",
-          "url": "https://news.ifeng.com/c/8uLiJzmzjUd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时46分 ~ 07时56分]"
-        },
-        {
-          "title": "在纽约卖江西米粉的超级少女",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%8D%96%E6%B1%9F%E8%A5%BF%E7%B1%B3%E7%B2%89%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "绿王+1,网文女主笑纳黄毛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355704&amp;topic_name=%E7%BB%BF%E7%8E%8B%2B1%2C%E7%BD%91%E6%96%87%E5%A5%B3%E4%B8%BB%E7%AC%91%E7%BA%B3%E9%BB%84%E6%AF%9B",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时49分 ~ 11时03分]"
-        },
-        {
-          "title": "金鹰奖最佳女主角候选",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%80%99%E9%80%89%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 21时12分]"
-        },
-        {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 18时40分]"
-        },
-        {
-          "title": "女子清吧被陌生人投放伟哥",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B8%85%E5%90%A7%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8A%95%E6%94%BE%E4%BC%9F%E5%93%A5%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 08时02分]"
-        },
-        {
-          "title": "女子称在酒吧被陌生男性投放“伟哥”",
-          "url": "https://www.toutiao.com/trending/7656795631494873139/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 18时40分]"
-        },
-        {
-          "title": "科学备孕男女都要上心",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%A4%87%E5%AD%95%E7%94%B7%E5%A5%B3%E9%83%BD%E8%A6%81%E4%B8%8A%E5%BF%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 08时02分]"
-        },
-        {
-          "title": "女子遭下药退赔偿拟追刑责",
-          "url": "https://www.toutiao.com/trending/7656452828185624619/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 11时03分]"
-        },
-        {
-          "title": "爆了,Guma女枪台词太张狂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355697&amp;topic_name=%E7%88%86%E4%BA%86%2CGuma%E5%A5%B3%E6%9E%AA%E5%8F%B0%E8%AF%8D%E5%A4%AA%E5%BC%A0%E7%8B%82",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 06时51分]"
-        },
-        {
-          "title": "陆家嘴独居女生vlog火了",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%86%E5%AE%B6%E5%98%B4%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9Fvlog%E7%81%AB%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 15时03分]"
-        },
-        {
-          "title": "女方不认十几万彩礼最终退回20万",
-          "url": "https://www.toutiao.com/trending/7655858951434567721/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时03分]"
-        },
-        {
-          "title": "女子拒与相亲男接触遭对方砸头",
-          "url": "https://www.toutiao.com/trending/7657077627001438244/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时40分]"
-        },
         {
           "title": "乘务员悄悄拉走女生并帮她换了车厢",
           "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E5%B9%B6%E5%B8%AE%E5%A5%B9%E6%8D%A2%E4%BA%86%E8%BD%A6%E5%8E%A2",
           "source": "百度热搜",
           "ranks": [
-            9
+            8,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时12分]"
+          "time_info": "[00时18分 ~ 00时23分]"
         },
         {
           "title": "秘鲁选出首位日裔女总统，中秘经贸或面临哪些考验？",
@@ -205,130 +28,98 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时12分]"
+          "time_info": "[00时18分 ~ 00时23分]"
         },
         {
-          "title": "索马里女大使：想和中国一起搞事业",
-          "url": "https://www.toutiao.com/trending/7656218600784596516/",
+          "title": "海来阿木悼念早逝女儿阿果",
+          "url": "https://www.toutiao.com/trending/7656268895921405994/",
           "source": "今日头条",
           "ranks": [
-            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时23分]"
+        },
+        {
+          "title": "海来阿木悼念早逝女儿阿果",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E6%82%BC%E5%BF%B5%E6%97%A9%E9%80%9D%E5%A5%B3%E5%84%BF%E9%98%BF%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时56分 ~ 08时02分]"
+          "time_info": "[00时18分 ~ 00时23分]"
         },
         {
-          "title": "女子晾衣6楼坠落 67天四闯生死关",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%BE%E8%A1%A36%E6%A5%BC%E5%9D%A0%E8%90%BD+67%E5%A4%A9%E5%9B%9B%E9%97%AF%E7%94%9F%E6%AD%BB%E5%85%B3",
+          "title": "媒体：16岁女子被卖嫁给大18岁男子逃离后生子被判重婚，二审改判缓刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33483506",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时23分]"
+        },
+        {
+          "title": "女子食用见手青后突变“社牛”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A3%9F%E7%94%A8%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%AA%81%E5%8F%98%E2%80%9C%E7%A4%BE%E7%89%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            17
+            26,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时40分]"
+          "time_info": "[00时18分 ~ 00时23分]"
         },
         {
-          "title": "孙颖莎女单首轮3-0横扫晋级",
-          "url": "https://www.toutiao.com/trending/7655954646444015635/",
-          "source": "今日头条",
+          "title": "在纽约卖江西米粉的超级少女",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%8D%96%E6%B1%9F%E8%A5%BF%E7%B1%B3%E7%B2%89%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时03分]"
-        },
-        {
-          "title": "青岛保时捷中心女销冠再获上半年销冠",
-          "url": "https://www.toutiao.com/trending/7657100666493747251/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时12分]"
-        },
-        {
-          "title": "女子身高166体重到100斤就焦虑",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E9%AB%98166%E4%BD%93%E9%87%8D%E5%88%B0100%E6%96%A4%E5%B0%B1%E7%84%A6%E8%99%91%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "退休女子月入7899元登记困难职工",
-          "url": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%A5%B3%E5%AD%90%E6%9C%88%E5%85%A57899%E5%85%83%E7%99%BB%E8%AE%B0%E5%9B%B0%E9%9A%BE%E8%81%8C%E5%B7%A5&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "00时23分"
         },
         {
-          "title": "女子开腹手术后才知脂肪是保命符",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%85%B9%E6%89%8B%E6%9C%AF%E5%90%8E%E6%89%8D%E7%9F%A5%E8%84%82%E8%82%AA%E6%98%AF%E4%BF%9D%E5%91%BD%E7%AC%A6%23&t=31&band_rank=15&Refer=top",
+          "title": "海来阿木悼念早逝女儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E6%82%BC%E5%BF%B5%E6%97%A9%E9%80%9D%E5%A5%B3%E5%84%BF%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "00时23分"
         },
         {
-          "title": "什么样的家庭可以养出性格特别硬，独立的女孩子？",
-          "url": "https://www.zhihu.com/question/399331393",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "曝女明星请家教不给钱",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%A5%B3%E6%98%8E%E6%98%9F%E8%AF%B7%E5%AE%B6%E6%95%99%E4%B8%8D%E7%BB%99%E9%92%B1%23&t=31&band_rank=21&Refer=top",
+          "title": "女乘务员悄悄拉走女生换车厢",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "00时23分"
         },
         {
-          "title": "覃予萱晋级WTT美国大满贯女单32强",
-          "url": "https://www.toutiao.com/trending/7656356661874098230/",
+          "title": "女子称在酒吧被陌生男性投放“伟哥”",
+          "url": "https://www.toutiao.com/trending/7656795631494873139/",
           "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：美国总统特使威特科夫和特朗普女婿库什纳将前往卡塔尔与调解人会面，讨论谈判事宜；目前没有计划进行美伊之间的高层会议。",
-          "url": "https://flash.jin10.com/detail/20260630181048101800",
-          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "00时18分"
         }
       ]
     }
