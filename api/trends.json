@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T02:56:29.854665+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-01T06:15:25.493236+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "乘务员悄悄拉走女生并帮她换了车厢",
@@ -13,38 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时54分]"
-        },
-        {
-          "title": "海来阿木悼念早逝女儿阿果",
-          "url": "https://www.toutiao.com/trending/7656268895921405994/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            12,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时54分]"
-        },
-        {
-          "title": "海来阿木悼念早逝女儿阿果",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E6%82%BC%E5%BF%B5%E6%97%A9%E9%80%9D%E5%A5%B3%E5%84%BF%E9%98%BF%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "媒体：16岁女子被卖嫁给大18岁男子逃离后生子被判重婚，二审改判缓刑",
@@ -52,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "女子称在酒吧被陌生男性投放“伟哥”",
@@ -65,11 +40,12 @@
           "ranks": [
             28,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "在纽约卖江西米粉的超级少女",
@@ -77,34 +53,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            9
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时54分]"
-        },
-        {
-          "title": "女乘务员悄悄拉走女生换车厢",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时54分]"
-        },
-        {
-          "title": "海来阿木悼念早逝女儿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E6%82%BC%E5%BF%B5%E6%97%A9%E9%80%9D%E5%A5%B3%E5%84%BF%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 06时13分]"
         }
       ]
     }
