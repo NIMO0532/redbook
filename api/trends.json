@@ -1,40 +1,73 @@
 {
-  "generated_at": "2026-06-30T18:43:32.992618+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-06-30T21:16:19.771092+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
-          "title": "女儿从清华毕业 爸爸晒出17年对比照",
-          "url": "https://www.toutiao.com/trending/7655755866522468371/",
+          "title": "女子发现孩子非现任亲生状告前任索赔",
+          "url": "https://www.toutiao.com/trending/7656678655938789412/",
           "source": "今日头条",
           "ranks": [
-            27,
-            19,
-            23,
-            26,
-            22
+            24,
+            8,
+            18,
+            22,
+            27
           ],
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时46分 ~ 08时02分]"
         },
         {
-          "title": "大烂片?新版女超人遭群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355718&amp;topic_name=%E5%A4%A7%E7%83%82%E7%89%87%3F%E6%96%B0%E7%89%88%E5%A5%B3%E8%B6%85%E4%BA%BA%E9%81%AD%E7%BE%A4%E5%98%B2",
-          "source": "贴吧",
+          "title": "女子健身不当 居然“脑子漏水”了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E4%B8%8D%E5%BD%93+%E5%B1%85%E7%84%B6%E2%80%9C%E8%84%91%E5%AD%90%E6%BC%8F%E6%B0%B4%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            17,
-            21,
-            27
+            23,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时46分 ~ 08时02分]"
+        },
+        {
+          "title": "知名配音演员病逝，冯程程、小龙女都是她配的",
+          "url": "https://news.ifeng.com/c/8uLiJzmzjUd",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[03时49分 ~ 18时40分]"
+          "time_info": "[03时46分 ~ 07时56分]"
+        },
+        {
+          "title": "在纽约卖江西米粉的超级少女",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%8D%96%E6%B1%9F%E8%A5%BF%E7%B1%B3%E7%B2%89%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "绿王+1,网文女主笑纳黄毛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355704&amp;topic_name=%E7%BB%BF%E7%8E%8B%2B1%2C%E7%BD%91%E6%96%87%E5%A5%B3%E4%B8%BB%E7%AC%91%E7%BA%B3%E9%BB%84%E6%AF%9B",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 11时03分]"
         },
         {
           "title": "金鹰奖最佳女主角候选",
@@ -42,11 +75,12 @@
           "source": "微博",
           "ranks": [
             1,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 21时12分]"
         },
         {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
@@ -107,6 +141,17 @@
           "time_info": "[08时02分 ~ 11时03分]"
         },
         {
+          "title": "爆了,Guma女枪台词太张狂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355697&amp;topic_name=%E7%88%86%E4%BA%86%2CGuma%E5%A5%B3%E6%9E%AA%E5%8F%B0%E8%AF%8D%E5%A4%AA%E5%BC%A0%E7%8B%82",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 06时51分]"
+        },
+        {
           "title": "陆家嘴独居女生vlog火了",
           "url": "https://s.weibo.com/weibo?q=%E9%99%86%E5%AE%B6%E5%98%B4%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9Fvlog%E7%81%AB%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -117,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时03分 ~ 15时03分]"
+        },
+        {
+          "title": "女方不认十几万彩礼最终退回20万",
+          "url": "https://www.toutiao.com/trending/7655858951434567721/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时03分]"
         },
         {
           "title": "女子拒与相亲男接触遭对方砸头",
@@ -130,15 +186,38 @@
           "time_info": "[18时32分 ~ 18时40分]"
         },
         {
-          "title": "女子酒吧被投放“伟哥”警方不予立案",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E8%A2%AB%E6%8A%95%E6%94%BE%E2%80%9C%E4%BC%9F%E5%93%A5%E2%80%9D%E8%AD%A6%E6%96%B9%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88",
+          "title": "乘务员悄悄拉走女生并帮她换了车厢",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E5%B9%B6%E5%B8%AE%E5%A5%B9%E6%8D%A2%E4%BA%86%E8%BD%A6%E5%8E%A2",
           "source": "百度热搜",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时12分]"
+        },
+        {
+          "title": "秘鲁选出首位日裔女总统，中秘经贸或面临哪些考验？",
+          "url": "https://news.ifeng.com/c/8uNrtpjfNCK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时12分]"
+        },
+        {
+          "title": "索马里女大使：想和中国一起搞事业",
+          "url": "https://www.toutiao.com/trending/7656218600784596516/",
+          "source": "今日头条",
+          "ranks": [
+            17,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时40分]"
+          "time_info": "[07时56分 ~ 08时02分]"
         },
         {
           "title": "女子晾衣6楼坠落 67天四闯生死关",
@@ -163,6 +242,18 @@
           "time_info": "[10时59分 ~ 11时03分]"
         },
         {
+          "title": "青岛保时捷中心女销冠再获上半年销冠",
+          "url": "https://www.toutiao.com/trending/7657100666493747251/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时12分]"
+        },
+        {
           "title": "女子身高166体重到100斤就焦虑",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E9%AB%98166%E4%BD%93%E9%87%8D%E5%88%B0100%E6%96%A4%E5%B0%B1%E7%84%A6%E8%99%91%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -174,13 +265,24 @@
           "time_info": "15时03分"
         },
         {
+          "title": "退休女子月入7899元登记困难职工",
+          "url": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%A5%B3%E5%AD%90%E6%9C%88%E5%85%A57899%E5%85%83%E7%99%BB%E8%AE%B0%E5%9B%B0%E9%9A%BE%E8%81%8C%E5%B7%A5&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "女子开腹手术后才知脂肪是保命符",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%85%B9%E6%89%8B%E6%9C%AF%E5%90%8E%E6%89%8D%E7%9F%A5%E8%84%82%E8%82%AA%E6%98%AF%E4%BF%9D%E5%91%BD%E7%AC%A6%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -191,7 +293,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -224,7 +326,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
