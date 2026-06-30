@@ -1,37 +1,86 @@
 {
-  "generated_at": "2026-06-30T15:06:14.651588+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-06-30T18:43:32.992618+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
-          "title": "女子发现孩子非现任亲生状告前任索赔",
-          "url": "https://www.toutiao.com/trending/7656678655938789412/",
+          "title": "女儿从清华毕业 爸爸晒出17年对比照",
+          "url": "https://www.toutiao.com/trending/7655755866522468371/",
           "source": "今日头条",
           "ranks": [
-            24,
-            8,
-            18,
-            22,
-            27
+            27,
+            19,
+            23,
+            26,
+            22
           ],
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时46分 ~ 08时02分]"
         },
         {
+          "title": "大烂片?新版女超人遭群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355718&amp;topic_name=%E5%A4%A7%E7%83%82%E7%89%87%3F%E6%96%B0%E7%89%88%E5%A5%B3%E8%B6%85%E4%BA%BA%E9%81%AD%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时49分 ~ 18时40分]"
+        },
+        {
           "title": "金鹰奖最佳女主角候选",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%80%99%E9%80%89%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 18时40分]"
+        },
+        {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 18时40分]"
+        },
+        {
+          "title": "女子清吧被陌生人投放伟哥",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B8%85%E5%90%A7%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8A%95%E6%94%BE%E4%BC%9F%E5%93%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时49分 ~ 08时02分]"
+        },
+        {
+          "title": "女子称在酒吧被陌生男性投放“伟哥”",
+          "url": "https://www.toutiao.com/trending/7656795631494873139/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 18时40分]"
         },
         {
           "title": "科学备孕男女都要上心",
@@ -58,18 +107,6 @@
           "time_info": "[08时02分 ~ 11时03分]"
         },
         {
-          "title": "大蒜晒外面被路过女子连盆端走",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%92%9C%E6%99%92%E5%A4%96%E9%9D%A2%E8%A2%AB%E8%B7%AF%E8%BF%87%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%9B%86%E7%AB%AF%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 11时03分]"
-        },
-        {
           "title": "陆家嘴独居女生vlog火了",
           "url": "https://s.weibo.com/weibo?q=%E9%99%86%E5%AE%B6%E5%98%B4%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9Fvlog%E7%81%AB%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -82,49 +119,37 @@
           "time_info": "[11时03分 ~ 15时03分]"
         },
         {
-          "title": "女方不认十几万彩礼最终退回20万",
-          "url": "https://www.toutiao.com/trending/7655858951434567721/",
+          "title": "女子拒与相亲男接触遭对方砸头",
+          "url": "https://www.toutiao.com/trending/7657077627001438244/",
           "source": "今日头条",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时03分]"
+          "time_info": "[18时32分 ~ 18时40分]"
         },
         {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
+          "title": "女子酒吧被投放“伟哥”警方不予立案",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E8%A2%AB%E6%8A%95%E6%94%BE%E2%80%9C%E4%BC%9F%E5%93%A5%E2%80%9D%E8%AD%A6%E6%96%B9%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88",
+          "source": "百度热搜",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时58分 ~ 15时03分]"
-        },
-        {
-          "title": "女子称在酒吧被陌生男性投放“伟哥”",
-          "url": "https://www.toutiao.com/trending/7656795631494873139/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时58分 ~ 15时03分]"
-        },
-        {
-          "title": "索马里女大使：想和中国一起搞事业",
-          "url": "https://www.toutiao.com/trending/7656218600784596516/",
-          "source": "今日头条",
-          "ranks": [
-            17,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时56分 ~ 08时02分]"
+          "time_info": "[18时32分 ~ 18时40分]"
+        },
+        {
+          "title": "女子晾衣6楼坠落 67天四闯生死关",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%BE%E8%A1%A36%E6%A5%BC%E5%9D%A0%E8%90%BD+67%E5%A4%A9%E5%9B%9B%E9%97%AF%E7%94%9F%E6%AD%BB%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时40分]"
         },
         {
           "title": "孙颖莎女单首轮3-0横扫晋级",
@@ -144,9 +169,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "女子开腹手术后才知脂肪是保命符",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%85%B9%E6%89%8B%E6%9C%AF%E5%90%8E%E6%89%8D%E7%9F%A5%E8%84%82%E8%82%AA%E6%98%AF%E4%BF%9D%E5%91%BD%E7%AC%A6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "什么样的家庭可以养出性格特别硬，独立的女孩子？",
+          "url": "https://www.zhihu.com/question/399331393",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "曝女明星请家教不给钱",
@@ -155,7 +202,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -169,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：美国总统特使威特科夫和特朗普女婿库什纳将前往卡塔尔与调解人会面，讨论谈判事宜；目前没有计划进行美伊之间的高层会议。",
+          "url": "https://flash.jin10.com/detail/20260630181048101800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     }
