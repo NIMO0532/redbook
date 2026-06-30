@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T00:26:25.520460+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-07-01T02:56:29.854665+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 10,
+      "match_count": 8,
       "titles": [
         {
           "title": "乘务员悄悄拉走女生并帮她换了车厢",
@@ -16,19 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时23分]"
-        },
-        {
-          "title": "秘鲁选出首位日裔女总统，中秘经贸或面临哪些考验？",
-          "url": "https://news.ifeng.com/c/8uNrtpjfNCK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时54分]"
         },
         {
           "title": "海来阿木悼念早逝女儿阿果",
@@ -36,11 +25,13 @@
           "source": "今日头条",
           "ranks": [
             14,
-            12
+            12,
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时54分]"
         },
         {
           "title": "海来阿木悼念早逝女儿阿果",
@@ -48,45 +39,61 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时54分]"
         },
         {
           "title": "媒体：16岁女子被卖嫁给大18岁男子逃离后生子被判重婚，二审改判缓刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_33483506",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时54分]"
         },
         {
-          "title": "女子食用见手青后突变“社牛”",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A3%9F%E7%94%A8%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%AA%81%E5%8F%98%E2%80%9C%E7%A4%BE%E7%89%9B%E2%80%9D",
-          "source": "百度热搜",
+          "title": "女子称在酒吧被陌生男性投放“伟哥”",
+          "url": "https://www.toutiao.com/trending/7656795631494873139/",
+          "source": "今日头条",
           "ranks": [
-            26,
-            30
+            28,
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时54分]"
         },
         {
           "title": "在纽约卖江西米粉的超级少女",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%8D%96%E6%B1%9F%E8%A5%BF%E7%B1%B3%E7%B2%89%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时54分]"
+        },
+        {
+          "title": "女乘务员悄悄拉走女生换车厢",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时54分]"
         },
         {
           "title": "海来阿木悼念早逝女儿",
@@ -95,31 +102,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "女乘务员悄悄拉走女生换车厢",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "女子称在酒吧被陌生男性投放“伟哥”",
-          "url": "https://www.toutiao.com/trending/7656795631494873139/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "00时23分"
         }
       ]
     }
