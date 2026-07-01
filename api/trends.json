@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T03:47:00.896381+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-02T05:24:23.349884+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 05时22分]"
         },
         {
           "title": "日本男球迷公然猥亵女记者",
@@ -28,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时22分]"
         },
         {
           "title": "女子因错过高铁摔坏员工视频记录仪",
