@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-01T08:08:36.944938+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-07-01T13:25:28.664632+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "媒体：16岁女子被卖嫁给大18岁男子逃离后生子被判重婚，二审改判缓刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33483506",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 13时22分]"
+        },
         {
           "title": "乘务员悄悄拉走女生并帮她换了车厢",
           "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E5%B9%B6%E5%B8%AE%E5%A5%B9%E6%8D%A2%E4%BA%86%E8%BD%A6%E5%8E%A2",
@@ -47,18 +62,18 @@
           "time_info": "[00时18分 ~ 08时06分]"
         },
         {
-          "title": "媒体：16岁女子被卖嫁给大18岁男子逃离后生子被判重婚，二审改判缓刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33483506",
-          "source": "澎湃新闻",
+          "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
+          "url": "https://wallstreetcn.com/articles/3775850",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            20,
-            19,
-            17
+            8,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 08时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 13时22分]"
         },
         {
           "title": "女子称在酒吧被陌生男性投放“伟哥”",
@@ -76,17 +91,15 @@
           "time_info": "[00时18分 ~ 08时06分]"
         },
         {
-          "title": "在纽约卖江西米粉的超级少女",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%8D%96%E6%B1%9F%E8%A5%BF%E7%B1%B3%E7%B2%89%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            9,
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "海来阿木悼念早逝女儿阿果",
@@ -103,18 +116,6 @@
           "time_info": "[00时18分 ~ 02时54分]"
         },
         {
-          "title": "女子摘黄瓜发现“藤蔓”竟是蛇",
-          "url": "https://www.toutiao.com/trending/7656068705461829638/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时13分]"
-        },
-        {
           "title": "女乘务员悄悄拉走女生换车厢",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -126,6 +127,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 06时13分]"
+        },
+        {
+          "title": "韩国29岁女消防员被多次强迫陪酒自杀，更多细节曝光",
+          "url": "https://news.ifeng.com/c/8uOzZp7wJVa",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时22分]"
+        },
+        {
+          "title": "任素汐拒绝用女性对比拉踩",
+          "url": "https://www.toutiao.com/trending/7657106005717532682/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时22分]"
         },
         {
           "title": "女子食用见手青后突变“社牛”",
@@ -140,15 +163,37 @@
           "time_info": "[00时18分 ~ 00时23分]"
         },
         {
-          "title": "新疆女孩用放了一周的馕劈开西瓜",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%A5%B3%E5%AD%A9%E7%94%A8%E6%94%BE%E4%BA%86%E4%B8%80%E5%91%A8%E7%9A%84%E9%A6%95%E5%8A%88%E5%BC%80%E8%A5%BF%E7%93%9C",
-          "source": "百度热搜",
+          "title": "保姆抚养雇主留下女婴23年",
+          "url": "https://www.toutiao.com/trending/7656286225889034283/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时06分]"
+          "time_info": "[13时16分 ~ 13时22分]"
+        },
+        {
+          "title": "雇主失联留下女婴 保姆抚养23年",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%87%E4%B8%BB%E5%A4%B1%E8%81%94%E7%95%99%E4%B8%8B%E5%A5%B3%E5%A9%B4+%E4%BF%9D%E5%A7%86%E6%8A%9A%E5%85%BB23%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时22分]"
+        },
+        {
+          "title": "女孩昏迷七年梦里喜当妈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355785&amp;topic_name=%E5%A5%B3%E5%AD%A9%E6%98%8F%E8%BF%B7%E4%B8%83%E5%B9%B4%E6%A2%A6%E9%87%8C%E5%96%9C%E5%BD%93%E5%A6%88",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "海来阿木悼念早逝女儿",
@@ -162,13 +207,30 @@
           "time_info": "00时23分"
         },
         {
-          "title": "由周星驰导演即将上映的《功夫女足》为何多人唱衰？",
-          "url": "https://www.zhihu.com/question/2053120824966750361",
-          "source": "知乎",
+          "title": "哈兰德女友感谢中国球迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A5%B3%E5%8F%8B%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            30
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地发布脑机接口产业专项扶持政策",
+          "url": "https://wallstreetcn.com/livenews/3127012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
