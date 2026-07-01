@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-07-01T20:44:05.210141+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-07-01T23:43:12.688207+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 32,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "媒体：16岁女子被卖嫁给大18岁男子逃离后生子被判重婚，二审改判缓刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33483506",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 13时22分]"
-        },
         {
           "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
           "url": "https://wallstreetcn.com/articles/3775850",
@@ -51,14 +36,12 @@
           "time_info": "[00时18分 ~ 08时06分]"
         },
         {
-          "title": "海来阿木悼念早逝女儿阿果",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E6%82%BC%E5%BF%B5%E6%97%A9%E9%80%9D%E5%A5%B3%E5%84%BF%E9%98%BF%E6%9E%9C",
-          "source": "百度热搜",
+          "title": "秘鲁选出首位日裔女总统，中秘经贸或面临哪些考验？",
+          "url": "https://news.ifeng.com/c/8uNrtpjfNCK",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            16,
-            22,
-            18
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -78,28 +61,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 08时06分]"
-        },
-        {
-          "title": "保时捷女销售再获销冠：想冲全球排名",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E5%86%8D%E8%8E%B7%E9%94%80%E5%86%A0%EF%BC%9A%E6%83%B3%E5%86%B2%E5%85%A8%E7%90%83%E6%8E%92%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时38分]"
-        },
-        {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "699分女生分享学习经验",
@@ -125,41 +86,17 @@
           "time_info": "[08时06分 ~ 17时38分]"
         },
         {
-          "title": "在纽约卖江西米粉的超级少女",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%8D%96%E6%B1%9F%E8%A5%BF%E7%B1%B3%E7%B2%89%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 06时13分]"
-        },
-        {
           "title": "日本男球迷公然猥亵女记者",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355796&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%90%83%E8%BF%B7%E5%85%AC%E7%84%B6%E7%8C%A5%E4%BA%B5%E5%A5%B3%E8%AE%B0%E8%80%85",
           "source": "贴吧",
           "ranks": [
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 20时39分]"
-        },
-        {
-          "title": "哈兰德女友社媒感谢中国球迷",
-          "url": "https://www.toutiao.com/trending/7657378952978694185/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 23时40分]"
         },
         {
           "title": "新疆女孩用放了一周的馕劈开西瓜",
@@ -174,58 +111,6 @@
           "time_info": "[08时01分 ~ 13时22分]"
         },
         {
-          "title": "海来阿木悼念早逝女儿阿果",
-          "url": "https://www.toutiao.com/trending/7656268895921405994/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            12,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时54分]"
-        },
-        {
-          "title": "女子摘黄瓜发现“藤蔓”竟是蛇",
-          "url": "https://www.toutiao.com/trending/7656068705461829638/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时13分]"
-        },
-        {
-          "title": "女孩昏迷七年梦里喜当妈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355785&amp;topic_name=%E5%A5%B3%E5%AD%A9%E6%98%8F%E8%BF%B7%E4%B8%83%E5%B9%B4%E6%A2%A6%E9%87%8C%E5%96%9C%E5%BD%93%E5%A6%88",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 20时39分]"
-        },
-        {
-          "title": "女乘务员悄悄拉走女生换车厢",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 06时13分]"
-        },
-        {
           "title": "王曼昱不敌佐藤瞳无缘女单16强",
           "url": "https://www.douyin.com/hot/2553990",
           "source": "抖音",
@@ -238,15 +123,16 @@
           "time_info": "[13时22分 ~ 20时39分]"
         },
         {
-          "title": "韩国29岁女消防员被多次强迫陪酒自杀，更多细节曝光",
-          "url": "https://news.ifeng.com/c/8uOzZp7wJVa",
-          "source": "凤凰网",
+          "title": "男子邀女子到家吃饭强抱对方被行拘",
+          "url": "https://www.toutiao.com/trending/7657442821708742692/",
+          "source": "今日头条",
           "ranks": [
-            12
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 23时40分]"
         },
         {
           "title": "任素汐拒绝用女性对比拉踩",
@@ -258,17 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 13时22分]"
-        },
-        {
-          "title": "酒吧称80岁大爷可与女生拼桌被调查",
-          "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E7%A7%B080%E5%B2%81%E5%A4%A7%E7%88%B7%E5%8F%AF%E4%B8%8E%E5%A5%B3%E7%94%9F%E6%8B%BC%E6%A1%8C%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时38分]"
         },
         {
           "title": "女子醉酒跳楼男友力竭脱手 案件判了",
@@ -292,18 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时33分 ~ 17时38分]"
-        },
-        {
-          "title": "女子食用见手青后突变“社牛”",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A3%9F%E7%94%A8%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%AA%81%E5%8F%98%E2%80%9C%E7%A4%BE%E7%89%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时23分]"
         },
         {
           "title": "保姆抚养雇主留下女婴23年",
@@ -337,50 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "当上幼儿园的女儿说，想要跟某某同学结婚，你会怎么回应？",
-          "url": "https://www.zhihu.com/question/660503579",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "四个女明星撞衫同一款礼服",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AA%E5%A5%B3%E6%98%8E%E6%98%9F%E6%92%9E%E8%A1%AB%E5%90%8C%E4%B8%80%E6%AC%BE%E7%A4%BC%E6%9C%8D%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "瑞典女生模仿哈兰德走红",
-          "url": "https://www.douyin.com/hot/2554059",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "男子邀女子到家吃饭强抱对方被行拘",
-          "url": "https://www.toutiao.com/trending/7657442821708742692/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "哈兰德女友感谢中国球迷",
