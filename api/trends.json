@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T03:20:46.453772+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-07-03T05:05:13.097998+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
+        },
+        {
+          "title": "月薪5千男子为结婚给女友转账141万",
+          "url": "https://www.toutiao.com/trending/7657772771826941995/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         },
         {
           "title": "河南高考 699 分女生基本确定去清华学医，母亲患病卧床、父亲打零工，为什么网友都在说这个选择不好？",
@@ -27,20 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时17分]"
-        },
-        {
-          "title": "月薪5千男子为结婚给女友转账141万",
-          "url": "https://www.toutiao.com/trending/7657772771826941995/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 05时01分]"
         },
         {
           "title": "高考699分女孩希望回归平静生活",
@@ -48,11 +49,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         },
         {
           "title": "伊拉克女议员家中搜出黄金内衣",
@@ -60,23 +62,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
-        },
-        {
-          "title": "女子走路玩手机掉进大锅全身湿透",
-          "url": "https://www.toutiao.com/trending/7656853302915252262/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         },
         {
           "title": "地铁吐血女孩称生命进入倒计时",
@@ -84,11 +75,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         },
         {
           "title": "男子卖房给女友转账141万，部分备注“自愿赠与”，法院判了",
@@ -98,8 +90,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         },
         {
           "title": "女生称做心电图被监控拍摄隐私部位",
@@ -107,11 +99,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         },
         {
           "title": "女子高铁遭陌生男子“凝视”，乘务员一个举动让她红了眼眶",
@@ -121,8 +114,31 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
+        },
+        {
+          "title": "女子吃隔夜卤味一天腹泻量3000毫升",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%9A%94%E5%A4%9C%E5%8D%A4%E5%91%B3%E4%B8%80%E5%A4%A9%E8%85%B9%E6%B3%BB%E9%87%8F3000%E6%AF%AB%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
+        },
+        {
+          "title": "韩国迎来史上第二位女总理",
+          "url": "https://www.toutiao.com/trending/7657763385777425983/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "time_info": "[03时13分 ~ 05时01分]"
         },
         {
           "title": "女警称如果脸上不留疤心中会留疤",
@@ -137,17 +153,6 @@
           "time_info": "[01时32分 ~ 03时17分]"
         },
         {
-          "title": "女子吃隔夜卤味一天腹泻量3000毫升",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%9A%94%E5%A4%9C%E5%8D%A4%E5%91%B3%E4%B8%80%E5%A4%A9%E8%85%B9%E6%B3%BB%E9%87%8F3000%E6%AF%AB%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
-        },
-        {
           "title": "699分!河南女孩拒急选清北",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355834&amp;topic_name=699%E5%88%86%21%E6%B2%B3%E5%8D%97%E5%A5%B3%E5%AD%A9%E6%8B%92%E6%80%A5%E9%80%89%E6%B8%85%E5%8C%97",
           "source": "贴吧",
@@ -155,8 +160,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 05时01分]"
         },
         {
           "title": "骆歆转型?LPL女解说集体聊球",
@@ -166,8 +171,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 05时01分]"
         },
         {
           "title": "月薪5千男子为结婚给女友转账141万",
@@ -175,33 +180,35 @@
           "source": "微博",
           "ranks": [
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 05时01分]"
         },
         {
-          "title": "韩国迎来史上第二位女总理",
-          "url": "https://www.toutiao.com/trending/7657763385777425983/",
+          "title": "霉霉大婚前夕前男友被拍与新女友接吻",
+          "url": "https://www.toutiao.com/trending/7656992144469950507/",
           "source": "今日头条",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时17分]"
+          "time_info": "[04时56分 ~ 05时01分]"
         },
         {
           "title": "高考699分女孩家被围堵善意变负担",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83699%E5%88%86%E5%A5%B3%E5%AD%A9%E5%AE%B6%E8%A2%AB%E5%9B%B4%E5%A0%B5%E5%96%84%E6%84%8F%E5%8F%98%E8%B4%9F%E6%8B%85%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 05时01分]"
         }
       ]
     },
@@ -215,29 +222,31 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         }
       ]
     },
     {
-      "keyword_group": "审美",
+      "keyword_group": "脑机接口",
       "match_count": 1,
       "titles": [
         {
-          "title": "小县城的瑜伽馆审美",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E7%91%9C%E4%BC%BD%E9%A6%86%E5%AE%A1%E7%BE%8E&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "脑机接口进医保 医院挤满想试的人",
+          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E8%BF%9B%E5%8C%BB%E4%BF%9D+%E5%8C%BB%E9%99%A2%E6%8C%A4%E6%BB%A1%E6%83%B3%E8%AF%95%E7%9A%84%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            10
+            22,
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 05时01分]"
         }
       ]
     }
