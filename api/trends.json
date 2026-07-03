@@ -1,285 +1,22 @@
 {
-  "generated_at": "2026-07-03T23:05:14.643529+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-07-04T01:17:52.003674+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 43,
+      "match_count": 9,
       "titles": [
         {
-          "title": "总统的女儿，成为“第一夫人”，又成为总统",
-          "url": "https://news.ifeng.com/c/8uRExHgJaRD",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时32分 ~ 11时28分]"
-        },
-        {
-          "title": "伊拉克女议员家中搜出黄金内衣",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E8%AE%AE%E5%91%98%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%87%BA%E9%BB%84%E9%87%91%E5%86%85%E8%A1%A3",
+          "title": "知名女企业家郭恒华被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%A5%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%83%AD%E6%81%92%E5%8D%8E%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "百度热搜",
           "ranks": [
-            6,
-            7,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "月薪5千男子为结婚给女友转账141万",
-          "url": "https://www.toutiao.com/trending/7657772771826941995/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10,
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "地铁吐血女孩称生命进入倒计时",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E7%A7%B0%E7%94%9F%E5%91%BD%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            10,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "河南高考 699 分女生基本确定去清华学医，母亲患病卧床、父亲打零工，为什么网友都在说这个选择不好？",
-          "url": "https://www.zhihu.com/question/2054372674491750198",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 08时01分]"
-        },
-        {
-          "title": "男子卖房给女友转账141万，部分备注“自愿赠与”，法院判了",
-          "url": "https://news.ifeng.com/c/8uR2WSLoz3a",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "骆歆转型?LPL女解说集体聊球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355839&amp;topic_name=%E9%AA%86%E6%AD%86%E8%BD%AC%E5%9E%8B%3FLPL%E5%A5%B3%E8%A7%A3%E8%AF%B4%E9%9B%86%E4%BD%93%E8%81%8A%E7%90%83",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            17,
-            20,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时38分 ~ 23时04分]"
-        },
-        {
-          "title": "女生称做心电图被监控拍摄隐私部位",
-          "url": "https://www.toutiao.com/trending/7657772632148246570/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            17,
-            27,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "女子高铁遭陌生男子“凝视”，乘务员一个举动让她红了眼眶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33496160",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "女子吃隔夜卤味一天腹泻量3000毫升",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%9A%94%E5%A4%9C%E5%8D%A4%E5%91%B3%E4%B8%80%E5%A4%A9%E8%85%B9%E6%B3%BB%E9%87%8F3000%E6%AF%AB%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            26,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时32分 ~ 11时28分]"
-        },
-        {
-          "title": "6名柬埔寨女孩想嫁到中国在边境被拦",
-          "url": "https://www.toutiao.com/trending/7657477058720714303/",
-          "source": "今日头条",
-          "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时56分 ~ 08时01分]"
-        },
-        {
-          "title": "女子走路玩手机掉进大锅全身湿透",
-          "url": "https://www.toutiao.com/trending/7656853302915252262/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "韩国迎来史上第二位女总理",
-          "url": "https://www.toutiao.com/trending/7657763385777425983/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            16,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时13分 ~ 08时01分]"
-        },
-        {
-          "title": "日本男演员片场骚扰女明星",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 23时04分]"
-        },
-        {
-          "title": "高考699分女孩希望回归平静生活",
-          "url": "https://www.toutiao.com/trending/7657862107174141994/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 05时01分]"
-        },
-        {
-          "title": "哈梅内伊遗体告别现场画面：孙女遗照、棺椁曝光",
-          "url": "https://v.ifeng.com/c/8uSXnQS9alh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
-          "title": "女儿高考收到破烂红包女子当场哽咽",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E6%94%B6%E5%88%B0%E7%A0%B4%E7%83%82%E7%BA%A2%E5%8C%85%E5%A5%B3%E5%AD%90%E5%BD%93%E5%9C%BA%E5%93%BD%E5%92%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时03分 ~ 23时04分]"
-        },
-        {
-          "title": "女子印度游,脑子长出寄生虫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 23时04分]"
-        },
-        {
-          "title": "699分!河南女孩拒急选清北",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355834&amp;topic_name=699%E5%88%86%21%E6%B2%B3%E5%8D%97%E5%A5%B3%E5%AD%A9%E6%8B%92%E6%80%A5%E9%80%89%E6%B8%85%E5%8C%97",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 11时28分]"
-        },
-        {
-          "title": "女警称如果脸上不留疤心中会留疤",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%AD%A6%E7%A7%B0%E5%A6%82%E6%9E%9C%E8%84%B8%E4%B8%8A%E4%B8%8D%E7%95%99%E7%96%A4%E5%BF%83%E4%B8%AD%E4%BC%9A%E7%95%99%E7%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "霉霉大婚前夕前男友被拍与新女友接吻",
-          "url": "https://www.toutiao.com/trending/7656992144469950507/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时56分 ~ 08时01分]"
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
           "title": "女大幻想未来,月入3w不够花",
@@ -290,93 +27,29 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "01时17分"
         },
         {
-          "title": "女子自费装“电梯”给全楼用遭抵制",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E2%80%9C%E7%94%B5%E6%A2%AF%E2%80%9D%E7%BB%99%E5%85%A8%E6%A5%BC%E7%94%A8%E9%81%AD%E6%8A%B5%E5%88%B6",
-          "source": "百度热搜",
+          "title": "日本男演员片场骚扰女明星",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "source": "贴吧",
           "ranks": [
-            6,
-            21
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 15时02分]"
-        },
-        {
-          "title": "美国女子持刀逼近警员遭枪杀",
-          "url": "https://www.toutiao.com/trending/7658127788016140330/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 15时02分]"
-        },
-        {
-          "title": "法国女子超市晕倒死抱空调扇不撒手",
-          "url": "https://www.toutiao.com/trending/7658145574209994779/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 17时52分]"
-        },
-        {
-          "title": "月薪5千男子为结婚给女友转账141万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA5%E5%8D%83%E7%94%B7%E5%AD%90%E4%B8%BA%E7%BB%93%E5%A9%9A%E7%BB%99%E5%A5%B3%E5%8F%8B%E8%BD%AC%E8%B4%A6141%E4%B8%87%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时07分]"
-        },
-        {
-          "title": "法国女子超市晕倒仍抱空调扇不撒手",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%B6%85%E5%B8%82%E6%99%95%E5%80%92%E4%BB%8D%E6%8A%B1%E7%A9%BA%E8%B0%83%E6%89%87%E4%B8%8D%E6%92%92%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 20时04分]"
-        },
-        {
-          "title": "高考699分女孩家被围堵善意变负担",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83699%E5%88%86%E5%A5%B3%E5%AD%A9%E5%AE%B6%E8%A2%AB%E5%9B%B4%E5%A0%B5%E5%96%84%E6%84%8F%E5%8F%98%E8%B4%9F%E6%8B%85%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 06时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "女子自家种的黄瓜上长了一片叶子",
-          "url": "https://www.toutiao.com/trending/7657708239403909161/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E5%AE%B6%E7%A7%8D%E7%9A%84%E9%BB%84%E7%93%9C%E4%B8%8A%E9%95%BF%E4%BA%86%E4%B8%80%E7%89%87%E5%8F%B6%E5%AD%90",
+          "source": "百度热搜",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
           "title": "女子家中持刀不放，遭3名警察清空弹匣射击",
@@ -387,237 +60,51 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
-          "title": "哈梅内伊棺前摆着遇害外孙女遗照",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E6%A3%BA%E5%89%8D%E6%91%86%E7%9D%80%E9%81%87%E5%AE%B3%E5%A4%96%E5%AD%99%E5%A5%B3%E9%81%97%E7%85%A7",
-          "source": "百度热搜",
+          "title": "女子自家种的黄瓜上长了一片叶子",
+          "url": "https://www.toutiao.com/trending/7657708239403909161/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
-        },
-        {
-          "title": "上海西装大叔蹚积水给女士让道",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%A5%BF%E8%A3%85%E5%A4%A7%E5%8F%94%E8%B9%9A%E7%A7%AF%E6%B0%B4%E7%BB%99%E5%A5%B3%E5%A3%AB%E8%AE%A9%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时28分]"
-        },
-        {
-          "title": "女子患罕见病 半边身长满“苔藓”",
-          "url": "https://www.toutiao.com/trending/7657909255160299539/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时28分]"
-        },
-        {
-          "title": "知名女企业家郭恒华被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%A5%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%83%AD%E6%81%92%E5%8D%8E%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
           "title": "女子10年未体检 子宫内肿瘤长到13斤",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9010%E5%B9%B4%E6%9C%AA%E4%BD%93%E6%A3%80+%E5%AD%90%E5%AE%AB%E5%86%85%E8%82%BF%E7%98%A4%E9%95%BF%E5%88%B013%E6%96%A4",
           "source": "百度热搜",
           "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
-        },
-        {
-          "title": "功夫女足",
-          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "张雪峰公司股份由其 11 岁女儿接手，未成年人持股可能涉及哪些法律问题？这一安排对公司发展有何影响？",
-          "url": "https://www.zhihu.com/question/2055969294802842034",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "女子花6万装爬楼机给全楼用遭抵制",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B16%E4%B8%87%E8%A3%85%E7%88%AC%E6%A5%BC%E6%9C%BA%E7%BB%99%E5%85%A8%E6%A5%BC%E7%94%A8%E9%81%AD%E6%8A%B5%E5%88%B6%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
-          "title": "法国晕倒女子超市里死抱空调扇不撒手",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%99%95%E5%80%92%E5%A5%B3%E5%AD%90%E8%B6%85%E5%B8%82%E9%87%8C%E6%AD%BB%E6%8A%B1%E7%A9%BA%E8%B0%83%E6%89%87%E4%B8%8D%E6%92%92%E6%89%8B%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "女子印度游,脑子长出寄生虫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
+          "source": "贴吧",
           "ranks": [
-            17
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时02分"
+          "time_info": "01时17分"
         },
         {
-          "title": "河南高考 699 分女孩选择清华学医，您觉得她的选择如何？",
-          "url": "https://www.zhihu.com/question/2056264281822322710",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "老师将轮椅女生调至毕业照C位",
-          "url": "https://www.toutiao.com/trending/7658103155435618345/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "摩纳哥检察官：一名女扮男装的女子是摩纳哥袭击事件的主要嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260703173714534800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "朱珠4岁女儿近照",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A04%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "骆歆转型?LPL女解说集体聊球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355839&amp;topic_name=%E9%AA%86%E6%AD%86%E8%BD%AC%E5%9E%8B%3FLPL%E5%A5%B3%E8%A7%A3%E8%AF%B4%E9%9B%86%E4%BD%93%E8%81%8A%E7%90%83",
+          "source": "贴吧",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "审美",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小县城的瑜伽馆审美",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E7%91%9C%E4%BC%BD%E9%A6%86%E5%AE%A1%E7%BE%8E&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时17分]"
-        },
-        {
-          "title": "如何看待「这个时代拉开人与人差距的是——审美」这类说法？",
-          "url": "https://www.zhihu.com/topic/2049864504993739137/hot",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 17时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆品 美妆 护肤品",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谁在购买男性化妆品",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E8%B4%AD%E4%B9%B0%E7%94%B7%E6%80%A7%E5%8C%96%E5%A6%86%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "脑机接口进医保 医院挤满想试的人",
-          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E8%BF%9B%E5%8C%BB%E4%BF%9D+%E5%8C%BB%E9%99%A2%E6%8C%A4%E6%BB%A1%E6%83%B3%E8%AF%95%E7%9A%84%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            26,
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日盈电子：公司电子皮肤产品尚处于客户端验证及小批量试制阶段",
-          "url": "https://flash.jin10.com/detail/20260703174334938800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "01时17分"
         }
       ]
     }
