@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T03:07:36.663411+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-04T04:57:01.406836+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "知名女企业家郭恒华被刑拘",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
           "title": "女大幻想未来,月入3w不够花",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时56分]"
         },
         {
           "title": "日本男演员片场骚扰女明星",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时56分]"
         },
         {
           "title": "女子自家种的黄瓜上长了一片叶子",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
           "title": "女子家中持刀不放，遭3名警察清空弹匣射击",
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
           "title": "女子自家种的黄瓜上长了一片叶子",
@@ -69,11 +69,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
           "title": "女子印度游,脑子长出寄生虫",
@@ -83,8 +84,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时56分]"
+        },
+        {
+          "title": "骆歆转型?LPL女解说集体聊球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355839&amp;topic_name=%E9%AA%86%E6%AD%86%E8%BD%AC%E5%9E%8B%3FLPL%E5%A5%B3%E8%A7%A3%E8%AF%B4%E9%9B%86%E4%BD%93%E8%81%8A%E7%90%83",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时56分]"
         },
         {
           "title": "女子10年未体检 子宫内肿瘤长到13斤",
@@ -98,15 +110,15 @@
           "time_info": "[01时16分 ~ 01时17分]"
         },
         {
-          "title": "骆歆转型?LPL女解说集体聊球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355839&amp;topic_name=%E9%AA%86%E6%AD%86%E8%BD%AC%E5%9E%8B%3FLPL%E5%A5%B3%E8%A7%A3%E8%AF%B4%E9%9B%86%E4%BD%93%E8%81%8A%E7%90%83",
-          "source": "贴吧",
+          "title": "河南 699 分女孩韩雅平选择学医，面对外界劝退与质疑，你认为她的选择合理吗？",
+          "url": "https://www.zhihu.com/question/2056362577639236541",
+          "source": "知乎",
           "ranks": [
-            28
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "《还珠格格》中皇帝知道小燕子不是自己的亲生女儿之后，为什么还留小燕子？",
@@ -115,9 +127,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "女孩摸自行车把手遭掌掴妈妈发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         }
       ]
     }
