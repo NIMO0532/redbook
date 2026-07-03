@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-04T06:02:17.446890+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-07-04T07:59:04.898971+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "知名女企业家郭恒华被刑拘",
           "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%A5%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%83%AD%E6%81%92%E5%8D%8E%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时58分]"
         },
         {
           "title": "女大幻想未来,月入3w不够花",
@@ -27,8 +28,47 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时58分]"
+        },
+        {
+          "title": "女子自家种的黄瓜上长了一片叶子",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E5%AE%B6%E7%A7%8D%E7%9A%84%E9%BB%84%E7%93%9C%E4%B8%8A%E9%95%BF%E4%BA%86%E4%B8%80%E7%89%87%E5%8F%B6%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时58分]"
+        },
+        {
+          "title": "女子家中持刀不放，遭3名警察清空弹匣射击",
+          "url": "https://v.ifeng.com/c/8uSdi3abnDn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时58分]"
+        },
+        {
+          "title": "女子自家种的黄瓜上长了一片叶子",
+          "url": "https://www.toutiao.com/trending/7657708239403909161/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            20,
+            15,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时58分]"
         },
         {
           "title": "日本男演员片场骚扰女明星",
@@ -39,45 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "女子自家种的黄瓜上长了一片叶子",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E5%AE%B6%E7%A7%8D%E7%9A%84%E9%BB%84%E7%93%9C%E4%B8%8A%E9%95%BF%E4%BA%86%E4%B8%80%E7%89%87%E5%8F%B6%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时01分]"
-        },
-        {
-          "title": "女子家中持刀不放，遭3名警察清空弹匣射击",
-          "url": "https://v.ifeng.com/c/8uSdi3abnDn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时01分]"
-        },
-        {
-          "title": "女子自家种的黄瓜上长了一片叶子",
-          "url": "https://www.toutiao.com/trending/7657708239403909161/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            20,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时58分]"
         },
         {
           "title": "女子印度游,脑子长出寄生虫",
@@ -88,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时58分]"
         },
         {
           "title": "骆歆转型?LPL女解说集体聊球",
@@ -100,8 +103,32 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时58分]"
+        },
+        {
+          "title": "河南 699 分女孩韩雅平选择学医，面对外界劝退与质疑，你认为她的选择合理吗？",
+          "url": "https://www.zhihu.com/question/2056362577639236541",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 07时58分]"
+        },
+        {
+          "title": "中国女球迷电梯偶遇C罗获3次拥抱",
+          "url": "https://www.toutiao.com/trending/7657895882733506067/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
         },
         {
           "title": "女子10年未体检 子宫内肿瘤长到13斤",
@@ -113,18 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
-          "title": "河南 699 分女孩韩雅平选择学医，面对外界劝退与质疑，你认为她的选择合理吗？",
-          "url": "https://www.zhihu.com/question/2056362577639236541",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 06时01分]"
         },
         {
           "title": "女孩摸自行车把手遭掌掴妈妈发声",
@@ -139,6 +154,17 @@
           "time_info": "[04时56分 ~ 06时01分]"
         },
         {
+          "title": "高血压女子连喝三天绿豆汤致脑出血",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%A1%80%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%96%9D%E4%B8%89%E5%A4%A9%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "《还珠格格》中皇帝知道小燕子不是自己的亲生女儿之后，为什么还留小燕子？",
           "url": "https://www.zhihu.com/question/2048380926942508093",
           "source": "知乎",
@@ -148,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "李沁撑得起李清照的少女感与晚年的孤傲",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%92%91%E5%BE%97%E8%B5%B7%E6%9D%8E%E6%B8%85%E7%85%A7%E7%9A%84%E5%B0%91%E5%A5%B3%E6%84%9F%E4%B8%8E%E6%99%9A%E5%B9%B4%E7%9A%84%E5%AD%A4%E5%82%B2%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     }
