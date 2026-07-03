@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T11:31:03.835782+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-07-03T15:07:19.369721+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 23,
+      "match_count": 17,
       "titles": [
         {
           "title": "总统的女儿，成为“第一夫人”，又成为总统",
@@ -18,21 +18,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时32分 ~ 11时28分]"
-        },
-        {
-          "title": "伊拉克女议员家中搜出黄金内衣",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E8%AE%AE%E5%91%98%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%87%BA%E9%BB%84%E9%87%91%E5%86%85%E8%A1%A3",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
         },
         {
           "title": "月薪5千男子为结婚给女友转账141万",
@@ -57,29 +42,6 @@
             10,
             13,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
-          "title": "河南高考 699 分女生基本确定去清华学医，母亲患病卧床、父亲打零工，为什么网友都在说这个选择不好？",
-          "url": "https://www.zhihu.com/question/2054372674491750198",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 08时01分]"
-        },
-        {
-          "title": "男子卖房给女友转账141万，部分备注“自愿赠与”，法院判了",
-          "url": "https://news.ifeng.com/c/8uR2WSLoz3a",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -126,18 +88,6 @@
           "time_info": "[01时32分 ~ 11时28分]"
         },
         {
-          "title": "6名柬埔寨女孩想嫁到中国在边境被拦",
-          "url": "https://www.toutiao.com/trending/7657477058720714303/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时56分 ~ 08时01分]"
-        },
-        {
           "title": "韩国迎来史上第二位女总理",
           "url": "https://www.toutiao.com/trending/7657763385777425983/",
           "source": "今日头条",
@@ -178,32 +128,6 @@
           "time_info": "[01时38分 ~ 11时28分]"
         },
         {
-          "title": "骆歆转型?LPL女解说集体聊球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355839&amp;topic_name=%E9%AA%86%E6%AD%86%E8%BD%AC%E5%9E%8B%3FLPL%E5%A5%B3%E8%A7%A3%E8%AF%B4%E9%9B%86%E4%BD%93%E8%81%8A%E7%90%83",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 11时28分]"
-        },
-        {
-          "title": "女警称如果脸上不留疤心中会留疤",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%AD%A6%E7%A7%B0%E5%A6%82%E6%9E%9C%E8%84%B8%E4%B8%8A%E4%B8%8D%E7%95%99%E7%96%A4%E5%BF%83%E4%B8%AD%E4%BC%9A%E7%95%99%E7%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 08时01分]"
-        },
-        {
           "title": "霉霉大婚前夕前男友被拍与新女友接吻",
           "url": "https://www.toutiao.com/trending/7656992144469950507/",
           "source": "今日头条",
@@ -213,6 +137,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时56分 ~ 08时01分]"
+        },
+        {
+          "title": "女子自费装“电梯”给全楼用遭抵制",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E2%80%9C%E7%94%B5%E6%A2%AF%E2%80%9D%E7%BB%99%E5%85%A8%E6%A5%BC%E7%94%A8%E9%81%AD%E6%8A%B5%E5%88%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时02分]"
         },
         {
           "title": "月薪5千男子为结婚给女友转账141万",
@@ -229,39 +165,15 @@
           "time_info": "[01时38分 ~ 06时07分]"
         },
         {
-          "title": "高考699分女孩家被围堵善意变负担",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83699%E5%88%86%E5%A5%B3%E5%AD%A9%E5%AE%B6%E8%A2%AB%E5%9B%B4%E5%A0%B5%E5%96%84%E6%84%8F%E5%8F%98%E8%B4%9F%E6%8B%85%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "法国女子超市晕倒死抱空调扇不撒手",
+          "url": "https://www.toutiao.com/trending/7658145574209994779/",
+          "source": "今日头条",
           "ranks": [
-            24,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 06时07分]"
-        },
-        {
-          "title": "女子自费装“电梯”给全楼用遭抵制",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E2%80%9C%E7%94%B5%E6%A2%AF%E2%80%9D%E7%BB%99%E5%85%A8%E6%A5%BC%E7%94%A8%E9%81%AD%E6%8A%B5%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时28分]"
-        },
-        {
-          "title": "上海西装大叔蹚积水给女士让道",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%A5%BF%E8%A3%85%E5%A4%A7%E5%8F%94%E8%B9%9A%E7%A7%AF%E6%B0%B4%E7%BB%99%E5%A5%B3%E5%A3%AB%E8%AE%A9%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时28分]"
+          "time_info": "[14时55分 ~ 15时02分]"
         },
         {
           "title": "女子患罕见病 半边身长满“苔藓”",
@@ -281,40 +193,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
         {
-          "title": "女子花6万装爬楼机给全楼用遭抵制",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B16%E4%B8%87%E8%A3%85%E7%88%AC%E6%A5%BC%E6%9C%BA%E7%BB%99%E5%85%A8%E6%A5%BC%E7%94%A8%E9%81%AD%E6%8A%B5%E5%88%B6%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "张雪峰公司股份由其 11 岁女儿接手，未成年人持股可能涉及哪些法律问题？这一安排对公司发展有何影响？",
+          "url": "https://www.zhihu.com/question/2055969294802842034",
+          "source": "知乎",
           "ranks": [
-            15
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆品 美妆 护肤品",
-      "match_count": 1,
-      "titles": [
+          "time_info": "15时02分"
+        },
         {
-          "title": "谁在购买男性化妆品",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E8%B4%AD%E4%B9%B0%E7%94%B7%E6%80%A7%E5%8C%96%E5%A6%86%E5%93%81",
-          "source": "百度热搜",
+          "title": "朱珠4岁女儿近照",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A04%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            29,
-            27,
-            22,
-            25
+            28
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 08时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
