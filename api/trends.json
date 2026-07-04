@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T00:08:20.928407+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-05T01:58:55.753593+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 01时58分]"
         },
         {
           "title": "BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？",
@@ -25,20 +25,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时58分]"
         },
         {
           "title": "女子确诊肺癌晚期在地铁上介绍自己",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 01时58分]"
+        },
+        {
+          "title": "女子蹭车对方没开空调把娃热“炸毛”",
+          "url": "https://www.toutiao.com/trending/7658497804667043859/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 01时58分]"
         },
         {
           "title": "女子扮男子炸伤受乌克兰制裁富豪，被红色通缉",
@@ -48,30 +61,68 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "女子蹭车对方没开空调把娃热“炸毛”",
-          "url": "https://www.toutiao.com/trending/7658497804667043859/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 01时58分]"
         },
         {
           "title": "女孩摸自行车把手遭掌掴 家属发声",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 01时58分]"
+        },
+        {
+          "title": "当女生开始有大女主感",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%A5%B3%E7%94%9F%E5%BC%80%E5%A7%8B%E6%9C%89%E5%A4%A7%E5%A5%B3%E4%B8%BB%E6%84%9F&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "time_info": "[00时08分 ~ 01时58分]"
+        },
+        {
+          "title": "瓶子君炮轰女帝:啃老装独立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355888&amp;topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E7%82%AE%E8%BD%B0%E5%A5%B3%E5%B8%9D%3A%E5%95%83%E8%80%81%E8%A3%85%E7%8B%AC%E7%AB%8B",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时58分]"
+        },
+        {
+          "title": "女子确诊肺癌晚期在地铁上介绍自己",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时58分]"
+        },
+        {
+          "title": "企鹅女管归字节,鹰角被摘桃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355882&amp;topic_name=%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%BD%92%E5%AD%97%E8%8A%82%2C%E9%B9%B0%E8%A7%92%E8%A2%AB%E6%91%98%E6%A1%83",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时58分]"
         },
         {
           "title": "情侣酒后入住酒店 女子翻窗坠亡",
@@ -85,81 +136,40 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "瓶子君炮轰女帝:啃老装独立",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355888&amp;topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E7%82%AE%E8%BD%B0%E5%A5%B3%E5%B8%9D%3A%E5%95%83%E8%80%81%E8%A3%85%E7%8B%AC%E7%AB%8B",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "女子确诊肺癌晚期在地铁上介绍自己",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "企鹅女管归字节,鹰角被摘桃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355882&amp;topic_name=%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%BD%92%E5%AD%97%E8%8A%82%2C%E9%B9%B0%E8%A7%92%E8%A2%AB%E6%91%98%E6%A1%83",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "当女生开始有大女主感",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%A5%B3%E7%94%9F%E5%BC%80%E5%A7%8B%E6%9C%89%E5%A4%A7%E5%A5%B3%E4%B8%BB%E6%84%9F&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
           "title": "女大幻想未来,月入3w不够花",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355877&amp;topic_name=%E5%A5%B3%E5%A4%A7%E5%B9%BB%E6%83%B3%E6%9C%AA%E6%9D%A5%2C%E6%9C%88%E5%85%A53w%E4%B8%8D%E5%A4%9F%E8%8A%B1",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时58分]"
         },
         {
           "title": "日本男演员片场骚扰女明星",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时58分]"
         },
         {
           "title": "女子印度游,脑子长出寄生虫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时58分]"
         }
       ]
     }
