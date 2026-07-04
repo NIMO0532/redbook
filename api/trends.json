@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-04T07:59:04.898971+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-04T10:52:27.551265+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "女子家中持刀不放，遭3名警察清空弹匣射击",
+          "url": "https://v.ifeng.com/c/8uSdi3abnDn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 10时52分]"
+        },
         {
           "title": "知名女企业家郭恒华被刑拘",
           "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E5%A5%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%83%AD%E6%81%92%E5%8D%8E%E8%A2%AB%E5%88%91%E6%8B%98",
@@ -25,11 +36,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 10时52分]"
         },
         {
           "title": "女子自家种的黄瓜上长了一片叶子",
@@ -39,17 +51,6 @@
             8,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时58分]"
-        },
-        {
-          "title": "女子家中持刀不放，遭3名警察清空弹匣射击",
-          "url": "https://v.ifeng.com/c/8uSdi3abnDn",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -76,11 +77,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 10时52分]"
         },
         {
           "title": "女子印度游,脑子长出寄生虫",
@@ -88,11 +90,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 10时52分]"
         },
         {
           "title": "骆歆转型?LPL女解说集体聊球",
@@ -107,6 +110,18 @@
           "time_info": "[01时17分 ~ 07时58分]"
         },
         {
+          "title": "中国女球迷电梯偶遇C罗获3次拥抱",
+          "url": "https://www.toutiao.com/trending/7657895882733506067/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时52分]"
+        },
+        {
           "title": "河南 699 分女孩韩雅平选择学医，面对外界劝退与质疑，你认为她的选择合理吗？",
           "url": "https://www.zhihu.com/question/2056362577639236541",
           "source": "知乎",
@@ -118,17 +133,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时56分 ~ 07时58分]"
-        },
-        {
-          "title": "中国女球迷电梯偶遇C罗获3次拥抱",
-          "url": "https://www.toutiao.com/trending/7657895882733506067/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
         },
         {
           "title": "女子10年未体检 子宫内肿瘤长到13斤",
@@ -160,9 +164,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "日本修法断了女天皇之路，为何选择此时收紧皇室继承权？",
+          "url": "https://www.zhihu.com/question/2055796070526014657",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "《还珠格格》中皇帝知道小燕子不是自己的亲生女儿之后，为什么还留小燕子？",
@@ -182,7 +197,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
