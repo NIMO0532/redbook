@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-07-04T21:07:48.288458+08:00",
-  "total_titles_processed": 1213,
-  "failed_sources": [],
+  "generated_at": "2026-07-04T23:02:24.187519+08:00",
+  "total_titles_processed": 1309,
+  "failed_sources": [
+    "wallstreetcn-hot",
+    "cls-hot",
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "女大幻想未来,月入3w不够花",
@@ -17,11 +21,12 @@
             7,
             14,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 23时02分]"
         },
         {
           "title": "日本男演员片场骚扰女明星",
@@ -33,11 +38,23 @@
             8,
             15,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 23时02分]"
+        },
+        {
+          "title": "女子确诊肺癌晚期在地铁上介绍自己",
+          "url": "https://www.toutiao.com/trending/7657714963918716947/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时02分]"
         },
         {
           "title": "女子家中持刀不放，遭3名警察清空弹匣射击",
@@ -73,11 +90,12 @@
             10,
             17,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 23时02分]"
         },
         {
           "title": "女子自家种的黄瓜上长了一片叶子",
@@ -91,17 +109,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 07时58分]"
-        },
-        {
-          "title": "女子确诊肺癌晚期在地铁上介绍自己",
-          "url": "https://www.toutiao.com/trending/7657714963918716947/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时07分]"
         },
         {
           "title": "女子自家种的黄瓜上长了一片叶子",
@@ -125,11 +132,12 @@
           "ranks": [
             5,
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 21时07分]"
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 23时02分]"
         },
         {
           "title": "媒体评699分农家女孩被自媒体围堵",
@@ -157,6 +165,17 @@
           "time_info": "[07时57分 ~ 19时21分]"
         },
         {
+          "title": "情侣酒后入住酒店 女子翻窗坠亡",
+          "url": "https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E9%85%92%E5%90%8E%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97+%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%AA%97%E5%9D%A0%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时02分]"
+        },
+        {
           "title": "女生高考582分 查分后给警察发短信",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83582%E5%88%86+%E6%9F%A5%E5%88%86%E5%90%8E%E7%BB%99%E8%AD%A6%E5%AF%9F%E5%8F%91%E7%9F%AD%E4%BF%A1",
           "source": "百度热搜",
@@ -167,6 +186,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时13分 ~ 17时16分]"
+        },
+        {
+          "title": "当女生开始有大女主感",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%A5%B3%E7%94%9F%E5%BC%80%E5%A7%8B%E6%9C%89%E5%A4%A7%E5%A5%B3%E4%B8%BB%E6%84%9F&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？",
+          "url": "https://www.zhihu.com/question/2056373604556562637",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时02分]"
+        },
+        {
+          "title": "企鹅女管归字节,鹰角被摘桃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355882&amp;topic_name=%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%BD%92%E5%AD%97%E8%8A%82%2C%E9%B9%B0%E8%A7%92%E8%A2%AB%E6%91%98%E6%A1%83",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 23时02分]"
         },
         {
           "title": "杨幂女儿小糯米12岁了",
@@ -206,40 +262,28 @@
           "time_info": "[01时17分 ~ 07时58分]"
         },
         {
-          "title": "BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？",
-          "url": "https://www.zhihu.com/question/2056373604556562637",
-          "source": "知乎",
+          "title": "女子蹭车对方没开空调把娃热“炸毛”",
+          "url": "https://www.toutiao.com/trending/7658497804667043859/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 21时07分]"
-        },
-        {
-          "title": "企鹅女管归字节,鹰角被摘桃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355882&amp;topic_name=%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%BD%92%E5%AD%97%E8%8A%82%2C%E9%B9%B0%E8%A7%92%E8%A2%AB%E6%91%98%E6%A1%83",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            13
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时14分 ~ 21时07分]"
+          "time_info": "[21时06分 ~ 23时02分]"
         },
         {
-          "title": "情侣酒后入住酒店 女子翻窗坠亡",
-          "url": "https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E9%85%92%E5%90%8E%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97+%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%AA%97%E5%9D%A0%E4%BA%A1",
+          "title": "女孩摸自行车把手遭掌掴 家属发声",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            12
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时07分]"
+          "time_info": "[21时06分 ~ 23时02分]"
         },
         {
           "title": "河南 699 分女孩韩雅平选择学医，面对外界劝退与质疑，你认为她的选择合理吗？",
@@ -253,6 +297,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时56分 ~ 07时58分]"
+        },
+        {
+          "title": "女子扮男子炸伤受乌克兰制裁富豪，被红色通缉",
+          "url": "https://news.ifeng.com/c/8uUFj9S8scz",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 22时59分]"
         },
         {
           "title": "699分女孩母亲患病多家医院伸援手",
@@ -278,28 +333,6 @@
           "time_info": "[14时13分 ~ 14时14分]"
         },
         {
-          "title": "女子扮男子炸伤受乌克兰制裁富豪，被红色通缉",
-          "url": "https://news.ifeng.com/c/8uUFj9S8scz",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
-        },
-        {
-          "title": "女子蹭车对方没开空调把娃热“炸毛”",
-          "url": "https://www.toutiao.com/trending/7658497804667043859/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
-        },
-        {
           "title": "女子10年未体检 子宫内肿瘤长到13斤",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9010%E5%B9%B4%E6%9C%AA%E4%BD%93%E6%A3%80+%E5%AD%90%E5%AE%AB%E5%86%85%E8%82%BF%E7%98%A4%E9%95%BF%E5%88%B013%E6%96%A4",
           "source": "百度热搜",
@@ -323,15 +356,15 @@
           "time_info": "[10时52分 ~ 14时14分]"
         },
         {
-          "title": "女孩摸自行车把手遭掌掴 家属发声",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0",
+          "title": "女子确诊肺癌晚期在地铁上介绍自己",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1",
           "source": "百度热搜",
           "ranks": [
-            18
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
+          "time_info": "[22时59分 ~ 23时02分]"
         },
         {
           "title": "女孩摸自行车把手遭掌掴妈妈发声",
@@ -344,6 +377,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时01分]"
+        },
+        {
+          "title": "女子确诊肺癌晚期在地铁上介绍自己",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "高血压女子连喝三天绿豆汤致脑出血",
@@ -374,7 +418,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
