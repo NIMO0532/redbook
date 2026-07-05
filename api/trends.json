@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T17:38:37.112988+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-05T19:26:03.674822+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？",
@@ -64,11 +64,12 @@
             13,
             15,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 17时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 19时25分]"
         },
         {
           "title": "女子蹭车对方没开空调把娃热“炸毛”",
@@ -94,11 +95,12 @@
             19,
             21,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 17时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 19时25分]"
         },
         {
           "title": "女子扮男子炸伤受乌克兰制裁富豪，被红色通缉",
@@ -169,15 +171,16 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "国乒包揽WTT美国大满贯男女双冠军",
-          "url": "https://www.toutiao.com/trending/7658922081005866559/",
-          "source": "今日头条",
+          "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
+          "url": "https://www.zhihu.com/question/2056771003376722999",
+          "source": "知乎",
           "ranks": [
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 19时25分]"
         },
         {
           "title": "3岁女童被喂到70斤吃播赚流量",
@@ -191,6 +194,17 @@
           "time_info": "[14时33分 ~ 14时34分]"
         },
         {
+          "title": "女生2000元运费给在英男友寄空调",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F2000%E5%85%83%E8%BF%90%E8%B4%B9%E7%BB%99%E5%9C%A8%E8%8B%B1%E7%94%B7%E5%8F%8B%E5%AF%84%E7%A9%BA%E8%B0%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
+        },
+        {
           "title": "店老板嫌女生消费仅15元追出门辱骂",
           "url": "https://www.toutiao.com/trending/7658146943455920171/",
           "source": "今日头条",
@@ -202,27 +216,15 @@
           "time_info": "[17时37分 ~ 17时38分]"
         },
         {
-          "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
-          "url": "https://www.zhihu.com/question/2056771003376722999",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 17时38分]"
-        },
-        {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 19时25分]"
         },
         {
           "title": "女朋友宣称能吃出河里野生鱼和池塘里鱼的味道差别，她是在骗我吗？",
@@ -231,9 +233,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 19时25分]"
+        },
+        {
+          "title": "女子蹭弟媳车 没开空调把娃热炸毛",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B9%AD%E5%BC%9F%E5%AA%B3%E8%BD%A6+%E6%B2%A1%E5%BC%80%E7%A9%BA%E8%B0%83%E6%8A%8A%E5%A8%83%E7%83%AD%E7%82%B8%E6%AF%9B",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 19时25分]"
+        },
+        {
+          "title": "国乒包揽WTT美国大满贯男女双冠军",
+          "url": "https://www.toutiao.com/trending/7658922081005866559/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时25分]"
         },
         {
           "title": "当女生开始有大女主感",
@@ -289,18 +316,6 @@
           "time_info": "[10时26分 ~ 14时34分]"
         },
         {
-          "title": "女子蹭弟媳车 没开空调把娃热炸毛",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B9%AD%E5%BC%9F%E5%AA%B3%E8%BD%A6+%E6%B2%A1%E5%BC%80%E7%A9%BA%E8%B0%83%E6%8A%8A%E5%A8%83%E7%83%AD%E7%82%B8%E6%AF%9B",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 17时38分]"
-        },
-        {
           "title": "女子确诊肺癌晚期在地铁上介绍自己",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -313,6 +328,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 05时52分]"
+        },
+        {
+          "title": "女孩摸自行车车把遭女车主扇耳光",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%BD%A6%E6%8A%8A%E9%81%AD%E5%A5%B3%E8%BD%A6%E4%B8%BB%E6%89%87%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时25分]"
+        },
+        {
+          "title": "女子签“非全日制”用工合同被辞退后索赔失败上诉，实际用工情况成案件焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518913",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时25分]"
+        },
+        {
+          "title": "9岁女孩摸自行车被扇耳光",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355911&amp;topic_name=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 19时25分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将继续协助和平努力，并准备访问莫斯科。",
@@ -336,17 +387,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时46分 ~ 07时56分]"
-        },
-        {
-          "title": "9岁女孩摸自行车被扇耳光",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355911&amp;topic_name=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 17时38分]"
         },
         {
           "title": "8名女子入境时绑藏53只活体龟被查",
@@ -404,28 +444,6 @@
           "time_info": "[17时37分 ~ 17时38分]"
         },
         {
-          "title": "女孩摸自行车车把遭女车主扇耳光",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%BD%A6%E6%8A%8A%E9%81%AD%E5%A5%B3%E8%BD%A6%E4%B8%BB%E6%89%87%E8%80%B3%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
-          "title": "女子签“非全日制”用工合同被辞退后索赔失败上诉，实际用工情况成案件焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518913",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
           "title": "情侣酒后入住酒店 女子翻窗坠亡",
           "url": "https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E9%85%92%E5%90%8E%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97+%E5%A5%B3%E5%AD%90%E7%BF%BB%E7%AA%97%E5%9D%A0%E4%BA%A1",
           "source": "百度热搜",
@@ -448,6 +466,17 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
+          "title": "辽宁暴雨一女外卖员被激流冲走",
+          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%9A%B4%E9%9B%A8%E4%B8%80%E5%A5%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E6%BF%80%E6%B5%81%E5%86%B2%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
+        },
+        {
           "title": "美国大满贯女单四强对阵",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E5%AF%B9%E9%98%B5&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -468,6 +497,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "女儿读大学，预算 2000 元左右买笔记本电脑够用吗？",
+          "url": "https://www.zhihu.com/question/2050162107103057134",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "蒯曼 4-3 逆转日本削球手佐藤瞳，晋级 WTT 美国大满贯女单四强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2057077247014614163",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "扛被褥走红女孩正在温州打暑期工",
