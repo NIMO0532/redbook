@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T05:55:56.690762+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-06T06:57:00.590796+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 06时56分]"
         },
         {
           "title": "女朋友宣称能吃出河里野生鱼和池塘里鱼的味道差别，她是在骗我吗？",
@@ -27,36 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
-        },
-        {
-          "title": "18岁女生每天主动加班 店主给1万工资",
-          "url": "https://www.toutiao.com/trending/7658108180563787782/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 05时55分]"
-        },
-        {
-          "title": "19岁“第一夫人” 51岁秘鲁女总统",
-          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D+51%E5%B2%81%E7%A7%98%E9%B2%81%E5%A5%B3%E6%80%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时56分]"
         },
         {
           "title": "女子签“非全日制”用工合同被辞退后索赔失败上诉，实际用工情况成案件焦点",
@@ -68,8 +40,52 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 06时56分]"
+        },
+        {
+          "title": "18岁女生每天主动加班 店主给1万工资",
+          "url": "https://www.toutiao.com/trending/7658108180563787782/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            9,
+            8,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 06时56分]"
+        },
+        {
+          "title": "19岁“第一夫人” 51岁秘鲁女总统",
+          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9D+51%E5%B2%81%E7%A7%98%E9%B2%81%E5%A5%B3%E6%80%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8,
+            17,
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 06时56分]"
+        },
+        {
+          "title": "女生听瓜农父女对话后买2000斤西瓜",
+          "url": "https://www.toutiao.com/trending/7659035646325473286/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            19,
+            8,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时00分 ~ 05时55分]"
+          "time_info": "[02时08分 ~ 06时56分]"
         },
         {
           "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
@@ -81,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时56分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -93,21 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
-        },
-        {
-          "title": "女生听瓜农父女对话后买2000斤西瓜",
-          "url": "https://www.toutiao.com/trending/7659035646325473286/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时56分]"
         },
         {
           "title": "9岁女孩摸自行车被扇耳光",
@@ -118,8 +121,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时56分]"
         },
         {
           "title": "女子占用车位遭业主声援“淹没”",
@@ -127,11 +130,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 04时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时08分 ~ 06时56分]"
         },
         {
           "title": "哈兰德说被加布抓伤对女友难交代",
@@ -139,11 +143,12 @@
           "source": "微博",
           "ranks": [
             15,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 06时56分]"
         },
         {
           "title": "女儿读大学，预算 2000 元左右买笔记本电脑够用吗？",
@@ -151,22 +156,35 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 06时56分]"
         },
         {
           "title": "王曼昱蒯曼美国大满贯女双夺冠",
           "url": "https://www.douyin.com/hot/2558794",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时56分]"
+        },
+        {
+          "title": "4岁女孩替父亲买泡面被店主暖心帮助",
+          "url": "https://www.baidu.com/s?wd=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9B%BF%E7%88%B6%E4%BA%B2%E4%B9%B0%E6%B3%A1%E9%9D%A2%E8%A2%AB%E5%BA%97%E4%B8%BB%E6%9A%96%E5%BF%83%E5%B8%AE%E5%8A%A9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 06时56分]"
         },
         {
           "title": "瓶子君炮轰女帝:啃老装独立",
