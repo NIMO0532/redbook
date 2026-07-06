@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T08:02:37.617722+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-07-06T13:05:43.942915+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -26,11 +26,12 @@
             11,
             10,
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 08时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 13时05分]"
         },
         {
           "title": "18岁女生每天主动加班 店主给1万工资",
@@ -93,6 +94,34 @@
           "time_info": "[02时08分 ~ 08时02分]"
         },
         {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 13时05分]"
+        },
+        {
+          "title": "9岁女孩摸自行车被扇耳光",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355911&amp;topic_name=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 13时05分]"
+        },
+        {
           "title": "女子占用车位遭业主声援“淹没”",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%A0%E7%94%A8%E8%BD%A6%E4%BD%8D%E9%81%AD%E4%B8%9A%E4%B8%BB%E5%A3%B0%E6%8F%B4%E2%80%9C%E6%B7%B9%E6%B2%A1%E2%80%9D",
           "source": "百度热搜",
@@ -121,30 +150,26 @@
           "time_info": "[01时02分 ~ 08时02分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "title": "长沙女车主强占车位还报警",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355932&amp;topic_name=%E9%95%BF%E6%B2%99%E5%A5%B3%E8%BD%A6%E4%B8%BB%E5%BC%BA%E5%8D%A0%E8%BD%A6%E4%BD%8D%E8%BF%98%E6%8A%A5%E8%AD%A6",
           "source": "贴吧",
           "ranks": [
-            8,
-            10,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
-          "title": "9岁女孩摸自行车被扇耳光",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355911&amp;topic_name=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89",
-          "source": "贴吧",
+          "title": "周星驰功夫女足定档",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%AE%9A%E6%A1%A3&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            14,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "哈兰德说被加布抓伤对女友难交代",
@@ -171,6 +196,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 06时56分]"
+        },
+        {
+          "title": "孙颖莎4-3险胜蒯曼 获女单冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4-3%E9%99%A9%E8%83%9C%E8%92%AF%E6%9B%BC+%E8%8E%B7%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "上海46岁独居女子离世 遗产处置引关注",
+          "url": "https://www.toutiao.com/trending/7658620669345529882/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
         },
         {
           "title": "王曼昱蒯曼美国大满贯女双夺冠",
@@ -207,6 +265,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "女子占车位称出差三四天被业主反堵",
+          "url": "https://www.toutiao.com/trending/7658945804673237034/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
           "title": "4岁女孩替父亲买泡面被店主暖心帮助",
           "url": "https://www.baidu.com/s?wd=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9B%BF%E7%88%B6%E4%BA%B2%E4%B9%B0%E6%B3%A1%E9%9D%A2%E8%A2%AB%E5%BA%97%E4%B8%BB%E6%9A%96%E5%BF%83%E5%B8%AE%E5%8A%A9",
           "source": "百度热搜",
@@ -216,6 +285,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 06时56分]"
+        },
+        {
+          "title": "暴雨中女骑手被急流冲倒车主果断拦截",
+          "url": "https://www.toutiao.com/trending/7658642956657164330/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "女子自费装电梯,全楼不领情",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355931&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E7%94%B5%E6%A2%AF%2C%E5%85%A8%E6%A5%BC%E4%B8%8D%E9%A2%86%E6%83%85",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "功夫女足",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "谁买谁冤,赛博女友续航拉胯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355929&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%86%A4%2C%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%8F%8B%E7%BB%AD%E8%88%AA%E6%8B%89%E8%83%AF",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "周星驰功夫女足定档7月11日",
+          "url": "https://www.douyin.com/hot/2560382",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "司晓迪梦女最严厉的嫂子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%99%93%E8%BF%AA%E6%A2%A6%E5%A5%B3%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E5%AB%82%E5%AD%90%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "瓶子君炮轰女帝:啃老装独立",
