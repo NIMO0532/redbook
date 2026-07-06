@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T01:37:51.954147+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-07T03:46:49.594987+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "上海女子私自安装「座椅式爬楼机」给全楼用遭抵制，为何会面临被强制拆除的困境？",
@@ -14,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
         },
         {
           "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时46分]"
         },
         {
           "title": "声称愿和女明星凯莉·米洛发生性关系，澳大利亚总理道歉",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时46分]"
         },
         {
           "title": "如何评价多益网络老板徐波称自己女儿被人诱拐走？到底什么情况？",
@@ -47,20 +47,32 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
         },
         {
           "title": "周星驰功夫女足定档7月11日",
           "url": "https://www.douyin.com/hot/2560382",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
+        },
+        {
+          "title": "朱之文：女儿在陪女婿送快递",
+          "url": "https://www.toutiao.com/trending/7659014251108991027/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
           "title": "长沙女车主强占车位还报警",
@@ -69,9 +81,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
         },
         {
           "title": "女子自费装电梯,全楼不领情",
@@ -80,9 +92,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
         },
         {
           "title": "谁买谁冤,赛博女友续航拉胯",
@@ -91,9 +103,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
         },
         {
           "title": "高考699分女孩遭假冒卖货",
@@ -102,7 +125,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         },
@@ -113,18 +136,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         },
@@ -135,7 +147,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         }
@@ -150,22 +162,24 @@
           "url": "https://www.zhihu.com/question/2057419985929164559",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
         },
         {
           "title": "猪八戒超能救援皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%8C%AA%E5%85%AB%E6%88%92%E8%B6%85%E8%83%BD%E6%95%91%E6%8F%B4%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时46分]"
         }
       ]
     }
