@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:02:47.662760+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-07-06T22:24:39.024748+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -79,6 +79,22 @@
           "time_info": "[01时02分 ~ 08时02分]"
         },
         {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            11,
+            16,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 22时24分]"
+        },
+        {
           "title": "女生听瓜农父女对话后买2000斤西瓜",
           "url": "https://www.toutiao.com/trending/7659035646325473286/",
           "source": "今日头条",
@@ -92,21 +108,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时08分 ~ 08时02分]"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            11,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 18时02分]"
         },
         {
           "title": "9岁女孩摸自行车被扇耳光",
@@ -138,17 +139,6 @@
           "time_info": "[02时08分 ~ 08时02分]"
         },
         {
-          "title": "独生子女不等于唯一继承人",
-          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%94%AF%E4%B8%80%E7%BB%A7%E6%89%BF%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
           "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
           "url": "https://www.zhihu.com/question/2056771003376722999",
           "source": "知乎",
@@ -163,6 +153,31 @@
           "time_info": "[01时02分 ~ 08时02分]"
         },
         {
+          "title": "独生子女不等于唯一继承人",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%94%AF%E4%B8%80%E7%BB%A7%E6%89%BF%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 22时24分]"
+        },
+        {
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 22时24分]"
+        },
+        {
           "title": "周星驰功夫女足定档",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%AE%9A%E6%A1%A3&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -174,28 +189,67 @@
           "time_info": "13时05分"
         },
         {
+          "title": "上海女子私自安装「座椅式爬楼机」给全楼用遭抵制，为何会面临被强制拆除的困境？",
+          "url": "https://www.zhihu.com/question/2056192994538214771",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "长沙女车主强占车位还报警",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355932&amp;topic_name=%E9%95%BF%E6%B2%99%E5%A5%B3%E8%BD%A6%E4%B8%BB%E5%BC%BA%E5%8D%A0%E8%BD%A6%E4%BD%8D%E8%BF%98%E6%8A%A5%E8%AD%A6",
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 22时24分]"
         },
         {
-          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
-          "source": "澎湃新闻",
+          "title": "女子自费装电梯,全楼不领情",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355931&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E7%94%B5%E6%A2%AF%2C%E5%85%A8%E6%A5%BC%E4%B8%8D%E9%A2%86%E6%83%85",
+          "source": "贴吧",
           "ranks": [
-            15,
-            10
+            7,
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 22时24分]"
+        },
+        {
+          "title": "谁买谁冤,赛博女友续航拉胯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355929&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%86%A4%2C%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%8F%8B%E7%BB%AD%E8%88%AA%E6%8B%89%E8%83%AF",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 22时24分]"
+        },
+        {
+          "title": "周星驰功夫女足定档7月11日",
+          "url": "https://www.douyin.com/hot/2560382",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 22时24分]"
         },
         {
           "title": "哈兰德说被加布抓伤对女友难交代",
@@ -235,18 +289,6 @@
           "time_info": "[13时04分 ~ 13时05分]"
         },
         {
-          "title": "女子自费装电梯,全楼不领情",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355931&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E7%94%B5%E6%A2%AF%2C%E5%85%A8%E6%A5%BC%E4%B8%8D%E9%A2%86%E6%83%85",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 18时02分]"
-        },
-        {
           "title": "上海46岁独居女子离世 遗产处置引关注",
           "url": "https://www.toutiao.com/trending/7658620669345529882/",
           "source": "今日头条",
@@ -258,16 +300,15 @@
           "time_info": "[13时04分 ~ 13时05分]"
         },
         {
-          "title": "谁买谁冤,赛博女友续航拉胯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355929&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%86%A4%2C%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%8F%8B%E7%BB%AD%E8%88%AA%E6%8B%89%E8%83%AF",
-          "source": "贴吧",
+          "title": "声称愿和女明星凯莉·米洛发生性关系，澳大利亚总理道歉",
+          "url": "https://news.ifeng.com/c/8uXuqcBpXut",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 18时02分]"
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "王曼昱蒯曼美国大满贯女双夺冠",
@@ -280,18 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时56分]"
-        },
-        {
-          "title": "周星驰功夫女足定档7月11日",
-          "url": "https://www.douyin.com/hot/2560382",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 18时02分]"
         },
         {
           "title": "女子打车问能否开窗被怼“有优越感”",
@@ -314,6 +343,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "女子反映85岁外婆遭保姆多次掌掴撂倒揪头发，南京警方介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524473",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "女子占车位称出差三四天被业主反堵",
@@ -360,6 +400,17 @@
           "time_info": "[13时04分 ~ 13时05分]"
         },
         {
+          "title": "印度嫌犯奸杀12岁女孩遭民众打死",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AB%8C%E7%8A%AF%E5%A5%B8%E6%9D%8012%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%B0%91%E4%BC%97%E6%89%93%E6%AD%BB%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "功夫女足",
           "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -371,13 +422,35 @@
           "time_info": "13时05分"
         },
         {
+          "title": "功夫女足成本3.8亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%88%90%E6%9C%AC3.8%E4%BA%BF%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "如何评价多益网络老板徐波称自己女儿被人诱拐走？到底什么情况？",
+          "url": "https://www.zhihu.com/question/2057395278810805576",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "迪丽热巴代言投广功夫女足",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%A3%E8%A8%80%E6%8A%95%E5%B9%BF%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -407,18 +480,30 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "猪八戒超能救援皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%8C%AA%E5%85%AB%E6%88%92%E8%B6%85%E8%83%BD%E6%95%91%E6%8F%B4%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 22时24分]"
+        },
+        {
+          "title": "如何看待前 RNG 选手史森明评价 TES 遭淘汰「他们压力太大，但没关系，MSI 没含金量没皮肤」？",
+          "url": "https://www.zhihu.com/question/2057419985929164559",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "22时24分"
         }
       ]
     }
