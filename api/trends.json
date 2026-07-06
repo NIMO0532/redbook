@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T05:23:41.776752+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-07T07:01:50.737394+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "上海女子私自安装「座椅式爬楼机」给全楼用遭抵制，为何会面临被强制拆除的困境？",
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 05时23分]"
-        },
-        {
-          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时01分]"
         },
         {
           "title": "声称愿和女明星凯莉·米洛发生性关系，澳大利亚总理道歉",
@@ -36,6 +25,17 @@
           "source": "凤凰网",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 07时01分]"
+        },
+        {
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -50,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[03时45分 ~ 07时01分]"
         },
         {
           "title": "如何评价多益网络老板徐波称自己女儿被人诱拐走？到底什么情况？",
@@ -61,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时01分]"
         },
         {
           "title": "周星驰功夫女足定档7月11日",
@@ -73,52 +73,67 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时01分]"
         },
         {
           "title": "长沙女车主强占车位还报警",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355932&amp;topic_name=%E9%95%BF%E6%B2%99%E5%A5%B3%E8%BD%A6%E4%B8%BB%E5%BC%BA%E5%8D%A0%E8%BD%A6%E4%BD%8D%E8%BF%98%E6%8A%A5%E8%AD%A6",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时01分]"
         },
         {
           "title": "女子自费装电梯,全楼不领情",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355931&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E7%94%B5%E6%A2%AF%2C%E5%85%A8%E6%A5%BC%E4%B8%8D%E9%A2%86%E6%83%85",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时01分]"
         },
         {
           "title": "谁买谁冤,赛博女友续航拉胯",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355929&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%86%A4%2C%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%8F%8B%E7%BB%AD%E8%88%AA%E6%8B%89%E8%83%AF",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时01分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时01分]"
+        },
+        {
+          "title": "女子占车位称出差三四天被业主反堵",
+          "url": "https://www.toutiao.com/trending/7658945804673237034/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时01分]"
         },
         {
           "title": "高考699分女孩遭假冒卖货",
