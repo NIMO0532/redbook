@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-08T06:54:52.833319+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-07-08T07:52:59.322077+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "纯反差!退役老兵变女coser",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355977&amp;topic_name=%E7%BA%AF%E5%8F%8D%E5%B7%AE%21%E9%80%80%E5%BD%B9%E8%80%81%E5%85%B5%E5%8F%98%E5%A5%B3coser",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 06时54分]"
-        },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
           "url": "https://news.ifeng.com/c/8uZavoCll5c",
@@ -28,8 +16,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时52分]"
+        },
+        {
+          "title": "纯反差!退役老兵变女coser",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355977&amp;topic_name=%E7%BA%AF%E5%8F%8D%E5%B7%AE%21%E9%80%80%E5%BD%B9%E8%80%81%E5%85%B5%E5%8F%98%E5%A5%B3coser",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时52分]"
         },
         {
           "title": "大爷爱犬去世后为陌生女子遛狗12年",
@@ -38,11 +38,12 @@
           "ranks": [
             24,
             10,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时52分]"
         },
         {
           "title": "日本一海域发现的遗骸身份确认为中国籍女性，警方：遭人肢解弃尸",
@@ -52,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时52分]"
         },
         {
           "title": "日本海域半截女尸确认为中国籍女子",
@@ -65,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时52分]"
         },
         {
           "title": "南宁一女子街道上被湍急水流冲走",
@@ -76,11 +77,12 @@
             13,
             28,
             24,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时52分]"
         },
         {
           "title": "陈思诚和小21岁女友土耳其游玩",
@@ -90,8 +92,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时52分]"
         },
         {
           "title": "女子离婚7年后儿子带着行李千里寻母",
@@ -100,11 +102,12 @@
           "ranks": [
             27,
             29,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时44分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时44分 ~ 07时52分]"
         },
         {
           "title": "第一美女换黑皮,名导遭炮轰",
@@ -112,11 +115,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时52分]"
         },
         {
           "title": "功夫女足我来应援",
@@ -125,11 +129,12 @@
           "ranks": [
             27,
             30,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时52分]"
         },
         {
           "title": "周星驰新片《功夫女足》热度领跑！超100部电影集结 暑期档仍缺大片压阵",
@@ -180,13 +185,24 @@
           "time_info": "[01时08分 ~ 06时54分]"
         },
         {
+          "title": "野狗骨头把女生黄体破裂拍出来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "女儿走失35年竟在路对面的批发市场",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%B5%B0%E5%A4%B135%E5%B9%B4%E7%AB%9F%E5%9C%A8%E8%B7%AF%E5%AF%B9%E9%9D%A2%E7%9A%84%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         }
