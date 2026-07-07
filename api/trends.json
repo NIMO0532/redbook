@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T05:18:06.296374+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-08T06:54:52.833319+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "纯反差!退役老兵变女coser",
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时54分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
           "url": "https://news.ifeng.com/c/8uZavoCll5c",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "大爷爱犬去世后为陌生女子遛狗12年",
@@ -40,8 +41,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "日本一海域发现的遗骸身份确认为中国籍女性，警方：遭人肢解弃尸",
@@ -51,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "日本海域半截女尸确认为中国籍女子",
@@ -60,11 +61,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "南宁一女子街道上被湍急水流冲走",
@@ -73,11 +75,12 @@
           "ranks": [
             13,
             28,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "陈思诚和小21岁女友土耳其游玩",
@@ -87,8 +90,21 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时54分]"
+        },
+        {
+          "title": "女子离婚7年后儿子带着行李千里寻母",
+          "url": "https://www.toutiao.com/trending/7659233991422328873/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时17分]"
+          "time_info": "[03时44分 ~ 06时54分]"
         },
         {
           "title": "第一美女换黑皮,名导遭炮轰",
@@ -99,8 +115,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时54分]"
+        },
+        {
+          "title": "功夫女足我来应援",
+          "url": "https://www.douyin.com/hot/2562362",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时54分]"
         },
         {
           "title": "周星驰新片《功夫女足》热度领跑！超100部电影集结 暑期档仍缺大片压阵",
@@ -115,30 +144,6 @@
           "time_info": "[01时08分 ~ 05时17分]"
         },
         {
-          "title": "女子离婚7年后儿子带着行李千里寻母",
-          "url": "https://www.toutiao.com/trending/7659233991422328873/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 05时17分]"
-        },
-        {
-          "title": "功夫女足我来应援",
-          "url": "https://www.douyin.com/hot/2562362",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时17分]"
-        },
-        {
           "title": "功夫女足周星驰射门爆杆不输当年",
           "url": "https://www.douyin.com/hot/2560779",
           "source": "抖音",
@@ -147,30 +152,43 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 06时54分]"
         },
         {
           "title": "大二女生贷款200万开民宿营收千万",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%B4%B7%E6%AC%BE200%E4%B8%87%E5%BC%80%E6%B0%91%E5%AE%BF%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 06时54分]"
         },
         {
           "title": "中国女子在日遭人为肢解弃尸",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E9%81%AD%E4%BA%BA%E4%B8%BA%E8%82%A2%E8%A7%A3%E5%BC%83%E5%B0%B8%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 06时54分]"
+        },
+        {
+          "title": "女儿走失35年竟在路对面的批发市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%B5%B0%E5%A4%B135%E5%B9%B4%E7%AB%9F%E5%9C%A8%E8%B7%AF%E5%AF%B9%E9%9D%A2%E7%9A%84%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "06时54分"
         }
       ]
     }
