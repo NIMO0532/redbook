@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:41:55.906506+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-07-07T22:14:30.903443+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "声称愿和女明星凯莉·米洛发生性关系，澳大利亚总理道歉",
@@ -72,6 +72,18 @@
           "time_info": "[01时37分 ~ 08时14分]"
         },
         {
+          "title": "大二女生贷款200万开民宿营收千万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%B4%B7%E6%AC%BE200%E4%B8%87%E5%BC%80%E6%B0%91%E5%AE%BF%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 22时13分]"
+        },
+        {
           "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
           "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
           "source": "澎湃新闻",
@@ -81,6 +93,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时36分 ~ 05时23分]"
+        },
+        {
+          "title": "纯反差!退役老兵变女coser",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355977&amp;topic_name=%E7%BA%AF%E5%8F%8D%E5%B7%AE%21%E9%80%80%E5%BD%B9%E8%80%81%E5%85%B5%E5%8F%98%E5%A5%B3coser",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 22时13分]"
         },
         {
           "title": "女孩2岁时走失 父亲苦寻多年抱憾离世",
@@ -106,28 +129,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时37分 ~ 12时45分]"
-        },
-        {
-          "title": "纯反差!退役老兵变女coser",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355977&amp;topic_name=%E7%BA%AF%E5%8F%8D%E5%B7%AE%21%E9%80%80%E5%BD%B9%E8%80%81%E5%85%B5%E5%8F%98%E5%A5%B3coser",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "大二女生贷款200万开民宿营收千万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%B4%B7%E6%AC%BE200%E4%B8%87%E5%BC%80%E6%B0%91%E5%AE%BF%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         },
         {
           "title": "谁买谁冤,赛博女友续航拉胯",
@@ -168,6 +169,28 @@
           "time_info": "[01时37分 ~ 07时01分]"
         },
         {
+          "title": "日本一女子用针线缝住室友嘴唇",
+          "url": "https://www.toutiao.com/trending/7659551915952816170/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
+          "title": "日本一海域发现的遗骸身份确认为中国籍女性，警方：遭人肢解弃尸",
+          "url": "https://v.ifeng.com/c/8uZToui93zL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "日本海面半截女尸确认为中国籍女子",
           "url": "https://www.toutiao.com/trending/7659678362504151059/",
           "source": "今日头条",
@@ -201,6 +224,17 @@
           "time_info": "[16时16分 ~ 16时17分]"
         },
         {
+          "title": "日本海域半截女尸确认为中国籍女子",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%9F%9F%E5%8D%8A%E6%88%AA%E5%A5%B3%E5%B0%B8%E7%A1%AE%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "女子莫名多出吸毒记录和590万流水",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8E%AB%E5%90%8D%E5%A4%9A%E5%87%BA%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%92%8C590%E4%B8%87%E6%B5%81%E6%B0%B4",
           "source": "百度热搜",
@@ -212,6 +246,17 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "陈思诚和小21岁女友土耳其游玩",
+          "url": "https://www.toutiao.com/trending/7658928623365292038/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "跨省相亲一周全失败 婚介与女方闹崩",
           "url": "https://www.baidu.com/s?wd=%E8%B7%A8%E7%9C%81%E7%9B%B8%E4%BA%B2%E4%B8%80%E5%91%A8%E5%85%A8%E5%A4%B1%E8%B4%A5+%E5%A9%9A%E4%BB%8B%E4%B8%8E%E5%A5%B3%E6%96%B9%E9%97%B9%E5%B4%A9",
           "source": "百度热搜",
@@ -221,6 +266,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "功夫女足周星驰射门爆杆不输当年",
+          "url": "https://www.douyin.com/hot/2560779",
+          "source": "抖音",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 22时13分]"
+        },
+        {
+          "title": "中国女篮热身赛74-76惜败澳大利亚",
+          "url": "https://www.toutiao.com/trending/7659708502419718198/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "女孩2岁时走失 父亲苦寻多年抱憾离世",
@@ -243,6 +311,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时01分]"
+        },
+        {
+          "title": "日本49岁女子用针把室友嘴缝上",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC49%E5%B2%81%E5%A5%B3%E5%AD%90%E7%94%A8%E9%92%88%E6%8A%8A%E5%AE%A4%E5%8F%8B%E5%98%B4%E7%BC%9D%E4%B8%8A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 22时13分]"
+        },
+        {
+          "title": "第一美女换黑皮,名导遭炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355979&amp;topic_name=%E7%AC%AC%E4%B8%80%E7%BE%8E%E5%A5%B3%E6%8D%A2%E9%BB%91%E7%9A%AE%2C%E5%90%8D%E5%AF%BC%E9%81%AD%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "功夫女足 周杰伦阿信",
@@ -300,15 +391,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "功夫女足周星驰射门爆杆不输当年",
-          "url": "https://www.douyin.com/hot/2560779",
-          "source": "抖音",
+          "title": "日本横滨无头女尸确认为中国女子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A8%AA%E6%BB%A8%E6%97%A0%E5%A4%B4%E5%A5%B3%E5%B0%B8%E7%A1%AE%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "22时13分"
         },
         {
           "title": "陈思诚带女友阮巨土耳其游玩",
@@ -320,17 +411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
-        },
-        {
-          "title": "日本49岁女子用针把室友嘴缝上",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC49%E5%B2%81%E5%A5%B3%E5%AD%90%E7%94%A8%E9%92%88%E6%8A%8A%E5%AE%A4%E5%8F%8B%E5%98%B4%E7%BC%9D%E4%B8%8A%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         },
         {
           "title": "功夫女足成本3.8亿",
