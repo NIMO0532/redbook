@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T12:45:40.222690+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-07-07T16:18:18.227760+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "声称愿和女明星凯莉·米洛发生性关系，澳大利亚总理道歉",
@@ -56,6 +56,21 @@
           "time_info": "[01时37分 ~ 08时14分]"
         },
         {
+          "title": "长沙女车主强占车位还报警",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355932&amp;topic_name=%E9%95%BF%E6%B2%99%E5%A5%B3%E8%BD%A6%E4%B8%BB%E5%BC%BA%E5%8D%A0%E8%BD%A6%E4%BD%8D%E8%BF%98%E6%8A%A5%E8%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            17,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时37分 ~ 16时17分]"
+        },
+        {
           "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
           "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
           "source": "澎湃新闻",
@@ -67,18 +82,15 @@
           "time_info": "[01时36分 ~ 05时23分]"
         },
         {
-          "title": "长沙女车主强占车位还报警",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355932&amp;topic_name=%E9%95%BF%E6%B2%99%E5%A5%B3%E8%BD%A6%E4%B8%BB%E5%BC%BA%E5%8D%A0%E8%BD%A6%E4%BD%8D%E8%BF%98%E6%8A%A5%E8%AD%A6",
-          "source": "贴吧",
+          "title": "女孩2岁时走失 父亲苦寻多年抱憾离世",
+          "url": "https://www.toutiao.com/trending/7658955739034796041/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            16,
-            17,
-            23
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 12时45分]"
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "女子自费装电梯,全楼不领情",
@@ -144,6 +156,17 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "王宝强带女友参加婚礼",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%B8%A6%E5%A5%B3%E5%8F%8B%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
+        },
+        {
           "title": "女子莫名多出吸毒记录和590万流水",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8E%AB%E5%90%8D%E5%A4%9A%E5%87%BA%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%92%8C590%E4%B8%87%E6%B5%81%E6%B0%B4",
           "source": "百度热搜",
@@ -172,7 +195,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -194,9 +217,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "钟楚曦 我是最佳女主角配偶",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%20%E6%88%91%E6%98%AF%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E9%85%8D%E5%81%B6&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "女儿不吃蛋黄妈妈摇匀鸡蛋再煮",
@@ -208,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "陈思诚带女友阮巨土耳其游玩",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%B8%A6%E5%A5%B3%E5%8F%8B%E9%98%AE%E5%B7%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E6%B8%B8%E7%8E%A9%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "功夫女足成本3.8亿",
@@ -249,6 +294,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 03时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑虎科技“三全”脑机接口系统启动GCP注册临床试验",
+          "url": "https://wallstreetcn.com/livenews/3129806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "花少8 审美降级",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%20%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }
