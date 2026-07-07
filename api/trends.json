@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T08:14:43.578000+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-07-07T12:45:40.222690+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "声称愿和女明星凯莉·米洛发生性关系，澳大利亚总理道歉",
@@ -73,11 +73,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 08时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 12时45分]"
         },
         {
           "title": "女子自费装电梯,全楼不领情",
@@ -86,11 +87,12 @@
           "ranks": [
             19,
             20,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 08时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 12时45分]"
         },
         {
           "title": "谁买谁冤,赛博女友续航拉胯",
@@ -131,6 +133,28 @@
           "time_info": "[01时37分 ~ 07时01分]"
         },
         {
+          "title": "朱之文：女儿在陪女婿送快递",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E4%B9%8B%E6%96%87%EF%BC%9A%E5%A5%B3%E5%84%BF%E5%9C%A8%E9%99%AA%E5%A5%B3%E5%A9%BF%E9%80%81%E5%BF%AB%E9%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "女子莫名多出吸毒记录和590万流水",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8E%AB%E5%90%8D%E5%A4%9A%E5%87%BA%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%92%8C590%E4%B8%87%E6%B5%81%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
           "title": "女子占车位称出差三四天被业主反堵",
           "url": "https://www.toutiao.com/trending/7658945804673237034/",
           "source": "今日头条",
@@ -142,6 +166,17 @@
           "time_info": "[06时59分 ~ 07时01分]"
         },
         {
+          "title": "功夫女足 周杰伦阿信",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%20%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%98%BF%E4%BF%A1&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "高考699分女孩遭假冒卖货",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83699%E5%88%86%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%81%87%E5%86%92%E5%8D%96%E8%B4%A7%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -151,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "唐山教科书式老赖女儿成失信被执行人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E8%80%81%E8%B5%96%E5%A5%B3%E5%84%BF%E6%88%90%E5%A4%B1%E4%BF%A1%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "女儿不吃蛋黄妈妈摇匀鸡蛋再煮",
