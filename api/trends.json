@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T13:25:42.026915+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-07-08T16:13:39.035694+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
@@ -40,11 +40,12 @@
             3,
             4,
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 16时13分]"
         },
         {
           "title": "大爷爱犬去世后为陌生女子遛狗12年",
@@ -108,11 +109,12 @@
             7,
             8,
             9,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 16时13分]"
         },
         {
           "title": "功夫女足我来应援",
@@ -126,8 +128,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 16时13分]"
         },
         {
           "title": "女子离婚7年后儿子带着行李千里寻母",
@@ -149,11 +151,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 16时13分]"
         },
         {
           "title": "周星驰新作《功夫女足》定档，该片能复刻《少林足球》的高光吗？冲击高票房难度有多大?",
@@ -161,11 +164,24 @@
           "source": "知乎",
           "ranks": [
             4,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 16时13分]"
+        },
+        {
+          "title": "女子晒警察执勤照称“点男模”被拘",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%92%E8%AD%A6%E5%AF%9F%E6%89%A7%E5%8B%A4%E7%85%A7%E7%A7%B0%E2%80%9C%E7%82%B9%E7%94%B7%E6%A8%A1%E2%80%9D%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时13分]"
         },
         {
           "title": "周星驰新片《功夫女足》热度领跑！超100部电影集结 暑期档仍缺大片压阵",
@@ -205,15 +221,15 @@
           "time_info": "[03时45分 ~ 06时54分]"
         },
         {
-          "title": "女子晒警察执勤照称“点男模”被拘",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%92%E8%AD%A6%E5%AF%9F%E6%89%A7%E5%8B%A4%E7%85%A7%E7%A7%B0%E2%80%9C%E7%82%B9%E7%94%B7%E6%A8%A1%E2%80%9D%E8%A2%AB%E6%8B%98",
+          "title": "女子成植物人15年用坏4部空调",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA15%E5%B9%B4%E7%94%A8%E5%9D%8F4%E9%83%A8%E7%A9%BA%E8%B0%83",
           "source": "百度热搜",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[16时12分 ~ 16时13分]"
         },
         {
           "title": "特朗普承认与意女总理关系“变糟”：她人不错，但犯了个错误",
@@ -251,6 +267,39 @@
           "time_info": "[01时08分 ~ 06时54分]"
         },
         {
+          "title": "知情人士：美袭击伊朗女校因指挥官忽视情报过时警告",
+          "url": "https://wallstreetcn.com/livenews/3130484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "姚晨新戏饰演女法官杰西卡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "贵州女子晒照称点男模被行拘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356002&amp;topic_name=%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%99%92%E7%85%A7%E7%A7%B0%E7%82%B9%E7%94%B7%E6%A8%A1%E8%A2%AB%E8%A1%8C%E6%8B%98",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "《功夫女足》预售破 2000 万，你预测影片票房最终能到多少？会带热暑期档市场大盘吗？",
           "url": "https://www.zhihu.com/question/2057867397193626074",
           "source": "知乎",
@@ -260,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "韩国节目男主持当众殴打女主持",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%8A%82%E7%9B%AE%E7%94%B7%E4%B8%BB%E6%8C%81%E5%BD%93%E4%BC%97%E6%AE%B4%E6%89%93%E5%A5%B3%E4%B8%BB%E6%8C%81&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "男子试图迷晕少女性侵 引爆燃致4伤",
@@ -290,7 +350,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -301,7 +361,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -312,7 +372,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -334,9 +394,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "女子8次婚史骗彩礼30万获刑6年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%908%E6%AC%A1%E5%A9%9A%E5%8F%B2%E9%AA%97%E5%BD%A9%E7%A4%BC30%E4%B8%87%E8%8E%B7%E5%88%916%E5%B9%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         }
       ]
     },
@@ -351,7 +422,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
