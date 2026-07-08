@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:23:30.975903+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-09T03:13:34.391745+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "俄罗斯女模特因长相酷似哈兰德走红",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时13分]"
         },
         {
           "title": "俄罗斯女模特长相酷似哈兰德走红",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时13分]"
         },
         {
           "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
@@ -36,9 +36,124 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "姚晨新戏饰演女法官杰西卡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "功夫女足发声明抵制倒卖门票",
+          "url": "https://www.douyin.com/hot/2563369",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "贵州女子晒照称点男模被行拘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356002&amp;topic_name=%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%99%92%E7%85%A7%E7%A7%B0%E7%82%B9%E7%94%B7%E6%A8%A1%E8%A2%AB%E8%A1%8C%E6%8B%98",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "功夫女足的观后感",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%9A%84%E8%A7%82%E5%90%8E%E6%84%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "家长为立规矩送女儿坐牢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355987&amp;topic_name=%E5%AE%B6%E9%95%BF%E4%B8%BA%E7%AB%8B%E8%A7%84%E7%9F%A9%E9%80%81%E5%A5%B3%E5%84%BF%E5%9D%90%E7%89%A2",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "印13岁女孩遭32人轮奸涉事酒店被拆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B013%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD32%E4%BA%BA%E8%BD%AE%E5%A5%B8%E6%B6%89%E4%BA%8B%E9%85%92%E5%BA%97%E8%A2%AB%E6%8B%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "44岁渐冻症男子创奇迹结婚生下俩女",
+          "url": "https://s.weibo.com/weibo?q=%2344%E5%B2%81%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%90%E5%88%9B%E5%A5%87%E8%BF%B9%E7%BB%93%E5%A9%9A%E7%94%9F%E4%B8%8B%E4%BF%A9%E5%A5%B3%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "印度12岁少女被4男轮奸沉塘",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A612%E5%B2%81%E5%B0%91%E5%A5%B3%E8%A2%AB4%E7%94%B7%E8%BD%AE%E5%A5%B8%E6%B2%89%E5%A1%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "女童坐滑梯夹断小拇指 赔偿仍未谈拢",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%9D%90%E6%BB%91%E6%A2%AF%E5%A4%B9%E6%96%AD%E5%B0%8F%E6%8B%87%E6%8C%87+%E8%B5%94%E5%81%BF%E4%BB%8D%E6%9C%AA%E8%B0%88%E6%8B%A2",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
+        },
+        {
+          "title": "女子回应丈夫脱险后游回来见自己",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%88%E5%A4%AB%E8%84%B1%E9%99%A9%E5%90%8E%E6%B8%B8%E5%9B%9E%E6%9D%A5%E8%A7%81%E8%87%AA%E5%B7%B1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
         },
         {
           "title": "横州女子回应丈夫脱险后游回来见自己",
@@ -52,103 +167,15 @@
           "time_info": "[01时22分 ~ 01时23分]"
         },
         {
-          "title": "姚晨新戏饰演女法官杰西卡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "贵州女子晒照称点男模被行拘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356002&amp;topic_name=%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%99%92%E7%85%A7%E7%A7%B0%E7%82%B9%E7%94%B7%E6%A8%A1%E8%A2%AB%E8%A1%8C%E6%8B%98",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "功夫女足的观后感",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%9A%84%E8%A7%82%E5%90%8E%E6%84%9F%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "功夫女足发声明抵制倒卖门票",
-          "url": "https://www.douyin.com/hot/2563369",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "家长为立规矩送女儿坐牢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355987&amp;topic_name=%E5%AE%B6%E9%95%BF%E4%B8%BA%E7%AB%8B%E8%A7%84%E7%9F%A9%E9%80%81%E5%A5%B3%E5%84%BF%E5%9D%90%E7%89%A2",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "印13岁女孩遭32人轮奸涉事酒店被拆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B013%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD32%E4%BA%BA%E8%BD%AE%E5%A5%B8%E6%B6%89%E4%BA%8B%E9%85%92%E5%BA%97%E8%A2%AB%E6%8B%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "44岁渐冻症男子创奇迹结婚生下俩女",
-          "url": "https://s.weibo.com/weibo?q=%2344%E5%B2%81%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%90%E5%88%9B%E5%A5%87%E8%BF%B9%E7%BB%93%E5%A9%9A%E7%94%9F%E4%B8%8B%E4%BF%A9%E5%A5%B3%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "印度12岁少女被4男轮奸沉塘",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A612%E5%B2%81%E5%B0%91%E5%A5%B3%E8%A2%AB4%E7%94%B7%E8%BD%AE%E5%A5%B8%E6%B2%89%E5%A1%98%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
           "title": "中国女排2比3加拿大女排",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922%E6%AF%943%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A5%B3%E6%8E%92&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
         },
         {
           "title": "纯反差!退役老兵变女coser",
@@ -157,9 +184,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
         }
       ]
     },
@@ -172,11 +199,29 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%8F%B8%E5%91%BDFMVP%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "审美是一种无法伪装的能力",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%A1%E7%BE%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%97%A0%E6%B3%95%E4%BC%AA%E8%A3%85%E7%9A%84%E8%83%BD%E5%8A%9B&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时13分"
         }
       ]
     }
