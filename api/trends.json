@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T10:00:14.304618+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-07-08T13:25:42.026915+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
@@ -39,11 +39,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 09时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 13时25分]"
         },
         {
           "title": "大爷爱犬去世后为陌生女子遛狗12年",
@@ -99,6 +100,36 @@
           "time_info": "[01时07分 ~ 07时52分]"
         },
         {
+          "title": "第一美女换黑皮,名导遭炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355979&amp;topic_name=%E7%AC%AC%E4%B8%80%E7%BE%8E%E5%A5%B3%E6%8D%A2%E9%BB%91%E7%9A%AE%2C%E5%90%8D%E5%AF%BC%E9%81%AD%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 13时25分]"
+        },
+        {
+          "title": "功夫女足我来应援",
+          "url": "https://www.douyin.com/hot/2562362",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            17,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 13时25分]"
+        },
+        {
           "title": "女子离婚7年后儿子带着行李千里寻母",
           "url": "https://www.toutiao.com/trending/7659233991422328873/",
           "source": "今日头条",
@@ -113,54 +144,28 @@
           "time_info": "[03时44分 ~ 07时52分]"
         },
         {
-          "title": "第一美女换黑皮,名导遭炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355979&amp;topic_name=%E7%AC%AC%E4%B8%80%E7%BE%8E%E5%A5%B3%E6%8D%A2%E9%BB%91%E7%9A%AE%2C%E5%90%8D%E5%AF%BC%E9%81%AD%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 09时59分]"
-        },
-        {
-          "title": "功夫女足我来应援",
-          "url": "https://www.douyin.com/hot/2562362",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 09时59分]"
-        },
-        {
           "title": "家长为立规矩送女儿坐牢",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355987&amp;topic_name=%E5%AE%B6%E9%95%BF%E4%B8%BA%E7%AB%8B%E8%A7%84%E7%9F%A9%E9%80%81%E5%A5%B3%E5%84%BF%E5%9D%90%E7%89%A2",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时25分]"
         },
         {
           "title": "周星驰新作《功夫女足》定档，该片能复刻《少林足球》的高光吗？冲击高票房难度有多大?",
           "url": "https://www.zhihu.com/question/2057434334261466111",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时25分]"
         },
         {
           "title": "周星驰新片《功夫女足》热度领跑！超100部电影集结 暑期档仍缺大片压阵",
@@ -175,6 +180,19 @@
           "time_info": "[01时08分 ~ 05时17分]"
         },
         {
+          "title": "野狗骨头把女生黄体破裂拍出来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时25分]"
+        },
+        {
           "title": "功夫女足周星驰射门爆杆不输当年",
           "url": "https://www.douyin.com/hot/2560779",
           "source": "抖音",
@@ -187,16 +205,26 @@
           "time_info": "[03时45分 ~ 06时54分]"
         },
         {
-          "title": "野狗骨头把女生黄体破裂拍出来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "女子晒警察执勤照称“点男模”被拘",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%92%E8%AD%A6%E5%AF%9F%E6%89%A7%E5%8B%A4%E7%85%A7%E7%A7%B0%E2%80%9C%E7%82%B9%E7%94%B7%E6%A8%A1%E2%80%9D%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时59分]"
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普承认与意女总理关系“变糟”：她人不错，但犯了个错误",
+          "url": "https://news.ifeng.com/c/8uaXOKn0Dxl",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "大二女生贷款200万开民宿营收千万",
@@ -229,7 +257,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -240,7 +268,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -256,15 +284,76 @@
           "time_info": "06时54分"
         },
         {
+          "title": "俄罗斯女子回应长相酷似哈兰德",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E9%95%BF%E7%9B%B8%E9%85%B7%E4%BC%BC%E5%93%88%E5%85%B0%E5%BE%B7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "广西横州一被蛇咬伤女子不幸离世",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E4%B8%80%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "女篮热身赛，中国 74-76 惜败澳大利亚，张子宇 28 分 10 篮板 4 封盖，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057881440268674452",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "男子开煤气欲迷晕少女引发燃爆",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E7%85%A4%E6%B0%94%E6%AC%B2%E8%BF%B7%E6%99%95%E5%B0%91%E5%A5%B3%E5%BC%95%E5%8F%91%E7%87%83%E7%88%86%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "功夫女足路演",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B7%AF%E6%BC%94&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钟意FMVP皮肤即将上线",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E6%84%8FFMVP%E7%9A%AE%E8%82%A4%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     }
