@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T12:45:40.269082+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-07-09T19:50:32.222241+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "俄罗斯女模特因长相酷似哈兰德走红",
@@ -70,6 +70,19 @@
           "time_info": "[03时12分 ~ 08时03分]"
         },
         {
+          "title": "姚晨新戏饰演女法官杰西卡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 19时50分]"
+        },
+        {
           "title": "女童坐滑梯夹断小拇指 赔偿仍未谈拢",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%9D%90%E6%BB%91%E6%A2%AF%E5%A4%B9%E6%96%AD%E5%B0%8F%E6%8B%87%E6%8C%87+%E8%B5%94%E5%81%BF%E4%BB%8D%E6%9C%AA%E8%B0%88%E6%8B%A2",
           "source": "百度热搜",
@@ -92,18 +105,6 @@
             16,
             17,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 12时45分]"
-        },
-        {
-          "title": "姚晨新戏饰演女法官杰西卡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            23
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -259,6 +260,17 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "香港扫黄 24名内地女子被捕",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%89%AB%E9%BB%84+24%E5%90%8D%E5%86%85%E5%9C%B0%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "女子欲整箱搬走爱心冰箱矿泉水被制止",
           "url": "https://www.toutiao.com/trending/7659994945021870143/",
           "source": "今日头条",
@@ -270,6 +282,28 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "女孩收到全国军校首封录取通知书",
+          "url": "https://www.toutiao.com/trending/7659609630087364649/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "女子杀闺蜜埋尸28年指认时磕头痛哭",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9D%80%E9%97%BA%E8%9C%9C%E5%9F%8B%E5%B0%B828%E5%B9%B4%E6%8C%87%E8%AE%A4%E6%97%B6%E7%A3%95%E5%A4%B4%E7%97%9B%E5%93%AD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "功夫女足质感",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B4%A8%E6%84%9F%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -279,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "电影功夫女足深圳路演",
+          "url": "https://www.douyin.com/hot/2564073",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "4岁女孩买泡面店主知身世后分文未收",
@@ -295,7 +340,7 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大司命FMVP皮肤爆料",
@@ -309,6 +354,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 06时10分]"
+        },
+        {
+          "title": "王者大司命FMVP皮肤质量如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%A4%A7%E5%8F%B8%E5%91%BDFMVP%E7%9A%AE%E8%82%A4%E8%B4%A8%E9%87%8F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
