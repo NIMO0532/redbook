@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T05:16:38.034119+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-10T07:05:28.009241+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -17,21 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 05时16分]"
-        },
-        {
-          "title": "情侣接吻摔倒打翻火锅烫伤前排女孩",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E6%8E%A5%E5%90%BB%E6%91%94%E5%80%92%E6%89%93%E7%BF%BB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E5%89%8D%E6%8E%92%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "男子接吻时摔倒打翻火锅致2女子烫伤",
@@ -42,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "女子称被宁波大学已婚研究员欺骗怀孕和其妻先后怀孕生产，男方：已被处分并支付赔偿",
@@ -53,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "女子遇树杈悬停半空近看发现有风筝线",
@@ -66,8 +53,49 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时05分]"
+        },
+        {
+          "title": "情侣接吻摔倒打翻火锅烫伤前排女孩",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E6%8E%A5%E5%90%BB%E6%91%94%E5%80%92%E6%89%93%E7%BF%BB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E5%89%8D%E6%8E%92%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 07时05分]"
+        },
+        {
+          "title": "女子与情人妻子起冲突致对方骨折获刑",
+          "url": "https://www.toutiao.com/trending/7660367935727730729/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            18,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "time_info": "[03时26分 ~ 07时05分]"
+        },
+        {
+          "title": "电影功夫女足深圳路演",
+          "url": "https://www.douyin.com/hot/2564073",
+          "source": "抖音",
+          "ranks": [
+            30,
+            23,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 07时05分]"
         },
         {
           "title": "女子称被宁波大学已婚研究员欺骗怀孕",
@@ -83,42 +111,18 @@
           "time_info": "[01时14分 ~ 03时27分]"
         },
         {
-          "title": "女子与情人妻子起冲突致对方骨折获刑",
-          "url": "https://www.toutiao.com/trending/7660367935727730729/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时26分 ~ 05时16分]"
-        },
-        {
-          "title": "电影功夫女足深圳路演",
-          "url": "https://www.douyin.com/hot/2564073",
-          "source": "抖音",
-          "ranks": [
-            30,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时16分]"
-        },
-        {
           "title": "女子霸占车位8天宁赔500也不愿道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D8%E5%A4%A9%E5%AE%81%E8%B5%94500%E4%B9%9F%E4%B8%8D%E6%84%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28,
             18,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 07时05分]"
         },
         {
           "title": "功夫女足预售票房破4000万",
@@ -129,19 +133,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 07时05分]"
         },
         {
           "title": "姚晨新戏饰演女法官杰西卡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 07时05分]"
         },
         {
           "title": "95后女孩工位安在南极深海",
@@ -161,7 +166,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
