@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T08:04:06.188093+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-09T12:45:40.269082+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "俄罗斯女模特因长相酷似哈兰德走红",
@@ -35,11 +35,12 @@
           "url": "https://www.zhihu.com/question/2057932320250795330",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 08时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 12时45分]"
         },
         {
           "title": "横州女子回应丈夫脱险后游回来见自己",
@@ -83,15 +84,54 @@
           "time_info": "[03时12分 ~ 08时03分]"
         },
         {
+          "title": "功夫女足发声明抵制倒卖门票",
+          "url": "https://www.douyin.com/hot/2563369",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 12时45分]"
+        },
+        {
           "title": "姚晨新戏饰演女法官杰西卡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 08时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 12时45分]"
+        },
+        {
+          "title": "贵州女子晒照称点男模被行拘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356002&amp;topic_name=%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%99%92%E7%85%A7%E7%A7%B0%E7%82%B9%E7%94%B7%E6%A8%A1%E8%A2%AB%E8%A1%8C%E6%8B%98",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 12时45分]"
+        },
+        {
+          "title": "家长为立规矩送女儿坐牢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355987&amp;topic_name=%E5%AE%B6%E9%95%BF%E4%B8%BA%E7%AB%8B%E8%A7%84%E7%9F%A9%E9%80%81%E5%A5%B3%E5%84%BF%E5%9D%90%E7%89%A2",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 12时45分]"
         },
         {
           "title": "功夫女足的观后感",
@@ -103,41 +143,6 @@
             30,
             16,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 08时03分]"
-        },
-        {
-          "title": "功夫女足发声明抵制倒卖门票",
-          "url": "https://www.douyin.com/hot/2563369",
-          "source": "抖音",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 08时03分]"
-        },
-        {
-          "title": "贵州女子晒照称点男模被行拘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356002&amp;topic_name=%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%99%92%E7%85%A7%E7%A7%B0%E7%82%B9%E7%94%B7%E6%A8%A1%E8%A2%AB%E8%A1%8C%E6%8B%98",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 08时03分]"
-        },
-        {
-          "title": "家长为立规矩送女儿坐牢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355987&amp;topic_name=%E5%AE%B6%E9%95%BF%E4%B8%BA%E7%AB%8B%E8%A7%84%E7%9F%A9%E9%80%81%E5%A5%B3%E5%84%BF%E5%9D%90%E7%89%A2",
-          "source": "贴吧",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -220,6 +225,18 @@
           "time_info": "[01时23分 ~ 06时10分]"
         },
         {
+          "title": "95后女孩工位安在南极深海",
+          "url": "https://www.douyin.com/hot/2563743",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时45分]"
+        },
+        {
           "title": "俄罗斯女模特长相酷似哈兰德走红",
           "url": "https://www.toutiao.com/trending/7659676262939508778/",
           "source": "今日头条",
@@ -231,15 +248,26 @@
           "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "95后女孩工位安在南极深海",
-          "url": "https://www.douyin.com/hot/2563743",
-          "source": "抖音",
+          "title": "44岁渐冻症男子结婚生下双胞胎女儿",
+          "url": "https://www.baidu.com/s?wd=44%E5%B2%81%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E7%94%9F%E4%B8%8B%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF",
+          "source": "百度热搜",
           "ranks": [
-            6
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "女子欲整箱搬走爱心冰箱矿泉水被制止",
+          "url": "https://www.toutiao.com/trending/7659994945021870143/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
         },
         {
           "title": "功夫女足质感",
@@ -248,7 +276,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
