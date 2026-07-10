@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T18:18:21.956222+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-07-10T21:07:41.612542+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "女子称被宁波大学已婚研究员欺骗怀孕和其妻先后怀孕生产，男方：已被处分并支付赔偿",
@@ -59,17 +59,6 @@
           "time_info": "[01时14分 ~ 07时05分]"
         },
         {
-          "title": "霸占业主8万车位女子当面道歉",
-          "url": "https://www.toutiao.com/trending/7659797699898458121/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
           "title": "情侣接吻摔倒打翻火锅烫伤前排女孩",
           "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E6%8E%A5%E5%90%BB%E6%91%94%E5%80%92%E6%89%93%E7%BF%BB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E5%89%8D%E6%8E%92%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -85,15 +74,39 @@
           "time_info": "[01时15分 ~ 10时11分]"
         },
         {
+          "title": "网大水平?功夫女足预告被嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356073&amp;topic_name=%E7%BD%91%E5%A4%A7%E6%B0%B4%E5%B9%B3%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%91%8A%E8%A2%AB%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时07分]"
+        },
+        {
+          "title": "霸占业主8万车位女子当面道歉",
+          "url": "https://www.toutiao.com/trending/7659797699898458121/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时07分]"
+        },
+        {
           "title": "霸占业主8万车位女子当面道歉",
           "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E4%B8%9A%E4%B8%BB8%E4%B8%87%E8%BD%A6%E4%BD%8D%E5%A5%B3%E5%AD%90%E5%BD%93%E9%9D%A2%E9%81%93%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时07分]"
         },
         {
           "title": "女子与情人妻子起冲突致对方骨折获刑",
@@ -109,17 +122,6 @@
           "time_info": "[03时26分 ~ 07时05分]"
         },
         {
-          "title": "网大水平?功夫女足预告被嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356073&amp;topic_name=%E7%BD%91%E5%A4%A7%E6%B0%B4%E5%B9%B3%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%91%8A%E8%A2%AB%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "姚晨新戏饰演女法官杰西卡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
           "source": "贴吧",
@@ -131,6 +133,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 10时11分]"
+        },
+        {
+          "title": "《功夫女足》点映及预售票房破6000万",
+          "url": "https://www.toutiao.com/trending/7660408856882790436/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时07分]"
         },
         {
           "title": "电影功夫女足深圳路演",
@@ -186,6 +200,18 @@
           "time_info": "[01时15分 ~ 07时05分]"
         },
         {
+          "title": "电影《功夫女足》首支长预告",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时07分]"
+        },
+        {
           "title": "女孩洪水中被爸爸稳稳托举衣衫未湿",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B4%AA%E6%B0%B4%E4%B8%AD%E8%A2%AB%E7%88%B8%E7%88%B8%E7%A8%B3%E7%A8%B3%E6%89%98%E4%B8%BE%E8%A1%A3%E8%A1%AB%E6%9C%AA%E6%B9%BF",
           "source": "百度热搜",
@@ -196,17 +222,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时36分 ~ 18时18分]"
-        },
-        {
-          "title": "《功夫女足》点映及预售票房破6000万",
-          "url": "https://www.toutiao.com/trending/7660408856882790436/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "女孩洪水中被爸爸稳稳托举衣衫未湿",
@@ -220,6 +235,29 @@
           "time_info": "[18时17分 ~ 18时18分]"
         },
         {
+          "title": "94岁爷爷86岁奶奶结婚 双方儿女支持",
+          "url": "https://www.baidu.com/s?wd=94%E5%B2%81%E7%88%B7%E7%88%B786%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BB%93%E5%A9%9A+%E5%8F%8C%E6%96%B9%E5%84%BF%E5%A5%B3%E6%94%AF%E6%8C%81",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
+        {
+          "title": "《功夫女足》首支长预告曝光，张小斐、迪丽热巴带队与各路高手功夫大乱斗，看完预告你期待这部电影吗？",
+          "url": "https://www.zhihu.com/question/2058924914954827300",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时07分]"
+        },
+        {
           "title": "《功夫女足》发布新预告",
           "url": "https://www.toutiao.com/trending/7660355965065379883/",
           "source": "今日头条",
@@ -229,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "女子捕蝉喂狗 一套动作行云流水",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%95%E8%9D%89%E5%96%82%E7%8B%97+%E4%B8%80%E5%A5%97%E5%8A%A8%E4%BD%9C%E8%A1%8C%E4%BA%91%E6%B5%81%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "霸占业主8万车位女子当面道歉",
@@ -243,15 +292,51 @@
           "time_info": "[14时37分 ~ 18时18分]"
         },
         {
-          "title": "电影《功夫女足》首支长预告",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A",
-          "source": "百度热搜",
+          "title": "功夫女足预售总票房破6000万",
+          "url": "https://www.douyin.com/hot/2565813",
+          "source": "抖音",
           "ranks": [
-            18
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "time_info": "[18时18分 ~ 21时07分]"
+        },
+        {
+          "title": "如何评价周星驰新片《功夫女足》",
+          "url": "https://www.toutiao.com/trending/7660833826989411866/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
+        {
+          "title": "功夫女足发布首支长预告",
+          "url": "https://www.douyin.com/hot/2565958",
+          "source": "抖音",
+          "ranks": [
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时07分]"
+        },
+        {
+          "title": "周星驰功夫女足各队功夫够燥的",
+          "url": "https://www.douyin.com/hot/2565801",
+          "source": "抖音",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时07分]"
         },
         {
           "title": "广西女子煮2200个粽子送受灾乡镇",
@@ -263,6 +348,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "迪丽热巴谈参演功夫女足",
+          "url": "https://www.douyin.com/hot/2566074",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时07分]"
         },
         {
           "title": "董璇被女儿提醒有人在拍摄背要挺直",
@@ -282,7 +379,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -298,28 +395,6 @@
           "time_info": "01时15分"
         },
         {
-          "title": "功夫女足预售总票房破6000万",
-          "url": "https://www.douyin.com/hot/2565813",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "《功夫女足》首支长预告曝光，张小斐、迪丽热巴带队与各路高手功夫大乱斗，看完预告你期待这部电影吗？",
-          "url": "https://www.zhihu.com/question/2058924914954827300",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "被裁掉的女孩收官啦",
           "url": "https://www.douyin.com/hot/2565044",
           "source": "抖音",
@@ -331,46 +406,13 @@
           "time_info": "05时16分"
         },
         {
-          "title": "周星驰功夫女足各队功夫够燥的",
-          "url": "https://www.douyin.com/hot/2565801",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "功夫女足发布首支长预告",
-          "url": "https://www.douyin.com/hot/2565958",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "迪丽热巴谈参演功夫女足",
-          "url": "https://www.douyin.com/hot/2566074",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "电影功夫女足首支长预告",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -387,7 +429,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
