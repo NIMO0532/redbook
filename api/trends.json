@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-11T05:55:38.323180+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-07-11T06:55:14.370179+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "《功夫女足》首支长预告曝光，张小斐、迪丽热巴带队与各路高手功夫大乱斗，看完预告你期待这部电影吗？",
-          "url": "https://www.zhihu.com/question/2058924914954827300",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时55分]"
-        },
         {
           "title": "网大水平?功夫女足预告被嘲",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356073&amp;topic_name=%E7%BD%91%E5%A4%A7%E6%B0%B4%E5%B9%B3%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%91%8A%E8%A2%AB%E5%98%B2",
@@ -29,8 +16,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时54分]"
+        },
+        {
+          "title": "《功夫女足》首支长预告曝光，张小斐、迪丽热巴带队与各路高手功夫大乱斗，看完预告你期待这部电影吗？",
+          "url": "https://www.zhihu.com/question/2058924914954827300",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "女儿女婿相继自杀后，妈妈投身防性侵宣传",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时54分]"
         },
         {
           "title": "35岁女高管立遗嘱将千万资产赠小姨",
@@ -54,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时54分]"
         },
         {
           "title": "“女干部霸占车位”事件双方和解",
@@ -67,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时54分]"
         },
         {
           "title": "功夫女足预售总票房破6000万",
@@ -78,8 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "周星驰功夫女足各队功夫够燥的",
@@ -90,8 +91,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "迪丽热巴谈参演功夫女足",
@@ -99,11 +100,25 @@
           "source": "抖音",
           "ranks": [
             28,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时54分]"
+        },
+        {
+          "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
+          "url": "https://www.zhihu.com/question/2059024185498808451",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 06时54分]"
         },
         {
           "title": "功夫女足发布首支长预告",
@@ -114,8 +129,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "女子因儿时被亲戚性侵自杀母亲发声",
@@ -123,11 +138,12 @@
           "source": "微博",
           "ranks": [
             26,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 06时54分]"
         },
         {
           "title": "女子家中遇害丈夫拉黑其家人失联",
@@ -140,18 +156,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时18分]"
-        },
-        {
-          "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
-          "url": "https://www.zhihu.com/question/2059024185498808451",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时55分]"
         },
         {
           "title": "电影《功夫女足》首支长预告",
@@ -185,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "车位被女子霸占业主再发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%A5%B3%E5%AD%90%E9%9C%B8%E5%8D%A0%E4%B8%9A%E4%B8%BB%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         }
       ]
     }
