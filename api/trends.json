@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T14:38:09.368160+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-07-10T18:18:21.956222+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 31,
       "titles": [
         {
           "title": "女子称被宁波大学已婚研究员欺骗怀孕和其妻先后怀孕生产，男方：已被处分并支付赔偿",
@@ -59,6 +59,17 @@
           "time_info": "[01时14分 ~ 07时05分]"
         },
         {
+          "title": "霸占业主8万车位女子当面道歉",
+          "url": "https://www.toutiao.com/trending/7659797699898458121/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
           "title": "情侣接吻摔倒打翻火锅烫伤前排女孩",
           "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E6%8E%A5%E5%90%BB%E6%91%94%E5%80%92%E6%89%93%E7%BF%BB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E5%89%8D%E6%8E%92%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -74,6 +85,17 @@
           "time_info": "[01时15分 ~ 10时11分]"
         },
         {
+          "title": "霸占业主8万车位女子当面道歉",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E5%8D%A0%E4%B8%9A%E4%B8%BB8%E4%B8%87%E8%BD%A6%E4%BD%8D%E5%A5%B3%E5%AD%90%E5%BD%93%E9%9D%A2%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
           "title": "女子与情人妻子起冲突致对方骨折获刑",
           "url": "https://www.toutiao.com/trending/7660367935727730729/",
           "source": "今日头条",
@@ -85,6 +107,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时26分 ~ 07时05分]"
+        },
+        {
+          "title": "网大水平?功夫女足预告被嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356073&amp;topic_name=%E7%BD%91%E5%A4%A7%E6%B0%B4%E5%B9%B3%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%91%8A%E8%A2%AB%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "姚晨新戏饰演女法官杰西卡",
@@ -157,22 +190,101 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%B4%AA%E6%B0%B4%E4%B8%AD%E8%A2%AB%E7%88%B8%E7%88%B8%E7%A8%B3%E7%A8%B3%E6%89%98%E4%B8%BE%E8%A1%A3%E8%A1%AB%E6%9C%AA%E6%B9%BF",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时18分]"
+        },
+        {
+          "title": "《功夫女足》点映及预售票房破6000万",
+          "url": "https://www.toutiao.com/trending/7660408856882790436/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "女孩洪水中被爸爸稳稳托举衣衫未湿",
+          "url": "https://www.toutiao.com/trending/7660400719467642921/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "《功夫女足》发布新预告",
+          "url": "https://www.toutiao.com/trending/7660355965065379883/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "霸占业主8万车位女子当面道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E5%8D%A0%E4%B8%9A%E4%B8%BB8%E4%B8%87%E8%BD%A6%E4%BD%8D%E5%A5%B3%E5%AD%90%E5%BD%93%E9%9D%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 18时18分]"
+        },
+        {
+          "title": "电影《功夫女足》首支长预告",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "广西女子煮2200个粽子送受灾乡镇",
+          "url": "https://www.toutiao.com/trending/7660401007071215635/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "董璇被女儿提醒有人在拍摄背要挺直",
+          "url": "https://www.toutiao.com/trending/7660404376648830483/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "功夫女足一直不发真人预告的原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%80%E7%9B%B4%E4%B8%8D%E5%8F%91%E7%9C%9F%E4%BA%BA%E9%A2%84%E5%91%8A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "18时18分"
         },
         {
           "title": "95后女孩工位安在南极深海",
@@ -186,6 +298,28 @@
           "time_info": "01时15分"
         },
         {
+          "title": "功夫女足预售总票房破6000万",
+          "url": "https://www.douyin.com/hot/2565813",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "《功夫女足》首支长预告曝光，张小斐、迪丽热巴带队与各路高手功夫大乱斗，看完预告你期待这部电影吗？",
+          "url": "https://www.zhihu.com/question/2058924914954827300",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "被裁掉的女孩收官啦",
           "url": "https://www.douyin.com/hot/2565044",
           "source": "抖音",
@@ -195,6 +329,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "周星驰功夫女足各队功夫够燥的",
+          "url": "https://www.douyin.com/hot/2565801",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "功夫女足发布首支长预告",
+          "url": "https://www.douyin.com/hot/2565958",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "迪丽热巴谈参演功夫女足",
+          "url": "https://www.douyin.com/hot/2566074",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "电影功夫女足首支长预告",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东方电热：公司电子皮肤产品主要用于新能源汽车智能座舱 且已开始量产",
+          "url": "https://flash.jin10.com/detail/20260710175224340800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     }
