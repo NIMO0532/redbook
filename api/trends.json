@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T07:05:28.009241+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-07-10T10:12:17.207853+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
@@ -8,17 +8,16 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "女子手机丢失卡内余额几乎被转空",
-          "url": "https://www.toutiao.com/trending/7659699872316571702/",
-          "source": "今日头条",
+          "title": "女子称被宁波大学已婚研究员欺骗怀孕和其妻先后怀孕生产，男方：已被处分并支付赔偿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33548100",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            19,
-            9
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 10时11分]"
         },
         {
           "title": "男子接吻时摔倒打翻火锅致2女子烫伤",
@@ -29,15 +28,17 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 10时11分]"
         },
         {
-          "title": "女子称被宁波大学已婚研究员欺骗怀孕和其妻先后怀孕生产，男方：已被处分并支付赔偿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33548100",
-          "source": "澎湃新闻",
+          "title": "女子手机丢失卡内余额几乎被转空",
+          "url": "https://www.toutiao.com/trending/7659699872316571702/",
+          "source": "今日头条",
           "ranks": [
-            14
+            15,
+            19,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -64,11 +65,12 @@
             5,
             4,
             9,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 10时11分]"
         },
         {
           "title": "女子与情人妻子起冲突致对方骨折获刑",
@@ -82,6 +84,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时26分 ~ 07时05分]"
+        },
+        {
+          "title": "姚晨新戏饰演女法官杰西卡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 10时11分]"
         },
         {
           "title": "电影功夫女足深圳路演",
@@ -131,18 +146,6 @@
           "ranks": [
             18,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时05分]"
-        },
-        {
-          "title": "姚晨新戏饰演女法官杰西卡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356004&amp;topic_name=%E5%A7%9A%E6%99%A8%E6%96%B0%E6%88%8F%E9%A5%B0%E6%BC%94%E5%A5%B3%E6%B3%95%E5%AE%98%E6%9D%B0%E8%A5%BF%E5%8D%A1",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29
           ],
           "is_new": false,
           "appearance_count": 4,
