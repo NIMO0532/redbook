@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T19:52:52.223010+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-07-11T21:03:10.145871+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "网大水平?功夫女足预告被嘲",
@@ -18,11 +18,12 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 19时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 21时02分]"
         },
         {
           "title": "“女干部霸占车位”事件双方和解",
@@ -68,6 +69,17 @@
           "time_info": "[00时18分 ~ 09时58分]"
         },
         {
+          "title": "霸占车位女干部已停职",
+          "url": "https://www.toutiao.com/trending/7660650303515148334/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时57分 ~ 21时02分]"
+        },
+        {
           "title": "《功夫女足》票房破亿",
           "url": "https://www.toutiao.com/trending/7660754592174444074/",
           "source": "今日头条",
@@ -110,17 +122,6 @@
           "time_info": "[00时17分 ~ 13时12分]"
         },
         {
-          "title": "霸占车位女干部已停职",
-          "url": "https://www.toutiao.com/trending/7660650303515148334/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
           "title": "功夫女足口碑两极,票吧吵翻天",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356088&amp;topic_name=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%2C%E7%A5%A8%E5%90%A7%E5%90%B5%E7%BF%BB%E5%A4%A9",
           "source": "贴吧",
@@ -132,8 +133,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 21时02分]"
+        },
+        {
+          "title": "周星驰《功夫女足》口碑两极分化",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 21时02分]"
+        },
+        {
+          "title": "你会去看周星驰的新电影《功夫女足》吗？",
+          "url": "https://www.zhihu.com/question/2058093856713969712",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 21时02分]"
         },
         {
           "title": "周星驰功夫女足各队功夫够燥的",
@@ -162,6 +190,32 @@
           "time_info": "[00时18分 ~ 13时12分]"
         },
         {
+          "title": "长沙霸占车位女干部被停职",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356097&amp;topic_name=%E9%95%BF%E6%B2%99%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%81%9C%E8%81%8C",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时02分]"
+        },
+        {
+          "title": "周星驰官宣星女郎雪野",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%AE%98%E5%AE%A3%E6%98%9F%E5%A5%B3%E9%83%8E%E9%9B%AA%E9%87%8E%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            4,
+            11,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 21时02分]"
+        },
+        {
           "title": "功夫女足发布首支长预告",
           "url": "https://www.douyin.com/hot/2565958",
           "source": "抖音",
@@ -174,31 +228,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 13时12分]"
-        },
-        {
-          "title": "周星驰《功夫女足》口碑两极分化",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 19时52分]"
-        },
-        {
-          "title": "你会去看周星驰的新电影《功夫女足》吗？",
-          "url": "https://www.zhihu.com/question/2058093856713969712",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 19时52分]"
         },
         {
           "title": "周星驰电影《功夫女足》票房破亿",
@@ -238,30 +267,54 @@
           "time_info": "[13时11分 ~ 13时12分]"
         },
         {
-          "title": "长沙霸占车位女干部被停职",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356097&amp;topic_name=%E9%95%BF%E6%B2%99%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%81%9C%E8%81%8C",
+          "title": "Oner输完比赛摆烂找女友",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356084&amp;topic_name=Oner%E8%BE%93%E5%AE%8C%E6%AF%94%E8%B5%9B%E6%91%86%E7%83%82%E6%89%BE%E5%A5%B3%E5%8F%8B",
           "source": "贴吧",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "周星驰官宣星女郎雪野",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%AE%98%E5%AE%A3%E6%98%9F%E5%A5%B3%E9%83%8E%E9%9B%AA%E9%87%8E%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            4,
-            11,
-            6,
-            14
+            7,
+            8,
+            9,
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 21时02分]"
+        },
+        {
+          "title": "女儿女婿自杀后妈妈投身防性侵宣传",
+          "url": "https://www.toutiao.com/trending/7660839150657142803/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时57分 ~ 21时02分]"
+        },
+        {
+          "title": "15岁男生因女同桌送画遭围殴",
+          "url": "https://www.baidu.com/s?wd=15%E5%B2%81%E7%94%B7%E7%94%9F%E5%9B%A0%E5%A5%B3%E5%90%8C%E6%A1%8C%E9%80%81%E7%94%BB%E9%81%AD%E5%9B%B4%E6%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时57分 ~ 21时02分]"
+        },
+        {
+          "title": "电影功夫女足今日上映",
+          "url": "https://www.douyin.com/hot/2566793",
+          "source": "抖音",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 21时02分]"
         },
         {
           "title": "功夫女足票房",
@@ -288,20 +341,6 @@
           "time_info": "15时44分"
         },
         {
-          "title": "Oner输完比赛摆烂找女友",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356084&amp;topic_name=Oner%E8%BE%93%E5%AE%8C%E6%AF%94%E8%B5%9B%E6%91%86%E7%83%82%E6%89%BE%E5%A5%B3%E5%8F%8B",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 19时52分]"
-        },
-        {
           "title": "功夫女足预售总票房破6000万",
           "url": "https://www.douyin.com/hot/2565813",
           "source": "抖音",
@@ -311,17 +350,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 06时54分]"
-        },
-        {
-          "title": "电影功夫女足今日上映",
-          "url": "https://www.douyin.com/hot/2566793",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 19时52分]"
         },
         {
           "title": "男子30秒吻女友195次 破吉尼斯纪录",
@@ -334,6 +362,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时43分 ~ 18时58分]"
+        },
+        {
+          "title": "功夫女足观影解读",
+          "url": "https://www.douyin.com/hot/2567101",
+          "source": "抖音",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时44分 ~ 21时02分]"
         },
         {
           "title": "女子因儿时被亲戚性侵自杀母亲发声",
@@ -362,40 +402,6 @@
         },
         {
           "title": "女儿女婿自杀后妈妈投身防性侵宣传",
-          "url": "https://www.toutiao.com/trending/7660839150657142803/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
-          "title": "15岁男生因女同桌送画遭围殴",
-          "url": "https://www.baidu.com/s?wd=15%E5%B2%81%E7%94%B7%E7%94%9F%E5%9B%A0%E5%A5%B3%E5%90%8C%E6%A1%8C%E9%80%81%E7%94%BB%E9%81%AD%E5%9B%B4%E6%AE%B4",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
-          "title": "功夫女足观影解读",
-          "url": "https://www.douyin.com/hot/2567101",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 19时52分]"
-        },
-        {
-          "title": "女儿女婿自杀后妈妈投身防性侵宣传",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E8%87%AA%E6%9D%80%E5%90%8E%E5%A6%88%E5%A6%88%E6%8A%95%E8%BA%AB%E9%98%B2%E6%80%A7%E4%BE%B5%E5%AE%A3%E4%BC%A0",
           "source": "百度热搜",
           "ranks": [
@@ -405,6 +411,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时57分 ~ 13时12分]"
+        },
+        {
+          "title": "功夫女足天津路演",
+          "url": "https://www.douyin.com/hot/2567263",
+          "source": "抖音",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 21时02分]"
+        },
+        {
+          "title": "83岁女董事长遭女儿女婿提议罢免",
+          "url": "https://www.baidu.com/s?wd=83%E5%B2%81%E5%A5%B3%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%AD%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E6%8F%90%E8%AE%AE%E7%BD%A2%E5%85%8D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时51分 ~ 21时02分]"
+        },
+        {
+          "title": "功夫女足张小斐迪丽热巴双A炸场",
+          "url": "https://www.douyin.com/hot/2567223",
+          "source": "抖音",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 21时02分]"
         },
         {
           "title": "功夫女足上映首日票房破亿",
@@ -419,28 +461,17 @@
           "time_info": "[15时44分 ~ 19时52分]"
         },
         {
-          "title": "功夫女足天津路演",
-          "url": "https://www.douyin.com/hot/2567263",
-          "source": "抖音",
+          "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
+          "url": "https://www.zhihu.com/question/2058553085396620762",
+          "source": "知乎",
           "ranks": [
-            21,
-            17
+            12,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时52分]"
-        },
-        {
-          "title": "功夫女足张小斐迪丽热巴双A炸场",
-          "url": "https://www.douyin.com/hot/2567223",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时52分]"
+          "time_info": "[18时58分 ~ 21时02分]"
         },
         {
           "title": "女子家中遇害丈夫拉黑其家人失联",
@@ -455,16 +486,15 @@
           "time_info": "[00时17分 ~ 02时18分]"
         },
         {
-          "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2058553085396620762",
-          "source": "知乎",
+          "title": "功夫女足第一波观众观后感",
+          "url": "https://www.douyin.com/hot/2567288",
+          "source": "抖音",
           "ranks": [
-            12,
-            9
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 21时02分]"
         },
         {
           "title": "男子把充话费当暗示 夜闯女邻居家",
@@ -501,15 +531,26 @@
           "time_info": "[17时20分 ~ 18时58分]"
         },
         {
-          "title": "83岁女董事长遭女儿女婿提议罢免",
-          "url": "https://www.baidu.com/s?wd=83%E5%B2%81%E5%A5%B3%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%AD%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E6%8F%90%E8%AE%AE%E7%BD%A2%E5%85%8D",
-          "source": "百度热搜",
+          "title": "功夫女足票房已破2亿",
+          "url": "https://www.toutiao.com/trending/7660754592174444074/",
+          "source": "今日头条",
           "ranks": [
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "男女被海浪卷走 两人骑摩托艇营救",
+          "url": "https://www.toutiao.com/trending/7660132966110330889/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "车位被女子霸占业主再发声",
@@ -535,15 +576,15 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "功夫女足第一波观众观后感",
-          "url": "https://www.douyin.com/hot/2567288",
-          "source": "抖音",
+          "title": "女子为逃避收监怀孕4次生3子",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E9%80%83%E9%81%BF%E6%94%B6%E7%9B%91%E6%80%80%E5%AD%954%E6%AC%A1%E7%94%9F3%E5%AD%90",
+          "source": "百度热搜",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时52分]"
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "功夫女足 好看",
@@ -555,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "功夫女足里的怀旧彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%87%8C%E7%9A%84%E6%80%80%E6%97%A7%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "女儿女婿自杀后妈妈投身防性侵宣传",
@@ -579,6 +631,28 @@
           "time_info": "13时12分"
         },
         {
+          "title": "功夫女足票房已破2亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B42%E4%BA%BF%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "功夫女足票房破2亿",
+          "url": "https://www.douyin.com/hot/2567492",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "开推团包场迪丽热巴功夫女足",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%8E%A8%E5%9B%A2%E5%8C%85%E5%9C%BA%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -596,7 +670,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -643,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "拍功夫女足只因周星驰心底的热爱",
+          "url": "https://www.douyin.com/hot/2565877",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
