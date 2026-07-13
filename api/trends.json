@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T02:28:41.272127+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-07-14T04:08:21.036361+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "《功夫女足》爆了 但周星驰有点偷懒",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
         },
         {
           "title": "《功夫女足》，周星驰认真炒的冷饭",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
         },
         {
           "title": "《功夫女足》好看吗",
@@ -35,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
         },
         {
           "title": "“功夫女足和功夫差了十个少林足球”",
@@ -47,11 +48,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
         },
         {
           "title": "女子睡觉时被虫咬断一大把头发",
@@ -62,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
         },
         {
           "title": "05年女孩独自开9.6米货车打拼生活",
@@ -71,11 +73,25 @@
           "source": "今日头条",
           "ranks": [
             14,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
+        },
+        {
+          "title": "美籍华裔女演员何炜晴去世",
+          "url": "https://www.toutiao.com/trending/7661620453219237929/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
         },
         {
           "title": "博主：《功夫女足》没那么烂",
@@ -86,20 +102,33 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时07分]"
         },
         {
-          "title": "美籍华裔女演员何炜晴去世",
-          "url": "https://www.toutiao.com/trending/7661620453219237929/",
-          "source": "今日头条",
+          "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
+          "url": "https://www.zhihu.com/question/2059790933936137165",
+          "source": "知乎",
           "ranks": [
-            23,
-            21
+            13,
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "女子在景区厕所被满墙壁虎“围观”",
+          "url": "https://www.toutiao.com/trending/7661831697868963849/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时07分]"
         },
         {
           "title": "女装尺度大,玩家怒冲洛克",
@@ -110,31 +139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "女子在景区厕所被满墙壁虎“围观”",
-          "url": "https://www.toutiao.com/trending/7661831697868963849/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
-        },
-        {
-          "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
-          "url": "https://www.zhihu.com/question/2059790933936137165",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
         },
         {
           "title": "功夫女足票房没有成功学",
@@ -144,8 +150,106 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "功夫女足好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "周星驰功夫女足为何引争议",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "功夫女足影评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%B1%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "周星驰星女郎雪野入驻抖音",
+          "url": "https://www.douyin.com/hot/2570121",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "桂林女子睡觉时被虫咬断一大把头发",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%AD%90%E7%9D%A1%E8%A7%89%E6%97%B6%E8%A2%AB%E8%99%AB%E5%92%AC%E6%96%AD%E4%B8%80%E5%A4%A7%E6%8A%8A%E5%A4%B4%E5%8F%91%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "不让须眉,女志愿者自发救灾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356116&amp;topic_name=%E4%B8%8D%E8%AE%A9%E9%A1%BB%E7%9C%89%2C%E5%A5%B3%E5%BF%97%E6%84%BF%E8%80%85%E8%87%AA%E5%8F%91%E6%95%91%E7%81%BE",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "堪堪及格,功夫女足开局6.6分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356117&amp;topic_name=%E5%A0%AA%E5%A0%AA%E5%8F%8A%E6%A0%BC%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BC%80%E5%B1%806.6%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时07分]"
+        },
+        {
+          "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
+          "url": "https://www.zhihu.com/question/2059946981699728081",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "time_info": "[02时28分 ~ 04时07分]"
         },
         {
           "title": "30岁女子嘴角长水疱未重视竟脑死亡",
@@ -159,86 +263,28 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "功夫女足好看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "title": "功夫女足值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "周星驰功夫女足为何引争议",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "周星驰星女郎雪野入驻抖音",
-          "url": "https://www.douyin.com/hot/2570121",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "桂林女子睡觉时被虫咬断一大把头发",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%AD%90%E7%9D%A1%E8%A7%89%E6%97%B6%E8%A2%AB%E8%99%AB%E5%92%AC%E6%96%AD%E4%B8%80%E5%A4%A7%E6%8A%8A%E5%A4%B4%E5%8F%91%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
+            16,
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "time_info": "[00时24分 ~ 04时07分]"
         },
         {
-          "title": "不让须眉,女志愿者自发救灾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356116&amp;topic_name=%E4%B8%8D%E8%AE%A9%E9%A1%BB%E7%9C%89%2C%E5%A5%B3%E5%BF%97%E6%84%BF%E8%80%85%E8%87%AA%E5%8F%91%E6%95%91%E7%81%BE",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "堪堪及格,功夫女足开局6.6分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356117&amp;topic_name=%E5%A0%AA%E5%A0%AA%E5%8F%8A%E6%A0%BC%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BC%80%E5%B1%806.6%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "功夫女足影评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%B1%E8%AF%84",
+          "title": "IGN评周星驰功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            26,
-            25
+            30,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "time_info": "[02时28分 ~ 04时07分]"
         },
         {
           "title": "女子被扫把手柄里的“怪虫”咬伤",
@@ -263,15 +309,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
-          "url": "https://www.zhihu.com/question/2059946981699728081",
-          "source": "知乎",
+          "title": "哈兰德女朋友穿高跟鞋颠球",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E9%A2%A0%E7%90%83&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "04时07分"
         },
         {
           "title": "你觉得《功夫女足》够「周星驰」吗？",
@@ -285,15 +331,26 @@
           "time_info": "00时24分"
         },
         {
-          "title": "功夫女足值得看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "title": "周星驰官宣新“星女郎”",
+          "url": "https://www.toutiao.com/trending/7661158459601633289/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "锐评周星驰功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "04时07分"
         },
         {
           "title": "沉浸式体验功夫女足幕后",
@@ -302,18 +359,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "IGN评周星驰功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
