@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T15:07:03.981367+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-07-14T17:51:06.825667+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
         {
           "title": "《功夫女足》爆了 但周星驰有点偷懒",
@@ -32,6 +32,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 09时49分]"
+        },
+        {
+          "title": "女装尺度大,玩家怒冲洛克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356132&amp;topic_name=%E5%A5%B3%E8%A3%85%E5%B0%BA%E5%BA%A6%E5%A4%A7%2C%E7%8E%A9%E5%AE%B6%E6%80%92%E5%86%B2%E6%B4%9B%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10,
+            12,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 17时50分]"
         },
         {
           "title": "05年女孩独自开9.6米货车打拼生活",
@@ -112,19 +128,16 @@
           "time_info": "[02时28分 ~ 15时06分]"
         },
         {
-          "title": "女装尺度大,玩家怒冲洛克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356132&amp;topic_name=%E5%A5%B3%E8%A3%85%E5%B0%BA%E5%BA%A6%E5%A4%A7%2C%E7%8E%A9%E5%AE%B6%E6%80%92%E5%86%B2%E6%B4%9B%E5%85%8B",
-          "source": "贴吧",
+          "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33579426",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            8,
-            10,
-            12,
-            15
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时50分]"
         },
         {
           "title": "《功夫女足》好看吗",
@@ -187,6 +200,19 @@
           "time_info": "[00时24分 ~ 15时06分]"
         },
         {
+          "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
+          "url": "https://www.zhihu.com/question/2059433390227583285",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 17时50分]"
+        },
+        {
           "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
           "url": "https://www.zhihu.com/question/2059790933936137165",
           "source": "知乎",
@@ -215,6 +241,22 @@
           "time_info": "[02时27分 ~ 07时46分]"
         },
         {
+          "title": "周星驰功夫女足为何引争议",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            15,
+            30,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 17时50分]"
+        },
+        {
           "title": "博主：《功夫女足》没那么烂",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%EF%BC%9A%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E6%B2%A1%E9%82%A3%E4%B9%88%E7%83%82",
           "source": "百度热搜",
@@ -239,29 +281,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 12时45分]"
-        },
-        {
-          "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2059433390227583285",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 15时06分]"
-        },
-        {
-          "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33579426",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 15时06分]"
         },
         {
           "title": "放射科主任伙同女友受贿2392万获刑",
@@ -290,19 +309,17 @@
           "time_info": "[07时45分 ~ 15时06分]"
         },
         {
-          "title": "周星驰功夫女足为何引争议",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "女子把绿豆汤当水喝致脑出血",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E7%BB%BF%E8%B1%86%E6%B1%A4%E5%BD%93%E6%B0%B4%E5%96%9D%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            19,
-            15,
-            30,
-            14
+            29,
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时24分 ~ 15时06分]"
+          "time_info": "[09时48分 ~ 17时50分]"
         },
         {
           "title": "女子被扫把手柄里的“怪虫”咬伤",
@@ -317,6 +334,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时27分 ~ 07时46分]"
+        },
+        {
+          "title": "女子取现触发反诈预警民警现场核实",
+          "url": "https://www.toutiao.com/trending/7662236584029880339/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "《功夫女足》确实没那么好，但没超越自己的周星驰仍值得珍惜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574626",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时50分]"
         },
         {
           "title": "周星驰官宣新“星女郎”",
@@ -374,27 +415,28 @@
           "time_info": "[00时24分 ~ 09时49分]"
         },
         {
+          "title": "女儿称赵本山彻底退休不会再演小品",
+          "url": "https://www.toutiao.com/trending/7662203433159708187/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时50分]"
+        },
+        {
           "title": "姿态背女主播,llw社媒开爆",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356161&amp;topic_name=%E5%A7%BF%E6%80%81%E8%83%8C%E5%A5%B3%E4%B8%BB%E6%92%AD%2Cllw%E7%A4%BE%E5%AA%92%E5%BC%80%E7%88%86",
           "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "女子把绿豆汤当水喝致脑出血",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E7%BB%BF%E8%B1%86%E6%B1%A4%E5%BD%93%E6%B0%B4%E5%96%9D%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            12
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 15时06分]"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 17时50分]"
         },
         {
           "title": "女子把绿豆汤当水喝致脑出血",
@@ -472,18 +514,6 @@
           "time_info": "[00时24分 ~ 05时49分]"
         },
         {
-          "title": "《功夫女足》确实没那么好，但没超越自己的周星驰仍值得珍惜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33574626",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 15时06分]"
-        },
-        {
           "title": "女子云南捡到品相绝佳见手青",
           "url": "https://www.toutiao.com/trending/7661571347197378601/",
           "source": "今日头条",
@@ -519,15 +549,50 @@
           "time_info": "[09时49分 ~ 15时06分]"
         },
         {
-          "title": "女儿称赵本山彻底退休不会再演小品",
-          "url": "https://www.toutiao.com/trending/7662203433159708187/",
-          "source": "今日头条",
+          "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
+          "url": "https://www.zhihu.com/question/2060111984247272718",
+          "source": "知乎",
           "ranks": [
-            15
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时44分 ~ 15时06分]"
+          "time_info": "[12时45分 ~ 17时50分]"
+        },
+        {
+          "title": "《功夫女足》究竟如何",
+          "url": "https://www.toutiao.com/trending/7661211490946416694/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "女子二婚嫁初恋 俩女儿同一天生日",
+          "url": "https://www.toutiao.com/trending/7662261292359172137/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
+          "url": "https://www.zhihu.com/question/2060269141576233184",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 17时50分]"
         },
         {
           "title": "《功夫女足》的票房经济学",
@@ -574,16 +639,15 @@
           "time_info": "[12时45分 ~ 15时06分]"
         },
         {
-          "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
-          "url": "https://www.zhihu.com/question/2060111984247272718",
-          "source": "知乎",
+          "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
+          "source": "澎湃新闻",
           "ranks": [
-            20,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时45分 ~ 15时06分]"
+          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "让金莎艾米演母女的简直天才",
@@ -596,6 +660,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时46分 ~ 09时49分]"
+        },
+        {
+          "title": "韩女减重小贴士",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A5%B3%E5%87%8F%E9%87%8D%E5%B0%8F%E8%B4%B4%E5%A3%AB&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 17时50分]"
         },
         {
           "title": "中国籍女医生在柬埔寨金边遇害",
@@ -654,15 +730,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
-          "url": "https://www.zhihu.com/question/2060269141576233184",
-          "source": "知乎",
+          "title": "这样帅的球员功夫女足里有两个",
+          "url": "https://www.douyin.com/hot/2570838",
+          "source": "抖音",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时06分"
+          "time_info": "17时50分"
         },
         {
           "title": "美国25岁女子性侵男童并录像",
@@ -671,7 +747,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -685,17 +761,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
-        },
-        {
-          "title": "韩女减重小贴士",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A5%B3%E5%87%8F%E9%87%8D%E5%B0%8F%E8%B4%B4%E5%A3%AB&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
         },
         {
           "title": "施南生是百分百痴情女子",
@@ -740,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "功夫女足 好看",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "沉浸式体验功夫女足幕后",
@@ -791,11 +867,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%B7%91%E7%94%B7%E5%8C%96%E5%A6%86%E5%B8%88%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E9%98%B4%E9%98%B3%E7%99%BD%E5%B9%B2%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 17时50分]"
         },
         {
           "title": "你为什么不化妆？",
