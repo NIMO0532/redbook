@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T07:46:52.776192+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-07-14T09:49:50.919543+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 34,
+      "match_count": 44,
       "titles": [
         {
           "title": "《功夫女足》爆了 但周星驰有点偷懒",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时49分]"
         },
         {
           "title": "《功夫女足》，周星驰认真炒的冷饭",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时49分]"
         },
         {
           "title": "05年女孩独自开9.6米货车打拼生活",
@@ -69,11 +71,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时49分]"
         },
         {
           "title": "美籍华裔女演员何炜晴去世",
@@ -155,11 +158,53 @@
             27,
             26,
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 07时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时28分 ~ 09时49分]"
+        },
+        {
+          "title": "女装尺度大,玩家怒冲洛克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356132&amp;topic_name=%E5%A5%B3%E8%A3%85%E5%B0%BA%E5%BA%A6%E5%A4%A7%2C%E7%8E%A9%E5%AE%B6%E6%80%92%E5%86%B2%E6%B4%9B%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 09时49分]"
+        },
+        {
+          "title": "功夫女足好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            18,
+            22,
+            19,
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 09时49分]"
+        },
+        {
+          "title": "周星驰星女郎雪野入驻抖音",
+          "url": "https://www.douyin.com/hot/2570121",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 09时49分]"
         },
         {
           "title": "女子被扫把手柄里的“怪虫”咬伤",
@@ -176,16 +221,41 @@
           "time_info": "[02时27分 ~ 07时46分]"
         },
         {
-          "title": "女装尺度大,玩家怒冲洛克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356132&amp;topic_name=%E5%A5%B3%E8%A3%85%E5%B0%BA%E5%BA%A6%E5%A4%A7%2C%E7%8E%A9%E5%AE%B6%E6%80%92%E5%86%B2%E6%B4%9B%E5%85%8B",
+          "title": "不让须眉,女志愿者自发救灾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356116&amp;topic_name=%E4%B8%8D%E8%AE%A9%E9%A1%BB%E7%9C%89%2C%E5%A5%B3%E5%BF%97%E6%84%BF%E8%80%85%E8%87%AA%E5%8F%91%E6%95%91%E7%81%BE",
           "source": "贴吧",
           "ranks": [
-            7,
-            8
+            22,
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 09时49分]"
+        },
+        {
+          "title": "堪堪及格,功夫女足开局6.6分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356117&amp;topic_name=%E5%A0%AA%E5%A0%AA%E5%8F%8A%E6%A0%BC%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BC%80%E5%B1%806.6%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 09时49分]"
+        },
+        {
+          "title": "放射科主任伙同女友受贿2392万获刑",
+          "url": "https://www.toutiao.com/trending/7662170851210497574/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "周星驰官宣新“星女郎”",
@@ -201,6 +271,22 @@
           "time_info": "[04时07分 ~ 07时46分]"
         },
         {
+          "title": "功夫女足值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            21,
+            20,
+            18,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 09时49分]"
+        },
+        {
           "title": "功夫女足票房没有成功学",
           "url": "https://www.douyin.com/hot/2570046",
           "source": "抖音",
@@ -212,69 +298,30 @@
           "time_info": "[00时24分 ~ 07时46分]"
         },
         {
-          "title": "功夫女足好看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "title": "功夫女足影评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%B1%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            18,
-            22,
-            19,
-            28
+            26,
+            25,
+            17,
+            28,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时46分]"
+          "time_info": "[00时24分 ~ 09时49分]"
         },
         {
-          "title": "周星驰星女郎雪野入驻抖音",
-          "url": "https://www.douyin.com/hot/2570121",
-          "source": "抖音",
+          "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
+          "url": "https://www.zhihu.com/question/2059433390227583285",
+          "source": "知乎",
           "ranks": [
-            20
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时46分]"
-        },
-        {
-          "title": "不让须眉,女志愿者自发救灾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356116&amp;topic_name=%E4%B8%8D%E8%AE%A9%E9%A1%BB%E7%9C%89%2C%E5%A5%B3%E5%BF%97%E6%84%BF%E8%80%85%E8%87%AA%E5%8F%91%E6%95%91%E7%81%BE",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时46分]"
-        },
-        {
-          "title": "堪堪及格,功夫女足开局6.6分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356117&amp;topic_name=%E5%A0%AA%E5%A0%AA%E5%8F%8A%E6%A0%BC%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BC%80%E5%B1%806.6%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时46分]"
-        },
-        {
-          "title": "功夫女足值得看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            21,
-            20,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 07时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "周星驰功夫女足为何引争议",
@@ -285,20 +332,6 @@
             19,
             15,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 07时46分]"
-        },
-        {
-          "title": "功夫女足影评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%B1%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25,
-            17,
-            28
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -331,6 +364,18 @@
           "time_info": "[02时28分 ~ 06时49分]"
         },
         {
+          "title": "老人为救女子被咬掉鼻子 本人发声",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%92%AC%E6%8E%89%E9%BC%BB%E5%AD%90+%E6%9C%AC%E4%BA%BA%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 09时49分]"
+        },
+        {
           "title": "桂林女子睡觉时被虫咬断一大把头发",
           "url": "https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%AD%90%E7%9D%A1%E8%A7%89%E6%97%B6%E8%A2%AB%E8%99%AB%E5%92%AC%E6%96%AD%E4%B8%80%E5%A4%A7%E6%8A%8A%E5%A4%B4%E5%8F%91%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -344,6 +389,17 @@
           "time_info": "[00时24分 ~ 05时49分]"
         },
         {
+          "title": "《功夫女足》的票房经济学",
+          "url": "https://www.toutiao.com/trending/7662033588874907190/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
           "title": "30岁女子嘴角长水疱未重视竟脑死亡",
           "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E5%A5%B3%E5%AD%90%E5%98%B4%E8%A7%92%E9%95%BF%E6%B0%B4%E7%96%B1%E6%9C%AA%E9%87%8D%E8%A7%86%E7%AB%9F%E8%84%91%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -355,15 +411,27 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "老人为救女子被咬掉鼻子 本人发声",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%B8%BA%E6%95%91%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%92%AC%E6%8E%89%E9%BC%BB%E5%AD%90+%E6%9C%AC%E4%BA%BA%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "《功夫女足》口碑为何撕裂",
+          "url": "https://www.toutiao.com/trending/7662048615765921323/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "让金莎艾米演母女的简直天才",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%87%91%E8%8E%8E%E8%89%BE%E7%B1%B3%E6%BC%94%E6%AF%8D%E5%A5%B3%E7%9A%84%E7%AE%80%E7%9B%B4%E5%A4%A9%E6%89%8D%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时49分]"
         },
         {
           "title": "中国籍女医生在柬埔寨金边遇害",
@@ -375,6 +443,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 05时49分]"
+        },
+        {
+          "title": "台风“巴威”过境女民兵全员出动清障",
+          "url": "https://www.toutiao.com/trending/7661830597555748890/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "女孩成都转机独自吃火锅被收编",
@@ -389,6 +468,28 @@
           "time_info": "[06时49分 ~ 07时46分]"
         },
         {
+          "title": "博主评《功夫女足》：完全合格",
+          "url": "https://www.toutiao.com/trending/7662168226079444521/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "女子把绿豆汤当水喝致脑出血",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E7%BB%BF%E8%B1%86%E6%B1%A4%E5%BD%93%E6%B0%B4%E5%96%9D%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
           "title": "曝具俊晔拟推翻放弃遗产声明，准备争夺大 S 儿女继承的 2/3 遗产，如何看待这一消息？从法律上看他能如愿吗？",
           "url": "https://www.zhihu.com/question/2059706549161944571",
           "source": "知乎",
@@ -398,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "女子把绿豆汤当水喝致脑出血",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8A%8A%E7%BB%BF%E8%B1%86%E6%B1%A4%E5%BD%93%E6%B0%B4%E5%96%9D%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "你觉得《功夫女足》够「周星驰」吗？",
@@ -411,15 +523,26 @@
           "time_info": "00时24分"
         },
         {
-          "title": "让金莎艾米演母女的简直天才",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%87%91%E8%8E%8E%E8%89%BE%E7%B1%B3%E6%BC%94%E6%AF%8D%E5%A5%B3%E7%9A%84%E7%AE%80%E7%9B%B4%E5%A4%A9%E6%89%8D%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "如何看待 2026 年 7 月 13 日周星驰新电影《功夫女足》预测票房飙升至 30.3 亿人民币？",
+          "url": "https://www.zhihu.com/question/2060124058038096124",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "09时49分"
+        },
+        {
+          "title": "电影功夫女足倡导文明观影",
+          "url": "https://www.douyin.com/hot/2569889",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "锐评周星驰功夫女足",
@@ -442,6 +565,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "脑机接口概念开盘活跃，力合科创涨停，翔宇医疗涨超10%，立方制药、倍益康、美好医疗涨幅居前，消息上，民政部等14部门联合公布《康复辅助器具产业扩能提质三年行动方案（2026—2028年）》，攻坚脑机接口、康养机器人、仿生假肢等前沿技术，推动我国康复辅具产业扩能提质。",
+          "url": "https://wallstreetcn.com/livenews/3133198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "A股脑机接口概念开盘活跃，力合科创涨停，翔宇医疗涨超10%，立方制药、倍益康、美好医疗涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260714093531211800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
