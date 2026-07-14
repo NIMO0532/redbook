@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T06:51:54.675898+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-07-15T07:45:23.905355+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时51分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时45分]"
         },
         {
           "title": "功夫女足票房破7亿",
@@ -27,11 +27,12 @@
             2,
             4,
             5,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时51分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时45分]"
         },
         {
           "title": "票房破6亿,央视力挺功夫女足",
@@ -42,8 +43,65 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
+        },
+        {
+          "title": "女子戴耳塞睡觉8年双耳堆满耳屎",
+          "url": "https://www.toutiao.com/trending/7662335384065572907/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时45分]"
+        },
+        {
+          "title": "女生694分被清华录取 没报过补习班",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F694%E5%88%86%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96+%E6%B2%A1%E6%8A%A5%E8%BF%87%E8%A1%A5%E4%B9%A0%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            16,
+            10,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时45分]"
+        },
+        {
+          "title": "《功夫女足》票房破7亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            14,
+            23,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时45分]"
+        },
+        {
+          "title": "深度解析功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "《功夫女足》预测票房涨至 30.3 亿，你觉得能打破《美人鱼》创造的「无厘头喜剧电影」票房纪录吗？",
@@ -59,59 +117,20 @@
           "time_info": "[01时07分 ~ 05时52分]"
         },
         {
-          "title": "深度解析功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
+          "title": "迪丽热巴听到周星驰女儿的表情",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%AC%E5%88%B0%E5%91%A8%E6%98%9F%E9%A9%B0%E5%A5%B3%E5%84%BF%E7%9A%84%E8%A1%A8%E6%83%85%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
             4,
-            7,
-            5
+            5,
+            13,
+            27,
+            26,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
-        },
-        {
-          "title": "女子戴耳塞睡觉8年双耳堆满耳屎",
-          "url": "https://www.toutiao.com/trending/7662335384065572907/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时51分]"
-        },
-        {
-          "title": "女生694分被清华录取 没报过补习班",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F694%E5%88%86%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96+%E6%B2%A1%E6%8A%A5%E8%BF%87%E8%A1%A5%E4%B9%A0%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            16,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时51分]"
-        },
-        {
-          "title": "《功夫女足》票房破7亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            14,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "中国U17女篮不敌西班牙",
@@ -126,21 +145,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 05时52分]"
-        },
-        {
-          "title": "迪丽热巴听到周星驰女儿的表情",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%AC%E5%88%B0%E5%91%A8%E6%98%9F%E9%A9%B0%E5%A5%B3%E5%84%BF%E7%9A%84%E8%A1%A8%E6%83%85%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5,
-            13,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
         },
         {
           "title": "女子追尾身亡 男友副驾睡觉被起诉",
@@ -162,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "如何评价电影功夫女足",
@@ -177,8 +181,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "全网晒功夫女足票根",
@@ -190,8 +194,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
@@ -201,8 +205,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
@@ -212,8 +216,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "女装尺度大,玩家怒冲洛克",
@@ -224,8 +228,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "内娱请把古偶还给少男少女",
@@ -234,11 +238,12 @@
           "ranks": [
             5,
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "IGN评周星驰功夫女足",
@@ -248,11 +253,12 @@
             25,
             21,
             30,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "女生带3箱行李来重庆 大叔收10元帮搬",
@@ -323,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 05时52分]"
+        },
+        {
+          "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
+          "url": "https://www.zhihu.com/question/2060136087029392377",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "周星驰功夫女足为何引争议",
