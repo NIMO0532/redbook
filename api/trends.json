@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T06:53:35.166777+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-07-16T07:53:52.987273+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "《功夫女足》换片源",
@@ -16,11 +16,51 @@
             4,
             5,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 07时53分]"
+        },
+        {
+          "title": "从中职生到研究生，一名“留守女孩”的十年慢跑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570713",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 07时53分]"
+        },
+        {
+          "title": "入室杀害前女友案嫌疑人立“深情人设”，检察官驳斥",
+          "url": "https://news.ifeng.com/c/8umcLJvftRm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 07时53分]"
+        },
+        {
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 07时53分]"
         },
         {
           "title": "富士康打工妹逆袭成中国女首富",
@@ -37,68 +77,18 @@
           "time_info": "[01时08分 ~ 06时53分]"
         },
         {
-          "title": "从中职生到研究生，一名“留守女孩”的十年慢跑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570713",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时53分]"
-        },
-        {
-          "title": "入室杀害前女友案嫌疑人立“深情人设”，检察官驳斥",
-          "url": "https://news.ifeng.com/c/8umcLJvftRm",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时53分]"
-        },
-        {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时53分]"
-        },
-        {
-          "title": "张全蛋聊电影功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%85%A8%E8%9B%8B%E8%81%8A%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时53分]"
-        },
-        {
           "title": "功夫女足换片源",
           "url": "https://www.toutiao.com/trending/7662202820829007402/",
           "source": "今日头条",
           "ranks": [
             6,
             10,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 05时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 07时53分]"
         },
         {
           "title": "女孩发烧3天以为感冒 确诊脑炎",
@@ -107,24 +97,26 @@
           "ranks": [
             29,
             30,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时59分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[02时59分 ~ 07时53分]"
         },
         {
-          "title": "功夫女足2",
-          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B32&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "张全蛋聊电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%85%A8%E8%9B%8B%E8%81%8A%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
+            3,
+            5,
             6,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时53分]"
         },
         {
           "title": "中老年妇女困境",
@@ -135,11 +127,12 @@
             13,
             12,
             26,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时53分]"
         },
         {
           "title": "功夫女足7月17日启用新版片源",
@@ -152,8 +145,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时53分]"
         },
         {
           "title": "功夫女足彩蛋大盘点",
@@ -164,11 +157,12 @@
             18,
             28,
             30,
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时53分]"
         },
         {
           "title": "电影功夫女足争议全解析",
@@ -179,11 +173,51 @@
             30,
             26,
             18,
-            21
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时53分]"
+        },
+        {
+          "title": "功夫女足2",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B32&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 07时53分]"
+        },
+        {
+          "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
+          "url": "https://www.zhihu.com/question/2060771091736425253",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "功夫女足炸出全网周星驰老板粉",
+          "url": "https://www.douyin.com/hot/2571598",
+          "source": "抖音",
+          "ranks": [
+            23,
+            12,
+            24,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时53分]"
+          "time_info": "[01时10分 ~ 07时53分]"
         },
         {
           "title": "票房破6亿,央视力挺功夫女足",
@@ -198,29 +232,42 @@
           "time_info": "[01时10分 ~ 06时53分]"
         },
         {
-          "title": "功夫女足炸出全网周星驰老板粉",
-          "url": "https://www.douyin.com/hot/2571598",
-          "source": "抖音",
-          "ranks": [
-            23,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 06时53分]"
-        },
-        {
           "title": "功夫女足口碑",
           "url": "https://www.douyin.com/hot/2572289",
           "source": "抖音",
           "ranks": [
             28,
-            27
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时53分]"
+        },
+        {
+          "title": "女子遇独臂大爷卖瓜当即定500斤",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%87%E7%8B%AC%E8%87%82%E5%A4%A7%E7%88%B7%E5%8D%96%E7%93%9C%E5%BD%93%E5%8D%B3%E5%AE%9A500%E6%96%A4",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时52分]"
+          "time_info": "[06时52分 ~ 07时53分]"
+        },
+        {
+          "title": "哈兰德给女朋友过生日",
+          "url": "https://www.douyin.com/hot/2572875",
+          "source": "抖音",
+          "ranks": [
+            24,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时53分]"
         },
         {
           "title": "女子煲汤邻居误以为尸臭报警",
@@ -245,18 +292,6 @@
           "time_info": "[01时08分 ~ 01时10分]"
         },
         {
-          "title": "哈兰德给女朋友过生日",
-          "url": "https://www.douyin.com/hot/2572875",
-          "source": "抖音",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时53分]"
-        },
-        {
           "title": "日本女护士输液管中混粪便致人死亡",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%BE%93%E6%B6%B2%E7%AE%A1%E4%B8%AD%E6%B7%B7%E7%B2%AA%E4%BE%BF%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -266,17 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 03时00分]"
-        },
-        {
-          "title": "女子遇独臂大爷卖瓜当即定500斤",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%87%E7%8B%AC%E8%87%82%E5%A4%A7%E7%88%B7%E5%8D%96%E7%93%9C%E5%BD%93%E5%8D%B3%E5%AE%9A500%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
         },
         {
           "title": "王晶评功夫女足",
