@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:45:23.905355+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-07-15T09:45:58.762041+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
@@ -28,11 +28,12 @@
             4,
             5,
             22,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 09时45分]"
         },
         {
           "title": "票房破6亿,央视力挺功夫女足",
@@ -40,11 +41,27 @@
           "source": "贴吧",
           "ranks": [
             2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 09时45分]"
+        },
+        {
+          "title": "深度解析功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            7,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 09时45分]"
         },
         {
           "title": "女子戴耳塞睡觉8年双耳堆满耳屎",
@@ -53,11 +70,12 @@
           "ranks": [
             7,
             14,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 09时45分]"
         },
         {
           "title": "女生694分被清华录取 没报过补习班",
@@ -68,11 +86,12 @@
             16,
             10,
             17,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 09时45分]"
         },
         {
           "title": "《功夫女足》票房破7亿",
@@ -88,20 +107,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时06分 ~ 07时45分]"
-        },
-        {
-          "title": "深度解析功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "《功夫女足》预测票房涨至 30.3 亿，你觉得能打破《美人鱼》创造的「无厘头喜剧电影」票房纪录吗？",
@@ -126,11 +131,52 @@
             13,
             27,
             26,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 09时45分]"
+        },
+        {
+          "title": "姿态背女主播,llw社媒开爆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356161&amp;topic_name=%E5%A7%BF%E6%80%81%E8%83%8C%E5%A5%B3%E4%B8%BB%E6%92%AD%2Cllw%E7%A4%BE%E5%AA%92%E5%BC%80%E7%88%86",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 09时45分]"
+        },
+        {
+          "title": "全网晒功夫女足票根",
+          "url": "https://www.douyin.com/hot/2571599",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 09时45分]"
+        },
+        {
+          "title": "女装尺度大,玩家怒冲洛克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356132&amp;topic_name=%E5%A5%B3%E8%A3%85%E5%B0%BA%E5%BA%A6%E5%A4%A7%2C%E7%8E%A9%E5%AE%B6%E6%80%92%E5%86%B2%E6%B4%9B%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 09时45分]"
         },
         {
           "title": "中国U17女篮不敌西班牙",
@@ -158,18 +204,6 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "姿态背女主播,llw社媒开爆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356161&amp;topic_name=%E5%A7%BF%E6%80%81%E8%83%8C%E5%A5%B3%E4%B8%BB%E6%92%AD%2Cllw%E7%A4%BE%E5%AA%92%E5%BC%80%E7%88%86",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时45分]"
-        },
-        {
           "title": "如何评价电影功夫女足",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "bilibili 热搜",
@@ -179,19 +213,6 @@
             13,
             15,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时45分]"
-        },
-        {
-          "title": "全网晒功夫女足票根",
-          "url": "https://www.douyin.com/hot/2571599",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19,
-            14
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -220,16 +241,15 @@
           "time_info": "[01时07分 ~ 07时45分]"
         },
         {
-          "title": "女装尺度大,玩家怒冲洛克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356132&amp;topic_name=%E5%A5%B3%E8%A3%85%E5%B0%BA%E5%BA%A6%E5%A4%A7%2C%E7%8E%A9%E5%AE%B6%E6%80%92%E5%86%B2%E6%B4%9B%E5%85%8B",
-          "source": "贴吧",
+          "title": "电影功夫女足争议全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BA%89%E8%AE%AE%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
           "ranks": [
-            22,
-            23
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "内娱请把古偶还给少男少女",
@@ -285,6 +305,17 @@
           "time_info": "[05时51分 ~ 06时51分]"
         },
         {
+          "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
+          "url": "https://www.zhihu.com/question/2060136087029392377",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 09时45分]"
+        },
+        {
           "title": "如何评价山田尚子导演的七月新番《穹庐下的魔女》 ？",
           "url": "https://www.zhihu.com/question/2057156756376139431",
           "source": "知乎",
@@ -297,6 +328,17 @@
           "time_info": "[04时53分 ~ 05时52分]"
         },
         {
+          "title": "施南生：燃尽一生的传奇大女主",
+          "url": "https://www.toutiao.com/trending/7662407657604517426/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "放射科主任伙同女友受贿2392万获刑",
           "url": "https://www.toutiao.com/trending/7662170851210497574/",
           "source": "今日头条",
@@ -306,6 +348,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 05时52分]"
+        },
+        {
+          "title": "施南生：香港电影权力最大的女人",
+          "url": "https://www.toutiao.com/trending/7662399150440320518/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "广东女子2条腿被蚊子叮了126个包",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A5%B3%E5%AD%902%E6%9D%A1%E8%85%BF%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%8F%AE%E4%BA%86126%E4%B8%AA%E5%8C%85",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "这样帅的球员功夫女足里有两个",
@@ -331,17 +395,6 @@
           "time_info": "[05时51分 ~ 05时52分]"
         },
         {
-          "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
-          "url": "https://www.zhihu.com/question/2060136087029392377",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "周星驰功夫女足为何引争议",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -353,6 +406,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "住户楼上疹人声响反复孙女不敢留宿",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%B7%E6%A5%BC%E4%B8%8A%E7%96%B9%E4%BA%BA%E5%A3%B0%E5%93%8D%E5%8F%8D%E5%A4%8D%E5%AD%99%E5%A5%B3%E4%B8%8D%E6%95%A2%E7%95%99%E5%AE%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "女子追尾身亡男友副驾睡觉被起诉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%BD%E5%B0%BE%E8%BA%AB%E4%BA%A1%E7%94%B7%E5%8F%8B%E5%89%AF%E9%A9%BE%E7%9D%A1%E8%A7%89%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -362,6 +426,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球首款植入式脑机接口产品完成首例手术",
+          "url": "https://flash.jin10.com/detail/20260715090044976800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
