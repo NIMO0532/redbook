@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T12:45:44.772540+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-15T15:10:04.750495+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
@@ -43,11 +43,12 @@
             2,
             3,
             5,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 15时09分]"
         },
         {
           "title": "深度解析功夫女足",
@@ -59,11 +60,12 @@
             7,
             5,
             3,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 15时09分]"
         },
         {
           "title": "女子戴耳塞睡觉8年双耳堆满耳屎",
@@ -111,6 +113,37 @@
           "time_info": "[01时06分 ~ 07时45分]"
         },
         {
+          "title": "姿态背女主播,llw社媒开爆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356161&amp;topic_name=%E5%A7%BF%E6%80%81%E8%83%8C%E5%A5%B3%E4%B8%BB%E6%92%AD%2Cllw%E7%A4%BE%E5%AA%92%E5%BC%80%E7%88%86",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            13,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 15时09分]"
+        },
+        {
+          "title": "全网晒功夫女足票根",
+          "url": "https://www.douyin.com/hot/2571599",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            14,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 15时09分]"
+        },
+        {
           "title": "《功夫女足》预测票房涨至 30.3 亿，你觉得能打破《美人鱼》创造的「无厘头喜剧电影」票房纪录吗？",
           "url": "https://www.zhihu.com/question/2059400846199219255",
           "source": "知乎",
@@ -139,35 +172,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 09时45分]"
-        },
-        {
-          "title": "姿态背女主播,llw社媒开爆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356161&amp;topic_name=%E5%A7%BF%E6%80%81%E8%83%8C%E5%A5%B3%E4%B8%BB%E6%92%AD%2Cllw%E7%A4%BE%E5%AA%92%E5%BC%80%E7%88%86",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时45分]"
-        },
-        {
-          "title": "全网晒功夫女足票根",
-          "url": "https://www.douyin.com/hot/2571599",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时45分]"
         },
         {
           "title": "女装尺度大,玩家怒冲洛克",
@@ -286,6 +290,67 @@
           "time_info": "[09时45分 ~ 12时45分]"
         },
         {
+          "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
+          "url": "https://www.zhihu.com/question/2060136087029392377",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 15时09分]"
+        },
+        {
+          "title": "女副部乌兰被公诉",
+          "url": "https://www.toutiao.com/trending/7662568840803074102/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时09分]"
+        },
+        {
+          "title": "岳父在芝麻酱下毒毒死女婿 逃跑被抓",
+          "url": "https://www.baidu.com/s?wd=%E5%B2%B3%E7%88%B6%E5%9C%A8%E8%8A%9D%E9%BA%BB%E9%85%B1%E4%B8%8B%E6%AF%92%E6%AF%92%E6%AD%BB%E5%A5%B3%E5%A9%BF+%E9%80%83%E8%B7%91%E8%A2%AB%E6%8A%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时09分]"
+        },
+        {
+          "title": "张雨绮包30场《功夫女足》支持周星驰",
+          "url": "https://www.toutiao.com/trending/7662029353937453098/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时09分]"
+        },
+        {
+          "title": "《功夫女足》为何强于《新喜剧之王》",
+          "url": "https://www.toutiao.com/trending/7662561758489349668/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时09分]"
+        },
+        {
           "title": "广东女子2条腿被蚊子叮了126个包",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A5%B3%E5%AD%902%E6%9D%A1%E8%85%BF%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%8F%AE%E4%BA%86126%E4%B8%AA%E5%8C%85",
           "source": "百度热搜",
@@ -298,16 +363,15 @@
           "time_info": "[09时44分 ~ 12时45分]"
         },
         {
-          "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
-          "url": "https://www.zhihu.com/question/2060136087029392377",
-          "source": "知乎",
+          "title": "《功夫女足》预测票房已超30亿元",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%B7%B2%E8%B6%8530%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时09分]"
         },
         {
           "title": "女生带3箱行李来重庆 大叔收10元帮搬",
@@ -334,48 +398,16 @@
           "time_info": "[05时51分 ~ 06时51分]"
         },
         {
-          "title": "女副部乌兰被公诉",
-          "url": "https://www.toutiao.com/trending/7662568840803074102/",
-          "source": "今日头条",
+          "title": "功夫女足彩蛋大盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%A9%E8%9B%8B%E5%A4%A7%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "张雨绮包30场《功夫女足》支持周星驰",
-          "url": "https://www.toutiao.com/trending/7662029353937453098/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "岳父在芝麻酱下毒毒死女婿 逃跑被抓",
-          "url": "https://www.baidu.com/s?wd=%E5%B2%B3%E7%88%B6%E5%9C%A8%E8%8A%9D%E9%BA%BB%E9%85%B1%E4%B8%8B%E6%AF%92%E6%AF%92%E6%AD%BB%E5%A5%B3%E5%A9%BF+%E9%80%83%E8%B7%91%E8%A2%AB%E6%8A%93",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "《功夫女足》为何强于《新喜剧之王》",
-          "url": "https://www.toutiao.com/trending/7662561758489349668/",
-          "source": "今日头条",
-          "ranks": [
+            21,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "time_info": "[12时45分 ~ 15时09分]"
         },
         {
           "title": "如何评价山田尚子导演的七月新番《穹庐下的魔女》 ？",
@@ -390,6 +422,17 @@
           "time_info": "[04时53分 ~ 05时52分]"
         },
         {
+          "title": "76岁女儿看着病榻上97岁父亲落泪",
+          "url": "https://www.toutiao.com/trending/7662020163995484166/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
           "title": "施南生：燃尽一生的传奇大女主",
           "url": "https://www.toutiao.com/trending/7662407657604517426/",
           "source": "今日头条",
@@ -401,15 +444,16 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "《功夫女足》预测票房已超30亿元",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%B7%B2%E8%B6%8530%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
+          "title": "张小斐热巴回应演功夫女足压力",
+          "url": "https://www.douyin.com/hot/2571525",
+          "source": "抖音",
           "ranks": [
-            20
+            21,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "time_info": "[12时45分 ~ 15时09分]"
         },
         {
           "title": "放射科主任伙同女友受贿2392万获刑",
@@ -468,6 +512,17 @@
           "time_info": "[05时51分 ~ 05时52分]"
         },
         {
+          "title": "王晶评功夫女足",
+          "url": "https://www.douyin.com/hot/2572187",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "周星驰功夫女足为何引争议",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -479,26 +534,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "功夫女足彩蛋大盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%A9%E8%9B%8B%E5%A4%A7%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
+          "title": "桂林一男子带 13 岁女儿到横州当志愿者，女儿称「帮忙后心里挺舒服」，这一经历能教会孩子什么？",
+          "url": "https://www.zhihu.com/question/2058937606256202098",
+          "source": "知乎",
           "ranks": [
-            21
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "张小斐热巴回应演功夫女足压力",
-          "url": "https://www.douyin.com/hot/2571525",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "15时09分"
         },
         {
           "title": "住户楼上疹人声响反复孙女不敢留宿",
@@ -518,9 +562,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "热巴复刻功夫女足踢球场面鞋掉了",
+          "url": "https://www.douyin.com/hot/2572078",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "女子追尾身亡男友副驾睡觉被起诉",
@@ -557,7 +612,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
