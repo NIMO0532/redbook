@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:55:30.548539+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-07-15T19:25:31.129394+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
@@ -45,11 +45,12 @@
             5,
             12,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 17时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 19时25分]"
         },
         {
           "title": "深度解析功夫女足",
@@ -111,8 +112,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 17时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 19时25分]"
         },
         {
           "title": "《功夫女足》票房破7亿",
@@ -218,11 +219,12 @@
           "url": "https://www.toutiao.com/trending/7662336073447800841/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时25分]"
         },
         {
           "title": "如何评价电影功夫女足",
@@ -262,26 +264,29 @@
           "time_info": "[01时07分 ~ 07时45分]"
         },
         {
-          "title": "功夫女足 换片源",
-          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%20%E6%8D%A2%E7%89%87%E6%BA%90&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "陈瑶素颜录制我家那闺女",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%91%B6%E7%B4%A0%E9%A2%9C%E5%BD%95%E5%88%B6%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "电影功夫女足争议全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BA%89%E8%AE%AE%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            19,
+            30,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 19时25分]"
         },
         {
           "title": "内娱请把古偶还给少男少女",
@@ -313,17 +318,16 @@
           "time_info": "[01时07分 ~ 07时45分]"
         },
         {
-          "title": "电影功夫女足争议全解析",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BA%89%E8%AE%AE%E5%85%A8%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
+          "title": "功夫女足 换片源",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%20%E6%8D%A2%E7%89%87%E6%BA%90&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2,
-            19,
-            30
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 17时55分]"
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时25分]"
         },
         {
           "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
@@ -351,6 +355,18 @@
           "time_info": "[12时44分 ~ 15时09分]"
         },
         {
+          "title": "《功夫女足》里藏了多少跨界大神",
+          "url": "https://www.toutiao.com/trending/7661992187529379891/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时25分]"
+        },
+        {
           "title": "岳父在芝麻酱下毒毒死女婿 逃跑被抓",
           "url": "https://www.baidu.com/s?wd=%E5%B2%B3%E7%88%B6%E5%9C%A8%E8%8A%9D%E9%BA%BB%E9%85%B1%E4%B8%8B%E6%AF%92%E6%AF%92%E6%AD%BB%E5%A5%B3%E5%A9%BF+%E9%80%83%E8%B7%91%E8%A2%AB%E6%8A%93",
           "source": "百度热搜",
@@ -361,6 +377,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时44分 ~ 15时09分]"
+        },
+        {
+          "title": "2岁女童浴盆溺水父亲倒立控水",
+          "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B4%E7%9B%86%E6%BA%BA%E6%B0%B4%E7%88%B6%E4%BA%B2%E5%80%92%E7%AB%8B%E6%8E%A7%E6%B0%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时25分]"
         },
         {
           "title": "张雨绮包30场《功夫女足》支持周星驰",
@@ -410,6 +438,18 @@
           "time_info": "[12时44分 ~ 15时09分]"
         },
         {
+          "title": "广西贵港两女孩失联超100小时",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E4%B8%A4%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94%E8%B6%85100%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时25分]"
+        },
+        {
           "title": "功夫女足彩蛋大盘点",
           "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%A9%E8%9B%8B%E5%A4%A7%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
@@ -421,6 +461,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时45分 ~ 17时55分]"
+        },
+        {
+          "title": "王晶评功夫女足",
+          "url": "https://www.douyin.com/hot/2572187",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 19时25分]"
         },
         {
           "title": "女生带3箱行李来重庆 大叔收10元帮搬",
@@ -447,15 +500,15 @@
           "time_info": "[05时51分 ~ 06时51分]"
         },
         {
-          "title": "《功夫女足》里藏了多少跨界大神",
-          "url": "https://www.toutiao.com/trending/7661992187529379891/",
-          "source": "今日头条",
+          "title": "入室杀害前女友案嫌疑人立“深情人设”，检察官驳斥",
+          "url": "https://news.ifeng.com/c/8umcLJvftRm",
+          "source": "凤凰网",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
+          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "如何评价山田尚子导演的七月新番《穹庐下的魔女》 ？",
@@ -492,18 +545,6 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "王晶评功夫女足",
-          "url": "https://www.douyin.com/hot/2572187",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 17时55分]"
-        },
-        {
           "title": "张小斐热巴回应演功夫女足压力",
           "url": "https://www.douyin.com/hot/2571525",
           "source": "抖音",
@@ -528,6 +569,28 @@
         },
         {
           "title": "女子煲汤邻居误以为尸臭报警",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%B2%E6%B1%A4%E9%82%BB%E5%B1%85%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%B0%B8%E8%87%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时25分]"
+        },
+        {
+          "title": "女子煲汤邻居误以为尸臭报警",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%85%B2%E6%B1%A4%E9%82%BB%E5%B1%85%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%B0%B8%E8%87%AD%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
+        },
+        {
+          "title": "女子煲汤邻居误以为尸臭报警",
           "url": "https://www.toutiao.com/trending/7662604418751152178/",
           "source": "今日头条",
           "ranks": [
@@ -549,15 +612,39 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "广西贵港两女孩失联超100小时",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E4%B8%A4%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94%E8%B6%85100%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
+          "title": "热巴复刻功夫女足踢球场面鞋掉了",
+          "url": "https://www.douyin.com/hot/2572078",
+          "source": "抖音",
           "ranks": [
-            28
+            26,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
+          "time_info": "[15时09分 ~ 19时25分]"
+        },
+        {
+          "title": "富士康打工妹逆袭成中国女首富",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%89%93%E5%B7%A5%E5%A6%B9%E9%80%86%E8%A2%AD%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
+        },
+        {
+          "title": "功夫女足口碑",
+          "url": "https://www.douyin.com/hot/2572289",
+          "source": "抖音",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时25分]"
         },
         {
           "title": "媒体评《功夫女足》：有周星驰味儿",
@@ -594,15 +681,26 @@
           "time_info": "[05时51分 ~ 05时52分]"
         },
         {
-          "title": "2岁女童浴盆溺水父亲倒立控水",
-          "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B4%E7%9B%86%E6%BA%BA%E6%B0%B4%E7%88%B6%E4%BA%B2%E5%80%92%E7%AB%8B%E6%8E%A7%E6%B0%B4%23&t=31&band_rank=18&Refer=top",
+          "title": "曝功夫女足被偷票房",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "19时25分"
+        },
+        {
+          "title": "张月陈瑶 我家那闺女",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E9%99%88%E7%91%B6%20%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "周星驰功夫女足为何引争议",
@@ -627,15 +725,15 @@
           "time_info": "15时09分"
         },
         {
-          "title": "女子煲汤邻居误以为尸臭报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%B2%E6%B1%A4%E9%82%BB%E5%B1%85%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%B0%B8%E8%87%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "功夫女足疑被偷票房",
+          "url": "https://www.douyin.com/hot/2572264",
+          "source": "抖音",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "19时25分"
         },
         {
           "title": "住户楼上疹人声响反复孙女不敢留宿",
@@ -666,20 +764,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "热巴复刻功夫女足踢球场面鞋掉了",
-          "url": "https://www.douyin.com/hot/2572078",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "17时55分"
         },
         {
           "title": "女子追尾身亡男友副驾睡觉被起诉",
@@ -691,17 +778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "功夫女足口碑",
-          "url": "https://www.douyin.com/hot/2572289",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         }
       ]
     },
