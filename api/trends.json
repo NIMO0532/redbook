@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T09:56:15.648555+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-07-16T12:55:37.663040+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "《功夫女足》换片源",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 09时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时08分 ~ 12时55分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
@@ -48,11 +48,12 @@
             13,
             15,
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 09时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时08分 ~ 12时55分]"
         },
         {
           "title": "入室杀害前女友案嫌疑人立“深情人设”，检察官驳斥",
@@ -131,11 +132,12 @@
             15,
             13,
             14,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 12时55分]"
         },
         {
           "title": "电影功夫女足争议全解析",
@@ -148,11 +150,12 @@
             18,
             21,
             17,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 12时55分]"
         },
         {
           "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
@@ -163,8 +166,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 12时55分]"
+        },
+        {
+          "title": "功夫女足炸出全网周星驰老板粉",
+          "url": "https://www.douyin.com/hot/2571598",
+          "source": "抖音",
+          "ranks": [
+            23,
+            12,
+            24,
+            28,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 12时55分]"
         },
         {
           "title": "中老年妇女困境",
@@ -181,21 +200,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时10分 ~ 07时53分]"
-        },
-        {
-          "title": "功夫女足炸出全网周星驰老板粉",
-          "url": "https://www.douyin.com/hot/2571598",
-          "source": "抖音",
-          "ranks": [
-            23,
-            12,
-            24,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 09时55分]"
         },
         {
           "title": "功夫女足彩蛋大盘点",
@@ -242,6 +246,21 @@
           "time_info": "[01时10分 ~ 07时53分]"
         },
         {
+          "title": "哈兰德给女朋友过生日",
+          "url": "https://www.douyin.com/hot/2572875",
+          "source": "抖音",
+          "ranks": [
+            24,
+            20,
+            19,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 12时55分]"
+        },
+        {
           "title": "票房破6亿,央视力挺功夫女足",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356171&amp;topic_name=%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF%2C%E5%A4%AE%E8%A7%86%E5%8A%9B%E6%8C%BA%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "贴吧",
@@ -254,20 +273,6 @@
           "time_info": "[01时10分 ~ 06时53分]"
         },
         {
-          "title": "哈兰德给女朋友过生日",
-          "url": "https://www.douyin.com/hot/2572875",
-          "source": "抖音",
-          "ranks": [
-            24,
-            20,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 09时55分]"
-        },
-        {
           "title": "女子遇独臂大爷卖瓜当即定500斤",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%87%E7%8B%AC%E8%87%82%E5%A4%A7%E7%88%B7%E5%8D%96%E7%93%9C%E5%BD%93%E5%8D%B3%E5%AE%9A500%E6%96%A4",
           "source": "百度热搜",
@@ -278,6 +283,53 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时52分 ~ 07时53分]"
+        },
+        {
+          "title": "女子在家煲汤，邻居以为是尸臭慌忙报警",
+          "url": "https://news.ifeng.com/c/8unchwlvnAq",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时55分]"
+        },
+        {
+          "title": "从中职生到研究生，一名“留守女孩”的10年慢跑",
+          "url": "https://news.ifeng.com/c/8unbx2SRRLU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时55分]"
+        },
+        {
+          "title": "周星驰《功夫女足》上映5天票房8亿",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A05%E5%A4%A9%E7%A5%A8%E6%88%BF8%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时55分]"
+        },
+        {
+          "title": "功夫女足模仿大赛",
+          "url": "https://www.douyin.com/hot/2572399",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 12时55分]"
         },
         {
           "title": "女子煲汤邻居误以为尸臭报警",
@@ -302,6 +354,17 @@
           "time_info": "[01时08分 ~ 01时10分]"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 12时55分]"
+        },
+        {
           "title": "日本女护士输液管中混粪便致人死亡",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%BE%93%E6%B6%B2%E7%AE%A1%E4%B8%AD%E6%B7%B7%E7%B2%AA%E4%BE%BF%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -313,16 +376,16 @@
           "time_info": "[01时10分 ~ 03时00分]"
         },
         {
-          "title": "功夫女足模仿大赛",
-          "url": "https://www.douyin.com/hot/2572399",
+          "title": "对话功夫女足张小斐迪丽热巴",
+          "url": "https://www.douyin.com/hot/2572798",
           "source": "抖音",
           "ranks": [
-            30,
+            23,
             28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时00分 ~ 09时55分]"
+          "time_info": "[09时55分 ~ 12时55分]"
         },
         {
           "title": "如果吴孟达健在，会在周星驰《功夫女足》中担任什么角色？",
@@ -331,64 +394,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
         {
-          "title": "女子在家煲汤，邻居以为是尸臭慌忙报警",
-          "url": "https://news.ifeng.com/c/8unchwlvnAq",
-          "source": "凤凰网",
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "12时55分"
         },
         {
-          "title": "从中职生到研究生，一名“留守女孩”的10年慢跑",
-          "url": "https://news.ifeng.com/c/8unbx2SRRLU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "title": "38 岁的中年妇女有种无力感，不求上进的老公、不爱学习的孩子、无能为力的自己，大家都有这个感觉嘛？",
+          "url": "https://www.zhihu.com/question/666689112",
           "source": "知乎",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "12时55分"
         },
         {
-          "title": "周星驰《功夫女足》上映5天票房8亿",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A05%E5%A4%A9%E7%A5%A8%E6%88%BF8%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "机场回应女子拍到保洁只能靠墙休息",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E4%BF%9D%E6%B4%81%E5%8F%AA%E8%83%BD%E9%9D%A0%E5%A2%99%E4%BC%91%E6%81%AF%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "对话功夫女足张小斐迪丽热巴",
-          "url": "https://www.douyin.com/hot/2572798",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "12时55分"
         },
         {
           "title": "功夫女足票房",
@@ -397,9 +438,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "功夫女足",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "王晶评功夫女足",
@@ -411,6 +463,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "墨子迪迦奥特曼皮肤解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A2%A8%E5%AD%90%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%AE%E8%82%A4%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     },
