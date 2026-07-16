@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T21:27:35.410906+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-07-16T23:29:29.095645+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "《功夫女足》换片源",
@@ -162,6 +162,20 @@
           "time_info": "[01时10分 ~ 21时27分]"
         },
         {
+          "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
+          "url": "https://www.zhihu.com/question/2060808065167746714",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 23时29分]"
+        },
+        {
           "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
           "url": "https://www.zhihu.com/question/2060771091736425253",
           "source": "知乎",
@@ -173,19 +187,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时53分 ~ 18时02分]"
-        },
-        {
-          "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
-          "url": "https://www.zhihu.com/question/2060808065167746714",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 21时27分]"
         },
         {
           "title": "周星驰回应《功夫女足》破纪录",
@@ -215,6 +216,35 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 12时55分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 23时29分]"
+        },
+        {
+          "title": "真实评价电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 23时29分]"
         },
         {
           "title": "中老年妇女困境",
@@ -288,34 +318,6 @@
           "time_info": "18时02分"
         },
         {
-          "title": "真实评价电影功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 21时27分]"
-        },
-        {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            13,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 21时27分]"
-        },
-        {
           "title": "哈兰德给女朋友过生日",
           "url": "https://www.douyin.com/hot/2572875",
           "source": "抖音",
@@ -357,6 +359,19 @@
           "time_info": "[09时55分 ~ 15时20分]"
         },
         {
+          "title": "功夫女足这条抖音艺术已成",
+          "url": "https://www.douyin.com/hot/2572892",
+          "source": "抖音",
+          "ranks": [
+            21,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 23时29分]"
+        },
+        {
           "title": "票房破6亿,央视力挺功夫女足",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356171&amp;topic_name=%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF%2C%E5%A4%AE%E8%A7%86%E5%8A%9B%E6%8C%BA%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "贴吧",
@@ -382,6 +397,18 @@
           "time_info": "[12时55分 ~ 19时45分]"
         },
         {
+          "title": "女子当街殴打89岁拾荒老人",
+          "url": "https://www.toutiao.com/trending/7663086377650880531/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时26分 ~ 23时29分]"
+        },
+        {
           "title": "观众遇手写票质疑《功夫女足》被偷票房",
           "url": "https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E9%81%87%E6%89%8B%E5%86%99%E7%A5%A8%E8%B4%A8%E7%96%91%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF",
           "source": "百度热搜",
@@ -393,19 +420,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时00分 ~ 21时27分]"
-        },
-        {
-          "title": "功夫女足这条抖音艺术已成",
-          "url": "https://www.douyin.com/hot/2572892",
-          "source": "抖音",
-          "ranks": [
-            21,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 21时27分]"
         },
         {
           "title": "女子遇独臂大爷卖瓜当即定500斤",
@@ -538,17 +552,6 @@
           "time_info": "[18时02分 ~ 19时45分]"
         },
         {
-          "title": "女子当街殴打89岁拾荒老人",
-          "url": "https://www.toutiao.com/trending/7663086377650880531/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
-        },
-        {
           "title": "“西安31岁女护士被男友杀害案”二审即将开庭，受害人家属放弃民事赔偿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590222",
           "source": "澎湃新闻",
@@ -580,6 +583,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "女孩跑步猝死 家属质疑校方急救不力",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%91%E6%AD%A5%E7%8C%9D%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%A0%A1%E6%96%B9%E6%80%A5%E6%95%91%E4%B8%8D%E5%8A%9B",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "如果吴孟达健在，会在周星驰《功夫女足》中担任什么角色？",
@@ -626,6 +640,17 @@
           "time_info": "19时45分"
         },
         {
+          "title": "12岁女孩猝死家属质疑校方急救不力",
+          "url": "https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%A0%A1%E6%96%B9%E6%80%A5%E6%95%91%E4%B8%8D%E5%8A%9B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "机场回应女子拍到保洁只能靠墙休息",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E4%BF%9D%E6%B4%81%E5%8F%AA%E8%83%BD%E9%9D%A0%E5%A2%99%E4%BC%91%E6%81%AF%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -657,6 +682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "第1次见女主怀孕相亲",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC1%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%80%80%E5%AD%95%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "功夫女足",
@@ -695,7 +731,7 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "T1皮肤卖998,拳头圈钱有一手",
@@ -706,8 +742,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 23时29分]"
         },
         {
           "title": "墨子迪迦奥特曼皮肤解析",
@@ -715,11 +751,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 23时29分]"
+        },
+        {
+          "title": "何瑞贤化妆技术比化妆师还好",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%91%9E%E8%B4%A4%E5%8C%96%E5%A6%86%E6%8A%80%E6%9C%AF%E6%AF%94%E5%8C%96%E5%A6%86%E5%B8%88%E8%BF%98%E5%A5%BD&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
