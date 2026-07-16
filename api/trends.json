@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-17T01:08:10.717863+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-07-17T03:01:44.696213+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
           "url": "https://www.zhihu.com/question/2060808065167746714",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时01分]"
         },
         {
           "title": "餐厅服务员帮顾客传话搭讪女生",
@@ -24,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时01分]"
         },
         {
           "title": "女子当街殴打89岁拾荒老人",
@@ -39,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时01分]"
         },
         {
           "title": "男孩陪爷爷卖瓜好心女士买2千斤",
@@ -51,8 +53,56 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时01分]"
+        },
+        {
+          "title": "真实评价电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "第1次见女主怀孕相亲",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC1%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%80%80%E5%AD%95%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "女孩手臂超长轻松腕线过裆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%89%8B%E8%87%82%E8%B6%85%E9%95%BF%E8%BD%BB%E6%9D%BE%E8%85%95%E7%BA%BF%E8%BF%87%E8%A3%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时01分]"
         },
         {
           "title": "女孩跑步猝死 家属质疑校方急救不力",
@@ -66,48 +116,15 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "第1次见女主怀孕相亲",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC1%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%80%80%E5%AD%95%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=11&Refer=top",
+          "title": "服务员帮人传话多次叫女顾客去包厢",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E5%91%98%E5%B8%AE%E4%BA%BA%E4%BC%A0%E8%AF%9D%E5%A4%9A%E6%AC%A1%E5%8F%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E5%8E%BB%E5%8C%85%E5%8E%A2%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "真实评价电影功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "女孩手臂超长轻松腕线过裆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%89%8B%E8%87%82%E8%B6%85%E9%95%BF%E8%BD%BB%E6%9D%BE%E8%85%95%E7%BA%BF%E8%BF%87%E8%A3%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时01分"
         },
         {
           "title": "功夫女足这条抖音艺术已成",
@@ -116,7 +133,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
@@ -133,9 +150,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时01分]"
         }
       ]
     }
