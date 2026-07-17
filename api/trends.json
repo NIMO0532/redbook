@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T15:57:21.160900+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-07-17T17:53:20.432274+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 50,
       "titles": [
         {
           "title": "餐厅服务员帮顾客传话搭讪女生",
@@ -24,6 +24,23 @@
           "time_info": "[01时06分 ~ 07时55分]"
         },
         {
+          "title": "真实评价电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9,
+            1,
+            17,
+            26,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 17时53分]"
+        },
+        {
           "title": "女子当街殴打89岁拾荒老人",
           "url": "https://www.toutiao.com/trending/7663086377650880531/",
           "source": "今日头条",
@@ -35,22 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时06分 ~ 07时55分]"
-        },
-        {
-          "title": "真实评价电影功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            9,
-            1,
-            17,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 15时57分]"
         },
         {
           "title": "服务员帮人传话多次叫女顾客去包厢",
@@ -81,6 +82,21 @@
           "time_info": "[01时07分 ~ 07时55分]"
         },
         {
+          "title": "复刻煎蟹女王翡翠炒蟹肉",
+          "url": "https://www.douyin.com/hot/2573578",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 17时53分]"
+        },
+        {
           "title": "男孩陪爷爷卖瓜好心女士买2千斤",
           "url": "https://www.toutiao.com/trending/7662745267259965494/",
           "source": "今日头条",
@@ -107,20 +123,6 @@
           "time_info": "[01时07分 ~ 10时01分]"
         },
         {
-          "title": "复刻煎蟹女王翡翠炒蟹肉",
-          "url": "https://www.douyin.com/hot/2573578",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 15时57分]"
-        },
-        {
           "title": "孕妇捂死3岁继女,最高判无期",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356257&amp;topic_name=%E5%AD%95%E5%A6%87%E6%8D%82%E6%AD%BB3%E5%B2%81%E7%BB%A7%E5%A5%B3%2C%E6%9C%80%E9%AB%98%E5%88%A4%E6%97%A0%E6%9C%9F",
           "source": "贴吧",
@@ -138,11 +140,35 @@
           "source": "贴吧",
           "ranks": [
             2,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 17时53分]"
+        },
+        {
+          "title": "德68岁电工迷奸近60名女性被公诉",
+          "url": "https://www.toutiao.com/trending/7663328443639513107/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时53分]"
+        },
+        {
+          "title": "《功夫女足》背后的“资本阳谋”",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%83%8C%E5%90%8E%E7%9A%84%E2%80%9C%E8%B5%84%E6%9C%AC%E9%98%B3%E8%B0%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时53分]"
         },
         {
           "title": "第1次见女主怀孕相亲",
@@ -157,6 +183,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 05时59分]"
+        },
+        {
+          "title": "《功夫女足》背后24家资本赢麻了吗",
+          "url": "https://www.toutiao.com/trending/7663382267422576178/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时53分]"
+        },
+        {
+          "title": "女子持拖把殴打拾荒老人 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时53分]"
         },
         {
           "title": "马景涛陪小26岁女友回乡",
@@ -182,6 +232,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 05时59分]"
+        },
+        {
+          "title": "《功夫女足》票房破10亿元",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时53分]"
         },
         {
           "title": "广东女子用「臭屁醋」煲汤，邻居误以为尸臭直接报警，「臭屁醋」是什么？它的气味「杀伤力」有多大？",
@@ -233,28 +295,6 @@
           "time_info": "[01时07分 ~ 10时01分]"
         },
         {
-          "title": "德68岁电工迷奸近60名女性被公诉",
-          "url": "https://www.toutiao.com/trending/7663328443639513107/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "《功夫女足》背后的“资本阳谋”",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%83%8C%E5%90%8E%E7%9A%84%E2%80%9C%E8%B5%84%E6%9C%AC%E9%98%B3%E8%B0%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
           "title": "半夜断电 女子一问才知酒店突然倒闭",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8A%E5%A4%9C%E6%96%AD%E7%94%B5+%E5%A5%B3%E5%AD%90%E4%B8%80%E9%97%AE%E6%89%8D%E7%9F%A5%E9%85%92%E5%BA%97%E7%AA%81%E7%84%B6%E5%80%92%E9%97%AD",
           "source": "百度热搜",
@@ -290,6 +330,17 @@
           "time_info": "[13时16分 ~ 13时17分]"
         },
         {
+          "title": "周星驰《功夫女足》彩蛋",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E5%BD%A9%E8%9B%8B",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
           "title": "老人31万积蓄被女婿转给前妻之子",
           "url": "https://www.toutiao.com/trending/7663120215749591059/",
           "source": "今日头条",
@@ -300,17 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "《功夫女足》背后24家资本赢麻了吗",
-          "url": "https://www.toutiao.com/trending/7663382267422576178/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
         },
         {
           "title": "半夜断电 女子一问得知酒店突然倒闭",
@@ -349,17 +389,6 @@
           "time_info": "[13时17分 ~ 15时57分]"
         },
         {
-          "title": "女子持拖把殴打拾荒老人 警方通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
           "title": "《功夫女足》值得一看吗",
           "url": "https://www.toutiao.com/trending/7663350554894011930/",
           "source": "今日头条",
@@ -371,15 +400,26 @@
           "time_info": "[15时56分 ~ 15时57分]"
         },
         {
-          "title": "《功夫女足》票房破10亿元",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
+          "title": "印度男子单恋女子长期尾随将其刺死",
+          "url": "https://www.toutiao.com/trending/7663377973623242794/",
+          "source": "今日头条",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
+          "title": "聊聊看完功夫女足的真实感受",
+          "url": "https://www.douyin.com/hot/2574493",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时53分]"
         },
         {
           "title": "福建漳州警方通报女子殴打87岁老人",
@@ -393,6 +433,17 @@
           "time_info": "[15时56分 ~ 15时57分]"
         },
         {
+          "title": "长沙6岁女孩在小区游泳馆里溺亡",
+          "url": "https://www.toutiao.com/trending/7662411999640551474/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
           "title": "女子持拖把殴打八旬拾荒老人",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E5%85%AB%E6%97%AC%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA",
           "source": "百度热搜",
@@ -402,6 +453,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 05时59分]"
+        },
+        {
+          "title": "迪丽热巴方回应功夫女足破10亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A0%B410%E4%BA%BF%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "被裁掉的女孩",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "怀孕女子疑因嫉妒捂死男友3岁女儿",
@@ -421,7 +494,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -454,7 +527,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -468,6 +541,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "功夫女足票房破10亿",
+          "url": "https://www.douyin.com/hot/2574925",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "深漂女孩靠pdd过上了想要的生活",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E6%BC%82%E5%A5%B3%E5%AD%A9%E9%9D%A0pdd%E8%BF%87%E4%B8%8A%E4%BA%86%E6%83%B3%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "女子怀孕后捂死男友3岁女儿",
@@ -492,15 +587,15 @@
           "time_info": "13时17分"
         },
         {
-          "title": "聊聊看完功夫女足的真实感受",
-          "url": "https://www.douyin.com/hot/2574493",
-          "source": "抖音",
+          "title": "王俊凯演唱会免费提供女性用品",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E5%A5%B3%E6%80%A7%E7%94%A8%E5%93%81%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            27
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "17时53分"
         },
         {
           "title": "香港45岁单身女子在广州立遗嘱",
@@ -527,11 +622,12 @@
             5,
             6,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 15时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 17时53分]"
         },
         {
           "title": "墨子迪迦奥特曼皮肤解析",
@@ -540,11 +636,12 @@
           "ranks": [
             27,
             18,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[05时59分 ~ 17时53分]"
         },
         {
           "title": "ofo停更5年突然发文皮肤病援助",
