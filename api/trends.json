@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-17T07:56:12.458066+08:00",
-  "total_titles_processed": 640,
-  "failed_sources": [],
+  "generated_at": "2026-07-17T10:01:24.980883+08:00",
+  "total_titles_processed": 762,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "餐厅服务员帮顾客传话搭讪女生",
@@ -51,6 +53,20 @@
           "time_info": "[03时01分 ~ 07时55分]"
         },
         {
+          "title": "真实评价电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9,
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 10时01分]"
+        },
+        {
           "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
           "url": "https://www.zhihu.com/question/2060808065167746714",
           "source": "知乎",
@@ -59,19 +75,6 @@
             4,
             13,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时55分]"
-        },
-        {
-          "title": "真实评价电影功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            9,
-            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -96,11 +99,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 10时01分]"
         },
         {
           "title": "第1次见女主怀孕相亲",
@@ -153,6 +157,64 @@
           "time_info": "[01时06分 ~ 07时55分]"
         },
         {
+          "title": "功夫女足这条抖音艺术已成",
+          "url": "https://www.douyin.com/hot/2572892",
+          "source": "抖音",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 10时01分]"
+        },
+        {
+          "title": "广东女子用「臭屁醋」煲汤，邻居误以为尸臭直接报警，「臭屁醋」是什么？它的气味「杀伤力」有多大？",
+          "url": "https://www.zhihu.com/question/2060807383539097822",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时01分]"
+        },
+        {
+          "title": "复刻煎蟹女王翡翠炒蟹肉",
+          "url": "https://www.douyin.com/hot/2573578",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时01分]"
+        },
+        {
+          "title": "服务员帮人传话多次叫女顾客去包厢",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%8D%E5%8A%A1%E5%91%98%E5%B8%AE%E4%BA%BA%E4%BC%A0%E8%AF%9D%E5%A4%9A%E6%AC%A1%E5%8F%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E5%8E%BB%E5%8C%85%E5%8E%A2",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时01分]"
+        },
+        {
+          "title": "马景涛陪小26岁女友回乡",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%99%AF%E6%B6%9B%E9%99%AA%E5%B0%8F26%E5%B2%81%E5%A5%B3%E5%8F%8B%E5%9B%9E%E4%B9%A1",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时01分]"
+        },
+        {
           "title": "女子持拖把殴打八旬拾荒老人",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E5%85%AB%E6%97%AC%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA",
           "source": "百度热搜",
@@ -164,40 +226,6 @@
           "time_info": "[05时58分 ~ 05时59分]"
         },
         {
-          "title": "功夫女足这条抖音艺术已成",
-          "url": "https://www.douyin.com/hot/2572892",
-          "source": "抖音",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 07时55分]"
-        },
-        {
-          "title": "复刻煎蟹女王翡翠炒蟹肉",
-          "url": "https://www.douyin.com/hot/2573578",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "广东女子用「臭屁醋」煲汤，邻居误以为尸臭直接报警，「臭屁醋」是什么？它的气味「杀伤力」有多大？",
-          "url": "https://www.zhihu.com/question/2060807383539097822",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
           "title": "女子持拖把殴打八旬拾荒老人家属发声",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E5%85%AB%E6%97%AC%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -207,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "如何评价《功夫女足》里张小斐的表演？",
+          "url": "https://www.zhihu.com/question/2060612497351169871",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -219,11 +258,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356223&amp;topic_name=T1%E7%9A%AE%E8%82%A4%E5%8D%96998%2C%E6%8B%B3%E5%A4%B4%E5%9C%88%E9%92%B1%E6%9C%89%E4%B8%80%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 10时01分]"
         },
         {
           "title": "墨子迪迦奥特曼皮肤解析",
