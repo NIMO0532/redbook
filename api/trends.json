@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:17:52.358657+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-07-17T15:57:21.160900+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "餐厅服务员帮顾客传话搭讪女生",
@@ -45,11 +45,12 @@
             9,
             1,
             17,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 15时57分]"
         },
         {
           "title": "服务员帮人传话多次叫女顾客去包厢",
@@ -106,26 +107,42 @@
           "time_info": "[01时07分 ~ 10时01分]"
         },
         {
-          "title": "持续收割,功夫女足换新版",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356249&amp;topic_name=%E6%8C%81%E7%BB%AD%E6%94%B6%E5%89%B2%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%8D%A2%E6%96%B0%E7%89%88",
-          "source": "贴吧",
+          "title": "复刻煎蟹女王翡翠炒蟹肉",
+          "url": "https://www.douyin.com/hot/2573578",
+          "source": "抖音",
           "ranks": [
-            2
+            8,
+            10,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 15时57分]"
         },
         {
           "title": "孕妇捂死3岁继女,最高判无期",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356257&amp;topic_name=%E5%AD%95%E5%A6%87%E6%8D%82%E6%AD%BB3%E5%B2%81%E7%BB%A7%E5%A5%B3%2C%E6%9C%80%E9%AB%98%E5%88%A4%E6%97%A0%E6%9C%9F",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 15时57分]"
+        },
+        {
+          "title": "持续收割,功夫女足换新版",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356249&amp;topic_name=%E6%8C%81%E7%BB%AD%E6%94%B6%E5%89%B2%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%8D%A2%E6%96%B0%E7%89%88",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 15时57分]"
         },
         {
           "title": "第1次见女主怀孕相亲",
@@ -180,19 +197,6 @@
           "time_info": "[07时55分 ~ 13时17分]"
         },
         {
-          "title": "复刻煎蟹女王翡翠炒蟹肉",
-          "url": "https://www.douyin.com/hot/2573578",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 13时17分]"
-        },
-        {
           "title": "乌女子为阻拦伴侣被征兵紧抱对方哭喊",
           "url": "https://www.toutiao.com/trending/7662974431089770537/",
           "source": "今日头条",
@@ -227,6 +231,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 10时01分]"
+        },
+        {
+          "title": "德68岁电工迷奸近60名女性被公诉",
+          "url": "https://www.toutiao.com/trending/7663328443639513107/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "《功夫女足》背后的“资本阳谋”",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%83%8C%E5%90%8E%E7%9A%84%E2%80%9C%E8%B5%84%E6%9C%AC%E9%98%B3%E8%B0%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
         },
         {
           "title": "半夜断电 女子一问才知酒店突然倒闭",
@@ -276,6 +302,17 @@
           "time_info": "[13时16分 ~ 13时17分]"
         },
         {
+          "title": "《功夫女足》背后24家资本赢麻了吗",
+          "url": "https://www.toutiao.com/trending/7663382267422576178/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
           "title": "半夜断电 女子一问得知酒店突然倒闭",
           "url": "https://www.toutiao.com/trending/7663150903926538282/",
           "source": "今日头条",
@@ -300,6 +337,62 @@
           "time_info": "[10时01分 ~ 13时17分]"
         },
         {
+          "title": "一女子双腿被蚊子叮了 126 个包，为什么会被咬这么多？除了痒，身体会不会出现更严重的健康问题？",
+          "url": "https://www.zhihu.com/question/2060718962724139053",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 15时57分]"
+        },
+        {
+          "title": "女子持拖把殴打拾荒老人 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "《功夫女足》值得一看吗",
+          "url": "https://www.toutiao.com/trending/7663350554894011930/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "《功夫女足》票房破10亿元",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "福建漳州警方通报女子殴打87岁老人",
+          "url": "https://www.toutiao.com/trending/7663131552147095571/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
           "title": "女子持拖把殴打八旬拾荒老人",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E5%85%AB%E6%97%AC%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA",
           "source": "百度热搜",
@@ -317,9 +410,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "爸爸换泳衣6岁女儿在泳池溺亡",
+          "url": "https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E6%8D%A2%E6%B3%B3%E8%A1%A36%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "女子持拖把殴打八旬拾荒老人家属发声",
@@ -339,9 +443,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "功夫女足实时票房破10亿",
+          "url": "https://flash.jin10.com/detail/20260717151518282800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "哈兰德与女友在意大利被围观",
@@ -355,24 +470,13 @@
           "time_info": "13时16分"
         },
         {
-          "title": "一女子双腿被蚊子叮了 126 个包，为什么会被咬这么多？除了痒，身体会不会出现更严重的健康问题？",
-          "url": "https://www.zhihu.com/question/2060718962724139053",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "女子怀孕后捂死男友3岁女儿",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E6%8D%82%E6%AD%BB%E7%94%B7%E5%8F%8B3%E5%B2%81%E5%A5%B3%E5%84%BF%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -383,9 +487,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "聊聊看完功夫女足的真实感受",
+          "url": "https://www.douyin.com/hot/2574493",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "香港45岁单身女子在广州立遗嘱",
@@ -411,11 +526,12 @@
           "ranks": [
             5,
             6,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 15时57分]"
         },
         {
           "title": "墨子迪迦奥特曼皮肤解析",
@@ -423,11 +539,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 15时57分]"
         },
         {
           "title": "ofo停更5年突然发文皮肤病援助",
