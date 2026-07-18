@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T12:43:57.706446+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-07-18T14:57:15.992741+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
@@ -108,11 +108,12 @@
           "ranks": [
             17,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 14时56分]"
         },
         {
           "title": "女子睡梦中睁眼和毒蛇对视上了",
@@ -125,6 +126,36 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时04分 ~ 09时49分]"
+        },
+        {
+          "title": "持续收割,功夫女足换新版",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356249&amp;topic_name=%E6%8C%81%E7%BB%AD%E6%94%B6%E5%89%B2%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%8D%A2%E6%96%B0%E7%89%88",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 14时56分]"
+        },
+        {
+          "title": "当功夫女足变成默片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%98%E6%88%90%E9%BB%98%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            16,
+            19,
+            12,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 14时56分]"
         },
         {
           "title": "半夜断电 女子一问得知酒店突然倒闭",
@@ -140,35 +171,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时57分 ~ 07时45分]"
-        },
-        {
-          "title": "持续收割,功夫女足换新版",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356249&amp;topic_name=%E6%8C%81%E7%BB%AD%E6%94%B6%E5%89%B2%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%8D%A2%E6%96%B0%E7%89%88",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 12时43分]"
-        },
-        {
-          "title": "当功夫女足变成默片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%98%E6%88%90%E9%BB%98%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            16,
-            19,
-            12,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 12时43分]"
         },
         {
           "title": "聊聊看完功夫女足的真实感受",
@@ -235,6 +237,18 @@
           "time_info": "[01时05分 ~ 06时41分]"
         },
         {
+          "title": "《功夫女足》越骂越火",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%B6%8A%E9%AA%82%E8%B6%8A%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时56分]"
+        },
+        {
           "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶 2026 年暑期票房榜，你认为还有其他影片能赶超吗？",
           "url": "https://www.zhihu.com/question/2060038001975976897",
           "source": "知乎",
@@ -261,6 +275,43 @@
           "time_info": "[09时48分 ~ 12时43分]"
         },
         {
+          "title": "热巴谈功夫女足腾龙射球幕后",
+          "url": "https://www.douyin.com/hot/2575321",
+          "source": "抖音",
+          "ranks": [
+            20,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 14时56分]"
+        },
+        {
+          "title": "《功夫女足》梨花队让韩网友破防",
+          "url": "https://www.toutiao.com/trending/7662925610188521522/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时56分]"
+        },
+        {
+          "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
+          "url": "https://www.zhihu.com/question/2060645191220990307",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 14时56分]"
+        },
+        {
           "title": "功夫女足成今年第6部破10亿影片",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%88%90%E4%BB%8A%E5%B9%B4%E7%AC%AC6%E9%83%A8%E7%A0%B410%E4%BA%BF%E5%BD%B1%E7%89%87%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -272,18 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时45分]"
-        },
-        {
-          "title": "热巴谈功夫女足腾龙射球幕后",
-          "url": "https://www.douyin.com/hot/2575321",
-          "source": "抖音",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 12时43分]"
         },
         {
           "title": "轻松拥有韩系女团脸",
@@ -298,15 +337,15 @@
           "time_info": "[04时04分 ~ 09时49分]"
         },
         {
-          "title": "《功夫女足》梨花队让韩网友破防",
-          "url": "https://www.toutiao.com/trending/7662925610188521522/",
-          "source": "今日头条",
+          "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2061426581864714302",
+          "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "time_info": "[12时43分 ~ 14时56分]"
         },
         {
           "title": "《功夫女足》值得分析的有哪些",
@@ -318,29 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 01时05分]"
-        },
-        {
-          "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
-          "url": "https://www.zhihu.com/question/2060645191220990307",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 12时43分]"
-        },
-        {
-          "title": "《功夫女足》越骂越火",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%B6%8A%E9%AA%82%E8%B6%8A%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
         },
         {
           "title": "六旬女子连续3年体检无异常确诊肾癌",
@@ -365,15 +381,15 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
-          "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2061426581864714302",
-          "source": "知乎",
+          "title": "女子被冒名吸毒7年一直没被更正，警方回应",
+          "url": "https://news.ifeng.com/c/8urH2StU1KK",
+          "source": "凤凰网",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "14时56分"
         },
         {
           "title": "JYP女团成员Angelababy",
@@ -387,15 +403,70 @@
           "time_info": "01时05分"
         },
         {
+          "title": "重庆女子下楼找猫时目击山体崩塌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E4%B8%8B%E6%A5%BC%E6%89%BE%E7%8C%AB%E6%97%B6%E7%9B%AE%E5%87%BB%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "女子醉驾被查拒不承认饮酒，不配合采血还辱骂袭警，案件已移交检方",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604564",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "女子备孕八年得子后夭折 医院回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%87%E5%AD%95%E5%85%AB%E5%B9%B4%E5%BE%97%E5%AD%90%E5%90%8E%E5%A4%AD%E6%8A%98+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "国企女高管潜逃泰国住月租5.45万豪宅",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%BD%9C%E9%80%83%E6%B3%B0%E5%9B%BD%E4%BD%8F%E6%9C%88%E7%A7%9F5.45%E4%B8%87%E8%B1%AA%E5%AE%85%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "功夫女足票房超11亿",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E8%B6%8511%E4%BA%BF%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "重庆女子跑下楼没多久楼就垮了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E8%B7%91%E4%B8%8B%E6%A5%BC%E6%B2%A1%E5%A4%9A%E4%B9%85%E6%A5%BC%E5%B0%B1%E5%9E%AE%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "房间半夜断电女子才知晓酒店已倒闭",
