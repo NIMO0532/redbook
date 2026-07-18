@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-19T01:51:29.624252+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-07-19T02:53:11.089380+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
       "match_count": 17,
       "titles": [
-        {
-          "title": "杭州女老板赴河南老家加价收滞销西瓜",
-          "url": "https://www.toutiao.com/trending/7663731675759132723/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 01时51分]"
-        },
         {
           "title": "女儿一个谎让父亲坐了两年牢",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%80%E4%B8%AA%E8%B0%8E%E8%AE%A9%E7%88%B6%E4%BA%B2%E5%9D%90%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%89%A2%23&t=31&band_rank=2&Refer=top",
@@ -28,20 +16,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
-          "title": "《功夫女足》票房破 10 亿，豆瓣评分仅 6.6，如何评价其口碑与票房「倒挂」现象？这到底算成功还是失败？",
-          "url": "https://www.zhihu.com/question/2060529589093511823",
-          "source": "知乎",
+          "title": "杭州女老板赴河南老家加价收滞销西瓜",
+          "url": "https://www.toutiao.com/trending/7663731675759132723/",
+          "source": "今日头条",
           "ranks": [
             4,
-            8
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "日本女护士输液管中混粪便致死，暴露了医疗管理哪些问题？",
+          "url": "https://www.zhihu.com/question/2060865422690366421",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
           "title": "《功夫女足》让韩国人破防了",
@@ -52,8 +53,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "女子发视频称被“陌生黄总多次喊去包厢”，杭州警方回应正开展调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613373",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时52分]"
         },
         {
           "title": "女子被冒名吸毒7年一直没被更正，警方回应",
@@ -63,31 +77,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 01时51分]"
-        },
-        {
-          "title": "女子发视频称被“陌生黄总多次喊去包厢”，杭州警方回应正开展调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613373",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时52分]"
         },
         {
           "title": "法官谈《功夫女足》",
           "url": "https://www.toutiao.com/trending/7663026205184311302/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时52分]"
         },
         {
           "title": "重庆地铁吐血女孩向彭水捐款3万",
@@ -95,11 +98,25 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "《功夫女足》票房破 10 亿，豆瓣评分仅 6.6，如何评价其口碑与票房「倒挂」现象？这到底算成功还是失败？",
+          "url": "https://www.zhihu.com/question/2060529589093511823",
+          "source": "知乎",
+          "ranks": [
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
           "title": "《功夫女足》票房破12亿",
@@ -121,30 +138,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
-        },
-        {
-          "title": "日本女护士输液管中混粪便致死，暴露了医疗管理哪些问题？",
-          "url": "https://www.zhihu.com/question/2060865422690366421",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
           "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
           "url": "https://www.zhihu.com/question/2060765589857990533",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
+        },
+        {
+          "title": "警方调查女子称多次被黄总喊去包厢",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%BB%84%E6%80%BB%E5%96%8A%E5%8E%BB%E5%8C%85%E5%8E%A2%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
           "title": "功夫女足能人辈出",
@@ -155,20 +175,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
-        },
-        {
-          "title": "警方调查女子称多次被黄总喊去包厢",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%BB%84%E6%80%BB%E5%96%8A%E5%8E%BB%E5%8C%85%E5%8E%A2%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
           "title": "看完功夫女足接力摇我先跳了",
@@ -178,8 +186,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
           "title": "女子查出脑垂体瘤却被家人催生三胎",
@@ -188,7 +196,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -217,8 +225,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时52分]"
         },
         {
           "title": "全国首张脑机接口处方开出，并成功手术",
@@ -227,9 +235,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时52分]"
         }
       ]
     },
