@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T14:57:15.992741+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-07-18T16:47:06.579128+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
@@ -116,6 +116,21 @@
           "time_info": "[01时04分 ~ 14时56分]"
         },
         {
+          "title": "持续收割,功夫女足换新版",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356249&amp;topic_name=%E6%8C%81%E7%BB%AD%E6%94%B6%E5%89%B2%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%8D%A2%E6%96%B0%E7%89%88",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            25,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 16时46分]"
+        },
+        {
           "title": "女子睡梦中睁眼和毒蛇对视上了",
           "url": "https://www.toutiao.com/trending/7663335066064437289/",
           "source": "今日头条",
@@ -126,20 +141,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时04分 ~ 09时49分]"
-        },
-        {
-          "title": "持续收割,功夫女足换新版",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356249&amp;topic_name=%E6%8C%81%E7%BB%AD%E6%94%B6%E5%89%B2%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%8D%A2%E6%96%B0%E7%89%88",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 14时56分]"
         },
         {
           "title": "当功夫女足变成默片",
@@ -182,8 +183,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时57分 ~ 12时43分]"
+          "appearance_count": 8,
+          "time_info": "[02时57分 ~ 16时46分]"
+        },
+        {
+          "title": "《功夫女足》越骂越火",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%B6%8A%E9%AA%82%E8%B6%8A%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 16时46分]"
         },
         {
           "title": "功夫女足票房破10亿",
@@ -213,6 +226,18 @@
           "time_info": "[01时05分 ~ 07时45分]"
         },
         {
+          "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2061426581864714302",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 16时46分]"
+        },
+        {
           "title": "亚马尔决赛前与女友游纽约",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%86%B3%E8%B5%9B%E5%89%8D%E4%B8%8E%E5%A5%B3%E5%8F%8B%E6%B8%B8%E7%BA%BD%E7%BA%A6%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -237,18 +262,6 @@
           "time_info": "[01时05分 ~ 06时41分]"
         },
         {
-          "title": "《功夫女足》越骂越火",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%B6%8A%E9%AA%82%E8%B6%8A%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 14时56分]"
-        },
-        {
           "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶 2026 年暑期票房榜，你认为还有其他影片能赶超吗？",
           "url": "https://www.zhihu.com/question/2060038001975976897",
           "source": "知乎",
@@ -263,6 +276,33 @@
           "time_info": "[01时05分 ~ 06时41分]"
         },
         {
+          "title": "热巴谈功夫女足腾龙射球幕后",
+          "url": "https://www.douyin.com/hot/2575321",
+          "source": "抖音",
+          "ranks": [
+            20,
+            14,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时45分 ~ 16时46分]"
+        },
+        {
+          "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
+          "url": "https://www.zhihu.com/question/2060645191220990307",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 16时46分]"
+        },
+        {
           "title": "判刑后4年3次卡点怀孕女子已被收监",
           "url": "https://www.baidu.com/s?wd=%E5%88%A4%E5%88%91%E5%90%8E4%E5%B9%B43%E6%AC%A1%E5%8D%A1%E7%82%B9%E6%80%80%E5%AD%95%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%94%B6%E7%9B%91",
           "source": "百度热搜",
@@ -273,19 +313,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时48分 ~ 12时43分]"
-        },
-        {
-          "title": "热巴谈功夫女足腾龙射球幕后",
-          "url": "https://www.douyin.com/hot/2575321",
-          "source": "抖音",
-          "ranks": [
-            20,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 14时56分]"
         },
         {
           "title": "《功夫女足》梨花队让韩网友破防",
@@ -300,16 +327,15 @@
           "time_info": "[12时42分 ~ 14时56分]"
         },
         {
-          "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
-          "url": "https://www.zhihu.com/question/2060645191220990307",
-          "source": "知乎",
+          "title": "女子被冒名吸毒7年一直没被更正，警方回应",
+          "url": "https://news.ifeng.com/c/8urH2StU1KK",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时49分 ~ 14时56分]"
+          "time_info": "[14时56分 ~ 16时46分]"
         },
         {
           "title": "功夫女足成今年第6部破10亿影片",
@@ -325,6 +351,18 @@
           "time_info": "[05时44分 ~ 07时45分]"
         },
         {
+          "title": "女子备孕八年得子后夭折 医院回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%87%E5%AD%95%E5%85%AB%E5%B9%B4%E5%BE%97%E5%AD%90%E5%90%8E%E5%A4%AD%E6%8A%98+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 16时46分]"
+        },
+        {
           "title": "轻松拥有韩系女团脸",
           "url": "https://www.douyin.com/hot/2574583",
           "source": "抖音",
@@ -337,17 +375,6 @@
           "time_info": "[04时04分 ~ 09时49分]"
         },
         {
-          "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2061426581864714302",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 14时56分]"
-        },
-        {
           "title": "《功夫女足》值得分析的有哪些",
           "url": "https://www.toutiao.com/trending/7663435044710518278/",
           "source": "今日头条",
@@ -357,6 +384,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 01时05分]"
+        },
+        {
+          "title": "留学生骗父母借债千万全花给两任女友",
+          "url": "https://www.toutiao.com/trending/7663500504182571071/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "日本拒绝女性天皇",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%92%E7%BB%9D%E5%A5%B3%E6%80%A7%E5%A4%A9%E7%9A%87",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "周星驰御用“星女郎”是张美娥吗",
+          "url": "https://www.toutiao.com/trending/7663450720121307155/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
         },
         {
           "title": "六旬女子连续3年体检无异常确诊肾癌",
@@ -381,15 +441,37 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
-          "title": "女子被冒名吸毒7年一直没被更正，警方回应",
-          "url": "https://news.ifeng.com/c/8urH2StU1KK",
-          "source": "凤凰网",
+          "title": "女足球员孙子七本色出演《功夫女足》",
+          "url": "https://www.toutiao.com/trending/7662366736163340324/",
+          "source": "今日头条",
           "ranks": [
-            11
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "女儿报警称遭父性侵两年后二审翻供",
+          "url": "https://www.toutiao.com/trending/7663701745532485678/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "《功夫女足》票房破 10 亿，豆瓣评分仅 6.6，如何评价其口碑与票房「倒挂」现象？这到底算成功还是失败？",
+          "url": "https://www.zhihu.com/question/2060529589093511823",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "16时46分"
         },
         {
           "title": "JYP女团成员Angelababy",
@@ -409,7 +491,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -420,18 +502,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "女子备孕八年得子后夭折 医院回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%87%E5%AD%95%E5%85%AB%E5%B9%B4%E5%BE%97%E5%AD%90%E5%90%8E%E5%A4%AD%E6%8A%98+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -442,7 +513,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -464,7 +535,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
