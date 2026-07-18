@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:45:41.500854+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-07-18T09:50:02.526868+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时49分]"
         },
         {
           "title": "功夫女足让韩国人破防了",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时49分]"
         },
         {
           "title": "80后女子吐槽断崖式衰老被喊奶奶",
@@ -39,11 +39,12 @@
             6,
             12,
             17,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时49分]"
         },
         {
           "title": "周星驰回应《功夫女足》给达叔留位置",
@@ -68,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时49分]"
         },
         {
           "title": "《功夫女足》破10亿，星爷说厉害的不是他是观众",
@@ -80,19 +81,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时49分]"
         },
         {
           "title": "女子睡梦中睁眼和毒蛇对视上了",
           "url": "https://www.toutiao.com/trending/7663335066064437289/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时49分]"
         },
         {
           "title": "功夫女足观后感",
@@ -101,11 +103,12 @@
           "ranks": [
             6,
             2,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时49分]"
         },
         {
           "title": "半夜断电 女子一问得知酒店突然倒闭",
@@ -140,11 +143,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356249&amp;topic_name=%E6%8C%81%E7%BB%AD%E6%94%B6%E5%89%B2%2C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%8D%A2%E6%96%B0%E7%89%88",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时49分]"
+        },
+        {
+          "title": "当功夫女足变成默片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%98%E6%88%90%E9%BB%98%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            16,
+            19,
+            12,
+            2,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时45分]"
+          "time_info": "[01时05分 ~ 09时49分]"
         },
         {
           "title": "功夫女足票房破10亿",
@@ -174,19 +194,27 @@
           "time_info": "[01时05分 ~ 07时45分]"
         },
         {
-          "title": "当功夫女足变成默片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%98%E6%88%90%E9%BB%98%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "聊聊看完功夫女足的真实感受",
+          "url": "https://www.douyin.com/hot/2574493",
+          "source": "抖音",
           "ranks": [
-            29,
-            16,
-            19,
-            12,
-            2
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 07时45分]"
+          "appearance_count": 6,
+          "time_info": "[02时57分 ~ 09时49分]"
+        },
+        {
+          "title": "亚马尔决赛前与女友游纽约",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%86%B3%E8%B5%9B%E5%89%8D%E4%B8%8E%E5%A5%B3%E5%8F%8B%E6%B8%B8%E7%BA%BD%E7%BA%A6%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "复刻煎蟹女王翡翠炒蟹肉",
@@ -216,17 +244,6 @@
           "time_info": "[01时05分 ~ 06时41分]"
         },
         {
-          "title": "聊聊看完功夫女足的真实感受",
-          "url": "https://www.douyin.com/hot/2574493",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 07时45分]"
-        },
-        {
           "title": "功夫女足成今年第6部破10亿影片",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%88%90%E4%BB%8A%E5%B9%B4%E7%AC%AC6%E9%83%A8%E7%A0%B410%E4%BA%BF%E5%BD%B1%E7%89%87%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -240,6 +257,18 @@
           "time_info": "[05时44分 ~ 07时45分]"
         },
         {
+          "title": "轻松拥有韩系女团脸",
+          "url": "https://www.douyin.com/hot/2574583",
+          "source": "抖音",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 09时49分]"
+        },
+        {
           "title": "《功夫女足》值得分析的有哪些",
           "url": "https://www.toutiao.com/trending/7663435044710518278/",
           "source": "今日头条",
@@ -251,16 +280,49 @@
           "time_info": "[01时04分 ~ 01时05分]"
         },
         {
-          "title": "轻松拥有韩系女团脸",
-          "url": "https://www.douyin.com/hot/2574583",
+          "title": "热巴谈功夫女足腾龙射球幕后",
+          "url": "https://www.douyin.com/hot/2575321",
           "source": "抖音",
           "ranks": [
-            29,
-            26
+            20,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时04分 ~ 06时41分]"
+          "time_info": "[07时45分 ~ 09时49分]"
+        },
+        {
+          "title": "六旬女子连续3年体检无异常确诊肾癌",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E4%BD%93%E6%A3%80%E6%97%A0%E5%BC%82%E5%B8%B8%E7%A1%AE%E8%AF%8A%E8%82%BE%E7%99%8C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "杨瀚森：不想练了女友就踹我",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E7%80%9A%E6%A3%AE%EF%BC%9A%E4%B8%8D%E6%83%B3%E7%BB%83%E4%BA%86%E5%A5%B3%E5%8F%8B%E5%B0%B1%E8%B8%B9%E6%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "判刑后4年3次卡点怀孕女子已被收监",
+          "url": "https://www.baidu.com/s?wd=%E5%88%A4%E5%88%91%E5%90%8E4%E5%B9%B43%E6%AC%A1%E5%8D%A1%E7%82%B9%E6%80%80%E5%AD%95%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%94%B6%E7%9B%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "JYP女团成员Angelababy",
@@ -274,15 +336,15 @@
           "time_info": "01时05分"
         },
         {
-          "title": "热巴谈功夫女足腾龙射球幕后",
-          "url": "https://www.douyin.com/hot/2575321",
-          "source": "抖音",
+          "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
+          "url": "https://www.zhihu.com/question/2060645191220990307",
+          "source": "知乎",
           "ranks": [
-            20
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "09时49分"
         },
         {
           "title": "房间半夜断电女子才知晓酒店已倒闭",
@@ -294,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "周星驰粉丝追回功夫女足160多万票房",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E7%B2%89%E4%B8%9D%E8%BF%BD%E5%9B%9E%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3160%E5%A4%9A%E4%B8%87%E7%A5%A8%E6%88%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     }
