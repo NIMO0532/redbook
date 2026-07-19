@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:05:47.842477+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-07-20T05:44:26.666768+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时05分]"
-        },
-        {
-          "title": "《功夫女足》进入年度票房榜前三",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 05时44分]"
         },
         {
           "title": "《功夫女足》进入年度票房榜前三",
@@ -39,11 +26,26 @@
             4,
             6,
             8,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 05时44分]"
+        },
+        {
+          "title": "《功夫女足》进入年度票房榜前三",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            12,
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 05时44分]"
         },
         {
           "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
@@ -53,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 05时44分]"
         },
         {
           "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
@@ -64,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 05时44分]"
         },
         {
           "title": "广东9岁女孩因抠鼻孔险些毁容",
@@ -99,11 +101,12 @@
           "source": "微博",
           "ranks": [
             2,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 04时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时44分]"
         },
         {
           "title": "拒看功夫女足,旭旭宝宝遭网暴",
@@ -113,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时44分]"
         },
         {
           "title": "当心落叶伤人!女子被砸骨折",
@@ -124,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时44分]"
         },
         {
           "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
@@ -137,8 +140,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时44分]"
         },
         {
           "title": "养了一个自私的且动不动就以跳楼威胁的女儿，该如何破局？",
@@ -148,8 +151,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时44分]"
         },
         {
           "title": "功夫女足上映9天票房突破13亿",
@@ -161,8 +164,32 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时44分]"
+        },
+        {
+          "title": "功夫女足双双演我抹不开面式道歉",
+          "url": "https://www.douyin.com/hot/2576952",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时44分]"
+        },
+        {
+          "title": "舞法天女十周年",
+          "url": "https://www.douyin.com/hot/2577680",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时05分]"
+          "time_info": "[01时53分 ~ 05时44分]"
         },
         {
           "title": "贝林厄姆在女友与哈兰德身边对比",
@@ -176,27 +203,15 @@
           "time_info": "[01时52分 ~ 02时56分]"
         },
         {
-          "title": "功夫女足双双演我抹不开面式道歉",
-          "url": "https://www.douyin.com/hot/2576952",
-          "source": "抖音",
+          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
+          "url": "https://www.toutiao.com/trending/7664025440365494308/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            30
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时05分]"
-        },
-        {
-          "title": "舞法天女十周年",
-          "url": "https://www.douyin.com/hot/2577680",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 04时05分]"
+          "time_info": "[04时04分 ~ 05时44分]"
         },
         {
           "title": "《功夫女足》好看吗？",
@@ -209,17 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时53分]"
-        },
-        {
-          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
-          "url": "https://www.toutiao.com/trending/7664025440365494308/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时04分 ~ 04时05分]"
         },
         {
           "title": "功夫女足年度票房第三了",
@@ -252,7 +256,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         }
