@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T09:59:31.494940+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-07-19T13:23:46.526059+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "杭州女老板赴河南老家加价收滞销西瓜",
@@ -50,8 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 09时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 13时23分]"
         },
         {
           "title": "女子被冒名吸毒7年一直没被更正，警方回应",
@@ -79,6 +79,32 @@
           "time_info": "[00时48分 ~ 07时45分]"
         },
         {
+          "title": "功夫女足能人辈出",
+          "url": "https://www.douyin.com/hot/2576185",
+          "source": "抖音",
+          "ranks": [
+            16,
+            21,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 13时23分]"
+        },
+        {
+          "title": "看完功夫女足接力摇我先跳了",
+          "url": "https://www.douyin.com/hot/2576277",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 13时23分]"
+        },
+        {
           "title": "法官谈《功夫女足》",
           "url": "https://www.toutiao.com/trending/7663026205184311302/",
           "source": "今日头条",
@@ -91,30 +117,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 05时43分]"
-        },
-        {
-          "title": "功夫女足能人辈出",
-          "url": "https://www.douyin.com/hot/2576185",
-          "source": "抖音",
-          "ranks": [
-            16,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
-        },
-        {
-          "title": "看完功夫女足接力摇我先跳了",
-          "url": "https://www.douyin.com/hot/2576277",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
         },
         {
           "title": "杭州一女子独自用餐遭服务员多次传话「黄总邀请你去包厢」，官方已介入，如何看待此事？",
@@ -157,6 +159,29 @@
           "time_info": "[00时48分 ~ 05时43分]"
         },
         {
+          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时23分]"
+        },
+        {
+          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
+          "url": "https://www.toutiao.com/trending/7664025440365494308/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
           "title": "警方调查女子称多次被黄总喊去包厢",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%BB%84%E6%80%BB%E5%96%8A%E5%8E%BB%E5%8C%85%E5%8E%A2%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -172,13 +197,24 @@
           "time_info": "[00时48分 ~ 06时41分]"
         },
         {
+          "title": "拒看功夫女足,旭旭宝宝遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "16岁女儿遭父亲性侵案迎反转",
           "url": "https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%84%BF%E9%81%AD%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5%E6%A1%88%E8%BF%8E%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -194,6 +230,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "女孩卧室囤积大量“吧唧”致中毒",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%8D%A7%E5%AE%A4%E5%9B%A4%E7%A7%AF%E5%A4%A7%E9%87%8F%E2%80%9C%E5%90%A7%E5%94%A7%E2%80%9D%E8%87%B4%E4%B8%AD%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时23分]"
         },
         {
           "title": "《功夫女足》票房破12亿",
@@ -232,26 +280,59 @@
           "time_info": "[07时45分 ~ 09时59分]"
         },
         {
-          "title": "女孩卧室囤积大量“吧唧”致中毒",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%8D%A7%E5%AE%A4%E5%9B%A4%E7%A7%AF%E5%A4%A7%E9%87%8F%E2%80%9C%E5%90%A7%E5%94%A7%E2%80%9D%E8%87%B4%E4%B8%AD%E6%AF%92",
-          "source": "百度热搜",
+          "title": "东北女生漂流被浇透仍开怀大笑",
+          "url": "https://www.toutiao.com/trending/7664039864044535862/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
-          "source": "澎湃新闻",
+          "title": "女子身份信息被吸毒人员冒用，警方通报",
+          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "U17女篮世界杯中国队险胜斯洛文尼亚",
+          "url": "https://www.toutiao.com/trending/7662895136191430675/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "男子买钻戒追求女子 未果后起诉返还",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%92%BB%E6%88%92%E8%BF%BD%E6%B1%82%E5%A5%B3%E5%AD%90+%E6%9C%AA%E6%9E%9C%E5%90%8E%E8%B5%B7%E8%AF%89%E8%BF%94%E8%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "女孩高考估分715查分299系谣言",
+          "url": "https://www.douyin.com/hot/2576852",
+          "source": "抖音",
           "ranks": [
             14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "父亲说要砍死男友女儿报警报复",
@@ -260,7 +341,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -271,7 +352,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -304,7 +385,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
