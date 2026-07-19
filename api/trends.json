@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T02:56:32.595365+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-20T04:05:47.842477+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
@@ -15,21 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 02时56分]"
-        },
-        {
-          "title": "《功夫女足》进入年度票房榜前三",
-          "url": "https://www.toutiao.com/trending/7664239983070350857/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 02时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时05分]"
         },
         {
           "title": "《功夫女足》进入年度票房榜前三",
@@ -41,19 +28,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 02时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时05分]"
         },
         {
-          "title": "现在的女装有种大家都不用上班的感觉",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A5%B3%E8%A3%85%E6%9C%89%E7%A7%8D%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%94%A8%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "《功夫女足》进入年度票房榜前三",
+          "url": "https://www.toutiao.com/trending/7664239983070350857/",
+          "source": "今日头条",
           "ranks": [
-            2
+            4,
+            6,
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时05分]"
         },
         {
           "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
@@ -63,8 +53,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 02时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时05分]"
+        },
+        {
+          "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613044",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时05分]"
         },
         {
           "title": "广东9岁女孩因抠鼻孔险些毁容",
@@ -74,17 +75,6 @@
             12,
             27,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 02时56分]"
-        },
-        {
-          "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613044",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -104,15 +94,16 @@
           "time_info": "[00时49分 ~ 02时56分]"
         },
         {
-          "title": "贝林厄姆在女友与哈兰德身边对比",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94",
-          "source": "百度热搜",
+          "title": "现在的女装有种大家都不用上班的感觉",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A5%B3%E8%A3%85%E6%9C%89%E7%A7%8D%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%94%A8%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 04时05分]"
         },
         {
           "title": "拒看功夫女足,旭旭宝宝遭网暴",
@@ -122,8 +113,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时05分]"
         },
         {
           "title": "当心落叶伤人!女子被砸骨折",
@@ -133,8 +124,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时05分]"
         },
         {
           "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
@@ -146,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时05分]"
         },
         {
           "title": "养了一个自私的且动不动就以跳楼威胁的女儿，该如何破局？",
@@ -157,8 +148,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时05分]"
         },
         {
           "title": "功夫女足上映9天票房突破13亿",
@@ -170,8 +161,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时05分]"
+        },
+        {
+          "title": "贝林厄姆在女友与哈兰德身边对比",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 02时56分]"
         },
         {
           "title": "功夫女足双双演我抹不开面式道歉",
@@ -182,8 +184,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时05分]"
         },
         {
           "title": "舞法天女十周年",
@@ -193,8 +195,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 04时05分]"
         },
         {
           "title": "《功夫女足》好看吗？",
@@ -207,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
+          "url": "https://www.toutiao.com/trending/7664025440365494308/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时04分 ~ 04时05分]"
         },
         {
           "title": "功夫女足年度票房第三了",
@@ -231,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 02时56分]"
+        },
+        {
+          "title": "很诡异公司的每个女性都在减肥",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%88%E8%AF%A1%E5%BC%82%E5%85%AC%E5%8F%B8%E7%9A%84%E6%AF%8F%E4%B8%AA%E5%A5%B3%E6%80%A7%E9%83%BD%E5%9C%A8%E5%87%8F%E8%82%A5&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         }
       ]
     },
