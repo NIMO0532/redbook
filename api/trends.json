@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:04:59.232172+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-07-19T18:21:58.329935+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "杭州女老板赴河南老家加价收滞销西瓜",
@@ -25,6 +25,34 @@
           "time_info": "[00时47分 ~ 07时45分]"
         },
         {
+          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 18时21分]"
+        },
+        {
+          "title": "女子发视频称被“陌生黄总多次喊去包厢”，杭州警方回应正开展调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613373",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            15,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 18时21分]"
+        },
+        {
           "title": "《功夫女足》让韩国人破防了",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%AE%A9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%A0%B4%E9%98%B2%E4%BA%86",
           "source": "百度热搜",
@@ -38,21 +66,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时47分 ~ 07时45分]"
-        },
-        {
-          "title": "女子发视频称被“陌生黄总多次喊去包厢”，杭州警方回应正开展调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613373",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 16时04分]"
         },
         {
           "title": "女子被冒名吸毒7年一直没被更正，警方回应",
@@ -106,18 +119,6 @@
           "time_info": "[00时48分 ~ 13时23分]"
         },
         {
-          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 16时04分]"
-        },
-        {
           "title": "法官谈《功夫女足》",
           "url": "https://www.toutiao.com/trending/7663026205184311302/",
           "source": "今日头条",
@@ -132,6 +133,19 @@
           "time_info": "[00时47分 ~ 05时43分]"
         },
         {
+          "title": "拒看功夫女足,旭旭宝宝遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 18时21分]"
+        },
+        {
           "title": "杭州一女子独自用餐遭服务员多次传话「黄总邀请你去包厢」，官方已介入，如何看待此事？",
           "url": "https://www.zhihu.com/question/2061337736611734900",
           "source": "知乎",
@@ -142,6 +156,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时48分 ~ 07时45分]"
+        },
+        {
+          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
+          "url": "https://www.toutiao.com/trending/7664025440365494308/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 18时21分]"
         },
         {
           "title": "《功夫女足》票房破 10 亿，豆瓣评分仅 6.6，如何评价其口碑与票房「倒挂」现象？这到底算成功还是失败？",
@@ -172,18 +199,6 @@
           "time_info": "[00时48分 ~ 05时43分]"
         },
         {
-          "title": "拒看功夫女足,旭旭宝宝遭网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时04分]"
-        },
-        {
           "title": "女孩卧室囤积大量“吧唧”致中毒",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%8D%A7%E5%AE%A4%E5%9B%A4%E7%A7%AF%E5%A4%A7%E9%87%8F%E2%80%9C%E5%90%A7%E5%94%A7%E2%80%9D%E8%87%B4%E4%B8%AD%E6%AF%92",
           "source": "百度热搜",
@@ -196,16 +211,15 @@
           "time_info": "[09时58分 ~ 16时04分]"
         },
         {
-          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
-          "url": "https://www.toutiao.com/trending/7664025440365494308/",
-          "source": "今日头条",
+          "title": "女子身份信息被吸毒人员冒用，警方通报",
+          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 18时21分]"
         },
         {
           "title": "警方调查女子称多次被黄总喊去包厢",
@@ -259,15 +273,28 @@
           "time_info": "[13时22分 ~ 16时04分]"
         },
         {
-          "title": "女子身份信息被吸毒人员冒用，警方通报",
-          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
-          "source": "凤凰网",
+          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时04分]"
+          "time_info": "[16时03分 ~ 18时21分]"
+        },
+        {
+          "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613044",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 18时21分]"
         },
         {
           "title": "男子买钻戒追求女子 未果后起诉返还",
@@ -325,19 +352,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 18时21分]"
         },
         {
-          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
-          "source": "澎湃新闻",
+          "title": "《功夫女足》进入年度票房前四",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E5%89%8D%E5%9B%9B",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "女子患脑垂体瘤却仍被催生三胎",
@@ -351,15 +378,27 @@
           "time_info": "[16时03分 ~ 16时04分]"
         },
         {
-          "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613044",
-          "source": "澎湃新闻",
+          "title": "女子戴2年牙齿保持器停戴1周反弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%B42%E5%B9%B4%E7%89%99%E9%BD%BF%E4%BF%9D%E6%8C%81%E5%99%A8%E5%81%9C%E6%88%B41%E5%91%A8%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
+          "time_info": "[16时04分 ~ 18时21分]"
+        },
+        {
+          "title": "情侣争吵女子跳河溺亡 家属索赔70万",
+          "url": "https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%BA%89%E5%90%B5%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9470%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "U17女篮世界杯中国队险胜斯洛文尼亚",
@@ -384,6 +423,29 @@
           "time_info": "[16时03分 ~ 16时04分]"
         },
         {
+          "title": "功夫女足双双演我抹不开面式道歉",
+          "url": "https://www.douyin.com/hot/2576952",
+          "source": "抖音",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 18时21分]"
+        },
+        {
+          "title": "贝林厄姆在女友与哈兰德身边对比",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "父亲说要砍死男友女儿报警报复",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%AF%B4%E8%A6%81%E7%A0%8D%E6%AD%BB%E7%94%B7%E5%8F%8B%E5%A5%B3%E5%84%BF%E6%8A%A5%E8%AD%A6%E6%8A%A5%E5%A4%8D%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -401,20 +463,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
         {
-          "title": "女子戴2年牙齿保持器停戴1周反弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%B42%E5%B9%B4%E7%89%99%E9%BD%BF%E4%BF%9D%E6%8C%81%E5%99%A8%E5%81%9C%E6%88%B41%E5%91%A8%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=22&Refer=top",
+          "title": "冉莹颖母亲曾求邹市明让女儿有事业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E6%AF%8D%E4%BA%B2%E6%9B%BE%E6%B1%82%E9%82%B9%E5%B8%82%E6%98%8E%E8%AE%A9%E5%A5%B3%E5%84%BF%E6%9C%89%E4%BA%8B%E4%B8%9A%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时04分"
+          "time_info": "18时21分"
         },
         {
           "title": "女孩卧室囤积大量吧唧致中毒",
@@ -467,18 +529,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "功夫女足双双演我抹不开面式道歉",
-          "url": "https://www.douyin.com/hot/2576952",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
