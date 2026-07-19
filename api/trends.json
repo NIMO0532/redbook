@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:02:17.970976+08:00",
-  "total_titles_processed": 1400,
-  "failed_sources": [
-    "baidu"
-  ],
+  "generated_at": "2026-07-19T22:26:02.988825+08:00",
+  "total_titles_processed": 1509,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
@@ -18,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时58分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[09时58分 ~ 22时25分]"
         },
         {
           "title": "杭州女老板赴河南老家加价收滞销西瓜",
@@ -56,6 +54,21 @@
           "time_info": "[00时47分 ~ 19时51分]"
         },
         {
+          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时03分 ~ 22时25分]"
+        },
+        {
           "title": "《功夫女足》让韩国人破防了",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%AE%A9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%A0%B4%E9%98%B2%E4%BA%86",
           "source": "百度热搜",
@@ -71,6 +84,17 @@
           "time_info": "[00时47分 ~ 07时45分]"
         },
         {
+          "title": "女子身份信息被吸毒人员冒用，警方通报",
+          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 22时25分]"
+        },
+        {
           "title": "女子被冒名吸毒7年一直没被更正，警方回应",
           "url": "https://news.ifeng.com/c/8urH2StU1KK",
           "source": "凤凰网",
@@ -82,15 +106,19 @@
           "time_info": "[00时47分 ~ 07时45分]"
         },
         {
-          "title": "女子身份信息被吸毒人员冒用，警方通报",
-          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
-          "source": "凤凰网",
+          "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613044",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            18,
+            17,
+            15,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[13时22分 ~ 21时02分]"
+          "time_info": "[16时03分 ~ 22时25分]"
         },
         {
           "title": "看完功夫女足接力摇我先跳了",
@@ -102,8 +130,23 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 19时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 22时25分]"
+        },
+        {
+          "title": "拒看功夫女足,旭旭宝宝遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            1,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 22时25分]"
         },
         {
           "title": "女儿一个谎让父亲坐了两年牢",
@@ -120,20 +163,6 @@
           "time_info": "[00时48分 ~ 07时45分]"
         },
         {
-          "title": "拒看功夫女足,旭旭宝宝遭网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 21时02分]"
-        },
-        {
           "title": "功夫女足能人辈出",
           "url": "https://www.douyin.com/hot/2576185",
           "source": "抖音",
@@ -148,20 +177,6 @@
           "time_info": "[00时48分 ~ 13时23分]"
         },
         {
-          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时03分 ~ 21时02分]"
-        },
-        {
           "title": "法官谈《功夫女足》",
           "url": "https://www.toutiao.com/trending/7663026205184311302/",
           "source": "今日头条",
@@ -174,20 +189,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 05时43分]"
-        },
-        {
-          "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613044",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时03分 ~ 21时02分]"
         },
         {
           "title": "杭州一女子独自用餐遭服务员多次传话「黄总邀请你去包厢」，官方已介入，如何看待此事？",
@@ -270,17 +271,6 @@
           "time_info": "[00时48分 ~ 06时41分]"
         },
         {
-          "title": "功夫女足票房",
-          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "16岁女儿遭父亲性侵案迎反转",
           "url": "https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%84%BF%E9%81%AD%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5%E6%A1%88%E8%BF%8E%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -327,6 +317,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "功夫女足双双演我抹不开面式道歉",
+          "url": "https://www.douyin.com/hot/2576952",
+          "source": "抖音",
+          "ranks": [
+            29,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 22时25分]"
+        },
+        {
+          "title": "功夫女足票房",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时25分]"
         },
         {
           "title": "东北女生漂流被浇透仍开怀大笑",
@@ -376,19 +391,6 @@
           "time_info": "[00时47分 ~ 01时51分]"
         },
         {
-          "title": "功夫女足双双演我抹不开面式道歉",
-          "url": "https://www.douyin.com/hot/2576952",
-          "source": "抖音",
-          "ranks": [
-            29,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时04分 ~ 21时02分]"
-        },
-        {
           "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
           "url": "https://www.zhihu.com/question/2060765589857990533",
           "source": "知乎",
@@ -425,6 +427,19 @@
           "time_info": "[18时21分 ~ 21时02分]"
         },
         {
+          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
+          "url": "https://www.zhihu.com/question/2060160756528702468",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时51分 ~ 22时25分]"
+        },
+        {
           "title": "爸爸每月砸6千给12岁女儿打生长激素",
           "url": "https://www.toutiao.com/trending/7664046285372506175/",
           "source": "今日头条",
@@ -434,6 +449,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时59分 ~ 21时02分]"
+        },
+        {
+          "title": "当心落叶伤人!女子被砸骨折",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356318&amp;topic_name=%E5%BD%93%E5%BF%83%E8%90%BD%E5%8F%B6%E4%BC%A4%E4%BA%BA%21%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A0%B8%E9%AA%A8%E6%8A%98",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时25分]"
         },
         {
           "title": "女子患脑垂体瘤却仍被催生三胎",
@@ -447,18 +474,6 @@
           "time_info": "[16时03分 ~ 16时04分]"
         },
         {
-          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
-          "url": "https://www.zhihu.com/question/2060160756528702468",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 21时02分]"
-        },
-        {
           "title": "黑龙江女孩奔赴广西清淤完成后将返程",
           "url": "https://www.toutiao.com/trending/7664162210507276314/",
           "source": "今日头条",
@@ -468,6 +483,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时50分 ~ 19时51分]"
+        },
+        {
+          "title": "广东9岁女孩因抠鼻孔险些毁容",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C9%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9B%A0%E6%8A%A0%E9%BC%BB%E5%AD%94%E9%99%A9%E4%BA%9B%E6%AF%81%E5%AE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "女子戴2年牙齿保持器停戴1周反弹",
@@ -504,15 +530,15 @@
           "time_info": "[16时03分 ~ 16时04分]"
         },
         {
-          "title": "当心落叶伤人!女子被砸骨折",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356318&amp;topic_name=%E5%BD%93%E5%BF%83%E8%90%BD%E5%8F%B6%E4%BC%A4%E4%BA%BA%21%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A0%B8%E9%AA%A8%E6%8A%98",
-          "source": "贴吧",
+          "title": "来自贵州的功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%A5%E8%87%AA%E8%B4%B5%E5%B7%9E%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时25分"
         },
         {
           "title": "父亲说要砍死男友女儿报警报复",
@@ -677,7 +703,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
