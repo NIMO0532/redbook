@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T07:45:46.323048+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-19T09:59:31.494940+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "杭州女老板赴河南老家加价收滞销西瓜",
@@ -50,8 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 09时59分]"
         },
         {
           "title": "女子被冒名吸毒7年一直没被更正，警方回应",
@@ -93,6 +93,30 @@
           "time_info": "[00时47分 ~ 05时43分]"
         },
         {
+          "title": "功夫女足能人辈出",
+          "url": "https://www.douyin.com/hot/2576185",
+          "source": "抖音",
+          "ranks": [
+            16,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 09时59分]"
+        },
+        {
+          "title": "看完功夫女足接力摇我先跳了",
+          "url": "https://www.douyin.com/hot/2576277",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 09时59分]"
+        },
+        {
           "title": "杭州一女子独自用餐遭服务员多次传话「黄总邀请你去包厢」，官方已介入，如何看待此事？",
           "url": "https://www.zhihu.com/question/2061337736611734900",
           "source": "知乎",
@@ -117,30 +141,6 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时48分 ~ 07时45分]"
-        },
-        {
-          "title": "功夫女足能人辈出",
-          "url": "https://www.douyin.com/hot/2576185",
-          "source": "抖音",
-          "ranks": [
-            16,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时45分]"
-        },
-        {
-          "title": "看完功夫女足接力摇我先跳了",
-          "url": "https://www.douyin.com/hot/2576277",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
           "time_info": "[00时48分 ~ 07时45分]"
         },
         {
@@ -170,6 +170,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 06时41分]"
+        },
+        {
+          "title": "16岁女儿遭父亲性侵案迎反转",
+          "url": "https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%84%BF%E9%81%AD%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5%E6%A1%88%E8%BF%8E%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "重庆地铁吐血女孩向彭水捐款3万",
@@ -213,11 +224,56 @@
           "url": "https://www.toutiao.com/trending/7663302745948520490/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 09时59分]"
+        },
+        {
+          "title": "女孩卧室囤积大量“吧唧”致中毒",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%8D%A7%E5%AE%A4%E5%9B%A4%E7%A7%AF%E5%A4%A7%E9%87%8F%E2%80%9C%E5%90%A7%E5%94%A7%E2%80%9D%E8%87%B4%E4%B8%AD%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "父亲说要砍死男友女儿报警报复",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%AF%B4%E8%A6%81%E7%A0%8D%E6%AD%BB%E7%94%B7%E5%8F%8B%E5%A5%B3%E5%84%BF%E6%8A%A5%E8%AD%A6%E6%8A%A5%E5%A4%8D%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "09时59分"
+        },
+        {
+          "title": "女孩卧室囤积大量吧唧致中毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%A7%E5%AE%A4%E5%9B%A4%E7%A7%AF%E5%A4%A7%E9%87%8F%E5%90%A7%E5%94%A7%E8%87%B4%E4%B8%AD%E6%AF%92%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "女子查出脑垂体瘤却被家人催生三胎",
@@ -242,13 +298,24 @@
           "time_info": "05时43分"
         },
         {
+          "title": "旭旭宝宝说对功夫女足不感兴趣",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E8%AF%B4%E5%AF%B9%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%84%9F%E5%85%B4%E8%B6%A3%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "百花奖最佳女主提名合集",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E6%8F%90%E5%90%8D%E5%90%88%E9%9B%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -277,8 +344,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 09时59分]"
         },
         {
           "title": "全国首张脑机接口处方开出，并成功手术",
