@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-07-21T06:52:44.768770+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-21T07:52:01.515145+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "男子求爱遭拒泼硫酸捅刺女方，被执行死刑，受害人发声",
+          "url": "https://news.ifeng.com/c/8uuzrsW5JqR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 07时51分]"
+        },
+        {
+          "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620002",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 07时51分]"
+        },
         {
           "title": "12岁女孩确诊重度脊柱侧弯",
           "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF",
@@ -22,27 +46,18 @@
           "time_info": "[01时28分 ~ 06时52分]"
         },
         {
-          "title": "男子求爱遭拒泼硫酸捅刺女方，被执行死刑，受害人发声",
-          "url": "https://news.ifeng.com/c/8uuzrsW5JqR",
-          "source": "凤凰网",
+          "title": "如何看待功夫女足舆论争议",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            7,
+            9,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 06时52分]"
-        },
-        {
-          "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620002",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时51分]"
         },
         {
           "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
@@ -52,24 +67,12 @@
             18,
             14,
             4,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时52分]"
-        },
-        {
-          "title": "如何看待功夫女足舆论争议",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时51分]"
         },
         {
           "title": "谢贤遗嘱将 90% 遗产留给两个孙子，剩下 10% 由其儿女平均分配，如何看这一分配？",
@@ -79,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时51分]"
         },
         {
           "title": "女儿女婿“逼宫”失败！奥精医疗董事长保住董事席位",
@@ -91,8 +94,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时51分]"
         },
         {
           "title": "功夫女足票房突破15亿",
@@ -103,8 +106,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时51分]"
+        },
+        {
+          "title": "拒看功夫女足,旭旭宝宝遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时51分]"
         },
         {
           "title": "余文乐宣布离婚，其 2017 年与妻子结婚育有一儿一女，怎样看待他们的婚姻？",
@@ -120,27 +134,17 @@
           "time_info": "[01时29分 ~ 06时52分]"
         },
         {
-          "title": "拒看功夫女足,旭旭宝宝遭网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时52分]"
-        },
-        {
           "title": "徐静雨谈电影功夫女足",
           "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%B0%88%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 07时51分]"
         },
         {
           "title": "灿如繁星女主结局是做自己",
@@ -155,6 +159,62 @@
           "time_info": "[03时29分 ~ 05时04分]"
         },
         {
+          "title": "广西辟谣“女流浪汉怀孕”",
+          "url": "https://www.toutiao.com/trending/7664750324720078345/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "12岁女孩确诊重度脊柱侧弯 医生发声",
+          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF+%E5%8C%BB%E7%94%9F%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "男孩抱错妈妈后小女孩霸气护母",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8A%B1%E9%94%99%E5%A6%88%E5%A6%88%E5%90%8E%E5%B0%8F%E5%A5%B3%E5%AD%A9%E9%9C%B8%E6%B0%94%E6%8A%A4%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "女儿高考完和妈妈一起扛楼赚学费",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%AE%8C%E5%92%8C%E5%A6%88%E5%A6%88%E4%B8%80%E8%B5%B7%E6%89%9B%E6%A5%BC%E8%B5%9A%E5%AD%A6%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "女子生前遭男友长期家暴找父亲哭诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%89%8D%E9%81%AD%E7%94%B7%E5%8F%8B%E9%95%BF%E6%9C%9F%E5%AE%B6%E6%9A%B4%E6%89%BE%E7%88%B6%E4%BA%B2%E5%93%AD%E8%AF%89%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时51分]"
+        },
+        {
           "title": "网约车司机不适女乘客反成司机送医",
           "url": "https://www.toutiao.com/trending/7664482631811334187/",
           "source": "今日头条",
@@ -164,6 +224,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "女子探出天窗拍古风视频被罚款",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8E%A2%E5%87%BA%E5%A4%A9%E7%AA%97%E6%8B%8D%E5%8F%A4%E9%A3%8E%E8%A7%86%E9%A2%91%E8%A2%AB%E7%BD%9A%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "女子高烧不退只因肝里长脓包",
@@ -183,18 +254,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "女子生前遭男友长期家暴找父亲哭诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%89%8D%E9%81%AD%E7%94%B7%E5%8F%8B%E9%95%BF%E6%9C%9F%E5%AE%B6%E6%9A%B4%E6%89%BE%E7%88%B6%E4%BA%B2%E5%93%AD%E8%AF%89%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         }
@@ -211,11 +271,12 @@
           "ranks": [
             13,
             17,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时51分]"
         }
       ]
     }
