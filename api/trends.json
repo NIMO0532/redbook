@@ -1,345 +1,55 @@
 {
-  "generated_at": "2026-07-20T23:05:45.153690+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-07-21T01:29:21.965612+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 39,
+      "match_count": 10,
       "titles": [
         {
-          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 07时52分]"
-        },
-        {
-          "title": "《功夫女足》进入年度票房榜前三",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89",
+          "title": "12岁女孩确诊重度脊柱侧弯",
+          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF",
           "source": "百度热搜",
           "ranks": [
-            19,
-            12,
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 05时44分]"
-        },
-        {
-          "title": "《功夫女足》进入年度票房榜前三",
-          "url": "https://www.toutiao.com/trending/7664239983070350857/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            6,
-            8,
-            19,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 07时52分]"
-        },
-        {
-          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 10时14分]"
-        },
-        {
-          "title": "拒看功夫女足,旭旭宝宝遭网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            11,
-            15,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 23时05分]"
-        },
-        {
-          "title": "当心落叶伤人!女子被砸骨折",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356318&amp;topic_name=%E5%BD%93%E5%BF%83%E8%90%BD%E5%8F%B6%E4%BC%A4%E4%BA%BA%21%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A0%B8%E9%AA%A8%E6%8A%98",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            12,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 17时53分]"
-        },
-        {
-          "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613044",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 07时52分]"
-        },
-        {
-          "title": "功夫女足上映9天票房突破13亿",
-          "url": "https://www.douyin.com/hot/2577564",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            20,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 14时10分]"
-        },
-        {
-          "title": "舞法天女十周年",
-          "url": "https://www.douyin.com/hot/2577680",
-          "source": "抖音",
-          "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时53分 ~ 14时10分]"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 01时29分]"
         },
         {
-          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
-          "url": "https://www.toutiao.com/trending/7664025440365494308/",
-          "source": "今日头条",
+          "title": "男子求爱遭拒泼硫酸捅刺女方，被执行死刑，受害人发声",
+          "url": "https://news.ifeng.com/c/8uuzrsW5JqR",
+          "source": "凤凰网",
           "ranks": [
-            22,
-            19,
-            27
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时04分 ~ 10时14分]"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 01时29分]"
         },
         {
-          "title": "养了一个自私的且动不动就以跳楼威胁的女儿，该如何破局？",
-          "url": "https://www.zhihu.com/question/2051758275461436294",
-          "source": "知乎",
+          "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620002",
+          "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 07时52分]"
-        },
-        {
-          "title": "新疆伊犁街头执勤女警个个高颜值",
-          "url": "https://www.toutiao.com/trending/7663448793190842394/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "现在的女装有种大家都不用上班的感觉",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A5%B3%E8%A3%85%E6%9C%89%E7%A7%8D%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%94%A8%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            9,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 10时14分]"
-        },
-        {
-          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
-          "url": "https://www.zhihu.com/question/2060160756528702468",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时43分]"
-        },
-        {
-          "title": "广东9岁女孩因抠鼻孔险些毁容",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C9%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9B%A0%E6%8A%A0%E9%BC%BB%E5%AD%94%E9%99%A9%E4%BA%9B%E6%AF%81%E5%AE%B9",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 02时56分]"
-        },
-        {
-          "title": "迪丽热巴方恭喜《功夫女足》破14亿",
-          "url": "https://www.toutiao.com/trending/7663696199531511814/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 02时56分]"
-        },
-        {
-          "title": "功夫女足双双演我抹不开面式道歉",
-          "url": "https://www.douyin.com/hot/2576952",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 07时52分]"
-        },
-        {
-          "title": "女子独自就餐遭黄总邀去包厢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356338&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%8B%AC%E8%87%AA%E5%B0%B1%E9%A4%90%E9%81%AD%E9%BB%84%E6%80%BB%E9%82%80%E5%8E%BB%E5%8C%85%E5%8E%A2",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "全员05后，这支新生代女团通过音乐表达Z世代的青春态度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616856",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时09分 ~ 20时11分]"
-        },
-        {
-          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
-          "url": "https://www.zhihu.com/question/2061061982518764560",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 20时11分]"
+          "time_info": "[01时28分 ~ 01时29分]"
         },
         {
           "title": "如何看待功夫女足舆论争议",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            22,
-            14,
-            21
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 20时11分]"
-        },
-        {
-          "title": "贝林厄姆在女友与哈兰德身边对比",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 02时56分]"
-        },
-        {
-          "title": "功夫女足应援舞我来跳",
-          "url": "https://www.douyin.com/hot/2577620",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 17时53分]"
-        },
-        {
-          "title": "女子商场遛狗不拴绳引发冲突",
-          "url": "https://www.toutiao.com/trending/7664047340613533734/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "女子矫正牙齿一周没戴保持器就反弹",
-          "url": "https://www.toutiao.com/trending/7664411084727762986/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "女子在超市“零元购”被监控拍下",
-          "url": "https://www.toutiao.com/trending/7664199917442908202/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时04分 ~ 23时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "谢贤遗嘱将 90% 遗产留给两个孙子，剩下 10% 由其儿女平均分配，如何看这一分配？",
@@ -348,78 +58,20 @@
           "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 23时05分]"
-        },
-        {
-          "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620002",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时04分 ~ 23时05分]"
-        },
-        {
-          "title": "《功夫女足》好看吗？",
-          "url": "https://www.zhihu.com/question/2059313174541775507",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
-        },
-        {
-          "title": "《功夫女足》幕后的“捞金大佬”",
-          "url": "https://www.toutiao.com/trending/7664219560152665643/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
-          "title": "功夫女足年度票房第三了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E7%AC%AC%E4%B8%89%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时56分]"
-        },
-        {
-          "title": "看完功夫女足接力摇我先跳了",
-          "url": "https://www.douyin.com/hot/2576277",
-          "source": "抖音",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时56分]"
-        },
-        {
-          "title": "很诡异公司的每个女性都在减肥",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%88%E8%AF%A1%E5%BC%82%E5%85%AC%E5%8F%B8%E7%9A%84%E6%AF%8F%E4%B8%AA%E5%A5%B3%E6%80%A7%E9%83%BD%E5%9C%A8%E5%87%8F%E8%82%A5&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时05分"
+          "time_info": "01时29分"
+        },
+        {
+          "title": "女儿女婿“逼宫”失败！奥精医疗董事长保住董事席位",
+          "url": "https://www.cls.cn/detail/2431811",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "功夫女足票房突破15亿",
@@ -430,139 +82,57 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时05分"
+          "time_info": "01时29分"
         },
         {
-          "title": "陈都灵蒋欣新剧演母女",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%92%8B%E6%AC%A3%E6%96%B0%E5%89%A7%E6%BC%94%E6%AF%8D%E5%A5%B3%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
+          "url": "https://www.zhihu.com/question/2061953789863654753",
+          "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时10分"
+          "time_info": "01时29分"
         },
         {
-          "title": "女子拎着大袋子偷菜当场被抓",
-          "url": "https://www.toutiao.com/trending/7663876559366996014/",
-          "source": "今日头条",
+          "title": "余文乐宣布离婚，其 2017 年与妻子结婚育有一儿一女，怎样看待他们的婚姻？",
+          "url": "https://www.zhihu.com/question/2062540964820772002",
+          "source": "知乎",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "女护士遇害后家属发现20多张伤情照",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8A%A4%E5%A3%AB%E9%81%87%E5%AE%B3%E5%90%8E%E5%AE%B6%E5%B1%9E%E5%8F%91%E7%8E%B020%E5%A4%9A%E5%BC%A0%E4%BC%A4%E6%83%85%E7%85%A7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时05分"
+          "time_info": "01时29分"
         },
         {
-          "title": "女明星的簪花造型",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E7%B0%AA%E8%8A%B1%E9%80%A0%E5%9E%8B&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "拒看功夫女足,旭旭宝宝遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
           "ranks": [
-            27
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "各行各业为功夫女足打call",
-          "url": "https://www.douyin.com/hot/2577618",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
+          "time_info": "01时29分"
         }
       ]
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "陈靖可回应虞书欣化妆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9D%96%E5%8F%AF%E5%9B%9E%E5%BA%94%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8C%96%E5%A6%86%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时56分]"
-        },
         {
           "title": "锐评墨子奥特曼联动皮肤",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            26,
-            20
+            13
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 23时05分]"
-        },
-        {
-          "title": "经常化妆的人卸妆有一种素颜感",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E5%8C%96%E5%A6%86%E7%9A%84%E4%BA%BA%E5%8D%B8%E5%A6%86%E6%9C%89%E4%B8%80%E7%A7%8D%E7%B4%A0%E9%A2%9C%E6%84%9F&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆品 美妆 护肤品",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央视财经曝光：“宫廷秘方”护肤品实为猪油炮制，套证上市逃避监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33617305",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时11分 ~ 23时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国信通院在2026年人工智能向善全球峰会期间举办“脑机接口：技术向善与标准合作”研讨会",
-          "url": "https://flash.jin10.com/detail/20260720131608180800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
+          "time_info": "01时29分"
         }
       ]
     }
