@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T10:15:06.030329+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-07-20T14:10:45.332047+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
@@ -81,11 +81,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 10时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 14时10分]"
         },
         {
           "title": "当心落叶伤人!女子被砸骨折",
@@ -94,11 +95,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 10时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 14时10分]"
         },
         {
           "title": "功夫女足上映9天票房突破13亿",
@@ -108,11 +110,24 @@
             17,
             19,
             20,
-            21
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 14时10分]"
+        },
+        {
+          "title": "舞法天女十周年",
+          "url": "https://www.douyin.com/hot/2577680",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时50分 ~ 10时14分]"
+          "time_info": "[01时53分 ~ 14时10分]"
         },
         {
           "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
@@ -128,18 +143,6 @@
           "time_info": "[04时04分 ~ 10时14分]"
         },
         {
-          "title": "舞法天女十周年",
-          "url": "https://www.douyin.com/hot/2577680",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 10时14分]"
-        },
-        {
           "title": "养了一个自私的且动不动就以跳楼威胁的女儿，该如何破局？",
           "url": "https://www.zhihu.com/question/2051758275461436294",
           "source": "知乎",
@@ -149,6 +152,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 07时52分]"
+        },
+        {
+          "title": "新疆伊犁街头执勤女警个个高颜值",
+          "url": "https://www.toutiao.com/trending/7663448793190842394/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
         },
         {
           "title": "现在的女装有种大家都不用上班的感觉",
@@ -229,6 +243,75 @@
           "time_info": "[01时52分 ~ 02时56分]"
         },
         {
+          "title": "女子商场遛狗不拴绳引发冲突",
+          "url": "https://www.toutiao.com/trending/7664047340613533734/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "女子矫正牙齿一周没戴保持器就反弹",
+          "url": "https://www.toutiao.com/trending/7664411084727762986/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
+          "url": "https://www.zhihu.com/question/2061061982518764560",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 14时10分]"
+        },
+        {
+          "title": "如何看待功夫女足舆论争议",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 14时10分]"
+        },
+        {
+          "title": "全员05后，这支新生代女团通过音乐表达Z世代的青春态度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616856",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "功夫女足应援舞我来跳",
+          "url": "https://www.douyin.com/hot/2577620",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 14时10分]"
+        },
+        {
           "title": "《功夫女足》好看吗？",
           "url": "https://www.zhihu.com/question/2059313174541775507",
           "source": "知乎",
@@ -265,17 +348,6 @@
           "time_info": "[00时50分 ~ 02时56分]"
         },
         {
-          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
-          "url": "https://www.zhihu.com/question/2061061982518764560",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
           "title": "很诡异公司的每个女性都在减肥",
           "url": "https://s.weibo.com/weibo?q=%E5%BE%88%E8%AF%A1%E5%BC%82%E5%85%AC%E5%8F%B8%E7%9A%84%E6%AF%8F%E4%B8%AA%E5%A5%B3%E6%80%A7%E9%83%BD%E5%9C%A8%E5%87%8F%E8%82%A5&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -287,26 +359,15 @@
           "time_info": "04时05分"
         },
         {
-          "title": "如何看待功夫女足舆论争议",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "陈都灵蒋欣新剧演母女",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%92%8B%E6%AC%A3%E6%96%B0%E5%89%A7%E6%BC%94%E6%AF%8D%E5%A5%B3%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "功夫女足应援舞我来跳",
-          "url": "https://www.douyin.com/hot/2577620",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "14时10分"
         },
         {
           "title": "女子拎着大袋子偷菜当场被抓",
@@ -315,9 +376,48 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "女明星的簪花造型",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E7%B0%AA%E8%8A%B1%E9%80%A0%E5%9E%8B&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "各行各业为功夫女足打call",
+          "url": "https://www.douyin.com/hot/2577618",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国信通院在2026年人工智能向善全球峰会期间举办“脑机接口：技术向善与标准合作”研讨会",
+          "url": "https://flash.jin10.com/detail/20260720131608180800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
