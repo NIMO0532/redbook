@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T05:04:56.849113+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-07-21T06:52:44.768770+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "12岁女孩确诊重度脊柱侧弯",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             10,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 06时52分]"
         },
         {
           "title": "男子求爱遭拒泼硫酸捅刺女方，被执行死刑，受害人发声",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 06时52分]"
         },
         {
           "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
@@ -40,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 06时52分]"
         },
         {
           "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
@@ -50,11 +51,12 @@
           "ranks": [
             18,
             14,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         },
         {
           "title": "如何看待功夫女足舆论争议",
@@ -62,11 +64,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         },
         {
           "title": "谢贤遗嘱将 90% 遗产留给两个孙子，剩下 10% 由其儿女平均分配，如何看这一分配？",
@@ -76,19 +79,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         },
         {
           "title": "女儿女婿“逼宫”失败！奥精医疗董事长保住董事席位",
           "url": "https://www.cls.cn/detail/2431811",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         },
         {
           "title": "功夫女足票房突破15亿",
@@ -99,8 +103,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         },
         {
           "title": "余文乐宣布离婚，其 2017 年与妻子结婚育有一儿一女，怎样看待他们的婚姻？",
@@ -112,8 +116,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         },
         {
           "title": "拒看功夫女足,旭旭宝宝遭网暴",
@@ -123,8 +127,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         },
         {
           "title": "徐静雨谈电影功夫女足",
@@ -171,6 +175,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
+          "url": "https://www.zhihu.com/question/2061061982518764560",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "女子生前遭男友长期家暴找父亲哭诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%89%8D%E9%81%AD%E7%94%B7%E5%8F%8B%E9%95%BF%E6%9C%9F%E5%AE%B6%E6%9A%B4%E6%89%BE%E7%88%B6%E4%BA%B2%E5%93%AD%E8%AF%89%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
@@ -188,8 +214,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时52分]"
         }
       ]
     }
