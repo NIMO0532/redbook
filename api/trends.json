@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T17:53:24.099631+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-07-20T20:12:15.696177+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
@@ -71,11 +71,12 @@
             9,
             11,
             15,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 20时11分]"
         },
         {
           "title": "当心落叶伤人!女子被砸骨折",
@@ -240,7 +241,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -249,11 +250,39 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33616856",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 20时11分]"
+        },
+        {
+          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
+          "url": "https://www.zhihu.com/question/2061061982518764560",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时09分 ~ 17时53分]"
+          "time_info": "[10时14分 ~ 20时11分]"
+        },
+        {
+          "title": "如何看待功夫女足舆论争议",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 20时11分]"
         },
         {
           "title": "贝林厄姆在女友与哈兰德身边对比",
@@ -265,31 +294,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 02时56分]"
-        },
-        {
-          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
-          "url": "https://www.zhihu.com/question/2061061982518764560",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 17时53分]"
-        },
-        {
-          "title": "如何看待功夫女足舆论争议",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 17时53分]"
         },
         {
           "title": "功夫女足应援舞我来跳",
@@ -373,6 +377,17 @@
           "time_info": "[00时50分 ~ 02时56分]"
         },
         {
+          "title": "谢贤遗嘱将 90% 遗产留给两个孙子，剩下 10% 由其儿女平均分配，如何看这一分配？",
+          "url": "https://www.zhihu.com/question/2062582137845278413",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "很诡异公司的每个女性都在减肥",
           "url": "https://s.weibo.com/weibo?q=%E5%BE%88%E8%AF%A1%E5%BC%82%E5%85%AC%E5%8F%B8%E7%9A%84%E6%AF%8F%E4%B8%AA%E5%A5%B3%E6%80%A7%E9%83%BD%E5%9C%A8%E5%87%8F%E8%82%A5&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -447,26 +462,43 @@
           "time_info": "[00时50分 ~ 02时56分]"
         },
         {
-          "title": "经常化妆的人卸妆有一种素颜感",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E5%8C%96%E5%A6%86%E7%9A%84%E4%BA%BA%E5%8D%B8%E5%A6%86%E6%9C%89%E4%B8%80%E7%A7%8D%E7%B4%A0%E9%A2%9C%E6%84%9F&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
           "title": "锐评墨子奥特曼联动皮肤",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 20时11分]"
+        },
+        {
+          "title": "经常化妆的人卸妆有一种素颜感",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E5%8C%96%E5%A6%86%E7%9A%84%E4%BA%BA%E5%8D%B8%E5%A6%86%E6%9C%89%E4%B8%80%E7%A7%8D%E7%B4%A0%E9%A2%9C%E6%84%9F&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆品 美妆 护肤品",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央视财经曝光：“宫廷秘方”护肤品实为猪油炮制，套证上市逃避监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33617305",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         }
       ]
     },
