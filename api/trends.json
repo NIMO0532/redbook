@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T07:52:19.176863+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-07-20T10:15:06.030329+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
@@ -55,11 +55,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 07时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 10时14分]"
         },
         {
           "title": "女子称在酒吧被人在酒中下药，要求刑事立案未获支持",
@@ -79,11 +80,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 07时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 10时14分]"
         },
         {
           "title": "当心落叶伤人!女子被砸骨折",
@@ -91,11 +93,51 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 10时14分]"
+        },
+        {
+          "title": "功夫女足上映9天票房突破13亿",
+          "url": "https://www.douyin.com/hot/2577564",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 10时14分]"
+        },
+        {
+          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
+          "url": "https://www.toutiao.com/trending/7664025440365494308/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时04分 ~ 10时14分]"
+        },
+        {
+          "title": "舞法天女十周年",
+          "url": "https://www.douyin.com/hot/2577680",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时50分 ~ 07时52分]"
+          "time_info": "[01时53分 ~ 10时14分]"
         },
         {
           "title": "养了一个自私的且动不动就以跳楼威胁的女儿，该如何破局？",
@@ -109,29 +151,18 @@
           "time_info": "[00时50分 ~ 07时52分]"
         },
         {
-          "title": "功夫女足上映9天票房突破13亿",
-          "url": "https://www.douyin.com/hot/2577564",
-          "source": "抖音",
+          "title": "现在的女装有种大家都不用上班的感觉",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A5%B3%E8%A3%85%E6%9C%89%E7%A7%8D%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%94%A8%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            19,
-            20
+            2,
+            9,
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 07时52分]"
-        },
-        {
-          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
-          "url": "https://www.toutiao.com/trending/7664025440365494308/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时04分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 10时14分]"
         },
         {
           "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
@@ -146,17 +177,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 06时43分]"
-        },
-        {
-          "title": "舞法天女十周年",
-          "url": "https://www.douyin.com/hot/2577680",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时52分]"
         },
         {
           "title": "广东9岁女孩因抠鼻孔险些毁容",
@@ -196,19 +216,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 07时52分]"
-        },
-        {
-          "title": "现在的女装有种大家都不用上班的感觉",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A5%B3%E8%A3%85%E6%9C%89%E7%A7%8D%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%94%A8%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时44分]"
         },
         {
           "title": "贝林厄姆在女友与哈兰德身边对比",
@@ -258,6 +265,17 @@
           "time_info": "[00时50分 ~ 02时56分]"
         },
         {
+          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
+          "url": "https://www.zhihu.com/question/2061061982518764560",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "很诡异公司的每个女性都在减肥",
           "url": "https://s.weibo.com/weibo?q=%E5%BE%88%E8%AF%A1%E5%BC%82%E5%85%AC%E5%8F%B8%E7%9A%84%E6%AF%8F%E4%B8%AA%E5%A5%B3%E6%80%A7%E9%83%BD%E5%9C%A8%E5%87%8F%E8%82%A5&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -267,6 +285,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "如何看待功夫女足舆论争议",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "功夫女足应援舞我来跳",
+          "url": "https://www.douyin.com/hot/2577620",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "女子拎着大袋子偷菜当场被抓",
+          "url": "https://www.toutiao.com/trending/7663876559366996014/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
