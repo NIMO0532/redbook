@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T20:26:24.399051+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-07-21T22:59:51.234175+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "男子求爱遭拒泼硫酸捅刺女方，被执行死刑，受害人发声",
@@ -192,6 +192,32 @@
           "time_info": "[01时29分 ~ 09时58分]"
         },
         {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://www.toutiao.com/trending/7664830013404921862/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 22时59分]"
+        },
+        {
+          "title": "女子性交易发现避孕套脱落勒索8万",
+          "url": "https://www.toutiao.com/trending/7664585628954984467/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 22时59分]"
+        },
+        {
           "title": "女儿高考完和妈妈一起扛楼赚学费",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%AE%8C%E5%92%8C%E5%A6%88%E5%A6%88%E4%B8%80%E8%B5%B7%E6%89%9B%E6%A5%BC%E8%B5%9A%E5%AD%A6%E8%B4%B9",
           "source": "百度热搜",
@@ -242,6 +268,20 @@
           "time_info": "[03时29分 ~ 09时58分]"
         },
         {
+          "title": "金鸡影后零片酬接功夫女足",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356364&amp;topic_name=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%E9%9B%B6%E7%89%87%E9%85%AC%E6%8E%A5%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 22时59分]"
+        },
+        {
           "title": "拒看功夫女足,旭旭宝宝遭网暴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356307&amp;topic_name=%E6%8B%92%E7%9C%8B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%2C%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E9%81%AD%E7%BD%91%E6%9A%B4",
           "source": "贴吧",
@@ -251,6 +291,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 07时51分]"
+        },
+        {
+          "title": "锐评功夫女足优缺点",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BC%98%E7%BC%BA%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 22时59分]"
+        },
+        {
+          "title": "《功夫女足》上映 10 天票房破 15 亿，电影做对了哪些事？给周星驰、张小斐、迪丽热巴带来哪些收益？",
+          "url": "https://www.zhihu.com/question/2062587924949083357",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 22时59分]"
         },
         {
           "title": "女生高考684分花3000元咨询进双非",
@@ -263,19 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 13时20分]"
-        },
-        {
-          "title": "金鸡影后零片酬接功夫女足",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356364&amp;topic_name=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%E9%9B%B6%E7%89%87%E9%85%AC%E6%8E%A5%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 20时26分]"
         },
         {
           "title": "26岁女子恋爱后体检发现自己是男性",
@@ -337,30 +388,6 @@
           "time_info": "[07时50分 ~ 09时58分]"
         },
         {
-          "title": "26岁女子恋爱后体检发现自己是男性",
-          "url": "https://www.toutiao.com/trending/7664830013404921862/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 20时26分]"
-        },
-        {
-          "title": "女子性交易发现避孕套脱落勒索8万",
-          "url": "https://www.toutiao.com/trending/7664585628954984467/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 20时26分]"
-        },
-        {
           "title": "余文乐宣布离婚，其 2017 年与妻子结婚育有一儿一女，怎样看待他们的婚姻？",
           "url": "https://www.zhihu.com/question/2062540964820772002",
           "source": "知乎",
@@ -372,6 +399,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时29分 ~ 06时52分]"
+        },
+        {
+          "title": "《功夫女足》为什么口碑两极分化",
+          "url": "https://www.toutiao.com/trending/7664845671584779785/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 22时59分]"
         },
         {
           "title": "灿如繁星女主结局是做自己",
@@ -498,17 +536,6 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
-          "title": "《功夫女足》为什么口碑两极分化",
-          "url": "https://www.toutiao.com/trending/7664845671584779785/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
           "title": "女儿女婿上位落空 董事长母亲守席位",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E4%B8%8A%E4%BD%8D%E8%90%BD%E7%A9%BA+%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AF%8D%E4%BA%B2%E5%AE%88%E5%B8%AD%E4%BD%8D",
           "source": "百度热搜",
@@ -553,15 +580,15 @@
           "time_info": "[05时03分 ~ 05时04分]"
         },
         {
-          "title": "《功夫女足》上映 10 天票房破 15 亿，电影做对了哪些事？给周星驰、张小斐、迪丽热巴带来哪些收益？",
-          "url": "https://www.zhihu.com/question/2062587924949083357",
-          "source": "知乎",
+          "title": "万字解析功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "22时59分"
         },
         {
           "title": "高考684分进了双非院校女生发声",
@@ -586,17 +613,6 @@
           "time_info": "13时20分"
         },
         {
-          "title": "锐评功夫女足优缺点",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BC%98%E7%BC%BA%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
           "url": "https://www.zhihu.com/question/2061061982518764560",
           "source": "知乎",
@@ -606,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "易梦玲被裁掉的女孩",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "女儿女婿逼宫董事长母亲失败",
