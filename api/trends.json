@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T06:59:12.999396+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-07-22T07:57:16.920861+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "锐评功夫女足",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时56分]"
+        },
+        {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://www.toutiao.com/trending/7664830013404921862/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时56分]"
         },
         {
           "title": "《功夫女足》票房破16亿",
@@ -34,18 +46,6 @@
           "time_info": "[00时24分 ~ 06时58分]"
         },
         {
-          "title": "26岁女子恋爱后体检发现自己是男性",
-          "url": "https://www.toutiao.com/trending/7664830013404921862/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时58分]"
-        },
-        {
           "title": "万字解析功夫女足",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "bilibili 热搜",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "锐评功夫女足优缺点",
@@ -69,8 +69,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "金鸡影后零片酬接功夫女足",
@@ -80,8 +80,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "女子因外卖口味淡差评被店家恶评",
@@ -92,8 +92,22 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时12分 ~ 07时56分]"
+        },
+        {
+          "title": "电影功夫女足票房破16亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B416%E4%BA%BF%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时12分 ~ 06时58分]"
+          "time_info": "[04时16分 ~ 07时56分]"
         },
         {
           "title": "《功夫女足》上映 10 天票房破 15 亿，电影做对了哪些事？给周星驰、张小斐、迪丽热巴带来哪些收益？",
@@ -107,19 +121,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 04时16分]"
-        },
-        {
-          "title": "电影功夫女足票房破16亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B416%E4%BA%BF%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 06时58分]"
         },
         {
           "title": "深圳26岁女子体检发现是男性",
@@ -157,6 +158,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "港星打call功夫女足",
+          "url": "https://www.douyin.com/hot/2579495",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
           "title": "斗破苍穹女主彩鳞",
           "url": "https://s.weibo.com/weibo?q=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E5%A5%B3%E4%B8%BB%E5%BD%A9%E9%B3%9E&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -185,7 +197,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -196,7 +208,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
