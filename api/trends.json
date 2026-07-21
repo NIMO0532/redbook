@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T09:58:30.185137+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-07-21T13:20:28.924408+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
         {
           "title": "男子求爱遭拒泼硫酸捅刺女方，被执行死刑，受害人发声",
@@ -26,11 +26,56 @@
             15,
             16,
             18,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时28分 ~ 09时58分]"
+          "appearance_count": 14,
+          "time_info": "[01时28分 ~ 13时20分]"
+        },
+        {
+          "title": "女生高考684分花3000元咨询进双非",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时20分]"
+        },
+        {
+          "title": "如何看待功夫女足舆论争议",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            5,
+            3,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 13时20分]"
+        },
+        {
+          "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
+          "url": "https://www.zhihu.com/question/2061953789863654753",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            4,
+            2,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 13时20分]"
         },
         {
           "title": "12岁女孩确诊重度脊柱侧弯",
@@ -47,34 +92,18 @@
           "time_info": "[01时28分 ~ 06时52分]"
         },
         {
-          "title": "如何看待功夫女足舆论争议",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "功夫女足票房突破15亿",
+          "url": "https://www.douyin.com/hot/2578824",
+          "source": "抖音",
           "ranks": [
-            7,
-            9,
-            5,
-            3,
+            14,
+            15,
+            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 09时58分]"
-        },
-        {
-          "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
-          "url": "https://www.zhihu.com/question/2061953789863654753",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            4,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 09时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 13时20分]"
         },
         {
           "title": "女子买二手房遭原房东藏死鸡报复",
@@ -92,22 +121,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%EF%BC%9A%E6%9C%80%E8%AE%A8%E5%8E%8C%E6%9D%A5%E8%B9%AD%E5%90%83%E8%B9%AD%E5%96%9D%E7%9A%84%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
-        },
-        {
-          "title": "女生高考684分花3000元咨询进双非",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时20分]"
         },
         {
           "title": "女儿女婿“逼宫”失败！奥精医疗董事长保住董事席位",
@@ -123,17 +142,15 @@
           "time_info": "[01时29分 ~ 09时58分]"
         },
         {
-          "title": "功夫女足票房突破15亿",
-          "url": "https://www.douyin.com/hot/2578824",
-          "source": "抖音",
+          "title": "广西辟谣“女流浪汉怀孕”",
+          "url": "https://www.toutiao.com/trending/7664750324720078345/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            15,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时29分 ~ 09时58分]"
+          "time_info": "[07时50分 ~ 13时20分]"
         },
         {
           "title": "谢贤遗嘱将 90% 遗产留给两个孙子，剩下 10% 由其儿女平均分配，如何看这一分配？",
@@ -147,15 +164,17 @@
           "time_info": "[01时29分 ~ 09时58分]"
         },
         {
-          "title": "女生高考684分花3000元咨询进双非",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "女儿高考完和妈妈一起扛楼赚学费",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%AE%8C%E5%92%8C%E5%A6%88%E5%A6%88%E4%B8%80%E8%B5%B7%E6%89%9B%E6%A5%BC%E8%B5%9A%E5%AD%A6%E8%B4%B9",
+          "source": "百度热搜",
           "ranks": [
-            4
+            17,
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 13时20分]"
         },
         {
           "title": "徐静雨谈电影功夫女足",
@@ -183,15 +202,40 @@
           "time_info": "[01时29分 ~ 07时51分]"
         },
         {
-          "title": "广西辟谣“女流浪汉怀孕”",
-          "url": "https://www.toutiao.com/trending/7664750324720078345/",
-          "source": "今日头条",
+          "title": "女生高考684分花3000元咨询进双非",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 13时20分]"
+        },
+        {
+          "title": "女子商场遛狗不拴绳 被人摔狗扇耳光",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%95%86%E5%9C%BA%E9%81%9B%E7%8B%97%E4%B8%8D%E6%8B%B4%E7%BB%B3+%E8%A2%AB%E4%BA%BA%E6%91%94%E7%8B%97%E6%89%87%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时50分 ~ 09时58分]"
+          "time_info": "[09时57分 ~ 13时20分]"
+        },
+        {
+          "title": "高市早苗背刺“女天皇”，代价来了：内阁支持率大跌",
+          "url": "https://news.ifeng.com/c/8uudpoc0Yun",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时20分]"
         },
         {
           "title": "12岁女孩确诊重度脊柱侧弯 医生发声",
@@ -200,18 +244,6 @@
           "ranks": [
             12,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 09时58分]"
-        },
-        {
-          "title": "女儿高考完和妈妈一起扛楼赚学费",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%AE%8C%E5%92%8C%E5%A6%88%E5%A6%88%E4%B8%80%E8%B5%B7%E6%89%9B%E6%A5%BC%E8%B5%9A%E5%AD%A6%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -231,6 +263,17 @@
           "time_info": "[01时29分 ~ 06时52分]"
         },
         {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%94%B7%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
           "title": "灿如繁星女主结局是做自己",
           "url": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E5%A5%B3%E4%B8%BB%E7%BB%93%E5%B1%80%E6%98%AF%E5%81%9A%E8%87%AA%E5%B7%B1&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -243,15 +286,15 @@
           "time_info": "[03时29分 ~ 05时04分]"
         },
         {
-          "title": "高市早苗背刺“女天皇”，代价来了：内阁支持率大跌",
-          "url": "https://news.ifeng.com/c/8uudpoc0Yun",
-          "source": "凤凰网",
+          "title": "“广西女流浪汉怀孕”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E8%A5%BF%E5%A5%B3%E6%B5%81%E6%B5%AA%E6%B1%89%E6%80%80%E5%AD%95%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "time_info": "[13时19分 ~ 13时20分]"
         },
         {
           "title": "男孩抱错妈妈 小女孩霸气护母",
@@ -276,6 +319,17 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
+          "title": "儿女放弃接班 创始人套现13亿离场",
+          "url": "https://www.baidu.com/s?wd=%E5%84%BF%E5%A5%B3%E6%94%BE%E5%BC%83%E6%8E%A5%E7%8F%AD+%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A5%97%E7%8E%B013%E4%BA%BF%E7%A6%BB%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
           "title": "女子生前遭男友长期家暴找父亲哭诉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%89%8D%E9%81%AD%E7%94%B7%E5%8F%8B%E9%95%BF%E6%9C%9F%E5%AE%B6%E6%9A%B4%E6%89%BE%E7%88%B6%E4%BA%B2%E5%93%AD%E8%AF%89%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -286,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "女子商场遛狗不拴绳 被人摔狗扇耳光",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%95%86%E5%9C%BA%E9%81%9B%E7%8B%97%E4%B8%8D%E6%8B%B4%E7%BB%B3+%E8%A2%AB%E4%BA%BA%E6%91%94%E7%8B%97%E6%89%87%E8%80%B3%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
           "title": "女子乘车探出天窗拍古风视频被罚",
@@ -332,6 +375,17 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
+          "title": "女儿女婿上位落空 董事长母亲守席位",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E4%B8%8A%E4%BD%8D%E8%90%BD%E7%A9%BA+%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AF%8D%E4%BA%B2%E5%AE%88%E5%B8%AD%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
           "title": "女子高烧不退只因肝里长脓包",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E5%8F%AA%E5%9B%A0%E8%82%9D%E9%87%8C%E9%95%BF%E8%84%93%E5%8C%85",
           "source": "百度热搜",
@@ -343,6 +397,50 @@
           "time_info": "[05时03分 ~ 05时04分]"
         },
         {
+          "title": "金鸡影后零片酬接功夫女足",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356364&amp;topic_name=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%E9%9B%B6%E7%89%87%E9%85%AC%E6%8E%A5%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "女生高考 684 分花 3000 元咨询进双非，原计划上央财、上财，为什么会出现这种情况？高报师能赔偿吗？",
+          "url": "https://www.zhihu.com/question/2062830801440306762",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "高考684分进了双非院校女生发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "高考684分进双非女生原计划上央财",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
           "url": "https://www.zhihu.com/question/2061061982518764560",
           "source": "知乎",
@@ -352,6 +450,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%94%B7%E6%80%A7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "女儿女婿逼宫董事长母亲失败",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E9%80%BC%E5%AE%AB%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
@@ -366,7 +486,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
