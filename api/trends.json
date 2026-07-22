@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T04:58:05.248721+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-07-23T06:03:03.918495+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时02分]"
         },
         {
           "title": "90岁老太太给重孙女买裙子视频火了",
@@ -28,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时02分]"
         },
         {
           "title": "日本鼓励男性穿短裤上班引女职员不满",
@@ -38,11 +39,48 @@
           "ranks": [
             18,
             14,
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时02分]"
+        },
+        {
+          "title": "印度女子抠脚后徒手吃披萨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356407&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E6%8A%A0%E8%84%9A%E5%90%8E%E5%BE%92%E6%89%8B%E5%90%83%E6%8A%AB%E8%90%A8",
+          "source": "贴吧",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时57分]"
+          "time_info": "[01时09分 ~ 06时02分]"
+        },
+        {
+          "title": "和女同事开玩笑被打还被开除",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E7%8E%A9%E7%AC%91%E8%A2%AB%E6%89%93%E8%BF%98%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
+        },
+        {
+          "title": "“又酷又飒的中国女保镖”射击夺冠",
+          "url": "https://www.toutiao.com/trending/7664905565285580819/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时02分]"
         },
         {
           "title": "广州男观众如何看《功夫女足》",
@@ -58,52 +96,18 @@
           "time_info": "[01时08分 ~ 04时57分]"
         },
         {
-          "title": "印度女子抠脚后徒手吃披萨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356407&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E6%8A%A0%E8%84%9A%E5%90%8E%E5%BE%92%E6%89%8B%E5%90%83%E6%8A%AB%E8%90%A8",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
-        },
-        {
-          "title": "和女同事开玩笑被打还被开除",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E7%8E%A9%E7%AC%91%E8%A2%AB%E6%89%93%E8%BF%98%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
-        },
-        {
-          "title": "“又酷又飒的中国女保镖”射击夺冠",
-          "url": "https://www.toutiao.com/trending/7664905565285580819/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时01分]"
-        },
-        {
           "title": "功夫女足第二轮路演",
           "url": "https://www.douyin.com/hot/2579630",
           "source": "抖音",
           "ranks": [
             16,
             17,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
         },
         {
           "title": "美少女卖洗脚水,50一杯抢疯了",
@@ -113,8 +117,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
         },
         {
           "title": "南部空军发功夫女足转场视频",
@@ -125,8 +129,46 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
+        },
+        {
+          "title": "海边溺水父母失联女童或智力落后",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%BE%B9%E6%BA%BA%E6%B0%B4%E7%88%B6%E6%AF%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E7%AB%A5%E6%88%96%E6%99%BA%E5%8A%9B%E8%90%BD%E5%90%8E%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            21,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
+          "time_info": "[03时01分 ~ 06时02分]"
+        },
+        {
+          "title": "港星打call功夫女足",
+          "url": "https://www.douyin.com/hot/2579495",
+          "source": "抖音",
+          "ranks": [
+            25,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 06时02分]"
+        },
+        {
+          "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约 28%，损失票房超 4 亿，这么严重吗？",
+          "url": "https://www.zhihu.com/question/2063269666466932392",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时02分]"
         },
         {
           "title": "印度女子在邮轮上用叉子抠脚",
@@ -141,6 +183,18 @@
           "time_info": "[03时01分 ~ 04时57分]"
         },
         {
+          "title": "女子站路上指挥自家车辆强行加塞",
+          "url": "https://www.toutiao.com/trending/7665246070993256458/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时02分]"
+        },
+        {
           "title": "全国最后一位长征女红军王全英逝世，享年105岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_33633808",
           "source": "澎湃新闻",
@@ -150,18 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "海边溺水父母失联女童或智力落后",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%BE%B9%E6%BA%BA%E6%B0%B4%E7%88%B6%E6%AF%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E7%AB%A5%E6%88%96%E6%99%BA%E5%8A%9B%E8%90%BD%E5%90%8E%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时57分]"
         },
         {
           "title": "女子用不锈钢盆晒面粉时起火",
@@ -175,49 +217,16 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
-          "title": "港星打call功夫女足",
-          "url": "https://www.douyin.com/hot/2579495",
-          "source": "抖音",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时57分]"
-        },
-        {
-          "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约 28%，损失票房超 4 亿，这么严重吗？",
-          "url": "https://www.zhihu.com/question/2063269666466932392",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "女子站路上指挥自家车辆强行加塞",
-          "url": "https://www.toutiao.com/trending/7665246070993256458/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
           "title": "90岁老太太给重孙女买裙子视频火了",
           "url": "https://s.weibo.com/weibo?q=90%E5%B2%81%E8%80%81%E5%A4%AA%E5%A4%AA%E7%BB%99%E9%87%8D%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A3%99%E5%AD%90%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时02分]"
         }
       ]
     },
@@ -230,11 +239,12 @@
           "url": "https://www.zhihu.com/question/2063206445076542255",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
         },
         {
           "title": "王者牛年限定皮肤返场",
@@ -243,11 +253,12 @@
           "ranks": [
             27,
             10,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
         },
         {
           "title": "公孙离寒羽凝歌皮肤爆料",
@@ -255,11 +266,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
         },
         {
           "title": "大禹新皮肤翡翠华章",
@@ -271,8 +283,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时02分]"
         },
         {
           "title": "公孙离寒羽凝歌皮肤爆料",
