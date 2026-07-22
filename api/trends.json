@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T10:09:39.712908+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-07-22T13:42:39.725564+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "锐评功夫女足",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 10时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 13时42分]"
         },
         {
           "title": "26岁女子恋爱后体检发现自己是男性",
@@ -26,11 +27,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 10时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 13时42分]"
         },
         {
           "title": "《功夫女足》票房破16亿",
@@ -45,6 +47,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 06时58分]"
+        },
+        {
+          "title": "金鸡影后零片酬接功夫女足",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356364&amp;topic_name=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%E9%9B%B6%E7%89%87%E9%85%AC%E6%8E%A5%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 13时42分]"
         },
         {
           "title": "万字解析功夫女足",
@@ -76,16 +91,28 @@
           "time_info": "[00时25分 ~ 10时09分]"
         },
         {
-          "title": "金鸡影后零片酬接功夫女足",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356364&amp;topic_name=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%E9%9B%B6%E7%89%87%E9%85%AC%E6%8E%A5%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "title": "美少女卖洗脚水,50一杯抢疯了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356387&amp;topic_name=%E7%BE%8E%E5%B0%91%E5%A5%B3%E5%8D%96%E6%B4%97%E8%84%9A%E6%B0%B4%2C50%E4%B8%80%E6%9D%AF%E6%8A%A2%E7%96%AF%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            16,
-            18
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 10时09分]"
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时42分]"
+        },
+        {
+          "title": "最后一位长征女红军逝世",
+          "url": "https://www.toutiao.com/trending/7665155080382909998/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 13时42分]"
         },
         {
           "title": "女子临近退休差点多等11年领养老金",
@@ -97,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "最后一位长征女红军王全英逝世",
+          "url": "https://www.douyin.com/hot/2580391",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "女子因外卖口味淡差评被店家恶评",
@@ -111,15 +149,27 @@
           "time_info": "[02时12分 ~ 10时09分]"
         },
         {
-          "title": "美少女卖洗脚水,50一杯抢疯了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356387&amp;topic_name=%E7%BE%8E%E5%B0%91%E5%A5%B3%E5%8D%96%E6%B4%97%E8%84%9A%E6%B0%B4%2C50%E4%B8%80%E6%9D%AF%E6%8A%A2%E7%96%AF%E4%BA%86",
-          "source": "贴吧",
+          "title": "送别最后一位长征女红军",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%81%E5%88%AB%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E9%95%BF%E5%BE%81%E5%A5%B3%E7%BA%A2%E5%86%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "13时42分"
+        },
+        {
+          "title": "92岁无儿无女老人离世留500万遗产",
+          "url": "https://www.baidu.com/s?wd=92%E5%B2%81%E6%97%A0%E5%84%BF%E6%97%A0%E5%A5%B3%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E7%95%99500%E4%B8%87%E9%81%97%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 13时42分]"
         },
         {
           "title": "电影功夫女足票房破16亿",
@@ -162,6 +212,17 @@
           "time_info": "[02时12分 ~ 06时58分]"
         },
         {
+          "title": "港星打call功夫女足",
+          "url": "https://www.douyin.com/hot/2579495",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 13时42分]"
+        },
+        {
           "title": "全国最后一位长征女红军王全英逝世",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E9%95%BF%E5%BE%81%E5%A5%B3%E7%BA%A2%E5%86%9B%E7%8E%8B%E5%85%A8%E8%8B%B1%E9%80%9D%E4%B8%96",
           "source": "百度热搜",
@@ -173,44 +234,33 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
+          "title": "“尔豪”女儿要上大学了",
+          "url": "https://www.toutiao.com/trending/7664847744532693018/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
           "title": "《哥斯拉大战金刚》小女孩演员车祸去世",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A%E3%80%8B%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%91%98%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "港星打call功夫女足",
-          "url": "https://www.douyin.com/hot/2579495",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时09分]"
-        },
-        {
-          "title": "最后一位长征女红军逝世",
-          "url": "https://www.toutiao.com/trending/7665155080382909998/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "92岁无儿无女老人离世留500万遗产",
-          "url": "https://www.baidu.com/s?wd=92%E5%B2%81%E6%97%A0%E5%84%BF%E6%97%A0%E5%A5%B3%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E7%95%99500%E4%B8%87%E9%81%97%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -250,15 +300,37 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
+          "title": "电影功夫女足",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "微胖女孩的夏日显瘦穿搭",
           "url": "https://www.douyin.com/hot/2580199",
           "source": "抖音",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "商场女厕内巨大男性壁画被指低俗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%A5%B3%E5%8E%95%E5%86%85%E5%B7%A8%E5%A4%A7%E7%94%B7%E6%80%A7%E5%A3%81%E7%94%BB%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "《功夫女足》为何评价两极分化？",
@@ -278,7 +350,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -333,7 +405,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -341,8 +413,30 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "张伟丽化妆后自己都不认识了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%8C%96%E5%A6%86%E5%90%8E%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "大衣哥：化妆只需要两三分钟",
+          "url": "https://www.toutiao.com/trending/7664546784634880042/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
         {
           "title": "锐评墨子奥特曼联动皮肤",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
@@ -350,7 +444,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
