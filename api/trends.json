@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T19:02:39.902487+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-07-22T21:27:13.357840+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "锐评功夫女足",
@@ -106,16 +106,18 @@
           "time_info": "[10时08分 ~ 16时13分]"
         },
         {
-          "title": "日本鼓励男性穿短裤上班引女职员不满",
-          "url": "https://www.toutiao.com/trending/7665183140259889178/",
-          "source": "今日头条",
+          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            1
+            16,
+            15,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 21时26分]"
         },
         {
           "title": "锐评功夫女足优缺点",
@@ -130,6 +132,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 10时09分]"
+        },
+        {
+          "title": "美少女卖洗脚水,50一杯抢疯了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356387&amp;topic_name=%E7%BE%8E%E5%B0%91%E5%A5%B3%E5%8D%96%E6%B4%97%E8%84%9A%E6%B0%B4%2C50%E4%B8%80%E6%9D%AF%E6%8A%A2%E7%96%AF%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            10,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 21时26分]"
+        },
+        {
+          "title": "日本鼓励男性穿短裤上班引女职员不满",
+          "url": "https://www.toutiao.com/trending/7665183140259889178/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时26分]"
         },
         {
           "title": "女子边充电边刷手机睡着后手机起火",
@@ -155,43 +185,17 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "美少女卖洗脚水,50一杯抢疯了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356387&amp;topic_name=%E7%BE%8E%E5%B0%91%E5%A5%B3%E5%8D%96%E6%B4%97%E8%84%9A%E6%B0%B4%2C50%E4%B8%80%E6%9D%AF%E6%8A%A2%E7%96%AF%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 19时02分]"
-        },
-        {
-          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 19时02分]"
-        },
-        {
           "title": "最后一位长征女红军王全英逝世",
           "url": "https://www.douyin.com/hot/2580391",
           "source": "抖音",
           "ranks": [
             1,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 21时26分]"
         },
         {
           "title": "送别最后一位长征女红军",
@@ -199,11 +203,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 21时26分]"
         },
         {
           "title": "女子临近退休差点多等11年领养老金",
@@ -268,6 +273,19 @@
           "time_info": "[07时56分 ~ 16时13分]"
         },
         {
+          "title": "曝《功夫女足》票房流失超4亿",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E6%B5%81%E5%A4%B1%E8%B6%854%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时26分]"
+        },
+        {
           "title": "印度女子在邮轮上用叉子抠脚",
           "url": "https://www.toutiao.com/trending/7664956710356451369/",
           "source": "今日头条",
@@ -306,6 +324,18 @@
           "time_info": "[02时12分 ~ 06时58分]"
         },
         {
+          "title": "印度女子抠脚后徒手吃披萨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356407&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E6%8A%A0%E8%84%9A%E5%90%8E%E5%BE%92%E6%89%8B%E5%90%83%E6%8A%AB%E8%90%A8",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时26分]"
+        },
+        {
           "title": "全国最后一位长征女红军王全英逝世",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E9%95%BF%E5%BE%81%E5%A5%B3%E7%BA%A2%E5%86%9B%E7%8E%8B%E5%85%A8%E8%8B%B1%E9%80%9D%E4%B8%96",
           "source": "百度热搜",
@@ -317,16 +347,16 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "曝《功夫女足》票房流失超4亿",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E6%B5%81%E5%A4%B1%E8%B6%854%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "曝功夫女足票房流失金额超4亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E6%B5%81%E5%A4%B1%E9%87%91%E9%A2%9D%E8%B6%854%E4%BA%BF%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            6,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "time_info": "[19时02分 ~ 21时26分]"
         },
         {
           "title": "洗浴中心回应有顾客带狗进入女浴室",
@@ -386,6 +416,18 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
+          "title": "功夫女足第二轮路演",
+          "url": "https://www.douyin.com/hot/2579630",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时26分]"
+        },
+        {
           "title": "外卖小哥载受伤女孩和爸爸直奔医院",
           "url": "https://www.toutiao.com/trending/7664883952875896841/",
           "source": "今日头条",
@@ -419,17 +461,6 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "印度女子抠脚后徒手吃披萨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356407&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E6%8A%A0%E8%84%9A%E5%90%8E%E5%BE%92%E6%89%8B%E5%90%83%E6%8A%AB%E8%90%A8",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "电影功夫女足",
           "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -441,15 +472,15 @@
           "time_info": "13时42分"
         },
         {
-          "title": "曝功夫女足票房流失金额超4亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E6%B5%81%E5%A4%B1%E9%87%91%E9%A2%9D%E8%B6%854%E4%BA%BF%23&t=31&band_rank=6&Refer=top",
+          "title": "90岁老太太给重孙女买裙子视频火了",
+          "url": "https://s.weibo.com/weibo?q=90%E5%B2%81%E8%80%81%E5%A4%AA%E5%A4%AA%E7%BB%99%E9%87%8D%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A3%99%E5%AD%90%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "21时26分"
         },
         {
           "title": "微胖女孩的夏日显瘦穿搭",
@@ -463,6 +494,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "日本鼓励男性穿短裤上班引女职员不满",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%BC%93%E5%8A%B1%E7%94%B7%E6%80%A7%E7%A9%BF%E7%9F%AD%E8%A3%A4%E4%B8%8A%E7%8F%AD%E5%BC%95%E5%A5%B3%E8%81%8C%E5%91%98%E4%B8%8D%E6%BB%A1",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "《功夫女足》为何评价两极分化？",
           "url": "https://www.zhihu.com/question/2060401676952023603",
           "source": "知乎",
@@ -472,6 +514,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "女子带6娃深圳打拼 只有3个是亲生",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A66%E5%A8%83%E6%B7%B1%E5%9C%B3%E6%89%93%E6%8B%BC+%E5%8F%AA%E6%9C%893%E4%B8%AA%E6%98%AF%E4%BA%B2%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "王鸥演少女违和感",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E6%BC%94%E5%B0%91%E5%A5%B3%E8%BF%9D%E5%92%8C%E6%84%9F%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "宙斯的子女为什么没人干掉宙斯?",
@@ -491,7 +555,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -507,24 +571,13 @@
           "time_info": "02时12分"
         },
         {
-          "title": "功夫女足第二轮路演",
-          "url": "https://www.douyin.com/hot/2579630",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "南部空军发功夫女足转场视频",
           "url": "https://www.douyin.com/hot/2580486",
           "source": "抖音",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -579,7 +632,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -601,6 +654,41 @@
           "time_info": "[13时42分 ~ 16时13分]"
         },
         {
+          "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
+          "url": "https://www.zhihu.com/question/2063206445076542255",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时26分]"
+        },
+        {
+          "title": "大禹新皮肤翡翠华章",
+          "url": "https://www.douyin.com/hot/2581081",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时26分]"
+        },
+        {
+          "title": "公孙离寒羽凝歌皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时26分]"
+        },
+        {
           "title": "大衣哥：化妆只需要两三分钟",
           "url": "https://www.toutiao.com/trending/7664546784634880042/",
           "source": "今日头条",
@@ -612,28 +700,6 @@
           "time_info": "[13时41分 ~ 13时42分]"
         },
         {
-          "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
-          "url": "https://www.zhihu.com/question/2063206445076542255",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "大禹新皮肤翡翠华章",
-          "url": "https://www.douyin.com/hot/2581081",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "王者大禹首款新皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%A4%A7%E7%A6%B9%E9%A6%96%E6%AC%BE%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
@@ -643,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
-        },
-        {
-          "title": "公孙离寒羽凝歌皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "锐评墨子奥特曼联动皮肤",
