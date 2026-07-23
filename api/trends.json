@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T03:04:08.140770+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-24T04:55:14.921208+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国女排3-2逆转美国",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时54分]"
         },
         {
           "title": "重庆梁平警方：挡道指挥加塞女子已被行拘，其丈夫被罚款并记分",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时54分]"
         },
         {
           "title": "女子尖叫狂敲门 警察追问：吃菌子没",
@@ -37,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时54分]"
         },
         {
           "title": "重庆一女子站车道挡路让自家车加塞后，还对被挡车辆吐口水挑衅",
@@ -52,8 +55,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时54分]"
         },
         {
           "title": "中国女排3比2逆转美国",
@@ -61,11 +64,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时54分]"
         },
         {
           "title": "中国警方抓获美籍涉嫌性侵幼女逃犯",
@@ -76,8 +80,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时54分]"
+        },
+        {
+          "title": "家长称女儿多张幼儿园毕业照走光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%A7%B0%E5%A5%B3%E5%84%BF%E5%A4%9A%E5%BC%A0%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AF%95%E4%B8%9A%E7%85%A7%E8%B5%B0%E5%85%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时54分]"
         },
         {
           "title": "女子恋爱体检,性别竟为男性",
@@ -87,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时54分]"
         },
         {
           "title": "动画电影《八仙！》票房能超越《功夫女足》吗？",
@@ -99,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时54分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
@@ -110,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时54分]"
         },
         {
           "title": "店家曝女子试衣间排便后跑路",
@@ -121,8 +137,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时54分]"
         },
         {
           "title": "女生晒全身照遭网友日式霸凌",
@@ -132,8 +148,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时54分]"
         },
         {
           "title": "中国女排黑八奇迹",
@@ -141,11 +157,12 @@
           "source": "微博",
           "ranks": [
             23,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时54分]"
         },
         {
           "title": "女子搬运150斤黄鸡蛋瞬间全碎",
@@ -170,15 +187,48 @@
           "time_info": "[01时11分 ~ 01时12分]"
         },
         {
-          "title": "家长称女儿多张幼儿园毕业照走光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%A7%B0%E5%A5%B3%E5%84%BF%E5%A4%9A%E5%BC%A0%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AF%95%E4%B8%9A%E7%85%A7%E8%B5%B0%E5%85%89%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "解析电影功夫女足内核",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%86%85%E6%A0%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "04时54分"
+        },
+        {
+          "title": "女子试衣间排便被曝光后威胁砸店",
+          "url": "https://www.toutiao.com/trending/7664795945188605995/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "70岁保洁母亲被判替女还债百万",
+          "url": "https://www.toutiao.com/trending/7665600581305991194/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "中国女排3:2战胜美国晋级四强",
+          "url": "https://www.douyin.com/hot/2582778",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     }
