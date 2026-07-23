@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T16:17:09.660292+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-07-23T19:04:17.676977+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 41,
+      "match_count": 51,
       "titles": [
         {
           "title": "女子参加聚会遭猥亵 男子获刑一年",
@@ -24,6 +24,20 @@
           "time_info": "[01时08分 ~ 10时11分]"
         },
         {
+          "title": "印度女子抠脚后徒手吃披萨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356407&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E6%8A%A0%E8%84%9A%E5%90%8E%E5%BE%92%E6%89%8B%E5%90%83%E6%8A%AB%E8%90%A8",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            17,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 19时03分]"
+        },
+        {
           "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约 28%，损失票房超 4 亿，这么严重吗？",
           "url": "https://www.zhihu.com/question/2063269666466932392",
           "source": "知乎",
@@ -38,19 +52,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时57分 ~ 16时16分]"
-        },
-        {
-          "title": "印度女子抠脚后徒手吃披萨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356407&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E6%8A%A0%E8%84%9A%E5%90%8E%E5%BE%92%E6%89%8B%E5%90%83%E6%8A%AB%E8%90%A8",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 16时16分]"
         },
         {
           "title": "90岁老太太给重孙女买裙子视频火了",
@@ -91,6 +92,29 @@
           "time_info": "[01时09分 ~ 13时47分]"
         },
         {
+          "title": "女子恋爱体检,性别竟为男性",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356436&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E4%BD%93%E6%A3%80%2C%E6%80%A7%E5%88%AB%E7%AB%9F%E4%B8%BA%E7%94%B7%E6%80%A7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时03分]"
+        },
+        {
+          "title": "男子对女同事开黄腔被打遭开除称不公",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AF%B9%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E6%89%93%E9%81%AD%E5%BC%80%E9%99%A4%E7%A7%B0%E4%B8%8D%E5%85%AC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时03分]"
+        },
+        {
           "title": "女子试衣间排便被曝光后威胁砸店",
           "url": "https://www.toutiao.com/trending/7664795945188605995/",
           "source": "今日头条",
@@ -115,26 +139,15 @@
           "time_info": "[13时46分 ~ 16时16分]"
         },
         {
-          "title": "女子恋爱体检,性别竟为男性",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356436&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E4%BD%93%E6%A3%80%2C%E6%80%A7%E5%88%AB%E7%AB%9F%E4%B8%BA%E7%94%B7%E6%80%A7",
-          "source": "贴吧",
+          "title": "暑期档票房破50亿 《功夫女足》领跑",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B450%E4%BA%BF+%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A2%86%E8%B7%91",
+          "source": "百度热搜",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "男子对女同事开黄腔被打遭开除称不公",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AF%B9%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E6%89%93%E9%81%AD%E5%BC%80%E9%99%A4%E7%A7%B0%E4%B8%8D%E5%85%AC%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "19时03分"
         },
         {
           "title": "和女同事开玩笑被打还被开除",
@@ -167,11 +180,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时03分]"
         },
         {
           "title": "女生晒全身照遭网友日式霸凌",
@@ -179,11 +193,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时03分]"
         },
         {
           "title": "被孩子喊阿姨 场馆女子：喊姐姐才能进",
@@ -300,6 +315,18 @@
           "time_info": "[03时01分 ~ 06时02分]"
         },
         {
+          "title": "中国足协辟谣“女足主教练米利西奇辞职”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33636790",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 19时03分]"
+        },
+        {
           "title": "90岁老太太给重孙女买裙子视频火了",
           "url": "https://s.weibo.com/weibo?q=90%E5%B2%81%E8%80%81%E5%A4%AA%E5%A4%AA%E7%BB%99%E9%87%8D%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A3%99%E5%AD%90%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -311,6 +338,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 07时56分]"
+        },
+        {
+          "title": "女子买理财7万多本金1天亏157元",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%90%86%E8%B4%A27%E4%B8%87%E5%A4%9A%E6%9C%AC%E9%87%911%E5%A4%A9%E4%BA%8F157%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 19时03分]"
         },
         {
           "title": "港星打call功夫女足",
@@ -371,17 +410,6 @@
           "time_info": "[03时01分 ~ 04时57分]"
         },
         {
-          "title": "中国足协辟谣“女足主教练米利西奇辞职”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33636790",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
           "title": "全国最后一位长征女红军王全英逝世，享年105岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_33633808",
           "source": "澎湃新闻",
@@ -415,17 +443,6 @@
           "time_info": "[13时46分 ~ 13时47分]"
         },
         {
-          "title": "女子买理财7万多本金1天亏157元",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%90%86%E8%B4%A27%E4%B8%87%E5%A4%9A%E6%9C%AC%E9%87%911%E5%A4%A9%E4%BA%8F157%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
           "title": "女孩穿白裙扛砖赚学费 妈妈回应",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%A9%BF%E7%99%BD%E8%A3%99%E6%89%9B%E7%A0%96%E8%B5%9A%E5%AD%A6%E8%B4%B9+%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -435,6 +452,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "汽车未礼让,女骑手敲窗警告",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356440&amp;topic_name=%E6%B1%BD%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%2C%E5%A5%B3%E9%AA%91%E6%89%8B%E6%95%B2%E7%AA%97%E8%AD%A6%E5%91%8A",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "女子搬运150斤黄鸡蛋瞬间全碎",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%90%AC%E8%BF%90150%E6%96%A4%E9%BB%84%E9%B8%A1%E8%9B%8B%E7%9E%AC%E9%97%B4%E5%85%A8%E7%A2%8E",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "女子嗓子像被刀片割 一查险窒息",
+          "url": "https://www.toutiao.com/trending/7665373033070575657/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "男子称跟女同事开玩笑被打还被开除",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%B7%9F%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E7%8E%A9%E7%AC%91%E8%A2%AB%E6%89%93%E8%BF%98%E8%A2%AB%E5%BC%80%E9%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "重庆一女子站车道挡路让自家车加塞后，还对被挡车辆吐口水挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642512",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "张雪峰女儿再接手三家公司",
@@ -448,6 +520,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "老一辈女演员吻戏没轻没重的",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%80%E8%BE%88%E5%A5%B3%E6%BC%94%E5%91%98%E5%90%BB%E6%88%8F%E6%B2%A1%E8%BD%BB%E6%B2%A1%E9%87%8D%E7%9A%84%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "女子身份证丢失后名下现吸毒记录",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%A2%E5%A4%B1%E5%90%8E%E5%90%8D%E4%B8%8B%E7%8E%B0%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -457,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "功夫女足票房超17亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E8%B6%8517%E4%BA%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "万字解析功夫女足",
@@ -470,13 +564,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "70岁保洁母亲被判替女还债百万",
+          "url": "https://www.toutiao.com/trending/7665600581305991194/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "女子买一本刮刮乐第一张就中20万",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E4%B8%80%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90%E7%AC%AC%E4%B8%80%E5%BC%A0%E5%B0%B1%E4%B8%AD20%E4%B8%87%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -490,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "警方通报一女子挡道指挥加塞",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E6%8C%A1%E9%81%93%E6%8C%87%E6%8C%A5%E5%8A%A0%E5%A1%9E%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "马未都评功夫女足",
@@ -521,8 +637,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 16时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 19时03分]"
         },
         {
           "title": "大禹新皮肤翡翠华章",
@@ -539,6 +655,22 @@
           "time_info": "[01时09分 ~ 16时16分]"
         },
         {
+          "title": "公孙离寒羽凝歌皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            17,
+            22,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 19时03分]"
+        },
+        {
           "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
           "url": "https://www.zhihu.com/question/2063206445076542255",
           "source": "知乎",
@@ -550,21 +682,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 07时56分]"
-        },
-        {
-          "title": "公孙离寒羽凝歌皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25,
-            17,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 16时16分]"
         },
         {
           "title": "王者牛年限定皮肤返场",
