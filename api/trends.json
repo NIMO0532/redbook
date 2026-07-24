@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T20:16:11.996558+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-07-24T22:48:59.171326+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 52,
       "titles": [
         {
           "title": "重庆梁平警方：挡道指挥加塞女子已被行拘，其丈夫被罚款并记分",
@@ -31,11 +31,12 @@
             13,
             17,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 20时15分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 22时48分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
@@ -46,11 +47,12 @@
             16,
             20,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 20时15分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 22时48分]"
         },
         {
           "title": "重庆一女子站车道挡路让自家车加塞后，还对被挡车辆吐口水挑衅",
@@ -189,6 +191,17 @@
           "time_info": "[04时54分 ~ 12时10分]"
         },
         {
+          "title": "男子在家裸体被女邻居发群是谁错了",
+          "url": "https://www.toutiao.com/trending/7665105506796814387/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
           "title": "线上女装店生意越来越难做了",
           "url": "https://www.baidu.com/s?wd=%E7%BA%BF%E4%B8%8A%E5%A5%B3%E8%A3%85%E5%BA%97%E7%94%9F%E6%84%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E5%81%9A%E4%BA%86",
           "source": "百度热搜",
@@ -232,15 +245,17 @@
           "time_info": "[01时12分 ~ 08时03分]"
         },
         {
-          "title": "当少林足球遇上功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E9%81%87%E4%B8%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
+          "title": "视频丨菲尔兹奖得主王虹：很荣幸成为第三个获奖女性，勇敢去做喜欢的事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649546",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            20,
+            17,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时09分 ~ 22时48分]"
         },
         {
           "title": "女生午睡5小时遭领导训斥",
@@ -250,11 +265,36 @@
             5,
             9,
             12,
-            14
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 22时48分]"
+        },
+        {
+          "title": "当少林足球遇上功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E9%81%87%E4%B8%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时48分]"
+        },
+        {
+          "title": "大叔跳江救的女娃今年考上北大了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%B7%B3%E6%B1%9F%E6%95%91%E7%9A%84%E5%A5%B3%E5%A8%83%E4%BB%8A%E5%B9%B4%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时10分 ~ 20时15分]"
+          "time_info": "[20时14分 ~ 22时48分]"
         },
         {
           "title": "电影《功夫女足》第二轮路演开启",
@@ -281,18 +321,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时54分 ~ 08时03分]"
-        },
-        {
-          "title": "视频丨菲尔兹奖得主王虹：很荣幸成为第三个获奖女性，勇敢去做喜欢的事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33649546",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 20时15分]"
         },
         {
           "title": "女子试衣间排便被曝光后威胁砸店",
@@ -343,15 +371,15 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
-          "title": "大叔跳江救的女娃今年考上北大了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E8%B7%B3%E6%B1%9F%E6%95%91%E7%9A%84%E5%A5%B3%E5%A8%83%E4%BB%8A%E5%B9%B4%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E4%BA%86",
-          "source": "百度热搜",
+          "title": "“鞋拔子脸”维权女孩：修复至少30万",
+          "url": "https://www.toutiao.com/trending/7665632878388215858/",
+          "source": "今日头条",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "女子离世留下智力残疾丈夫和两个孩子",
@@ -376,6 +404,17 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
+          "title": "两护工照护86岁失能老人被欠薪40万元，老人6个子女互相推诿不给钱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33647836",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
           "title": "河南13岁女孩体重超220斤确诊多囊",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9713%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E8%B6%85220%E6%96%A4%E7%A1%AE%E8%AF%8A%E5%A4%9A%E5%9B%8A",
           "source": "百度热搜",
@@ -387,6 +426,28 @@
           "time_info": "[20时14分 ~ 20时15分]"
         },
         {
+          "title": "13岁女孩体重超220斤确诊多囊",
+          "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E8%B6%85220%E6%96%A4%E7%A1%AE%E8%AF%8A%E5%A4%9A%E5%9B%8A",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
+          "title": "爆冷赢球打出中国女排气势，主教练：我们会珍惜每一场比赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649542",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
           "title": "女子称暑假坐月子 大女儿哭喊妈妈坏",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9A%91%E5%81%87%E5%9D%90%E6%9C%88%E5%AD%90+%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%93%AD%E5%96%8A%E5%A6%88%E5%A6%88%E5%9D%8F",
           "source": "百度热搜",
@@ -396,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "女孩卖4克头发换12元买奶茶",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%8D%964%E5%85%8B%E5%A4%B4%E5%8F%91%E6%8D%A212%E5%85%83%E4%B9%B0%E5%A5%B6%E8%8C%B6",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "女子在超市蹲下时裙子“打碎”红酒",
@@ -418,6 +490,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
+          "title": "媒体评女司机拿走俩苹果不给钱",
+          "url": "https://www.toutiao.com/trending/7665919226830176292/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
+          "title": "王虹让更多女孩看见可能性",
+          "url": "https://www.douyin.com/hot/2583651",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时48分]"
         },
         {
           "title": "女生拍“战国马车”遇到下雨美成画",
@@ -453,6 +548,17 @@
           "time_info": "[18时09分 ~ 18时10分]"
         },
         {
+          "title": "上交医学院回应《科学》报道 6 岁女孩在接受基因编辑试验后死亡，称正在调查，谁该对此负责？",
+          "url": "https://www.zhihu.com/question/2063958390749885179",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "女数学家王虹才35岁",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%8E%8B%E8%99%B9%E6%89%8D35%E5%B2%81%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -462,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
+          "url": "https://www.zhihu.com/question/427306458",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "彭冠英搭档全是市场上的女顶流",
@@ -481,7 +598,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -519,15 +636,15 @@
           "time_info": "12时10分"
         },
         {
-          "title": "王虹让更多女孩看见可能性",
-          "url": "https://www.douyin.com/hot/2583651",
-          "source": "抖音",
+          "title": "女生没结婚席上问亲戚谁笑话我妈了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B2%A1%E7%BB%93%E5%A9%9A%E5%B8%AD%E4%B8%8A%E9%97%AE%E4%BA%B2%E6%88%9A%E8%B0%81%E7%AC%91%E8%AF%9D%E6%88%91%E5%A6%88%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            30
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "22时48分"
         }
       ]
     },
@@ -542,9 +659,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时48分]"
         }
       ]
     }
