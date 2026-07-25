@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T05:46:58.276757+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-26T06:46:41.681948+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             5,
             8,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时46分]"
         },
         {
           "title": "女投资人五年前重仓长鑫",
@@ -29,11 +30,12 @@
             5,
             6,
             17,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时46分]"
         },
         {
           "title": "高市早苗强推《皇室典范》修订，未松绑“女性天皇”却引入“皇室养子”",
@@ -44,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时46分]"
         },
         {
           "title": "美国女子吸毒精神错乱仰躺推车晃腿",
@@ -56,11 +58,12 @@
             17,
             18,
             9,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时46分]"
         },
         {
           "title": "博三女生没结婚问亲戚：谁笑话我妈了",
@@ -70,11 +73,12 @@
             20,
             17,
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时46分]"
         },
         {
           "title": "女子被老头乐压到致肋骨骨折",
@@ -112,11 +116,12 @@
             11,
             15,
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
         },
         {
           "title": "功夫女足孖八有事她是真上",
@@ -127,11 +132,12 @@
             24,
             27,
             26,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
         },
         {
           "title": "被裁掉的女孩播放破2亿",
@@ -144,8 +150,44 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时46分]"
+        },
+        {
+          "title": "博三女生没结婚问亲戚：谁笑话我妈了",
+          "url": "https://www.toutiao.com/trending/7665976615656276010/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时46分]"
+          "time_info": "[05时45分 ~ 06时46分]"
+        },
+        {
+          "title": "生母赠送跨国寻亲女儿红旗袍和项链",
+          "url": "https://www.baidu.com/s?wd=%E7%94%9F%E6%AF%8D%E8%B5%A0%E9%80%81%E8%B7%A8%E5%9B%BD%E5%AF%BB%E4%BA%B2%E5%A5%B3%E5%84%BF%E7%BA%A2%E6%97%97%E8%A2%8D%E5%92%8C%E9%A1%B9%E9%93%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 06时46分]"
+        },
+        {
+          "title": "女子挡道加塞 辱骂被挡司机还吐口水",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%A1%E9%81%93%E5%8A%A0%E5%A1%9E+%E8%BE%B1%E9%AA%82%E8%A2%AB%E6%8C%A1%E5%8F%B8%E6%9C%BA%E8%BF%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 06时46分]"
         },
         {
           "title": "中国女排0比3土耳其女排止步四强",
@@ -159,6 +201,19 @@
           "time_info": "[04时08分 ~ 05时46分]"
         },
         {
+          "title": "王虹让更多女孩看见可能性",
+          "url": "https://www.douyin.com/hot/2583651",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
           "title": "女装退货率达80% 责任不在消费者",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E8%BE%BE80%25+%E8%B4%A3%E4%BB%BB%E4%B8%8D%E5%9C%A8%E6%B6%88%E8%B4%B9%E8%80%85",
           "source": "百度热搜",
@@ -170,38 +225,16 @@
           "time_info": "[00时00分 ~ 00时02分]"
         },
         {
-          "title": "博三女生没结婚问亲戚：谁笑话我妈了",
-          "url": "https://www.toutiao.com/trending/7665976615656276010/",
-          "source": "今日头条",
+          "title": "功夫女足",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            29,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时45分 ~ 05时46分]"
-        },
-        {
-          "title": "王虹让更多女孩看见可能性",
-          "url": "https://www.douyin.com/hot/2583651",
-          "source": "抖音",
-          "ranks": [
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时56分]"
-        },
-        {
-          "title": "生母赠送跨国寻亲女儿红旗袍和项链",
-          "url": "https://www.baidu.com/s?wd=%E7%94%9F%E6%AF%8D%E8%B5%A0%E9%80%81%E8%B7%A8%E5%9B%BD%E5%AF%BB%E4%BA%B2%E5%A5%B3%E5%84%BF%E7%BA%A2%E6%97%97%E8%A2%8D%E5%92%8C%E9%A1%B9%E9%93%BE",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
+          "time_info": "[05时46分 ~ 06时46分]"
         },
         {
           "title": "《功夫女足》现750元天价电影票",
@@ -213,17 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时02分]"
-        },
-        {
-          "title": "女子挡道加塞 辱骂被挡司机还吐口水",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%A1%E9%81%93%E5%8A%A0%E5%A1%9E+%E8%BE%B1%E9%AA%82%E8%A2%AB%E6%8C%A1%E5%8F%B8%E6%9C%BA%E8%BF%98%E5%90%90%E5%8F%A3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
         },
         {
           "title": "中国女排0:3不敌土耳其女排",
@@ -254,18 +276,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "功夫女足",
-          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -284,8 +295,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
         }
       ]
     }
