@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T04:09:57.673774+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-07-26T05:46:58.276757+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "中国女排无缘决赛",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时46分]"
         },
         {
           "title": "女投资人五年前重仓长鑫",
@@ -27,11 +28,12 @@
           "ranks": [
             5,
             6,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时46分]"
         },
         {
           "title": "高市早苗强推《皇室典范》修订，未松绑“女性天皇”却引入“皇室养子”",
@@ -42,8 +44,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时46分]"
+        },
+        {
+          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
+          "url": "https://www.toutiao.com/trending/7666370454471180329/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17,
+            18,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时46分]"
         },
         {
           "title": "博三女生没结婚问亲戚：谁笑话我妈了",
@@ -56,22 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时09分]"
-        },
-        {
-          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
-          "url": "https://www.toutiao.com/trending/7666370454471180329/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            17,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时46分]"
         },
         {
           "title": "女子被老头乐压到致肋骨骨折",
@@ -83,8 +86,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时46分]"
         },
         {
           "title": "两女孩爬出十几层楼窗沿玩耍",
@@ -93,11 +96,12 @@
           "ranks": [
             23,
             22,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时46分]"
         },
         {
           "title": "正颌手术做反了女孩说迎接她的是毁灭",
@@ -107,11 +111,12 @@
             12,
             11,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时46分]"
         },
         {
           "title": "功夫女足孖八有事她是真上",
@@ -121,11 +126,12 @@
             17,
             24,
             27,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时46分]"
         },
         {
           "title": "被裁掉的女孩播放破2亿",
@@ -134,11 +140,23 @@
           "ranks": [
             19,
             16,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时46分]"
+        },
+        {
+          "title": "中国女排0比3土耳其女排止步四强",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A5%B3%E6%8E%92%E6%AD%A2%E6%AD%A5%E5%9B%9B%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 05时46分]"
         },
         {
           "title": "女装退货率达80% 责任不在消费者",
@@ -150,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时02分]"
+        },
+        {
+          "title": "博三女生没结婚问亲戚：谁笑话我妈了",
+          "url": "https://www.toutiao.com/trending/7665976615656276010/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 05时46分]"
         },
         {
           "title": "王虹让更多女孩看见可能性",
@@ -197,17 +226,6 @@
           "time_info": "[04时08分 ~ 04时09分]"
         },
         {
-          "title": "中国女排0比3土耳其女排止步四强",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A5%B3%E6%8E%92%E6%AD%A2%E6%AD%A5%E5%9B%9B%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
           "title": "中国女排0:3不敌土耳其女排",
           "url": "https://www.douyin.com/hot/2585081",
           "source": "抖音",
@@ -228,6 +246,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "小狗吹空调看到女主人辅导作业立刻溜走",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E5%90%B9%E7%A9%BA%E8%B0%83%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%B8%BB%E4%BA%BA%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E7%AB%8B%E5%88%BB%E6%BA%9C%E8%B5%B0&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "功夫女足",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         }
       ]
     },
@@ -240,11 +280,12 @@
           "url": "https://www.cls.cn/detail/2436840",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时46分]"
         }
       ]
     }
