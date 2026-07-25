@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T13:17:42.398894+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-07-25T15:55:10.545574+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "“鞋拔子脸”维权女孩：修复至少30万",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时13分 ~ 13时17分]"
+          "appearance_count": 13,
+          "time_info": "[02时13分 ~ 15时54分]"
         },
         {
           "title": "男子在家裸体被女邻居发群是谁错了",
@@ -85,6 +86,21 @@
           "time_info": "[02时13分 ~ 07时02分]"
         },
         {
+          "title": "王虹让更多女孩看见可能性",
+          "url": "https://www.douyin.com/hot/2583651",
+          "source": "抖音",
+          "ranks": [
+            22,
+            20,
+            19,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 15时54分]"
+        },
+        {
           "title": "爆冷赢球打出中国女排气势，主教练：我们会珍惜每一场比赛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33649542",
           "source": "澎湃新闻",
@@ -97,30 +113,17 @@
           "time_info": "[02时13分 ~ 07时02分]"
         },
         {
-          "title": "王虹让更多女孩看见可能性",
-          "url": "https://www.douyin.com/hot/2583651",
-          "source": "抖音",
-          "ranks": [
-            22,
-            20,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 13时17分]"
-        },
-        {
           "title": "女生午睡5小时遭领导训斥",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
           "source": "贴吧",
           "ranks": [
             19,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 15时54分]"
         },
         {
           "title": "功夫女足实时票房破18亿",
@@ -129,7 +132,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -170,6 +173,17 @@
           "time_info": "[02时14分 ~ 09时59分]"
         },
         {
+          "title": "高市早苗强推《皇室典范》修订，未松绑“女性天皇”却引入“皇室养子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33653295",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时54分]"
+        },
+        {
           "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
           "url": "https://www.zhihu.com/question/427306458",
           "source": "知乎",
@@ -193,6 +207,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时13分 ~ 04时14分]"
+        },
+        {
+          "title": "温兆伦力挺功夫女足",
+          "url": "https://www.douyin.com/hot/2584217",
+          "source": "抖音",
+          "ranks": [
+            12,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 15时54分]"
         },
         {
           "title": "《魔兽世界》GM 用秒杀能力帮女主播打 23 层大秘境，遭到玩家严厉谴责，这波丑闻暴雪怎么处理才服众？",
@@ -243,34 +270,11 @@
           "time_info": "[13时16分 ~ 13时17分]"
         },
         {
-          "title": "温兆伦力挺功夫女足",
-          "url": "https://www.douyin.com/hot/2584217",
-          "source": "抖音",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 13时17分]"
-        },
-        {
           "title": "女装退货率高的原因",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%E7%9A%84%E5%8E%9F%E5%9B%A0",
           "source": "百度热搜",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "高市早苗强推《皇室典范》修订，未松绑“女性天皇”却引入“皇室养子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33653295",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -288,6 +292,18 @@
           "time_info": "[13时16分 ~ 13时17分]"
         },
         {
+          "title": "24岁女孩地包天做手术反成鞋拔子脸",
+          "url": "https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%B0%E5%8C%85%E5%A4%A9%E5%81%9A%E6%89%8B%E6%9C%AF%E5%8F%8D%E6%88%90%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 15时54分]"
+        },
+        {
           "title": "男子为初恋想离婚要分女儿630万房款",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%88%9D%E6%81%8B%E6%83%B3%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%88%86%E5%A5%B3%E5%84%BF630%E4%B8%87%E6%88%BF%E6%AC%BE",
           "source": "百度热搜",
@@ -297,6 +313,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 13时17分]"
+        },
+        {
+          "title": "温兆伦力挺《功夫女足》",
+          "url": "https://www.toutiao.com/trending/7665857792804290569/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "《功夫女足》票房流失超4亿？片方回应",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E6%B5%81%E5%A4%B1%E8%B6%854%E4%BA%BF%EF%BC%9F%E7%89%87%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "曝大S房产已过户至具俊晔和子女名下",
+          "url": "https://www.toutiao.com/trending/7665302347808112666/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "女子花6388元相亲只见到4人",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B16388%E5%85%83%E7%9B%B8%E4%BA%B2%E5%8F%AA%E8%A7%81%E5%88%B04%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "女孩骑车摔伤 外卖小哥护送就医",
@@ -316,9 +376,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "功夫女足孖八有事她是真上",
+          "url": "https://www.douyin.com/hot/2584442",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "曲婉婷点赞冰雪女王梗",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E7%82%B9%E8%B5%9E%E5%86%B0%E9%9B%AA%E5%A5%B3%E7%8E%8B%E6%A2%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "女子挨个称麻辣烫丸子价格",
@@ -330,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "24岁女孩地包天做手术反成鞋拔子脸",
-          "url": "https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%B0%E5%8C%85%E5%A4%A9%E5%81%9A%E6%89%8B%E6%9C%AF%E5%8F%8D%E6%88%90%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
         },
         {
           "title": "女生没结婚席上问亲戚谁笑话我妈了",
@@ -368,8 +439,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 15时54分]"
         },
         {
           "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市，可帮助患者恢复视力",
