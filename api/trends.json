@@ -1,34 +1,23 @@
 {
-  "generated_at": "2026-07-25T07:02:22.944747+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-07-25T09:59:42.131977+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "“鞋拔子脸”维权女孩：修复至少30万",
           "url": "https://www.toutiao.com/trending/7665632878388215858/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时13分 ~ 07时02分]"
-        },
-        {
-          "title": "女子将家中电视背景墙装成教室黑板",
-          "url": "https://www.toutiao.com/trending/7665898002871992339/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时13分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[02时13分 ~ 09时59分]"
         },
         {
           "title": "视频丨菲尔兹奖得主王虹：很荣幸成为第三个获奖女性，勇敢去做喜欢的事",
@@ -40,15 +29,41 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时13分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[02时13分 ~ 09时59分]"
         },
         {
           "title": "男子在家裸体被女邻居发群是谁错了",
           "url": "https://www.toutiao.com/trending/7665105506796814387/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时13分 ~ 09时59分]"
+        },
+        {
+          "title": "两护工照护86岁失能老人被欠薪40万元，老人6个子女互相推诿不给钱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33647836",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时13分 ~ 09时59分]"
+        },
+        {
+          "title": "女子将家中电视背景墙装成教室黑板",
+          "url": "https://www.toutiao.com/trending/7665898002871992339/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -69,18 +84,6 @@
           "time_info": "[02时13分 ~ 07时02分]"
         },
         {
-          "title": "两护工照护86岁失能老人被欠薪40万元，老人6个子女互相推诿不给钱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33647836",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时13分 ~ 07时02分]"
-        },
-        {
           "title": "爆冷赢球打出中国女排气势，主教练：我们会珍惜每一场比赛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33649542",
           "source": "澎湃新闻",
@@ -91,6 +94,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时13分 ~ 07时02分]"
+        },
+        {
+          "title": "王虹让更多女孩看见可能性",
+          "url": "https://www.douyin.com/hot/2583651",
+          "source": "抖音",
+          "ranks": [
+            22,
+            20,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 09时59分]"
         },
         {
           "title": "13岁女孩体重超220斤确诊多囊",
@@ -106,19 +123,6 @@
           "time_info": "[02时13分 ~ 07时02分]"
         },
         {
-          "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
-          "url": "https://www.zhihu.com/question/427306458",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时02分]"
-        },
-        {
           "title": "女生午睡5小时遭领导训斥",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
           "source": "贴吧",
@@ -126,17 +130,40 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 09时59分]"
         },
         {
-          "title": "王虹让更多女孩看见可能性",
-          "url": "https://www.douyin.com/hot/2583651",
-          "source": "抖音",
+          "title": "父亲为初恋想离婚要分女儿630万房款",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%BA%E5%88%9D%E6%81%8B%E6%83%B3%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%88%86%E5%A5%B3%E5%84%BF630%E4%B8%87%E6%88%BF%E6%AC%BE%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
             22,
-            20,
-            19
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 09时59分]"
+        },
+        {
+          "title": "女子恋爱体检,性别竟为男性",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356436&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E4%BD%93%E6%A3%80%2C%E6%80%A7%E5%88%AB%E7%AB%9F%E4%B8%BA%E7%94%B7%E6%80%A7",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 09时59分]"
+        },
+        {
+          "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
+          "url": "https://www.zhihu.com/question/427306458",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -155,49 +182,73 @@
           "time_info": "[02时13分 ~ 04时14分]"
         },
         {
-          "title": "父亲为初恋想离婚要分女儿630万房款",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%BA%E5%88%9D%E6%81%8B%E6%83%B3%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%88%86%E5%A5%B3%E5%84%BF630%E4%B8%87%E6%88%BF%E6%AC%BE%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时02分]"
-        },
-        {
-          "title": "女子恋爱体检,性别竟为男性",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356436&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E4%BD%93%E6%A3%80%2C%E6%80%A7%E5%88%AB%E7%AB%9F%E4%B8%BA%E7%94%B7%E6%80%A7",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时02分]"
-        },
-        {
           "title": "当少林足球遇上功夫女足",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E9%81%87%E4%B8%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            26
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 09时59分]"
+        },
+        {
+          "title": "博三女生没结婚问亲戚：谁笑话我妈了",
+          "url": "https://www.toutiao.com/trending/7665976615656276010/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时02分]"
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "《魔兽世界》GM 用秒杀能力帮女主播打 23 层大秘境，遭到玩家严厉谴责，这波丑闻暴雪怎么处理才服众？",
           "url": "https://www.zhihu.com/question/2063323615110681339",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 09时59分]"
+        },
+        {
+          "title": "女孩骑车摔伤 外卖小哥护送就医",
+          "url": "https://www.toutiao.com/trending/7665638489287213110/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "温兆伦力挺功夫女足",
+          "url": "https://www.douyin.com/hot/2584217",
+          "source": "抖音",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "09时59分"
+        },
+        {
+          "title": "女子挨个称麻辣烫丸子价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8C%A8%E4%B8%AA%E7%A7%B0%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%B8%B8%E5%AD%90%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "女生没结婚席上问亲戚谁笑话我妈了",
@@ -214,7 +265,7 @@
     },
     {
       "keyword_group": "脑机接口",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市，可帮助患者恢复视力",
@@ -227,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时02分]"
+        },
+        {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -241,11 +303,12 @@
           "ranks": [
             21,
             19,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 09时59分]"
         }
       ]
     }
