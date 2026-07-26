@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:57:50.083051+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-07-26T21:14:42.425156+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "女投资人五年前重仓长鑫",
@@ -99,6 +99,17 @@
           "time_info": "[01时05分 ~ 10时04分]"
         },
         {
+          "title": "分手败人品,Rookie遭女粉攻击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356516&amp;topic_name=%E5%88%86%E6%89%8B%E8%B4%A5%E4%BA%BA%E5%93%81%2CRookie%E9%81%AD%E5%A5%B3%E7%B2%89%E6%94%BB%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时14分]"
+        },
+        {
           "title": "女子手臂被烫伤用水冲了4小时",
           "url": "https://www.toutiao.com/trending/7665564743701004307/",
           "source": "今日头条",
@@ -127,15 +138,16 @@
           "time_info": "[13时53分 ~ 18时39分]"
         },
         {
-          "title": "分手败人品,Rookie遭女粉攻击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356516&amp;topic_name=%E5%88%86%E6%89%8B%E8%B4%A5%E4%BA%BA%E5%93%81%2CRookie%E9%81%AD%E5%A5%B3%E7%B2%89%E6%94%BB%E5%87%BB",
+          "title": "女装退货率高,媒体甩锅商家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356512&amp;topic_name=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%2C%E5%AA%92%E4%BD%93%E7%94%A9%E9%94%85%E5%95%86%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            5
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时14分]"
         },
         {
           "title": "女孩连人带床被台风卷到户外绿化带",
@@ -206,18 +218,6 @@
           "time_info": "[10时03分 ~ 16时13分]"
         },
         {
-          "title": "女装退货率高,媒体甩锅商家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356512&amp;topic_name=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%2C%E5%AA%92%E4%BD%93%E7%94%A9%E9%94%85%E5%95%86%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时57分]"
-        },
-        {
           "title": "中国女排1-3意大利获第四名",
           "url": "https://www.toutiao.com/trending/7666417010993233963/",
           "source": "今日头条",
@@ -268,6 +268,45 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
+          "title": "贩卖私密视频 百万粉丝女网红被捕",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91+%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 21时14分]"
+        },
+        {
+          "title": "16岁女生服刑期发现漏罪被判12年",
+          "url": "https://www.toutiao.com/trending/7666289625798823478/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 21时14分]"
+        },
+        {
+          "title": "女子偷准婆婆的支付密码 给自己转账",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%B7%E5%87%86%E5%A9%86%E5%A9%86%E7%9A%84%E6%94%AF%E4%BB%98%E5%AF%86%E7%A0%81+%E7%BB%99%E8%87%AA%E5%B7%B1%E8%BD%AC%E8%B4%A6",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 21时14分]"
         },
         {
           "title": "基因编辑致女童死亡,上交回应",
@@ -331,42 +370,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时53分 ~ 10时04分]"
-        },
-        {
-          "title": "16岁女生服刑期发现漏罪被判12年",
-          "url": "https://www.toutiao.com/trending/7666289625798823478/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 19时57分]"
-        },
-        {
-          "title": "女子偷准婆婆的支付密码 给自己转账",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%B7%E5%87%86%E5%A9%86%E5%A9%86%E7%9A%84%E6%94%AF%E4%BB%98%E5%AF%86%E7%A0%81+%E7%BB%99%E8%87%AA%E5%B7%B1%E8%BD%AC%E8%B4%A6",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 19时57分]"
-        },
-        {
-          "title": "贩卖私密视频 百万粉丝女网红被捕",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91+%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 19时57分]"
         },
         {
           "title": "博三女生没结婚问亲戚：谁笑话我妈了",
@@ -439,6 +442,18 @@
           "time_info": "[18时38分 ~ 18时39分]"
         },
         {
+          "title": "百万粉丝女网红贩卖私密视频被逮捕",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时14分]"
+        },
+        {
           "title": "唐山“教科书式老赖”案最新进展：肇事司机女儿房产或被法拍",
           "url": "https://news.ifeng.com/c/8v4Cwvu2m7O",
           "source": "凤凰网",
@@ -506,6 +521,17 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "女子误将油门当刹车撞碎围栏后坠河",
+          "url": "https://www.toutiao.com/trending/7666766742836707364/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
           "title": "功夫女足",
           "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -538,6 +564,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时02分]"
+        },
+        {
+          "title": "30岁女警长救轻生者牺牲被追授称号",
+          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E5%A5%B3%E8%AD%A6%E9%95%BF%E6%95%91%E8%BD%BB%E7%94%9F%E8%80%85%E7%89%BA%E7%89%B2%E8%A2%AB%E8%BF%BD%E6%8E%88%E7%A7%B0%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "女子为心灵疗愈服务狂花20万元",
+          "url": "https://www.toutiao.com/trending/7665660788530610195/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "《被裁掉的女孩》为何火",
@@ -582,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
-        },
-        {
-          "title": "百万粉丝女网红贩卖私密视频被逮捕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
         },
         {
           "title": "中国女排0:3不敌土耳其女排",
@@ -692,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "八仙反超功夫女足成单日票房冠军",
+          "url": "https://www.douyin.com/hot/2586154",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         }
       ]
     },
@@ -710,8 +758,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 19时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 21时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "垫底辣孩飞机化妆回归",
+          "url": "https://www.douyin.com/hot/2584660",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         }
       ]
     }
