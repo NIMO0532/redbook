@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T10:04:24.331536+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-07-26T13:54:17.426737+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 44,
       "titles": [
         {
           "title": "女投资人五年前重仓长鑫",
@@ -130,15 +130,26 @@
           "time_info": "[01时05分 ~ 05时46分]"
         },
         {
-          "title": "《被裁掉的女孩》播放破2亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E6%92%AD%E6%94%BE%E7%A0%B42%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "院方通报女童接受基因编辑试验后死亡",
+          "url": "https://www.toutiao.com/trending/7666699971936947763/",
+          "source": "今日头条",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "16岁女生服刑期发现漏罪被判12年",
+          "url": "https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E7%94%9F%E6%9C%8D%E5%88%91%E6%9C%9F%E5%8F%91%E7%8E%B0%E6%BC%8F%E7%BD%AA%E8%A2%AB%E5%88%A412%E5%B9%B4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "正颌手术做反了女孩说迎接她的是毁灭",
@@ -157,15 +168,38 @@
           "time_info": "[00时02分 ~ 06时46分]"
         },
         {
-          "title": "卫健委介入24岁女孩正颌手术被做反",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A524%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "女装退货率高,媒体甩锅商家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356512&amp;topic_name=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%2C%E5%AA%92%E4%BD%93%E7%94%A9%E9%94%85%E5%95%86%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时53分"
+        },
+        {
+          "title": "《被裁掉的女孩》播放破2亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E6%92%AD%E6%94%BE%E7%A0%B42%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时53分]"
+        },
+        {
+          "title": "分手败人品,Rookie遭女粉攻击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356516&amp;topic_name=%E5%88%86%E6%89%8B%E8%B4%A5%E4%BA%BA%E5%93%81%2CRookie%E9%81%AD%E5%A5%B3%E7%B2%89%E6%94%BB%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "被裁掉的女孩播放破2亿",
@@ -180,6 +214,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 06时46分]"
+        },
+        {
+          "title": "王虹让更多女孩看见可能性",
+          "url": "https://www.douyin.com/hot/2583651",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 13时53分]"
+        },
+        {
+          "title": "卫健委介入24岁女孩正颌手术被做反",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A524%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时53分]"
         },
         {
           "title": "小狗吹空调看到女主人辅导作业溜走",
@@ -204,19 +264,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时45分 ~ 06时46分]"
-        },
-        {
-          "title": "王虹让更多女孩看见可能性",
-          "url": "https://www.douyin.com/hot/2583651",
-          "source": "抖音",
-          "ranks": [
-            30,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 10时04分]"
         },
         {
           "title": "生母赠送跨国寻亲女儿红旗袍和项链",
@@ -258,11 +305,12 @@
           "url": "https://www.toutiao.com/trending/7665564743701004307/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时53分]"
         },
         {
           "title": "唐山“教科书式老赖”案最新进展：肇事司机女儿房产或被法拍",
@@ -365,6 +413,50 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "16岁女生服刑期发现漏罪被判12年",
+          "url": "https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E7%94%9F%E6%9C%8D%E5%88%91%E6%9C%9F%E5%8F%91%E7%8E%B0%E6%BC%8F%E7%BD%AA%E8%A2%AB%E5%88%A412%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "院方通报女童接受基因编辑后死亡",
+          "url": "https://www.douyin.com/hot/2585727",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "女童接受基因编辑试验死亡 院方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%8E%A5%E5%8F%97%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E6%AD%BB%E4%BA%A1+%E9%99%A2%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "中国女排0:3不敌土耳其女排",
           "url": "https://www.douyin.com/hot/2585081",
           "source": "抖音",
@@ -382,9 +474,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "一键穿越功夫女足宇宙",
+          "url": "https://www.douyin.com/hot/2584509",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "中国女排0比3土耳其女排",
@@ -404,9 +507,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "功夫女足官方用了迪丽热巴的BGM",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%AE%98%E6%96%B9%E7%94%A8%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84BGM%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "不敌土耳其 中国女排进攻成最大问题",
+          "url": "https://www.toutiao.com/trending/7666677498251316786/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "小狗吹空调看到女主人辅导作业立刻溜走",
@@ -431,11 +556,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 13时53分]"
         }
       ]
     }
