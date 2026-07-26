@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T04:49:37.110448+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-07-27T05:53:23.898277+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -8,30 +8,18 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "百万粉丝女网红贩卖私密视频被逮捕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时49分]"
-        },
-        {
           "title": "女子手臂被烫伤用水冲了4小时",
           "url": "https://www.toutiao.com/trending/7665564743701004307/",
           "source": "今日头条",
           "ranks": [
             30,
             22,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时53分]"
         },
         {
           "title": "女子正颌被做成鞋拔子脸 官方介入",
@@ -41,11 +29,12 @@
             22,
             10,
             26,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时53分]"
         },
         {
           "title": "16岁女生服刑期发现漏罪被判12年",
@@ -57,8 +46,35 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时53分]"
+        },
+        {
+          "title": "百万粉丝女网红贩卖私密视频被逮捕",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            5,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时53分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时04分 ~ 05时53分]"
         },
         {
           "title": "哀鸿制作人:风尘女也能是女侠",
@@ -69,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时53分]"
         },
         {
           "title": "分手败人品,Rookie遭女粉攻击",
@@ -81,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时53分]"
         },
         {
           "title": "女装退货率高,媒体甩锅商家",
@@ -93,8 +109,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时53分]"
         },
         {
           "title": "中国女粉丝遭GMM工作人员暴力对待",
@@ -105,8 +121,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时53分]"
         },
         {
           "title": "评论员：中国女排“练兵”效果超预期",
@@ -121,28 +137,17 @@
           "time_info": "[00时01分 ~ 01时57分]"
         },
         {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 04时49分]"
-        },
-        {
           "title": "电影功夫女足",
           "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时53分]"
         },
         {
           "title": "35岁女子偷转准婆婆7000元获刑",
