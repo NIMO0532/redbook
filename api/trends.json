@@ -1,512 +1,132 @@
 {
-  "generated_at": "2026-07-27T21:35:11.888878+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-07-28T00:11:28.238849+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 36,
+      "match_count": 11,
       "titles": [
         {
-          "title": "哀鸿制作人:风尘女也能是女侠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356523&amp;topic_name=%E5%93%80%E9%B8%BF%E5%88%B6%E4%BD%9C%E4%BA%BA%3A%E9%A3%8E%E5%B0%98%E5%A5%B3%E4%B9%9F%E8%83%BD%E6%98%AF%E5%A5%B3%E4%BE%A0",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            15,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 21时34分]"
-        },
-        {
-          "title": "女子手臂被烫伤用水冲了4小时",
-          "url": "https://www.toutiao.com/trending/7665564743701004307/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            22,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时54分]"
-        },
-        {
-          "title": "分手败人品,Rookie遭女粉攻击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356516&amp;topic_name=%E5%88%86%E6%89%8B%E8%B4%A5%E4%BA%BA%E5%93%81%2CRookie%E9%81%AD%E5%A5%B3%E7%B2%89%E6%94%BB%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            18,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 21时34分]"
-        },
-        {
-          "title": "女子正颌被做成鞋拔子脸 官方介入",
-          "url": "https://www.toutiao.com/trending/7666087073379844105/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            10,
-            26,
-            25,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时54分]"
-        },
-        {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            27,
-            10,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时04分 ~ 07时54分]"
-        },
-        {
-          "title": "女装退货率高,媒体甩锅商家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356512&amp;topic_name=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%2C%E5%AA%92%E4%BD%93%E7%94%A9%E9%94%85%E5%95%86%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            20,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 21时34分]"
-        },
-        {
-          "title": "16岁女生服刑期发现漏罪被判12年",
-          "url": "https://www.toutiao.com/trending/7666289625798823478/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            13,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
-        {
-          "title": "百万粉丝女网红贩卖私密视频被逮捕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            5,
-            2,
-            12,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
-        },
-        {
-          "title": "24 岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
-          "url": "https://www.zhihu.com/question/2064692382461685795",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 21时34分]"
-        },
-        {
-          "title": "中国女粉丝遭GMM工作人员暴力对待",
-          "url": "https://www.douyin.com/hot/2585773",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时11分]"
-        },
-        {
-          "title": "女副部张世平被开除党籍：大肆敛财",
-          "url": "https://www.toutiao.com/trending/7667130167358308388/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时34分]"
-        },
-        {
-          "title": "电影功夫女足",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            8,
-            7,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 07时54分]"
-        },
-        {
-          "title": "比邱淑贞女儿还像邱淑贞的女警",
-          "url": "https://www.toutiao.com/trending/7666104841235873855/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 21时34分]"
-        },
-        {
-          "title": "女子多肉盆下发现碗口粗蟒蛇",
-          "url": "https://www.toutiao.com/trending/7666847198835228715/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 21时34分]"
-        },
-        {
-          "title": "女子连拿6次海鲜未付款 警方介入处置",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E6%8B%BF6%E6%AC%A1%E6%B5%B7%E9%B2%9C%E6%9C%AA%E4%BB%98%E6%AC%BE+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A4%84%E7%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时34分]"
-        },
-        {
-          "title": "侄女搬民法典争叔叔遗产被驳回",
-          "url": "https://www.toutiao.com/trending/7666410553270927402/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 10时11分]"
-        },
-        {
-          "title": "女子提前撤离躲过甘肃渭源山洪",
-          "url": "https://www.toutiao.com/trending/7666670874313359370/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 14时21分]"
-        },
-        {
-          "title": "评论员：中国女排“练兵”效果超预期",
-          "url": "https://www.toutiao.com/trending/7666819667154964006/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时57分]"
-        },
-        {
-          "title": "又一女生称被gmm工作人员污蔑插队",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E5%A5%B3%E7%94%9F%E7%A7%B0%E8%A2%ABgmm%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%B1%A1%E8%94%91%E6%8F%92%E9%98%9F%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 10时11分]"
-        },
-        {
-          "title": "员工女儿考上北大获公司10万元奖励",
-          "url": "https://www.toutiao.com/trending/7667022926164639771/",
+          "title": "女子屁股痛以为上火确诊食肉菌感染",
+          "url": "https://www.toutiao.com/trending/7666766254091042870/",
           "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "突然理解一生要出片的女人了",
-          "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%80%E7%94%9F%E8%A6%81%E5%87%BA%E7%89%87%E7%9A%84%E5%A5%B3%E4%BA%BA%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "女子在农贸市场6分钟狂偷6次海鲜",
+          "url": "https://news.ifeng.com/c/8v6akHRbgF3",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 21时34分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "女子花16万多买小鹏G6充电时出故障",
-          "url": "https://www.toutiao.com/trending/7665912569932972086/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "女警比邱淑贞女儿还像邱淑贞",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%AD%A6%E6%AF%94%E9%82%B1%E6%B7%91%E8%B4%9E%E5%A5%B3%E5%84%BF%E8%BF%98%E5%83%8F%E9%82%B1%E6%B7%91%E8%B4%9E",
+          "title": "20岁女孩从18楼坠落后奇迹生还",
+          "url": "https://www.baidu.com/s?wd=20%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BB%8E18%E6%A5%BC%E5%9D%A0%E8%90%BD%E5%90%8E%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98",
           "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "侄女搬民法典争叔叔遗产被驳回",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%84%E5%A5%B3%E6%90%AC%E6%B0%91%E6%B3%95%E5%85%B8%E4%BA%89%E5%8F%94%E5%8F%94%E9%81%97%E4%BA%A7%E8%A2%AB%E9%A9%B3%E5%9B%9E",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "王楚钦孙颖莎稳居男女单打世界第一",
-          "url": "https://www.toutiao.com/trending/7666722209973862443/",
-          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
-        },
-        {
-          "title": "直击陆航女飞行员海上实弹演练",
-          "url": "https://www.toutiao.com/trending/7666871433993814035/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "又一女生称被gmm工作人员污蔑插队",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%A5%B3%E7%94%9F%E7%A7%B0%E8%A2%ABgmm%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%B1%A1%E8%94%91%E6%8F%92%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "女子误将油门当刹车撞碎围栏后坠河",
-          "url": "https://www.toutiao.com/trending/7666766742836707364/",
+          "title": "比邱淑贞女儿还像邱淑贞的女警",
+          "url": "https://www.toutiao.com/trending/7666104841235873855/",
           "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
-        },
-        {
-          "title": "《八仙！》单日票房反超《功夫女足》",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E5%8F%8D%E8%B6%85%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "11岁女孩成“杀鱼老师傅”",
-          "url": "https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%88%90%E2%80%9C%E6%9D%80%E9%B1%BC%E8%80%81%E5%B8%88%E5%82%85%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
-        },
-        {
-          "title": "广东一女子被大水冲走 当地全力搜救",
-          "url": "https://www.toutiao.com/trending/7667106635668684838/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
-        },
-        {
-          "title": "用卓别林风格打开功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%8D%93%E5%88%AB%E6%9E%97%E9%A3%8E%E6%A0%BC%E6%89%93%E5%BC%80%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "吴尊15岁女儿neinei近照",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A15%E5%B2%81%E5%A5%B3%E5%84%BFneinei%E8%BF%91%E7%85%A7%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "35岁女子偷转准婆婆7000元获刑",
-          "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%81%B7%E8%BD%AC%E5%87%86%E5%A9%86%E5%A9%867000%E5%85%83%E8%8E%B7%E5%88%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "王励勤说男乒比女乒压力大",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E8%AF%B4%E7%94%B7%E4%B9%92%E6%AF%94%E5%A5%B3%E4%B9%92%E5%8E%8B%E5%8A%9B%E5%A4%A7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "女子脚卡汽车方向盘缝隙中 消防救援",
+          "url": "https://www.toutiao.com/trending/7666875365784240191/",
+          "source": "今日头条",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "创业板指涨超2%，沪指涨0.47%，深成指涨1.67%，脑机接口、电池、创新药、CPO等方向涨幅居前，沪深京三市上涨个股近4800只。",
-          "url": "https://wallstreetcn.com/livenews/3139963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际服澜新皮肤预览",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E6%9C%8D%E6%BE%9C%E6%96%B0%E7%9A%AE%E8%82%A4%E9%A2%84%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            28
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 21时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "审美",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
         {
-          "title": "欧阳娜娜 审美积累",
-          "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%20%E5%AE%A1%E7%BE%8E%E7%A7%AF%E7%B4%AF&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "女副部张世平被开除党籍：大肆敛财",
+          "url": "https://www.toutiao.com/trending/7667130167358308388/",
+          "source": "今日头条",
           "ranks": [
-            15
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "吴尊15岁女儿neinei近照",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A15%E5%B2%81%E5%A5%B3%E5%84%BFneinei%E8%BF%91%E7%85%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "00时11分"
+        },
+        {
+          "title": "哀鸿制作人:风尘女也能是女侠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356523&amp;topic_name=%E5%93%80%E9%B8%BF%E5%88%B6%E4%BD%9C%E4%BA%BA%3A%E9%A3%8E%E5%B0%98%E5%A5%B3%E4%B9%9F%E8%83%BD%E6%98%AF%E5%A5%B3%E4%BE%A0",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "分手败人品,Rookie遭女粉攻击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356516&amp;topic_name=%E5%88%86%E6%89%8B%E8%B4%A5%E4%BA%BA%E5%93%81%2CRookie%E9%81%AD%E5%A5%B3%E7%B2%89%E6%94%BB%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "女装退货率高,媒体甩锅商家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356512&amp;topic_name=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%2C%E5%AA%92%E4%BD%93%E7%94%A9%E9%94%85%E5%95%86%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         }
       ]
     }
