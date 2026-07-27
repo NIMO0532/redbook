@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T10:11:56.024870+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-07-27T14:22:09.933733+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "女子手臂被烫伤用水冲了4小时",
@@ -90,11 +90,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 14时21分]"
         },
         {
           "title": "分手败人品,Rookie遭女粉攻击",
@@ -102,11 +103,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 14时21分]"
         },
         {
           "title": "女装退货率高,媒体甩锅商家",
@@ -114,11 +116,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 14时21分]"
         },
         {
           "title": "中国女粉丝遭GMM工作人员暴力对待",
@@ -133,6 +136,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 10时11分]"
+        },
+        {
+          "title": "24 岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
+          "url": "https://www.zhihu.com/question/2064692382461685795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时21分]"
         },
         {
           "title": "电影功夫女足",
@@ -150,17 +165,6 @@
           "time_info": "[03时05分 ~ 07时54分]"
         },
         {
-          "title": "24 岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
-          "url": "https://www.zhihu.com/question/2064692382461685795",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "侄女搬民法典争叔叔遗产被驳回",
           "url": "https://www.toutiao.com/trending/7666410553270927402/",
           "source": "今日头条",
@@ -171,6 +175,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时53分 ~ 10时11分]"
+        },
+        {
+          "title": "女子提前撤离躲过甘肃渭源山洪",
+          "url": "https://www.toutiao.com/trending/7666670874313359370/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时21分]"
         },
         {
           "title": "评论员：中国女排“练兵”效果超预期",
@@ -209,15 +225,26 @@
           "time_info": "[10时10分 ~ 10时11分]"
         },
         {
-          "title": "女子提前撤离躲过甘肃渭源山洪",
-          "url": "https://www.toutiao.com/trending/7666670874313359370/",
+          "title": "比邱淑贞女儿还像邱淑贞的女警",
+          "url": "https://www.toutiao.com/trending/7666104841235873855/",
           "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "女警比邱淑贞女儿还像邱淑贞",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%AD%A6%E6%AF%94%E9%82%B1%E6%B7%91%E8%B4%9E%E5%A5%B3%E5%84%BF%E8%BF%98%E5%83%8F%E9%82%B1%E6%B7%91%E8%B4%9E",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "侄女搬民法典争叔叔遗产被驳回",
@@ -242,6 +269,17 @@
           "time_info": "[10时10分 ~ 10时11分]"
         },
         {
+          "title": "女子多肉盆下发现碗口粗蟒蛇",
+          "url": "https://www.toutiao.com/trending/7666847198835228715/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "又一女生称被gmm工作人员污蔑插队",
           "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%A5%B3%E7%94%9F%E7%A7%B0%E8%A2%ABgmm%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%B1%A1%E8%94%91%E6%8F%92%E9%98%9F",
           "source": "百度热搜",
@@ -264,6 +302,17 @@
           "time_info": "[06时53分 ~ 06时54分]"
         },
         {
+          "title": "《八仙！》单日票房反超《功夫女足》",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E5%8F%8D%E8%B6%85%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "35岁女子偷转准婆婆7000元获刑",
           "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%81%B7%E8%BD%AC%E5%87%86%E5%A9%86%E5%A9%867000%E5%85%83%E8%8E%B7%E5%88%91%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -273,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "王励勤说男乒比女乒压力大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E8%AF%B4%E7%94%B7%E4%B9%92%E6%AF%94%E5%A5%B3%E4%B9%92%E5%8E%8B%E5%8A%9B%E5%A4%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -287,9 +347,26 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际服澜新皮肤预览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E6%9C%8D%E6%BE%9C%E6%96%B0%E7%9A%AE%E8%82%A4%E9%A2%84%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     }
