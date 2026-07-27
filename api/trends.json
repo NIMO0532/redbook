@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-27T14:22:09.933733+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-07-27T18:35:59.424814+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "哀鸿制作人:风尘女也能是女侠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356523&amp;topic_name=%E5%93%80%E9%B8%BF%E5%88%B6%E4%BD%9C%E4%BA%BA%3A%E9%A3%8E%E5%B0%98%E5%A5%B3%E4%B9%9F%E8%83%BD%E6%98%AF%E5%A5%B3%E4%BE%A0",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 18时35分]"
+        },
         {
           "title": "女子手臂被烫伤用水冲了4小时",
           "url": "https://www.toutiao.com/trending/7665564743701004307/",
@@ -21,6 +35,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时01分 ~ 07时54分]"
+        },
+        {
+          "title": "分手败人品,Rookie遭女粉攻击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356516&amp;topic_name=%E5%88%86%E6%89%8B%E8%B4%A5%E4%BA%BA%E5%93%81%2CRookie%E9%81%AD%E5%A5%B3%E7%B2%89%E6%94%BB%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 18时35分]"
         },
         {
           "title": "女子正颌被做成鞋拔子脸 官方介入",
@@ -54,6 +82,20 @@
           "time_info": "[03时04分 ~ 07时54分]"
         },
         {
+          "title": "女装退货率高,媒体甩锅商家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356512&amp;topic_name=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%2C%E5%AA%92%E4%BD%93%E7%94%A9%E9%94%85%E5%95%86%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 18时35分]"
+        },
+        {
           "title": "16岁女生服刑期发现漏罪被判12年",
           "url": "https://www.toutiao.com/trending/7666289625798823478/",
           "source": "今日头条",
@@ -85,45 +127,6 @@
           "time_info": "[00时02分 ~ 07时54分]"
         },
         {
-          "title": "哀鸿制作人:风尘女也能是女侠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356523&amp;topic_name=%E5%93%80%E9%B8%BF%E5%88%B6%E4%BD%9C%E4%BA%BA%3A%E9%A3%8E%E5%B0%98%E5%A5%B3%E4%B9%9F%E8%83%BD%E6%98%AF%E5%A5%B3%E4%BE%A0",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 14时21分]"
-        },
-        {
-          "title": "分手败人品,Rookie遭女粉攻击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356516&amp;topic_name=%E5%88%86%E6%89%8B%E8%B4%A5%E4%BA%BA%E5%93%81%2CRookie%E9%81%AD%E5%A5%B3%E7%B2%89%E6%94%BB%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 14时21分]"
-        },
-        {
-          "title": "女装退货率高,媒体甩锅商家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356512&amp;topic_name=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%2C%E5%AA%92%E4%BD%93%E7%94%A9%E9%94%85%E5%95%86%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 14时21分]"
-        },
-        {
           "title": "中国女粉丝遭GMM工作人员暴力对待",
           "url": "https://www.douyin.com/hot/2585773",
           "source": "抖音",
@@ -146,8 +149,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 18时35分]"
+        },
+        {
+          "title": "女副部张世平被开除党籍：大肆敛财",
+          "url": "https://www.toutiao.com/trending/7667130167358308388/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时21分]"
+          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "电影功夫女足",
@@ -189,6 +203,30 @@
           "time_info": "[10时10分 ~ 14时21分]"
         },
         {
+          "title": "比邱淑贞女儿还像邱淑贞的女警",
+          "url": "https://www.toutiao.com/trending/7666104841235873855/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 18时35分]"
+        },
+        {
+          "title": "女子多肉盆下发现碗口粗蟒蛇",
+          "url": "https://www.toutiao.com/trending/7666847198835228715/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 18时35分]"
+        },
+        {
           "title": "评论员：中国女排“练兵”效果超预期",
           "url": "https://www.toutiao.com/trending/7666819667154964006/",
           "source": "今日头条",
@@ -225,17 +263,6 @@
           "time_info": "[10时10分 ~ 10时11分]"
         },
         {
-          "title": "比邱淑贞女儿还像邱淑贞的女警",
-          "url": "https://www.toutiao.com/trending/7666104841235873855/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
           "title": "女警比邱淑贞女儿还像邱淑贞",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%AD%A6%E6%AF%94%E9%82%B1%E6%B7%91%E8%B4%9E%E5%A5%B3%E5%84%BF%E8%BF%98%E5%83%8F%E9%82%B1%E6%B7%91%E8%B4%9E",
           "source": "百度热搜",
@@ -269,15 +296,15 @@
           "time_info": "[10时10分 ~ 10时11分]"
         },
         {
-          "title": "女子多肉盆下发现碗口粗蟒蛇",
-          "url": "https://www.toutiao.com/trending/7666847198835228715/",
-          "source": "今日头条",
+          "title": "女子连拿6次海鲜未付款 警方介入处置",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E6%8B%BF6%E6%AC%A1%E6%B5%B7%E9%B2%9C%E6%9C%AA%E4%BB%98%E6%AC%BE+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A4%84%E7%BD%AE",
+          "source": "百度热搜",
           "ranks": [
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "又一女生称被gmm工作人员污蔑插队",
@@ -313,6 +340,28 @@
           "time_info": "[14时20分 ~ 14时21分]"
         },
         {
+          "title": "突然理解一生要出片的女人了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%80%E7%94%9F%E8%A6%81%E5%87%BA%E7%89%87%E7%9A%84%E5%A5%B3%E4%BA%BA%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "用卓别林风格打开功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%8D%93%E5%88%AB%E6%9E%97%E9%A3%8E%E6%A0%BC%E6%89%93%E5%BC%80%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "35岁女子偷转准婆婆7000元获刑",
           "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%81%B7%E8%BD%AC%E5%87%86%E5%A9%86%E5%A9%867000%E5%85%83%E8%8E%B7%E5%88%91%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -330,7 +379,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -364,9 +413,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧阳娜娜 审美积累",
+          "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%20%E5%AE%A1%E7%BE%8E%E7%A7%AF%E7%B4%AF&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     }
