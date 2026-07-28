@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T07:03:56.447046+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-07-28T09:52:49.185756+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "女孩和男友吵架闹分手从18层坠楼",
@@ -28,11 +28,12 @@
             23,
             19,
             10,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 07时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 09时52分]"
         },
         {
           "title": "女子在农贸市场6分钟狂偷6次海鲜",
@@ -53,11 +54,12 @@
             20,
             15,
             14,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 07时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 09时52分]"
         },
         {
           "title": "20岁女孩从18楼坠落后奇迹生还",
@@ -130,11 +132,12 @@
           "source": "微博",
           "ranks": [
             4,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 07时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 09时52分]"
         },
         {
           "title": "哀鸿制作人:风尘女也能是女侠",
@@ -142,11 +145,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 09时52分]"
         },
         {
           "title": "女装退货率高,媒体甩锅商家",
@@ -157,8 +161,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 09时52分]"
         },
         {
           "title": "20岁女孩从18楼坠落奇迹生还",
@@ -171,6 +175,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 07时03分]"
+        },
+        {
+          "title": "女子种出二三十万斤玉米后懵圈了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%8D%E5%87%BA%E4%BA%8C%E4%B8%89%E5%8D%81%E4%B8%87%E6%96%A4%E7%8E%89%E7%B1%B3%E5%90%8E%E6%87%B5%E5%9C%88%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 09时52分]"
+        },
+        {
+          "title": "女孩和男友吵架从18层坠楼生还",
+          "url": "https://www.toutiao.com/trending/7667198705293606921/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 09时52分]"
+        },
+        {
+          "title": "摊位脏臭但11岁杀鱼女孩满面笑容",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%91%8A%E4%BD%8D%E8%84%8F%E8%87%AD%E4%BD%8611%E5%B2%81%E6%9D%80%E9%B1%BC%E5%A5%B3%E5%AD%A9%E6%BB%A1%E9%9D%A2%E7%AC%91%E5%AE%B9%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 09时52分]"
         },
         {
           "title": "女子脚卡汽车方向盘缝隙中 消防救援",
@@ -195,6 +233,28 @@
           "time_info": "[07时02分 ~ 07时03分]"
         },
         {
+          "title": "媒体评中国女粉丝泰国追星遭暴力驱赶",
+          "url": "https://www.toutiao.com/trending/7666675735046799411/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 09时52分]"
+        },
+        {
+          "title": "周星驰功夫女足路演秒变周星星",
+          "url": "https://www.douyin.com/hot/2586805",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "吴尊15岁女儿neinei近照",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A15%E5%B2%81%E5%A5%B3%E5%84%BFneinei%E8%BF%91%E7%85%A7%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -204,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "摊位脏臭但11岁杀鱼女孩满面笑容",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%91%8A%E4%BD%8D%E8%84%8F%E8%87%AD%E4%BD%8611%E5%B2%81%E6%9D%80%E9%B1%BC%E5%A5%B3%E5%AD%A9%E6%BB%A1%E9%9D%A2%E7%AC%91%E5%AE%B9%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         },
         {
           "title": "分手败人品,Rookie遭女粉攻击",
@@ -239,11 +288,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            30
+            30,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 07时03分]"
+          "appearance_count": 4,
+          "time_info": "[04时16分 ~ 09时52分]"
         }
       ]
     }
