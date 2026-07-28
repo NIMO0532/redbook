@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T05:02:11.692669+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-07-29T06:54:00.967720+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "女子摸田螺溺亡 儿子连扇自己巴掌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "女子摸田螺溺亡 儿子连扇自己巴掌",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "GMM员工锁喉抱摔女粉丝",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "男友逼坠楼生还女孩返还恋爱开销",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
@@ -60,11 +60,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "女孩催促不要挡电梯被男孩母亲打",
@@ -73,11 +74,12 @@
           "ranks": [
             12,
             16,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "女生展示什么是真正的梨形身材",
@@ -87,8 +89,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 06时53分]"
+        },
+        {
+          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "纽约中央公园“出轨门”男女身份确认",
@@ -98,8 +112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "漯河一女子挑葡萄时与天降断枝擦肩",
@@ -107,22 +121,37 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
-          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
-          "source": "澎湃新闻",
+          "title": "美女零元购,爱心冰箱被掏空",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356559&amp;topic_name=%E7%BE%8E%E5%A5%B3%E9%9B%B6%E5%85%83%E8%B4%AD%2C%E7%88%B1%E5%BF%83%E5%86%B0%E7%AE%B1%E8%A2%AB%E6%8E%8F%E7%A9%BA",
+          "source": "贴吧",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "time_info": "[01时21分 ~ 06时53分]"
+        },
+        {
+          "title": "六公主评功夫女足票房破20亿",
+          "url": "https://www.douyin.com/hot/2588401",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "女孩催促不要挡电梯被男孩母亲打",
@@ -138,40 +167,17 @@
           "time_info": "[01时21分 ~ 05时01分]"
         },
         {
-          "title": "美女零元购,爱心冰箱被掏空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356559&amp;topic_name=%E7%BE%8E%E5%A5%B3%E9%9B%B6%E5%85%83%E8%B4%AD%2C%E7%88%B1%E5%BF%83%E5%86%B0%E7%AE%B1%E8%A2%AB%E6%8E%8F%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
-        },
-        {
-          "title": "六公主评功夫女足票房破20亿",
-          "url": "https://www.douyin.com/hot/2588401",
-          "source": "抖音",
-          "ranks": [
-            19,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
-        },
-        {
           "title": "女子每天从天津到北京上班",
           "url": "https://www.toutiao.com/trending/7667446748483174409/",
           "source": "今日头条",
           "ranks": [
             17,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 06时53分]"
         },
         {
           "title": "只因赶潮流,作者想要写死女主",
@@ -181,8 +187,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "功夫女足暑期档票房破20亿",
@@ -194,8 +200,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "男童挡电梯20秒等家长女子催促被打",
@@ -203,22 +209,35 @@
           "source": "微博",
           "ranks": [
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         },
         {
           "title": "女子摸田螺溺亡儿子连扇自己巴掌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%91%B8%E7%94%B0%E8%9E%BA%E6%BA%BA%E4%BA%A1%E5%84%BF%E5%AD%90%E8%BF%9E%E6%89%87%E8%87%AA%E5%B7%B1%E5%B7%B4%E6%8E%8C%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时53分]"
+        },
+        {
+          "title": "泰国少女涂黑全身腹痛吓坏旁人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%B0%91%E5%A5%B3%E6%B6%82%E9%BB%91%E5%85%A8%E8%BA%AB%E8%85%B9%E7%97%9B%E5%90%93%E5%9D%8F%E6%97%81%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时53分"
         },
         {
           "title": "女装真是给我气笑了",
@@ -227,7 +246,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -246,8 +265,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时53分]"
         }
       ]
     }
