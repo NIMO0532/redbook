@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T20:50:45.993599+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-07-28T23:15:19.275411+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
         {
           "title": "女孩和男友吵架闹分手从18层坠楼",
@@ -135,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时50分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 23时14分]"
         },
         {
           "title": "徐正溪赵今麦好有药味的父女线",
@@ -220,11 +220,35 @@
             4,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 23时14分]"
+        },
+        {
+          "title": "女子摸田螺溺亡 儿子连扇自己巴掌",
+          "url": "https://www.toutiao.com/trending/7667420483098198057/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "女生展示什么是真正的梨形身材",
+          "url": "https://www.toutiao.com/trending/7667096312441602094/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 23时14分]"
         },
         {
           "title": "周星驰功夫女足路演秒变周星星",
@@ -241,16 +265,29 @@
           "time_info": "[09时52分 ~ 20时50分]"
         },
         {
-          "title": "女生展示什么是真正的梨形身材",
-          "url": "https://www.toutiao.com/trending/7667096312441602094/",
-          "source": "今日头条",
+          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            12
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 23时14分]"
+        },
+        {
+          "title": "纽约中央公园“出轨门”男女身份确认",
+          "url": "https://www.toutiao.com/trending/7666647917814480937/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时36分 ~ 23时14分]"
         },
         {
           "title": "20岁女孩从18楼坠落奇迹生还",
@@ -276,29 +313,6 @@
           "time_info": "[18时27分 ~ 20时50分]"
         },
         {
-          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时50分]"
-        },
-        {
-          "title": "纽约中央公园“出轨门”男女身份确认",
-          "url": "https://www.toutiao.com/trending/7666647917814480937/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 18时28分]"
-        },
-        {
           "title": "女孩和男友吵架从18层坠楼生还",
           "url": "https://www.toutiao.com/trending/7667198705293606921/",
           "source": "今日头条",
@@ -309,6 +323,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 15时37分]"
+        },
+        {
+          "title": "女子每天从天津到北京上班",
+          "url": "https://www.toutiao.com/trending/7667446748483174409/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 23时14分]"
+        },
+        {
+          "title": "功夫女足暑期档票房破20亿",
+          "url": "https://www.douyin.com/hot/2588352",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 23时14分]"
         },
         {
           "title": "女孩正颌后成“鞋拔子脸” 医生停诊",
@@ -343,29 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "功夫女足暑期档票房破20亿",
-          "url": "https://www.douyin.com/hot/2588352",
-          "source": "抖音",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时50分]"
-        },
-        {
-          "title": "女子每天从天津到北京上班",
-          "url": "https://www.toutiao.com/trending/7667446748483174409/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "《功夫女足》票房破20亿",
@@ -446,6 +461,39 @@
           "time_info": "[12时57分 ~ 12时58分]"
         },
         {
+          "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
+          "url": "https://www.zhihu.com/question/2064801268552537608",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "女孩催促不要挡电梯被男孩母亲打",
+          "url": "https://www.toutiao.com/trending/7667339693469483027/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "女子高铁喧哗被提醒 叫嚣全家体制内",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%96%A7%E5%93%97%E8%A2%AB%E6%8F%90%E9%86%92+%E5%8F%AB%E5%9A%A3%E5%85%A8%E5%AE%B6%E4%BD%93%E5%88%B6%E5%86%85",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "女童基因编辑治疗后死亡，卫健部门介入调查，还有哪些疑点待解？此次事故可能涉及哪些医疗违规或违法行为？",
           "url": "https://www.zhihu.com/question/2065037308403737451",
           "source": "知乎",
@@ -466,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "只因赶潮流,作者想要写死女主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356585&amp;topic_name=%E5%8F%AA%E5%9B%A0%E8%B5%B6%E6%BD%AE%E6%B5%81%2C%E4%BD%9C%E8%80%85%E6%83%B3%E8%A6%81%E5%86%99%E6%AD%BB%E5%A5%B3%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "王祖蓝俩女儿颜值",
@@ -490,13 +549,24 @@
           "time_info": "00时11分"
         },
         {
+          "title": "女子摸田螺溺亡 儿子连扇自己巴掌",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%91%B8%E7%94%B0%E8%9E%BA%E6%BA%BA%E4%BA%A1+%E5%84%BF%E5%AD%90%E8%BF%9E%E6%89%87%E8%87%AA%E5%B7%B1%E5%B7%B4%E6%8E%8C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "女孩催促不要挡电梯被男孩母亲打",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%82%AC%E4%BF%83%E4%B8%8D%E8%A6%81%E6%8C%A1%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E6%89%93%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -510,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "女孩催促不要挡电梯被男孩母亲打",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%82%AC%E4%BF%83%E4%B8%8D%E8%A6%81%E6%8C%A1%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "分手败人品,Rookie遭女粉攻击",
@@ -534,11 +615,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时50分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 23时14分]"
         },
         {
           "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
@@ -546,11 +628,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时50分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 23时14分]"
         }
       ]
     },
