@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T06:55:04.874451+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-07-30T07:56:23.260792+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 07时56分]"
         },
         {
           "title": "美女网红遭闺蜜诱骗丧命",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "女子修手机被店主导出40多张私密照",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 07时56分]"
         },
         {
           "title": "云南勐腊通报女生提醒同学勿睡觉被老师殴打：对涉事教师记过处分",
@@ -53,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 07时56分]"
         },
         {
           "title": "女孩盲道被撞摆拍细节露馅",
@@ -64,11 +64,12 @@
             20,
             28,
             19,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 07时56分]"
         },
         {
           "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
@@ -79,8 +80,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 07时56分]"
         },
         {
           "title": "券商网红女首席处罚落地，“公开不当言论”涉及了哪些？",
@@ -91,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "周星驰《功夫女足》上映 18 天票房破 20 亿，超过《给阿嬷的情书》跻身年度第二，如何评价这一成绩？",
@@ -103,22 +104,12 @@
             8,
             13,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时54分]"
-        },
-        {
-          "title": "网约车父亲吐槽本科儿女躺平",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356604&amp;topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%88%B6%E4%BA%B2%E5%90%90%E6%A7%BD%E6%9C%AC%E7%A7%91%E5%84%BF%E5%A5%B3%E8%BA%BA%E5%B9%B3",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "官方通报女生提醒同学别睡觉被老师打",
@@ -128,11 +119,23 @@
             25,
             10,
             24,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时44分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[04时44分 ~ 07时56分]"
+        },
+        {
+          "title": "网约车父亲吐槽本科儿女躺平",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356604&amp;topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%88%B6%E4%BA%B2%E5%90%90%E6%A7%BD%E6%9C%AC%E7%A7%91%E5%84%BF%E5%A5%B3%E8%BA%BA%E5%B9%B3",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "女子多重伪装盗窃3瓶茅台",
@@ -142,8 +145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "Oner女友社媒晒照,吧友慕了",
@@ -153,8 +156,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "GMM员工锁喉抱摔女粉丝",
@@ -164,8 +167,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "女子隐私照未打码被医美发朋友圈",
