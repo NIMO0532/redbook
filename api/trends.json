@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T09:55:39.799665+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-07-29T13:16:55.093981+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "女子摸田螺溺亡 儿子连扇自己巴掌",
@@ -14,11 +14,26 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 13时16分]"
+        },
+        {
+          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 13时16分]"
         },
         {
           "title": "女子摸田螺溺亡 儿子连扇自己巴掌",
@@ -39,11 +54,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 09时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 13时16分]"
         },
         {
           "title": "男友逼坠楼生还女孩返还恋爱开销",
@@ -57,19 +73,6 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时21分 ~ 09时55分]"
-        },
-        {
-          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[01时21分 ~ 09时55分]"
         },
         {
@@ -173,6 +176,43 @@
           "time_info": "[01时21分 ~ 07时54分]"
         },
         {
+          "title": "美女零元购,爱心冰箱被掏空",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356559&amp;topic_name=%E7%BE%8E%E5%A5%B3%E9%9B%B6%E5%85%83%E8%B4%AD%2C%E7%88%B1%E5%BF%83%E5%86%B0%E7%AE%B1%E8%A2%AB%E6%8E%8F%E7%A9%BA",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 13时16分]"
+        },
+        {
+          "title": "只因赶潮流,作者想要写死女主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356585&amp;topic_name=%E5%8F%AA%E5%9B%A0%E8%B5%B6%E6%BD%AE%E6%B5%81%2C%E4%BD%9C%E8%80%85%E6%83%B3%E8%A6%81%E5%86%99%E6%AD%BB%E5%A5%B3%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 13时16分]"
+        },
+        {
+          "title": "官方通报女生提醒同学别睡觉被老师打",
+          "url": "https://www.toutiao.com/trending/7667760736063684654/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
           "title": "六公主评功夫女足票房破20亿",
           "url": "https://www.douyin.com/hot/2588401",
           "source": "抖音",
@@ -189,28 +229,17 @@
           "time_info": "[01时21分 ~ 09时55分]"
         },
         {
-          "title": "美女零元购,爱心冰箱被掏空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356559&amp;topic_name=%E7%BE%8E%E5%A5%B3%E9%9B%B6%E5%85%83%E8%B4%AD%2C%E7%88%B1%E5%BF%83%E5%86%B0%E7%AE%B1%E8%A2%AB%E6%8E%8F%E7%A9%BA",
-          "source": "贴吧",
+          "title": "独身男子去世弟弟继承房产 侄女起诉",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E8%BA%AB%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E5%BC%9F%E5%BC%9F%E7%BB%A7%E6%89%BF%E6%88%BF%E4%BA%A7+%E4%BE%84%E5%A5%B3%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            15
+            24,
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时21分 ~ 09时55分]"
-        },
-        {
-          "title": "只因赶潮流,作者想要写死女主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356585&amp;topic_name=%E5%8F%AA%E5%9B%A0%E8%B5%B6%E6%BD%AE%E6%B5%81%2C%E4%BD%9C%E8%80%85%E6%83%B3%E8%A6%81%E5%86%99%E6%AD%BB%E5%A5%B3%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 09时55分]"
+          "time_info": "[07时53分 ~ 13时16分]"
         },
         {
           "title": "男童挡电梯20秒等家长女子催促被打",
@@ -226,23 +255,23 @@
           "time_info": "[01时21分 ~ 07时54分]"
         },
         {
+          "title": "女子修手机被店主导出40多张私密照",
+          "url": "https://www.toutiao.com/trending/7667415040820101171/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 13时16分]"
+        },
+        {
           "title": "凤凰女记者：针对泽连斯基对立言论，伊朗内部有三种声音",
           "url": "https://news.ifeng.com/c/8v8XXEIU4dL",
           "source": "凤凰网",
           "ranks": [
             7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 09时55分]"
-        },
-        {
-          "title": "独身男子去世弟弟继承房产 侄女起诉",
-          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E8%BA%AB%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E5%BC%9F%E5%BC%9F%E7%BB%A7%E6%89%BF%E6%88%BF%E4%BA%A7+%E4%BE%84%E5%A5%B3%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            24,
             12
           ],
           "is_new": false,
@@ -276,6 +305,28 @@
           "time_info": "[05时01分 ~ 09时55分]"
         },
         {
+          "title": "女子回应婆婆扔手榴弹模型当柴火",
+          "url": "https://www.toutiao.com/trending/7667761987128213567/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "女子煮饭婆婆扔“手榴弹”当柴火",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%85%AE%E9%A5%AD%E5%A9%86%E5%A9%86%E6%89%94%E2%80%9C%E6%89%8B%E6%A6%B4%E5%BC%B9%E2%80%9D%E5%BD%93%E6%9F%B4%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
           "title": "男友逼坠楼生还女孩返还恋爱开销",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%8F%8B%E9%80%BC%E5%9D%A0%E6%A5%BC%E7%94%9F%E8%BF%98%E5%A5%B3%E5%AD%A9%E8%BF%94%E8%BF%98%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80",
           "source": "百度热搜",
@@ -287,15 +338,15 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
-          "title": "女子修手机被店主导出40多张私密照",
-          "url": "https://www.toutiao.com/trending/7667415040820101171/",
-          "source": "今日头条",
+          "title": "官方通报女生提醒同学勿睡觉被老师打",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E6%8F%90%E9%86%92%E5%90%8C%E5%AD%A6%E5%8B%BF%E7%9D%A1%E8%A7%89%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93",
+          "source": "百度热搜",
           "ranks": [
-            27
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "街道回应男童挡电梯等家长女子催促被打",
@@ -304,9 +355,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "功夫女足20亿解锁周星驰惊喜抖音",
+          "url": "https://www.douyin.com/hot/2588946",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "71岁白冰冰发文怀念女儿",
@@ -315,9 +377,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "戚薇女儿11岁的身高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%A5%B3%E5%84%BF11%E5%B2%81%E7%9A%84%E8%BA%AB%E9%AB%98%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "泰国少女涂黑全身腹痛吓坏旁人",
