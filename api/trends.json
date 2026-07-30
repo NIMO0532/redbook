@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T15:32:02.477475+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-07-30T18:17:28.452822+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "媒体：金正恩女儿亮相朝鲜纪念日活动",
@@ -21,6 +21,20 @@
           "time_info": "[01时07分 ~ 07时56分]"
         },
         {
+          "title": "美女网红遭闺蜜诱骗丧命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356620&amp;topic_name=%E7%BE%8E%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E4%B8%A7%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            13,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 18时17分]"
+        },
+        {
           "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
           "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
           "source": "澎湃新闻",
@@ -34,19 +48,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时07分 ~ 15时31分]"
-        },
-        {
-          "title": "美女网红遭闺蜜诱骗丧命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356620&amp;topic_name=%E7%BE%8E%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E4%B8%A7%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 15时31分]"
         },
         {
           "title": "女子修手机被店主导出40多张私密照",
@@ -75,6 +76,34 @@
           "time_info": "[01时07分 ~ 09时47分]"
         },
         {
+          "title": "网约车父亲吐槽本科儿女躺平",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356604&amp;topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%88%B6%E4%BA%B2%E5%90%90%E6%A7%BD%E6%9C%AC%E7%A7%91%E5%84%BF%E5%A5%B3%E8%BA%BA%E5%B9%B3",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 18时17分]"
+        },
+        {
+          "title": "女子多重伪装盗窃3瓶茅台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356603&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%A4%9A%E9%87%8D%E4%BC%AA%E8%A3%85%E7%9B%97%E7%AA%833%E7%93%B6%E8%8C%85%E5%8F%B0",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            18,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 18时17分]"
+        },
+        {
           "title": "女孩盲道被撞摆拍细节露馅",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%E6%91%86%E6%8B%8D%E7%BB%86%E8%8A%82%E9%9C%B2%E9%A6%85",
           "source": "百度热搜",
@@ -88,32 +117,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时07分 ~ 07时56分]"
-        },
-        {
-          "title": "网约车父亲吐槽本科儿女躺平",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356604&amp;topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%88%B6%E4%BA%B2%E5%90%90%E6%A7%BD%E6%9C%AC%E7%A7%91%E5%84%BF%E5%A5%B3%E8%BA%BA%E5%B9%B3",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 15时31分]"
-        },
-        {
-          "title": "女子多重伪装盗窃3瓶茅台",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356603&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%A4%9A%E9%87%8D%E4%BC%AA%E8%A3%85%E7%9B%97%E7%AA%833%E7%93%B6%E8%8C%85%E5%8F%B0",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 15时31分]"
         },
         {
           "title": "Oner女友社媒晒照,吧友慕了",
@@ -184,6 +187,17 @@
           "time_info": "[01时08分 ~ 09时47分]"
         },
         {
+          "title": "影响上亿女性的病更名了",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E5%93%8D%E4%B8%8A%E4%BA%BF%E5%A5%B3%E6%80%A7%E7%9A%84%E7%97%85%E6%9B%B4%E5%90%8D%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "17岁哥哥考上中科大15岁妹妹考上北大！妹妹：我不是天才少女",
           "url": "https://m.thepaper.cn/newsDetail_forward_33681265",
           "source": "澎湃新闻",
@@ -194,6 +208,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时46分 ~ 15时31分]"
+        },
+        {
+          "title": "做夏日奶油风女孩",
+          "url": "https://www.douyin.com/hot/2590306",
+          "source": "抖音",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 18时17分]"
         },
         {
           "title": "女子隐私照未打码被医美发朋友圈",
@@ -220,6 +246,19 @@
           "time_info": "[12时52分 ~ 15时31分]"
         },
         {
+          "title": "天才女友定档0802",
+          "url": "https://www.douyin.com/hot/2590177",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 18时17分]"
+        },
+        {
           "title": "《功夫女足》在表达什么",
           "url": "https://www.toutiao.com/trending/7667446932851556406/",
           "source": "今日头条",
@@ -231,16 +270,16 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
-          "title": "天才女友定档0802",
-          "url": "https://www.douyin.com/hot/2590177",
-          "source": "抖音",
+          "title": "印籍瑜伽教练偷拍女学员",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356636&amp;topic_name=%E5%8D%B0%E7%B1%8D%E7%91%9C%E4%BC%BD%E6%95%99%E7%BB%83%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%AD%A6%E5%91%98",
+          "source": "贴吧",
           "ranks": [
-            13,
-            14
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时31分]"
+          "time_info": "[15时31分 ~ 18时17分]"
         },
         {
           "title": "休假消防员察觉女子状态异常默默守护",
@@ -276,6 +315,17 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
+          "title": "马戏团女演员表演时坠落幸无大碍",
+          "url": "https://www.toutiao.com/trending/7667863651386966042/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
           "title": "女孩摆拍盲道被撞细节曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%91%86%E6%8B%8D%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -286,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 05时53分]"
+        },
+        {
+          "title": "“亚洲女飞人”韦永丽步入婚姻殿堂",
+          "url": "https://www.toutiao.com/trending/7668122828864815123/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "钟丽缇女儿18岁生日 继父送《民法典》",
@@ -310,15 +371,15 @@
           "time_info": "12时52分"
         },
         {
-          "title": "印籍瑜伽教练偷拍女学员",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356636&amp;topic_name=%E5%8D%B0%E7%B1%8D%E7%91%9C%E4%BC%BD%E6%95%99%E7%BB%83%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%AD%A6%E5%91%98",
-          "source": "贴吧",
+          "title": "女儿把离异妈妈培养成网红",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8A%8A%E7%A6%BB%E5%BC%82%E5%A6%88%E5%A6%88%E5%9F%B9%E5%85%BB%E6%88%90%E7%BD%91%E7%BA%A2%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时31分"
+          "time_info": "18时17分"
         },
         {
           "title": "女子试衣被店员掀帘走光 负责人道歉",
@@ -330,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        },
-        {
-          "title": "做夏日奶油风女孩",
-          "url": "https://www.douyin.com/hot/2590306",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "丈夫与女子开房 妻子报假警被罚",
@@ -365,6 +415,28 @@
           "time_info": "01时08分"
         },
         {
+          "title": "爸爸备孕第三者女儿成绩一路下滑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%A4%87%E5%AD%95%E7%AC%AC%E4%B8%89%E8%80%85%E5%A5%B3%E5%84%BF%E6%88%90%E7%BB%A9%E4%B8%80%E8%B7%AF%E4%B8%8B%E6%BB%91%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "官配变同事,fgo玛修进阶大女主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356642&amp;topic_name=%E5%AE%98%E9%85%8D%E5%8F%98%E5%90%8C%E4%BA%8B%2Cfgo%E7%8E%9B%E4%BF%AE%E8%BF%9B%E9%98%B6%E5%A4%A7%E5%A5%B3%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "天才女友定档",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -382,7 +454,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
