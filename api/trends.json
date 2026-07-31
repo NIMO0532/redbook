@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-08-01T01:27:49.379539+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-01T03:13:51.966171+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "消防回应火灾母女坠楼 还原救援过程",
           "url": "https://www.toutiao.com/trending/7668677068208475694/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
-        },
-        {
-          "title": "火灾母女坠楼事发小区居民发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%E4%BA%8B%E5%8F%91%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时13分]"
         },
         {
           "title": "连云港消防回应火灾母女坠楼",
@@ -37,8 +27,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时13分]"
+        },
+        {
+          "title": "火灾母女坠楼事发小区居民发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%E4%BA%8B%E5%8F%91%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 03时13分]"
         },
         {
           "title": "1988元可抱抱亲亲，其他服务可与伴漂女子详谈？贵州贵定县文旅局通报",
@@ -48,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时13分]"
         },
         {
           "title": "连云港一小区发生火灾母女两人不幸坠楼，相关部门还原救援过程",
@@ -59,19 +61,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时13分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
           "url": "https://www.toutiao.com/trending/7668540826486865930/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时13分]"
         },
         {
           "title": "火灾母女坠落时撞到挑檐未被接住",
@@ -81,19 +84,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时13分]"
         },
         {
           "title": "女子通过婚介所相亲 连遇2名已婚男",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87%E5%A9%9A%E4%BB%8B%E6%89%80%E7%9B%B8%E4%BA%B2+%E8%BF%9E%E9%81%872%E5%90%8D%E5%B7%B2%E5%A9%9A%E7%94%B7",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时13分]"
         },
         {
           "title": "连云港消防回应火灾母女坠楼",
@@ -102,9 +106,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时13分]"
         },
         {
           "title": "小区火灾,母女窗外避险坠楼",
@@ -113,20 +117,56 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时13分]"
         },
         {
           "title": "胡锡进谈连云港火灾母女坠楼事件",
           "url": "https://www.douyin.com/hot/2592660",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时13分]"
+        },
+        {
+          "title": "被安排冥婚女星26岁时自杀身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%89%E6%8E%92%E5%86%A5%E5%A9%9A%E5%A5%B3%E6%98%9F26%E5%B2%81%E6%97%B6%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时13分]"
+        },
+        {
+          "title": "杨幂百花奖史上第一位女配双提名",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E9%85%8D%E5%8F%8C%E6%8F%90%E5%90%8D%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时13分]"
+        },
+        {
+          "title": "业内人士谈连云港母女坠楼消防救援",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%E6%B6%88%E9%98%B2%E6%95%91%E6%8F%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
         },
         {
           "title": "如何看待 2026 年 7 月米哈游《原神》7.0 至冬预告：所有坎瑞亚人都是冰之女皇的后裔？",
@@ -135,29 +175,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "杨幂百花奖史上第一位女配双提名",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E9%85%8D%E5%8F%8C%E6%8F%90%E5%90%8D%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "被安排冥婚女星26岁时自杀身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%89%E6%8E%92%E5%86%A5%E5%A9%9A%E5%A5%B3%E6%98%9F26%E5%B2%81%E6%97%B6%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -168,7 +186,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         }
