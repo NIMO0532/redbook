@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T19:25:07.272610+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-07-31T21:47:35.054909+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 47,
+      "match_count": 56,
       "titles": [
         {
           "title": "印籍瑜伽教练偷拍女学员",
@@ -24,11 +24,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%89%9B%E9%92%A2%E7%AE%A1+%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时47分]"
         },
         {
           "title": "女子被公公强奸丈夫称父亲喝醉了",
@@ -51,6 +52,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "连云港消防回应火灾母女坠楼",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "1988元可抱抱亲亲，其他服务可与伴漂女子详谈？贵州贵定县文旅局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688580",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 21时47分]"
         },
         {
           "title": "李小璐与女儿甜馨聊择偶观",
@@ -95,7 +119,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -117,7 +141,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -184,15 +208,16 @@
           "time_info": "[13时58分 ~ 16时52分]"
         },
         {
-          "title": "1988元可抱抱亲亲，其他服务可与伴漂女子详谈？贵州贵定县文旅局通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688580",
-          "source": "澎湃新闻",
+          "title": "男子用私密视频勒索前女友50多次获刑",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%8B%92%E7%B4%A2%E5%89%8D%E5%A5%B3%E5%8F%8B50%E5%A4%9A%E6%AC%A1%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时24分]"
+          "time_info": "[19时23分 ~ 21时47分]"
         },
         {
           "title": "女子手机遭远程操控转账 民警拔卡",
@@ -219,6 +244,19 @@
           "time_info": "[16时51分 ~ 19时24分]"
         },
         {
+          "title": "小区火灾,母女窗外避险坠楼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356676&amp;topic_name=%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%2C%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E5%9D%A0%E6%A5%BC",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 21时47分]"
+        },
+        {
           "title": "重庆一女子用截图假装支付买肠粉",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A5%B3%E5%AD%90%E7%94%A8%E6%88%AA%E5%9B%BE%E5%81%87%E8%A3%85%E6%94%AF%E4%BB%98%E4%B9%B0%E8%82%A0%E7%B2%89",
           "source": "百度热搜",
@@ -243,16 +281,26 @@
           "time_info": "[01时18分 ~ 07时57分]"
         },
         {
-          "title": "小区火灾,母女窗外避险坠楼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356676&amp;topic_name=%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%2C%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E5%9D%A0%E6%A5%BC",
-          "source": "贴吧",
+          "title": "女孩大学毕业照顾渐冻症母亲三年",
+          "url": "https://www.toutiao.com/trending/7668573711687565331/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时52分 ~ 19时24分]"
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "连云港消防回应火灾母女坠楼",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "女警撞脸邱淑贞走红 本人回应",
@@ -264,6 +312,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "保时捷女销冠已向法院立案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E5%B7%B2%E5%90%91%E6%B3%95%E9%99%A2%E7%AB%8B%E6%A1%88%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 21时47分]"
         },
         {
           "title": "女子做检查身亡 丈夫称麻醉师玩手机",
@@ -311,17 +370,6 @@
           "time_info": "[13时58分 ~ 13时59分]"
         },
         {
-          "title": "男子用私密视频勒索前女友50多次获刑",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%8B%92%E7%B4%A2%E5%89%8D%E5%A5%B3%E5%8F%8B50%E5%A4%9A%E6%AC%A1%E8%8E%B7%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
-        },
-        {
           "title": "美国吸毒女子像虫子一样在地上蠕动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%B8%E6%AF%92%E5%A5%B3%E5%AD%90%E5%83%8F%E8%99%AB%E5%AD%90%E4%B8%80%E6%A0%B7%E5%9C%A8%E5%9C%B0%E4%B8%8A%E8%A0%95%E5%8A%A8%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -354,6 +402,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "“丑萌”女孩成商场“爆单王”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%91%E8%90%8C%E2%80%9D%E5%A5%B3%E5%AD%A9%E6%88%90%E5%95%86%E5%9C%BA%E2%80%9C%E7%88%86%E5%8D%95%E7%8E%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "女子高热不退竟是“虫子”作祟",
@@ -422,6 +481,17 @@
           "time_info": "[13时58分 ~ 13时59分]"
         },
         {
+          "title": "22岁女子南太行独自游玩失联超4天",
+          "url": "https://www.toutiao.com/trending/7668480752690053161/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
           "title": "首批驻港女兵变武汉社区民警",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9%E9%A9%BB%E6%B8%AF%E5%A5%B3%E5%85%B5%E5%8F%98%E6%AD%A6%E6%B1%89%E7%A4%BE%E5%8C%BA%E6%B0%91%E8%AD%A6",
           "source": "百度热搜",
@@ -431,6 +501,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "22岁女孩南太行独自游玩失联超4天",
+          "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%97%E5%A4%AA%E8%A1%8C%E7%8B%AC%E8%87%AA%E6%B8%B8%E7%8E%A9%E5%A4%B1%E8%81%94%E8%B6%854%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "官方回应领导私联医生查女员工病情",
@@ -444,6 +525,17 @@
           "time_info": "[13时58分 ~ 13时59分]"
         },
         {
+          "title": "火灾坠楼女童母亲39岁才将其生下",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%81%BE%E5%9D%A0%E6%A5%BC%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B239%E5%B2%81%E6%89%8D%E5%B0%86%E5%85%B6%E7%94%9F%E4%B8%8B%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "医生称多囊卵巢综合征名字害惨女性",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%90%8D%E5%AD%97%E5%AE%B3%E6%83%A8%E5%A5%B3%E6%80%A7%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -453,17 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
-        },
-        {
-          "title": "保时捷女销冠已向法院立案",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E5%B7%B2%E5%90%91%E6%B3%95%E9%99%A2%E7%AB%8B%E6%A1%88%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "男子健身房被女生当众指控偷拍",
@@ -494,7 +575,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -505,7 +586,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -521,15 +602,37 @@
           "time_info": "06时08分"
         },
         {
+          "title": "杨迪也演天才女友了吗",
+          "url": "https://www.douyin.com/hot/2592424",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "鬼鬼谈女儿哽咽落泪",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AC%BC%E9%AC%BC%E8%B0%88%E5%A5%B3%E5%84%BF%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "业内人士谈连云港母女坠楼消防救援",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%E6%B6%88%E9%98%B2%E6%95%91%E6%8F%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "女子做气管镜身亡家属质疑操作违规",
