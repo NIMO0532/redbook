@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T04:10:31.058920+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-08-02T05:47:26.977804+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“离地三尺 不分男女”",
@@ -15,19 +15,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 05时47分]"
         },
         {
-          "title": "五女合考科举,剧情太难绷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356708&amp;topic_name=%E4%BA%94%E5%A5%B3%E5%90%88%E8%80%83%E7%A7%91%E4%B8%BE%2C%E5%89%A7%E6%83%85%E5%A4%AA%E9%9A%BE%E7%BB%B7",
-          "source": "贴吧",
+          "title": "出生时被抱错两女子错换37年人生",
+          "url": "https://www.toutiao.com/trending/7668972744050081833/",
+          "source": "今日头条",
           "ranks": [
-            3
+            10,
+            14,
+            16,
+            19,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 05时47分]"
         },
         {
           "title": "女生老拉肚子发现吸管内壁全是污垢",
@@ -39,22 +43,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 05时47分]"
         },
         {
-          "title": "出生时被抱错两女子错换37年人生",
-          "url": "https://www.toutiao.com/trending/7668972744050081833/",
-          "source": "今日头条",
+          "title": "陈小春：我是青岛女婿",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%B0%8F%E6%98%A5%EF%BC%9A%E6%88%91%E6%98%AF%E9%9D%92%E5%B2%9B%E5%A5%B3%E5%A9%BF",
+          "source": "百度热搜",
           "ranks": [
-            10,
+            28,
+            17,
             14,
             16,
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 05时47分]"
         },
         {
           "title": "男子明知女方是军嫂仍同居 获刑两年",
@@ -66,22 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时10分]"
-        },
-        {
-          "title": "陈小春：我是青岛女婿",
-          "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%B0%8F%E6%98%A5%EF%BC%9A%E6%88%91%E6%98%AF%E9%9D%92%E5%B2%9B%E5%A5%B3%E5%A9%BF",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            17,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 05时47分]"
         },
         {
           "title": "外国女足球员试图进入西班牙飞地身亡",
@@ -94,8 +85,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 05时47分]"
+        },
+        {
+          "title": "五女合考科举,剧情太难绷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356708&amp;topic_name=%E4%BA%94%E5%A5%B3%E5%90%88%E8%80%83%E7%A7%91%E4%B8%BE%2C%E5%89%A7%E6%83%85%E5%A4%AA%E9%9A%BE%E7%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时47分]"
         },
         {
           "title": "女子住酒店退房时顺走毛巾浴巾",
@@ -104,11 +106,12 @@
           "ranks": [
             22,
             19,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时47分]"
         },
         {
           "title": "女子就餐吃到蟑螂 2小时后上吐下泻",
@@ -124,6 +127,31 @@
           "time_info": "[00时52分 ~ 02时59分]"
         },
         {
+          "title": "房主任母女关系",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%AF%8D%E5%A5%B3%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时47分]"
+        },
+        {
+          "title": "子女建养老小院让叔伯遗孀组团养老",
+          "url": "https://www.toutiao.com/trending/7668970700526469163/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 05时47分]"
+        },
+        {
           "title": "家长带男童进女更衣室还语出惊人",
           "url": "https://www.toutiao.com/trending/7668923658442358826/",
           "source": "今日头条",
@@ -136,17 +164,16 @@
           "time_info": "[01时55分 ~ 04时10分]"
         },
         {
-          "title": "房主任母女关系",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%AF%8D%E5%A5%B3%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "外国女运动员试图进入西班牙飞地身亡",
+          "url": "https://www.toutiao.com/trending/7668854226961334313/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            10,
-            15
+            13,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时10分]"
+          "time_info": "[02时58分 ~ 05时47分]"
         },
         {
           "title": "出生时被抱错两女子错换37年人生",
@@ -160,28 +187,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时59分]"
-        },
-        {
-          "title": "子女建养老小院让叔伯遗孀组团养老",
-          "url": "https://www.toutiao.com/trending/7668970700526469163/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 04时10分]"
-        },
-        {
-          "title": "外国女运动员试图进入西班牙飞地身亡",
-          "url": "https://www.toutiao.com/trending/7668854226961334313/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "杨迪真被天才女友cue来了",
@@ -207,13 +212,24 @@
           "time_info": "00时53分"
         },
         {
+          "title": "患癌女子丈夫婚外胚胎可封存30年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%82%A3%E7%99%8C%E5%A5%B3%E5%AD%90%E4%B8%88%E5%A4%AB%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E5%8F%AF%E5%B0%81%E5%AD%9830%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
           "title": "被裁掉的女孩第二季更新了",
           "url": "https://www.douyin.com/hot/2593686",
           "source": "抖音",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         }
