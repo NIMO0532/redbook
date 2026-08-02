@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T18:29:08.093684+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-08-02T19:57:13.651421+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "“离地三尺 不分男女”",
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 19时56分]"
         },
         {
           "title": "出生时被抱错两女子错换37年人生",
@@ -109,6 +109,30 @@
           "time_info": "[00时52分 ~ 06时47分]"
         },
         {
+          "title": "00后运20女飞：离地三尺不分男女",
+          "url": "https://www.toutiao.com/trending/7669241153266437670/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时48分 ~ 19时56分]"
+        },
+        {
+          "title": "不甘心10年前电动车被偷，住别墅开豪车女子当街偷电动车",
+          "url": "https://news.ifeng.com/c/8vFm8oefWw3",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 19时56分]"
+        },
+        {
           "title": "女子住酒店退房时顺走毛巾浴巾",
           "url": "https://www.toutiao.com/trending/7668898385999429695/",
           "source": "今日头条",
@@ -123,19 +147,6 @@
           "time_info": "[00时52分 ~ 05时47分]"
         },
         {
-          "title": "00后运20女飞：离地三尺不分男女",
-          "url": "https://www.toutiao.com/trending/7669241153266437670/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 18时28分]"
-        },
-        {
           "title": "子女建养老小院让叔伯遗孀组团养老",
           "url": "https://www.toutiao.com/trending/7668970700526469163/",
           "source": "今日头条",
@@ -148,6 +159,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时09分 ~ 07时51分]"
+        },
+        {
+          "title": "女子被狗咬伤腿部，数日后因颅脑损伤离世，丈夫向狗主人索赔？",
+          "url": "https://news.ifeng.com/c/8vEy2GRPhky",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时48分 ~ 19时56分]"
         },
         {
           "title": "家长带男童进女更衣室还语出惊人",
@@ -178,26 +200,29 @@
           "time_info": "[00时53分 ~ 07时51分]"
         },
         {
-          "title": "不甘心10年前电动车被偷，住别墅开豪车女子当街偷电动车",
-          "url": "https://news.ifeng.com/c/8vFm8oefWw3",
-          "source": "凤凰网",
+          "title": "牧神记厉天行逐梦女皇帝",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            2,
+            5,
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 19时56分]"
         },
         {
-          "title": "女子被狗咬伤腿部，数日后因颅脑损伤离世，丈夫向狗主人索赔？",
-          "url": "https://news.ifeng.com/c/8vEy2GRPhky",
-          "source": "凤凰网",
+          "title": "女儿考上北大闪送员请路人喝水",
+          "url": "https://www.toutiao.com/trending/7669319945163882534/",
+          "source": "今日头条",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 18时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "父亲出轨试管备孕女儿仍考上一本",
@@ -209,19 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "牧神记厉天行逐梦女皇帝",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 18时28分]"
         },
         {
           "title": "外国女运动员试图进入西班牙飞地身亡",
@@ -261,6 +273,18 @@
           "time_info": "10时02分"
         },
         {
+          "title": "女孩截图假付款",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%88%AA%E5%9B%BE%E5%81%87%E4%BB%98%E6%AC%BE&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 19时56分]"
+        },
+        {
           "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
           "url": "https://www.zhihu.com/question/2066617997154677677",
           "source": "知乎",
@@ -271,18 +295,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时51分 ~ 18时28分]"
-        },
-        {
-          "title": "女孩截图假付款",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%88%AA%E5%9B%BE%E5%81%87%E4%BB%98%E6%AC%BE&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 18时28分]"
         },
         {
           "title": "婚外胚胎案当事人女儿刚考上一本",
@@ -309,6 +321,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时53分 ~ 13时49分]"
+        },
+        {
+          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
+          "url": "https://www.zhihu.com/question/2067018457934197978",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 19时56分]"
+        },
+        {
+          "title": "天才女友开播",
+          "url": "https://www.douyin.com/hot/2594208",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 19时56分]"
         },
         {
           "title": "代入房主任女儿视角真的好崩溃",
@@ -347,28 +383,27 @@
           "time_info": "[00时53分 ~ 02时59分]"
         },
         {
-          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
-          "url": "https://www.zhihu.com/question/2067018457934197978",
-          "source": "知乎",
+          "title": "官方辟谣女子酒店退房搬空用品",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时49分 ~ 18时28分]"
+          "time_info": "[18时27分 ~ 19时56分]"
         },
         {
-          "title": "天才女友开播",
-          "url": "https://www.douyin.com/hot/2594208",
-          "source": "抖音",
+          "title": "地铁吐血女孩为嫣然基金捐99999元",
+          "url": "https://www.toutiao.com/trending/7668936739700359174/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            14
+            12,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时49分 ~ 18时28分]"
+          "time_info": "[18时27分 ~ 19时56分]"
         },
         {
           "title": "女儿说房主任愧疚式教育",
@@ -383,26 +418,16 @@
           "time_info": "[07时51分 ~ 10时02分]"
         },
         {
-          "title": "官方辟谣女子酒店退房搬空用品",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
-          "source": "百度热搜",
+          "title": "王鹤棣没有让女人空手而归的义务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B2%A1%E6%9C%89%E8%AE%A9%E5%A5%B3%E4%BA%BA%E7%A9%BA%E6%89%8B%E8%80%8C%E5%BD%92%E7%9A%84%E4%B9%89%E5%8A%A1%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            15,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
-          "title": "地铁吐血女孩为嫣然基金捐99999元",
-          "url": "https://www.toutiao.com/trending/7668936739700359174/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "time_info": "[18时28分 ~ 19时56分]"
         },
         {
           "title": "患癌女子丈夫婚外胚胎可封存30年",
@@ -417,6 +442,18 @@
           "time_info": "[05时47分 ~ 06时47分]"
         },
         {
+          "title": "房主任谈再婚被女儿怼",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%B0%88%E5%86%8D%E5%A9%9A%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%80%BC%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时56分]"
+        },
+        {
           "title": "官方辟谣女子酒店退房搬空用品",
           "url": "https://www.toutiao.com/trending/7668967824806903858/",
           "source": "今日头条",
@@ -426,6 +463,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "罗正 前女友",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%20%E5%89%8D%E5%A5%B3%E5%8F%8B&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时56分]"
         },
         {
           "title": "杨迪真被天才女友cue来了",
@@ -490,18 +538,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "王鹤棣没有让女人空手而归的义务",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B2%A1%E6%9C%89%E8%AE%A9%E5%A5%B3%E4%BA%BA%E7%A9%BA%E6%89%8B%E8%80%8C%E5%BD%92%E7%9A%84%E4%B9%89%E5%8A%A1%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -517,17 +554,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "房主任谈再婚被女儿怼",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%B0%88%E5%86%8D%E5%A9%9A%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%80%BC%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "天才女友 AI片头",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -537,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "嗑上天才女友这对权威智性恋",
+          "url": "https://www.douyin.com/hot/2594742",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "母女坠楼小区消防占道车辆已移除",
@@ -561,24 +598,13 @@
           "time_info": "16时10分"
         },
         {
-          "title": "罗正 前女友",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%20%E5%89%8D%E5%A5%B3%E5%8F%8B&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "母亲把女儿当情绪垃圾桶",
           "url": "https://s.weibo.com/weibo?q=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E5%A5%B3%E5%84%BF%E5%BD%93%E6%83%85%E7%BB%AA%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -589,9 +615,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "沈阳文旅为宣传家乡的女孩颁奖",
+          "url": "https://www.toutiao.com/trending/7669361582425882674/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "被裁掉的女孩第二季更新了",
