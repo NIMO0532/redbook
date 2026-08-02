@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T21:08:57.347438+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-08-02T22:56:57.633672+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "“离地三尺 不分男女”",
@@ -27,11 +27,27 @@
             3,
             9,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 21时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 22时56分]"
+        },
+        {
+          "title": "00后运20女飞：离地三尺不分男女",
+          "url": "https://www.toutiao.com/trending/7669241153266437670/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9,
+            16,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时48分 ~ 22时56分]"
         },
         {
           "title": "出生时被抱错两女子错换37年人生",
@@ -49,20 +65,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时52分 ~ 13时49分]"
-        },
-        {
-          "title": "00后运20女飞：离地三尺不分男女",
-          "url": "https://www.toutiao.com/trending/7669241153266437670/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 21时08分]"
         },
         {
           "title": "女生老拉肚子发现吸管内壁全是污垢",
@@ -166,11 +168,12 @@
             2,
             5,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 21时08分]"
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 22时56分]"
         },
         {
           "title": "子女建养老小院让叔伯遗孀组团养老",
@@ -215,6 +218,30 @@
           "time_info": "[00时53分 ~ 07时51分]"
         },
         {
+          "title": "官方辟谣女子酒店退房搬空用品",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 22时56分]"
+        },
+        {
+          "title": "女儿考上北大闪送员请路人喝水",
+          "url": "https://www.toutiao.com/trending/7669319945163882534/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时56分 ~ 22时56分]"
+        },
+        {
           "title": "父亲出轨试管备孕女儿仍考上一本",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E8%AF%95%E7%AE%A1%E5%A4%87%E5%AD%95%E5%A5%B3%E5%84%BF%E4%BB%8D%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -239,6 +266,18 @@
           "time_info": "[02时58分 ~ 06时47分]"
         },
         {
+          "title": "天才女友开播",
+          "url": "https://www.douyin.com/hot/2594208",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 22时56分]"
+        },
+        {
           "title": "女子就餐吃到蟑螂 2小时后上吐下泻",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E5%90%83%E5%88%B0%E8%9F%91%E8%9E%82+2%E5%B0%8F%E6%97%B6%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB",
           "source": "百度热搜",
@@ -250,18 +289,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 02时59分]"
-        },
-        {
-          "title": "女儿考上北大闪送员请路人喝水",
-          "url": "https://www.toutiao.com/trending/7669319945163882534/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时56分 ~ 21时08分]"
         },
         {
           "title": "女子退房把酒店用品搬空只剩电视",
@@ -285,17 +312,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时10分 ~ 19时56分]"
-        },
-        {
-          "title": "官方辟谣女子酒店退房搬空用品",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 21时08分]"
         },
         {
           "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
@@ -333,18 +349,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时51分 ~ 18时28分]"
-        },
-        {
-          "title": "天才女友开播",
-          "url": "https://www.douyin.com/hot/2594208",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 21时08分]"
         },
         {
           "title": "婚外胚胎案当事人女儿刚考上一本",
@@ -385,6 +389,29 @@
           "time_info": "[13时48分 ~ 16时10分]"
         },
         {
+          "title": "女儿考上北大 闪送员请路人喝水",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E9%97%AA%E9%80%81%E5%91%98%E8%AF%B7%E8%B7%AF%E4%BA%BA%E5%96%9D%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 22时56分]"
+        },
+        {
+          "title": "“共享儿女”“外包儿女”服务兴起",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%E2%80%9C%E5%A4%96%E5%8C%85%E5%84%BF%E5%A5%B3%E2%80%9D%E6%9C%8D%E5%8A%A1%E5%85%B4%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 22时56分]"
+        },
+        {
           "title": "赣超女教练回应被称“灭绝师太”",
           "url": "https://www.baidu.com/s?wd=%E8%B5%A3%E8%B6%85%E5%A5%B3%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A7%B0%E2%80%9C%E7%81%AD%E7%BB%9D%E5%B8%88%E5%A4%AA%E2%80%9D",
           "source": "百度热搜",
@@ -407,6 +434,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时59分]"
+        },
+        {
+          "title": "嗑上天才女友这对权威智性恋",
+          "url": "https://www.douyin.com/hot/2594742",
+          "source": "抖音",
+          "ranks": [
+            22,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时56分]"
+        },
+        {
+          "title": "专访《功夫女足》联合导演林子聪",
+          "url": "https://www.toutiao.com/trending/7668583830472851465/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "女孩咳嗽三年不愈 肺部藏着塑料笔帽",
+          "url": "https://www.toutiao.com/trending/7669332549780439059/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "女儿说房主任愧疚式教育",
@@ -457,29 +519,6 @@
           "time_info": "[18时28分 ~ 19时56分]"
         },
         {
-          "title": "“共享儿女”“外包儿女”服务兴起",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%E2%80%9C%E5%A4%96%E5%8C%85%E5%84%BF%E5%A5%B3%E2%80%9D%E6%9C%8D%E5%8A%A1%E5%85%B4%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
-          "title": "嗑上天才女友这对权威智性恋",
-          "url": "https://www.douyin.com/hot/2594742",
-          "source": "抖音",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时08分]"
-        },
-        {
           "title": "官方辟谣女子酒店退房搬空用品",
           "url": "https://www.toutiao.com/trending/7668967824806903858/",
           "source": "今日头条",
@@ -523,17 +562,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 06时47分]"
-        },
-        {
-          "title": "女儿考上北大 闪送员请路人喝水",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E9%97%AA%E9%80%81%E5%91%98%E8%AF%B7%E8%B7%AF%E4%BA%BA%E5%96%9D%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "家长带男童进女更衣室还语出惊人",
@@ -580,6 +608,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "女子花10万请明星带货仅卖出1单",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B110%E4%B8%87%E8%AF%B7%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E4%BB%85%E5%8D%96%E5%87%BA1%E5%8D%95%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "谢贤前女友CoCo直播回应与张柏芝关系",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B4%A4%E5%89%8D%E5%A5%B3%E5%8F%8BCoCo%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%85%B3%E7%B3%BB%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -589,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "HYBE新女团TUIDE公开",
+          "url": "https://s.weibo.com/weibo?q=HYBE%E6%96%B0%E5%A5%B3%E5%9B%A2TUIDE%E5%85%AC%E5%BC%80&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "天才女友 AI片头",
@@ -608,7 +658,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -655,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "HYBE新女团TUIDE公开",
+          "url": "https://www.douyin.com/hot/2595051",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "沈阳文旅为宣传家乡的女孩颁奖",
