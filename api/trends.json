@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-03T06:48:55.599015+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-08-03T07:53:35.708072+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "网友吐槽天才女友女主四败爱因斯坦",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E5%A5%B3%E4%B8%BB%E5%9B%9B%E8%B4%A5%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时48分]"
-        },
         {
           "title": "专访《功夫女足》联合导演林子聪",
           "url": "https://www.toutiao.com/trending/7668583830472851465/",
@@ -27,8 +15,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 07时52分]"
+        },
+        {
+          "title": "网友吐槽天才女友女主四败爱因斯坦",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E5%A5%B3%E4%B8%BB%E5%9B%9B%E8%B4%A5%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时52分]"
         },
         {
           "title": "闪送员女儿考上北大 平台：学费我们管",
@@ -39,11 +40,12 @@
             13,
             15,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 07时52分]"
         },
         {
           "title": "00后运20女飞：离地三尺不分男女",
@@ -55,8 +57,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 07时52分]"
         },
         {
           "title": "官方辟谣女子酒店退房搬空用品",
@@ -66,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 07时52分]"
         },
         {
           "title": "女子花10万请明星带货仅卖出1单",
@@ -80,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时52分]"
         },
         {
           "title": "女儿考上北大闪送员请路人喝水",
@@ -90,11 +92,12 @@
           "ranks": [
             30,
             28,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时00分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时00分 ~ 07时52分]"
         },
         {
           "title": "嗑上天才女友这对权威智性恋",
@@ -104,11 +107,12 @@
             19,
             15,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时52分]"
         },
         {
           "title": "牧神记厉天行逐梦女皇帝",
@@ -121,8 +125,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时52分]"
         },
         {
           "title": "五女合考科举,剧情太难绷",
@@ -133,8 +137,23 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时52分]"
+        },
+        {
+          "title": "出轨丈夫明确拒绝支付女儿抚养费",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E6%98%8E%E7%A1%AE%E6%8B%92%E7%BB%9D%E6%94%AF%E4%BB%98%E5%A5%B3%E5%84%BF%E6%8A%9A%E5%85%BB%E8%B4%B9%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20,
+            15,
+            12,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "time_info": "[01时56分 ~ 07时52分]"
         },
         {
           "title": "地铁吐血女孩为嫣然基金捐99999元",
@@ -149,20 +168,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 04时44分]"
-        },
-        {
-          "title": "出轨丈夫明确拒绝支付女儿抚养费",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E6%98%8E%E7%A1%AE%E6%8B%92%E7%BB%9D%E6%94%AF%E4%BB%98%E5%A5%B3%E5%84%BF%E6%8A%9A%E5%85%BB%E8%B4%B9%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            20,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 06时48分]"
         },
         {
           "title": "HYBE新女团TUIDE公开",
@@ -229,6 +234,17 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
+          "title": "日本知名女星川口春奈宣布结婚",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E5%A5%B3%E6%98%9F%E5%B7%9D%E5%8F%A3%E6%98%A5%E5%A5%88%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "HYBE新女团TUIDE公开",
           "url": "https://s.weibo.com/weibo?q=HYBE%E6%96%B0%E5%A5%B3%E5%9B%A2TUIDE%E5%85%AC%E5%BC%80&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -261,11 +277,12 @@
           "url": "https://www.douyin.com/hot/2593789",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 07时52分]"
         }
       ]
     }
