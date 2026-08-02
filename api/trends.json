@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T00:54:53.353941+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-03T01:57:26.256180+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "网友吐槽天才女友女主四败爱因斯坦",
@@ -14,9 +14,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时56分]"
+        },
+        {
+          "title": "女子花10万请明星带货仅卖出1单",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B110%E4%B8%87%E8%AF%B7%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E4%BB%85%E5%8D%96%E5%87%BA1%E5%8D%95%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时56分]"
         },
         {
           "title": "专访《功夫女足》联合导演林子聪",
@@ -26,8 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时56分]"
+        },
+        {
+          "title": "00后运20女飞：离地三尺不分男女",
+          "url": "https://www.toutiao.com/trending/7669241153266437670/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时56分]"
         },
         {
           "title": "官方辟谣女子酒店退房搬空用品",
@@ -37,30 +61,90 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时56分]"
         },
         {
           "title": "闪送员女儿考上北大 平台：学费我们管",
           "url": "https://www.baidu.com/s?wd=%E9%97%AA%E9%80%81%E5%91%98%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%B9%B3%E5%8F%B0%EF%BC%9A%E5%AD%A6%E8%B4%B9%E6%88%91%E4%BB%AC%E7%AE%A1",
           "source": "百度热搜",
           "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时56分]"
+        },
+        {
+          "title": "地铁吐血女孩为嫣然基金捐99999元",
+          "url": "https://www.toutiao.com/trending/7668936739700359174/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时56分]"
+        },
+        {
+          "title": "牧神记厉天行逐梦女皇帝",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "time_info": "[00时54分 ~ 01时56分]"
         },
         {
-          "title": "00后运20女飞：离地三尺不分男女",
-          "url": "https://www.toutiao.com/trending/7669241153266437670/",
-          "source": "今日头条",
+          "title": "五女合考科举,剧情太难绷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356708&amp;topic_name=%E4%BA%94%E5%A5%B3%E5%90%88%E8%80%83%E7%A7%91%E4%B8%BE%2C%E5%89%A7%E6%83%85%E5%A4%AA%E9%9A%BE%E7%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时56分]"
+        },
+        {
+          "title": "嗑上天才女友这对权威智性恋",
+          "url": "https://www.douyin.com/hot/2594742",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时56分]"
+        },
+        {
+          "title": "《蜘蛛侠：崭新之日》里的凤凰女战斗力如何？",
+          "url": "https://www.zhihu.com/question/2065932615065063623",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "time_info": "[00时54分 ~ 01时56分]"
+        },
+        {
+          "title": "1岁女童12号染色体缺失体重仅8斤",
+          "url": "https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A5%B3%E7%AB%A512%E5%8F%B7%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%E4%BD%93%E9%87%8D%E4%BB%858%E6%96%A4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时56分]"
         },
         {
           "title": "女孩咳嗽三年不愈 肺部藏着塑料笔帽",
@@ -74,48 +158,15 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "地铁吐血女孩为嫣然基金捐99999元",
-          "url": "https://www.toutiao.com/trending/7668936739700359174/",
-          "source": "今日头条",
+          "title": "HYBE新女团TUIDE公开",
+          "url": "https://www.douyin.com/hot/2595051",
+          "source": "抖音",
           "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
-        },
-        {
-          "title": "女子花10万请明星带货仅卖出1单",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B110%E4%B8%87%E8%AF%B7%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E4%BB%85%E5%8D%96%E5%87%BA1%E5%8D%95%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "五女合考科举,剧情太难绷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356708&amp;topic_name=%E4%BA%94%E5%A5%B3%E5%90%88%E8%80%83%E7%A7%91%E4%B8%BE%2C%E5%89%A7%E6%83%85%E5%A4%AA%E9%9A%BE%E7%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "牧神记厉天行逐梦女皇帝",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "[00时54分 ~ 01时56分]"
         },
         {
           "title": "HYBE新女团TUIDE公开",
@@ -124,53 +175,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
         },
         {
-          "title": "嗑上天才女友这对权威智性恋",
-          "url": "https://www.douyin.com/hot/2594742",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "《蜘蛛侠：崭新之日》里的凤凰女战斗力如何？",
-          "url": "https://www.zhihu.com/question/2065932615065063623",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "1岁女童12号染色体缺失体重仅8斤",
-          "url": "https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A5%B3%E7%AB%A512%E5%8F%B7%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%E4%BD%93%E9%87%8D%E4%BB%858%E6%96%A4%23&t=31&band_rank=28&Refer=top",
+          "title": "出轨丈夫明确拒绝支付女儿抚养费",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E6%98%8E%E7%A1%AE%E6%8B%92%E7%BB%9D%E6%94%AF%E4%BB%98%E5%A5%B3%E5%84%BF%E6%8A%9A%E5%85%BB%E8%B4%B9%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "HYBE新女团TUIDE公开",
-          "url": "https://www.douyin.com/hot/2595051",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时56分"
         }
       ]
     }
