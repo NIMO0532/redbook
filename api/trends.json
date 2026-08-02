@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:45:09.371987+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-08-03T05:48:43.568739+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时48分]"
         },
         {
           "title": "专访《功夫女足》联合导演林子聪",
@@ -27,8 +27,47 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时48分]"
+        },
+        {
+          "title": "闪送员女儿考上北大 平台：学费我们管",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E9%80%81%E5%91%98%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%B9%B3%E5%8F%B0%EF%BC%9A%E5%AD%A6%E8%B4%B9%E6%88%91%E4%BB%AC%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            13,
+            15,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时48分]"
+        },
+        {
+          "title": "00后运20女飞：离地三尺不分男女",
+          "url": "https://www.toutiao.com/trending/7669241153266437670/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时48分]"
+        },
+        {
+          "title": "官方辟谣女子酒店退房搬空用品",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时48分]"
         },
         {
           "title": "女子花10万请明星带货仅卖出1单",
@@ -41,46 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时44分]"
-        },
-        {
-          "title": "闪送员女儿考上北大 平台：学费我们管",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E9%80%81%E5%91%98%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%B9%B3%E5%8F%B0%EF%BC%9A%E5%AD%A6%E8%B4%B9%E6%88%91%E4%BB%AC%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            13,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时44分]"
-        },
-        {
-          "title": "00后运20女飞：离地三尺不分男女",
-          "url": "https://www.toutiao.com/trending/7669241153266437670/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时44分]"
-        },
-        {
-          "title": "官方辟谣女子酒店退房搬空用品",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时48分]"
         },
         {
           "title": "地铁吐血女孩为嫣然基金捐99999元",
@@ -103,11 +104,12 @@
           "ranks": [
             19,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时48分]"
         },
         {
           "title": "牧神记厉天行逐梦女皇帝",
@@ -119,8 +121,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时48分]"
         },
         {
           "title": "五女合考科举,剧情太难绷",
@@ -131,8 +133,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时48分]"
         },
         {
           "title": "HYBE新女团TUIDE公开",
@@ -141,11 +143,12 @@
           "ranks": [
             29,
             23,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时48分]"
         },
         {
           "title": "出轨丈夫明确拒绝支付女儿抚养费",
@@ -154,11 +157,12 @@
           "ranks": [
             28,
             20,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 04时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时48分]"
         },
         {
           "title": "1岁女童12号染色体缺失体重仅8斤",
@@ -167,11 +171,24 @@
           "ranks": [
             28,
             23,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 05时48分]"
+        },
+        {
+          "title": "女儿考上北大闪送员请路人喝水",
+          "url": "https://www.toutiao.com/trending/7669319945163882534/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时00分 ~ 05时48分]"
         },
         {
           "title": "家长回应说女孩子长大也是被别人看",
@@ -179,11 +196,12 @@
           "source": "微博",
           "ranks": [
             28,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 05时48分]"
         },
         {
           "title": "《蜘蛛侠：崭新之日》里的凤凰女战斗力如何？",
@@ -208,17 +226,6 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "女儿考上北大闪送员请路人喝水",
-          "url": "https://www.toutiao.com/trending/7669319945163882534/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
-        },
-        {
           "title": "HYBE新女团TUIDE公开",
           "url": "https://s.weibo.com/weibo?q=HYBE%E6%96%B0%E5%A5%B3%E5%9B%A2TUIDE%E5%85%AC%E5%BC%80&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -236,7 +243,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }
