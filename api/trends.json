@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-04T00:17:13.366983+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-08-04T02:45:34.095983+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "女童独自乘电梯反复进出从14楼坠亡",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E7%8B%AC%E8%87%AA%E4%B9%98%E7%94%B5%E6%A2%AF%E5%8F%8D%E5%A4%8D%E8%BF%9B%E5%87%BA%E4%BB%8E14%E6%A5%BC%E5%9D%A0%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时45分]"
         },
         {
           "title": "爱泼斯坦“最爱的女人”，分了上亿遗产",
@@ -26,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时45分]"
         },
         {
           "title": "沈伯洋称“蒋万安的优点只有帅”，国民党女议员：普信男",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时45分]"
         },
         {
           "title": "“能力有限，和大家一起庆祝”，骑手的电瓶车上挂满饮料，分享女儿考上北大的喜悦",
@@ -48,19 +49,76 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时45分]"
         },
         {
           "title": "占用应急车道女子要求前车挪车让路",
           "url": "https://www.baidu.com/s?wd=%E5%8D%A0%E7%94%A8%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%89%8D%E8%BD%A6%E6%8C%AA%E8%BD%A6%E8%AE%A9%E8%B7%AF",
           "source": "百度热搜",
           "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时45分]"
+        },
+        {
+          "title": "9岁女孩长期吃蛋糕熬夜确诊性早熟",
+          "url": "https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%95%BF%E6%9C%9F%E5%90%83%E8%9B%8B%E7%B3%95%E7%86%AC%E5%A4%9C%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 02时45分]"
+        },
+        {
+          "title": "女童无人照顾夜宿路边 多部门介入",
+          "url": "https://www.toutiao.com/trending/7669662136973951012/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "占用应急车道女子要求前车挪车让路",
+          "url": "https://www.toutiao.com/trending/7668890231705436202/",
+          "source": "今日头条",
+          "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "东莞9岁女孩确诊性早熟",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "捅死男友女子父母多次给男方父母道歉下跪",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8D%85%E6%AD%BB%E7%94%B7%E5%8F%8B%E5%A5%B3%E5%AD%90%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E7%94%B7%E6%96%B9%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89%E4%B8%8B%E8%B7%AA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "女子阻止男友吸烟起冲突将其捅死",
@@ -69,9 +127,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "985博士后孕期出轨女生还见亲友",
+          "url": "https://s.weibo.com/weibo?q=%23985%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E5%A5%B3%E7%94%9F%E8%BF%98%E8%A7%81%E4%BA%B2%E5%8F%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国女子4年不洗头震惊理发师",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%904%E5%B9%B4%E4%B8%8D%E6%B4%97%E5%A4%B4%E9%9C%87%E6%83%8A%E7%90%86%E5%8F%91%E5%B8%88%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "牧神记厉天行逐梦女皇帝",
@@ -80,7 +160,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         },
@@ -91,18 +171,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "9岁女孩长期吃蛋糕熬夜确诊性早熟",
-          "url": "https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%95%BF%E6%9C%9F%E5%90%83%E8%9B%8B%E7%B3%95%E7%86%AC%E5%A4%9C%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         }
