@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T02:45:34.095983+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-08-04T04:22:40.115751+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "女童独自乘电梯反复进出从14楼坠亡",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时22分]"
         },
         {
           "title": "爱泼斯坦“最爱的女人”，分了上亿遗产",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时22分]"
         },
         {
           "title": "沈伯洋称“蒋万安的优点只有帅”，国民党女议员：普信男",
@@ -38,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时22分]"
         },
         {
           "title": "“能力有限，和大家一起庆祝”，骑手的电瓶车上挂满饮料，分享女儿考上北大的喜悦",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时22分]"
         },
         {
           "title": "占用应急车道女子要求前车挪车让路",
@@ -58,11 +59,24 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            24
+            24,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时22分]"
+        },
+        {
+          "title": "女童无人照顾夜宿路边 多部门介入",
+          "url": "https://www.toutiao.com/trending/7669662136973951012/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时45分]"
+          "time_info": "[02时44分 ~ 04时22分]"
         },
         {
           "title": "9岁女孩长期吃蛋糕熬夜确诊性早熟",
@@ -70,22 +84,80 @@
           "source": "微博",
           "ranks": [
             29,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时22分]"
+        },
+        {
+          "title": "东莞9岁女孩确诊性早熟",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 04时22分]"
+        },
+        {
+          "title": "捅死男友女子父母多次给男方父母道歉下跪",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8D%85%E6%AD%BB%E7%94%B7%E5%8F%8B%E5%A5%B3%E5%AD%90%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E7%94%B7%E6%96%B9%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89%E4%B8%8B%E8%B7%AA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时45分]"
+          "time_info": "[02时45分 ~ 04时22分]"
         },
         {
-          "title": "女童无人照顾夜宿路边 多部门介入",
-          "url": "https://www.toutiao.com/trending/7669662136973951012/",
-          "source": "今日头条",
+          "title": "985博士后孕期出轨女生还见亲友",
+          "url": "https://s.weibo.com/weibo?q=%23985%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E5%A5%B3%E7%94%9F%E8%BF%98%E8%A7%81%E4%BA%B2%E5%8F%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            23
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时44分 ~ 02时45分]"
+          "time_info": "[02时45分 ~ 04时22分]"
+        },
+        {
+          "title": "美国女子4年不洗头震惊理发师",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%904%E5%B9%B4%E4%B8%8D%E6%B4%97%E5%A4%B4%E9%9C%87%E6%83%8A%E7%90%86%E5%8F%91%E5%B8%88%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 04时22分]"
+        },
+        {
+          "title": "牧神记厉天行逐梦女皇帝",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时22分]"
+        },
+        {
+          "title": "女子装白富美诈骗98万获刑10年",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A3%85%E7%99%BD%E5%AF%8C%E7%BE%8E%E8%AF%88%E9%AA%9798%E4%B8%87%E8%8E%B7%E5%88%9110%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
         },
         {
           "title": "占用应急车道女子要求前车挪车让路",
@@ -99,26 +171,15 @@
           "time_info": "[02时44分 ~ 02时45分]"
         },
         {
-          "title": "东莞9岁女孩确诊性早熟",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F%23&t=31&band_rank=11&Refer=top",
+          "title": "女生们的握力在外网爆火",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%BB%AC%E7%9A%84%E6%8F%A1%E5%8A%9B%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "捅死男友女子父母多次给男方父母道歉下跪",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8D%85%E6%AD%BB%E7%94%B7%E5%8F%8B%E5%A5%B3%E5%AD%90%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E7%94%B7%E6%96%B9%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89%E4%B8%8B%E8%B7%AA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "04时22分"
         },
         {
           "title": "女子阻止男友吸烟起冲突将其捅死",
@@ -126,39 +187,6 @@
           "source": "微博",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "985博士后孕期出轨女生还见亲友",
-          "url": "https://s.weibo.com/weibo?q=%23985%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E5%A5%B3%E7%94%9F%E8%BF%98%E8%A7%81%E4%BA%B2%E5%8F%8B%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "美国女子4年不洗头震惊理发师",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%904%E5%B9%B4%E4%B8%8D%E6%B4%97%E5%A4%B4%E9%9C%87%E6%83%8A%E7%90%86%E5%8F%91%E5%B8%88%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "牧神记厉天行逐梦女皇帝",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -174,6 +202,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "审美开智后我就这样穿",
+          "url": "https://www.douyin.com/hot/2595928",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     }
