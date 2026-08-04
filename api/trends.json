@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:59:32.740823+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-08-04T22:13:00.093280+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 19时59分]"
+          "appearance_count": 10,
+          "time_info": "[11时58分 ~ 22时12分]"
         },
         {
           "title": "女童独自乘电梯反复进出从14楼坠亡",
@@ -94,8 +95,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 22时12分]"
         },
         {
           "title": "女子山姆40元买披萨吃出108元剪刀",
@@ -136,13 +137,38 @@
           "time_info": "[02时45分 ~ 11时59分]"
         },
         {
+          "title": "女子平板支撑同时包饺子",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B9%B3%E6%9D%BF%E6%94%AF%E6%92%91%E5%90%8C%E6%97%B6%E5%8C%85%E9%A5%BA%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 22时12分]"
+        },
+        {
+          "title": "女教师因备孕与男友起争执捅死对方",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E5%9B%A0%E5%A4%87%E5%AD%95%E4%B8%8E%E7%94%B7%E5%8F%8B%E8%B5%B7%E4%BA%89%E6%89%A7%E6%8D%85%E6%AD%BB%E5%AF%B9%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 22时12分]"
+        },
+        {
           "title": "女子自称怀孕向雪饼猴索要手术费",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B0%E6%80%80%E5%AD%95%E5%90%91%E9%9B%AA%E9%A5%BC%E7%8C%B4%E7%B4%A2%E8%A6%81%E6%89%8B%E6%9C%AF%E8%B4%B9%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -186,6 +212,44 @@
           "time_info": "[14时29分 ~ 17时35分]"
         },
         {
+          "title": "四川一50岁女区委书记病逝",
+          "url": "https://www.toutiao.com/trending/7670076141069369390/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
+          "title": "香港传奇歌舞女星葛兰去世",
+          "url": "https://www.douyin.com/hot/2596499",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 22时12分]"
+        },
+        {
+          "title": "顶流女星拿文物当耳环，惹了众怒",
+          "url": "https://news.ifeng.com/c/8vJoP53cHYx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时58分 ~ 22时12分]"
+        },
+        {
           "title": "女主持人回应与蔡崇信合照",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%9B%9E%E5%BA%94%E4%B8%8E%E8%94%A1%E5%B4%87%E4%BF%A1%E5%90%88%E7%85%A7",
           "source": "百度热搜",
@@ -208,30 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时58分 ~ 14时31分]"
-        },
-        {
-          "title": "女教师因备孕与男友起争执捅死对方",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E5%9B%A0%E5%A4%87%E5%AD%95%E4%B8%8E%E7%94%B7%E5%8F%8B%E8%B5%B7%E4%BA%89%E6%89%A7%E6%8D%85%E6%AD%BB%E5%AF%B9%E6%96%B9",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时59分]"
-        },
-        {
-          "title": "女子平板支撑同时包饺子",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B9%B3%E6%9D%BF%E6%94%AF%E6%92%91%E5%90%8C%E6%97%B6%E5%8C%85%E9%A5%BA%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时59分]"
         },
         {
           "title": "美国女子4年不洗头震惊理发师",
@@ -270,19 +310,6 @@
           "time_info": "[04时21分 ~ 06时01分]"
         },
         {
-          "title": "香港传奇歌舞女星葛兰去世",
-          "url": "https://www.douyin.com/hot/2596499",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 19时59分]"
-        },
-        {
           "title": "985博士后孕期出轨女生还见亲友",
           "url": "https://s.weibo.com/weibo?q=%23985%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E5%A5%B3%E7%94%9F%E8%BF%98%E8%A7%81%E4%BA%B2%E5%8F%8B%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -308,6 +335,18 @@
           "time_info": "[02时45分 ~ 06时01分]"
         },
         {
+          "title": "女生在杭州宋城景区被“盆栽”捉弄",
+          "url": "https://www.toutiao.com/trending/7669202166397861938/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 22时11分]"
+        },
+        {
           "title": "牧神记厉天行逐梦女皇帝",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
           "source": "bilibili 热搜",
@@ -318,6 +357,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 06时01分]"
+        },
+        {
+          "title": "女子自称怀孕向雪饼猴索要手术费",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B0%E6%80%80%E5%AD%95%E5%90%91%E9%9B%AA%E9%A5%BC%E7%8C%B4%E7%B4%A2%E8%A6%81%E6%89%8B%E6%9C%AF%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
+          "title": "44岁爸爸被女儿激将考上985研究生",
+          "url": "https://www.toutiao.com/trending/7670086340830904362/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
         },
         {
           "title": "美国女子4年不洗头震惊理发师",
@@ -355,17 +417,6 @@
           "time_info": "[04时22分 ~ 06时01分]"
         },
         {
-          "title": "顶流女星拿文物当耳环，惹了众怒",
-          "url": "https://news.ifeng.com/c/8vJoP53cHYx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 19时59分]"
-        },
-        {
           "title": "9岁女孩长期吃蛋糕熬夜确诊性早熟",
           "url": "https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%95%BF%E6%9C%9F%E5%90%83%E8%9B%8B%E7%B3%95%E7%86%AC%E5%A4%9C%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F",
           "source": "百度热搜",
@@ -377,6 +428,17 @@
           "time_info": "[11时58分 ~ 11时59分]"
         },
         {
+          "title": "35岁女子1天5瓶可乐喝成60岁脸",
+          "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E5%A5%B3%E5%AD%901%E5%A4%A95%E7%93%B6%E5%8F%AF%E4%B9%90%E5%96%9D%E6%88%9060%E5%B2%81%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "女孩独游南太行失联8天",
           "url": "https://www.toutiao.com/trending/7669368338086248499/",
           "source": "今日头条",
@@ -386,6 +448,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时58分 ~ 19时59分]"
+        },
+        {
+          "title": "女孩被老师抚养8年后考上师范",
+          "url": "https://www.toutiao.com/trending/7670115827752501302/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
         },
         {
           "title": "民警帮女研究生寻回存论文资料手机",
@@ -432,17 +506,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时35分 ~ 19时59分]"
-        },
-        {
-          "title": "女生在杭州宋城景区被“盆栽”捉弄",
-          "url": "https://www.toutiao.com/trending/7669202166397861938/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "爸爸出门忘关火 女儿淡定“控场”",
@@ -512,13 +575,35 @@
           "time_info": "[17时34分 ~ 17时35分]"
         },
         {
+          "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2067920572915216640",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "如何看待《姐姐当家 2》中房主任给小女儿举办的生日宴？",
+          "url": "https://www.zhihu.com/question/2067619117528617589",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "婚外胚胎案男子让女儿提供明细才给钱",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E7%94%B7%E5%AD%90%E8%AE%A9%E5%A5%B3%E5%84%BF%E6%8F%90%E4%BE%9B%E6%98%8E%E7%BB%86%E6%89%8D%E7%BB%99%E9%92%B1%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -559,7 +644,7 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "王者海月真言先知皮肤爆料",
@@ -567,11 +652,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 22时12分]"
+        },
+        {
+          "title": "王者荣耀无尽之局新皮肤",
+          "url": "https://www.douyin.com/hot/2597117",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 22时12分]"
         },
         {
           "title": "百里守约新皮肤爆料",
@@ -586,26 +683,26 @@
           "time_info": "[17时35分 ~ 19时59分]"
         },
         {
-          "title": "王者荣耀无尽之局新皮肤",
-          "url": "https://www.douyin.com/hot/2597117",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 19时59分]"
-        },
-        {
           "title": "王者澜雾影狼魂皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E6%BE%9C%E9%9B%BE%E5%BD%B1%E7%8B%BC%E9%AD%82%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "王者扁鹊双面药师皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%89%81%E9%B9%8A%E5%8F%8C%E9%9D%A2%E8%8D%AF%E5%B8%88%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "澜新皮肤闪光海报预览",
@@ -614,9 +711,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口如何帮助人类",
+          "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
