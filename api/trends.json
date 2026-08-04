@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T06:02:11.447517+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-08-04T08:02:51.016657+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "女童独自乘电梯反复进出从14楼坠亡",
@@ -15,11 +15,12 @@
             6,
             10,
             13,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 08时02分]"
         },
         {
           "title": "爱泼斯坦“最爱的女人”，分了上亿遗产",
@@ -29,8 +30,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 08时02分]"
+        },
+        {
+          "title": "“能力有限，和大家一起庆祝”，骑手的电瓶车上挂满饮料，分享女儿考上北大的喜悦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709073",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 08时02分]"
         },
         {
           "title": "沈伯洋称“蒋万安的优点只有帅”，国民党女议员：普信男",
@@ -40,19 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时01分]"
-        },
-        {
-          "title": "“能力有限，和大家一起庆祝”，骑手的电瓶车上挂满饮料，分享女儿考上北大的喜悦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33709073",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 08时02分]"
         },
         {
           "title": "占用应急车道女子要求前车挪车让路",
@@ -62,11 +64,25 @@
             29,
             24,
             14,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 08时02分]"
+        },
+        {
+          "title": "东莞9岁女孩确诊性早熟",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 08时02分]"
         },
         {
           "title": "捅死男友女子父母多次给男方父母道歉下跪",
@@ -78,8 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 08时02分]"
         },
         {
           "title": "9岁女孩长期吃蛋糕熬夜确诊性早熟",
@@ -88,11 +104,12 @@
           "ranks": [
             29,
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 08时02分]"
         },
         {
           "title": "女童无人照顾夜宿路边 多部门介入",
@@ -117,18 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 06时01分]"
-        },
-        {
-          "title": "东莞9岁女孩确诊性早熟",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 06时01分]"
         },
         {
           "title": "985博士后孕期出轨女生还见亲友",
@@ -168,6 +173,17 @@
           "time_info": "[00时16分 ~ 06时01分]"
         },
         {
+          "title": "美国女子4年不洗头震惊理发师",
+          "url": "https://www.toutiao.com/trending/7669730114670919722/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
           "title": "女生们的握力在外网爆火",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%BB%AC%E7%9A%84%E6%8F%A1%E5%8A%9B%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -178,6 +194,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 06时01分]"
+        },
+        {
+          "title": "民警帮女研究生寻回存论文资料手机",
+          "url": "https://www.toutiao.com/trending/7669823410453790762/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "美国女子4年不洗头震惊理发师",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%904%E5%B9%B4%E4%B8%8D%E6%B4%97%E5%A4%B4%E9%9C%87%E6%83%8A%E7%90%86%E5%8F%91%E5%B8%88",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "女子煮火锅突发爆炸全屋溅满红油",
@@ -234,11 +272,12 @@
           "url": "https://www.douyin.com/hot/2595928",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 08时02分]"
         }
       ]
     }
