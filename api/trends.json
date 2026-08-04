@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T00:48:41.359320+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-05T02:24:34.512677+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时24分]"
         },
         {
           "title": "染色体缺失,英女孩变三无超人",
@@ -25,9 +25,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时24分]"
         },
         {
           "title": "天才女友语文成绩148",
@@ -36,20 +36,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时24分]"
         },
         {
           "title": "女孩8岁独居床头放菜刀现考上一本",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A98%E5%B2%81%E7%8B%AC%E5%B1%85%E5%BA%8A%E5%A4%B4%E6%94%BE%E8%8F%9C%E5%88%80%E7%8E%B0%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时24分]"
+        },
+        {
+          "title": "44岁爸爸被女儿激将考上985研究生",
+          "url": "https://www.toutiao.com/trending/7670086340830904362/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时24分]"
         },
         {
           "title": "顶流女星拿文物当耳环，惹了众怒",
@@ -59,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时24分]"
         },
         {
           "title": "35岁女子1天5瓶可乐喝成60岁脸",
@@ -70,19 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "44岁爸爸被女儿激将考上985研究生",
-          "url": "https://www.toutiao.com/trending/7670086340830904362/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时24分]"
         },
         {
           "title": "女教师因备孕与男友起争执捅死对方",
@@ -92,19 +94,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时24分]"
         },
         {
           "title": "四川一50岁女区委书记病逝",
           "url": "https://www.toutiao.com/trending/7670076141069369390/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时24分]"
+        },
+        {
+          "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2067920572915216640",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "time_info": "[00时48分 ~ 02时24分]"
         },
         {
           "title": "女孩独游南太行失联8天",
@@ -118,15 +132,15 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
-          "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2067920572915216640",
-          "source": "知乎",
+          "title": "女子旅游错把丧葬品当纪念品买下",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "02时24分"
         }
       ]
     },
@@ -135,15 +149,16 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "王者海月真言先知皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%B5%B7%E6%9C%88%E7%9C%9F%E8%A8%80%E5%85%88%E7%9F%A5%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "title": "王者扁鹊双面药师皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%89%81%E9%B9%8A%E5%8F%8C%E9%9D%A2%E8%8D%AF%E5%B8%88%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            27,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时24分]"
         },
         {
           "title": "澜新皮肤闪光海报预览",
@@ -152,7 +167,29 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时24分]"
+        },
+        {
+          "title": "王者荣耀无尽之局新皮肤",
+          "url": "https://www.douyin.com/hot/2597117",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时24分]"
+        },
+        {
+          "title": "王者海月真言先知皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%B5%B7%E6%9C%88%E7%9C%9F%E8%A8%80%E5%85%88%E7%9F%A5%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
         },
@@ -163,29 +200,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "王者荣耀无尽之局新皮肤",
-          "url": "https://www.douyin.com/hot/2597117",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "王者扁鹊双面药师皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%89%81%E9%B9%8A%E5%8F%8C%E9%9D%A2%E8%8D%AF%E5%B8%88%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
         }
