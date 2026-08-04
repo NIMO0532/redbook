@@ -1,45 +1,23 @@
 {
-  "generated_at": "2026-08-05T06:06:27.047520+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-08-05T07:58:38.747801+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
           "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时06分]"
-        },
-        {
-          "title": "天才女友语文成绩148",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E8%AF%AD%E6%96%87%E6%88%90%E7%BB%A9148%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时06分]"
-        },
-        {
-          "title": "染色体缺失,英女孩变三无超人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356773&amp;topic_name=%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%2C%E8%8B%B1%E5%A5%B3%E5%AD%A9%E5%8F%98%E4%B8%89%E6%97%A0%E8%B6%85%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时58分]"
         },
         {
           "title": "44岁爸爸被女儿激将考上985研究生",
@@ -52,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时58分]"
         },
         {
           "title": "顶流女星拿文物当耳环，惹了众怒",
@@ -63,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时58分]"
         },
         {
           "title": "35岁女子1天5瓶可乐喝成60岁脸",
@@ -75,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时58分]"
         },
         {
           "title": "女教师因备孕与男友起争执捅死对方",
@@ -84,11 +62,36 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时58分]"
+        },
+        {
+          "title": "天才女友语文成绩148",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E8%AF%AD%E6%96%87%E6%88%90%E7%BB%A9148%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时58分]"
+        },
+        {
+          "title": "染色体缺失,英女孩变三无超人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356773&amp;topic_name=%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%2C%E8%8B%B1%E5%A5%B3%E5%AD%A9%E5%8F%98%E4%B8%89%E6%97%A0%E8%B6%85%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时58分]"
         },
         {
           "title": "四川一50岁女区委书记病逝",
@@ -112,11 +115,12 @@
             5,
             6,
             12,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时58分]"
         },
         {
           "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
@@ -126,8 +130,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时58分]"
         },
         {
           "title": "女子被小三后实名举报985博士后",
@@ -135,11 +139,12 @@
           "source": "微博",
           "ranks": [
             14,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时06分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时58分]"
         },
         {
           "title": "女孩独游南太行失联8天",
@@ -151,6 +156,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 00时48分]"
+        },
+        {
+          "title": "女孩喊看不清竟是视功能异常惹的祸",
+          "url": "https://www.toutiao.com/trending/7669739899825897491/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "女孩被老师抚养8年后考上师范",
+          "url": "https://www.toutiao.com/trending/7670115827752501302/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "35岁女子1天5瓶可乐喝成60岁脸",
+          "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%901%E5%A4%A95%E7%93%B6%E5%8F%AF%E4%B9%90%E5%96%9D%E6%88%9060%E5%B2%81%E8%84%B8%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "女子旅游错把丧葬品当纪念品买下",
@@ -177,8 +215,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时58分]"
         },
         {
           "title": "澜新皮肤闪光海报预览",
@@ -186,11 +224,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            28
+            28,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 06时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 07时58分]"
         },
         {
           "title": "王者扁鹊双面药师皮肤爆料",
@@ -198,22 +237,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时58分]"
         },
         {
           "title": "王者海月真言先知皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%B5%B7%E6%9C%88%E7%9C%9F%E8%A8%80%E5%85%88%E7%9F%A5%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 07时58分]"
         },
         {
           "title": "王者澜雾影狼魂皮肤爆料",
@@ -241,8 +282,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时06分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时58分]"
         }
       ]
     }
