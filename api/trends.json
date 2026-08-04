@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T04:20:28.410634+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-05T06:06:27.047520+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "天才女友语文成绩148",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 06时06分]"
         },
         {
           "title": "染色体缺失,英女孩变三无超人",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 06时06分]"
         },
         {
           "title": "44岁爸爸被女儿激将考上985研究生",
@@ -48,11 +48,12 @@
           "ranks": [
             13,
             6,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "顶流女星拿文物当耳环，惹了众怒",
@@ -62,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "35岁女子1天5瓶可乐喝成60岁脸",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "女教师因备孕与男友起争执捅死对方",
@@ -86,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "四川一50岁女区委书记病逝",
@@ -96,11 +97,12 @@
           "ranks": [
             18,
             21,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "女孩8岁独居床头放菜刀现考上一本",
@@ -109,11 +111,12 @@
           "ranks": [
             5,
             6,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 06时06分]"
         },
         {
           "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
@@ -123,8 +126,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 06时06分]"
+        },
+        {
+          "title": "女子被小三后实名举报985博士后",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%B0%8F%E4%B8%89%E5%90%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5985%E5%8D%9A%E5%A3%AB%E5%90%8E%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 06时06分]"
         },
         {
           "title": "女孩独游南太行失联8天",
@@ -136,17 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "女子被小三后实名举报985博士后",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%B0%8F%E4%B8%89%E5%90%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5985%E5%8D%9A%E5%A3%AB%E5%90%8E%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         },
         {
           "title": "女子旅游错把丧葬品当纪念品买下",
@@ -173,8 +177,20 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 06时06分]"
+        },
+        {
+          "title": "澜新皮肤闪光海报预览",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BE%9C%E6%96%B0%E7%9A%AE%E8%82%A4%E9%97%AA%E5%85%89%E6%B5%B7%E6%8A%A5%E9%A2%84%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时20分]"
+          "time_info": "[00时48分 ~ 06时06分]"
         },
         {
           "title": "王者扁鹊双面药师皮肤爆料",
@@ -183,17 +199,6 @@
           "ranks": [
             27,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
-        },
-        {
-          "title": "澜新皮肤闪光海报预览",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BE%9C%E6%96%B0%E7%9A%AE%E8%82%A4%E9%97%AA%E5%85%89%E6%B5%B7%E6%8A%A5%E9%A2%84%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -232,11 +237,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 06时06分]"
         }
       ]
     }
