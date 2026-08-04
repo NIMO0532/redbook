@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T02:24:34.512677+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-08-05T04:20:28.410634+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时20分]"
+        },
+        {
+          "title": "天才女友语文成绩148",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E8%AF%AD%E6%96%87%E6%88%90%E7%BB%A9148%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时20分]"
         },
         {
           "title": "染色体缺失,英女孩变三无超人",
@@ -26,31 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
-        },
-        {
-          "title": "天才女友语文成绩148",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E8%AF%AD%E6%96%87%E6%88%90%E7%BB%A9148%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
-        },
-        {
-          "title": "女孩8岁独居床头放菜刀现考上一本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A98%E5%B2%81%E7%8B%AC%E5%B1%85%E5%BA%8A%E5%A4%B4%E6%94%BE%E8%8F%9C%E5%88%80%E7%8E%B0%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时20分]"
         },
         {
           "title": "44岁爸爸被女儿激将考上985研究生",
@@ -58,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时20分]"
         },
         {
           "title": "顶流女星拿文物当耳环，惹了众怒",
@@ -72,30 +62,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时20分]"
         },
         {
           "title": "35岁女子1天5瓶可乐喝成60岁脸",
           "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E5%A5%B3%E5%AD%901%E5%A4%A95%E7%93%B6%E5%8F%AF%E4%B9%90%E5%96%9D%E6%88%9060%E5%B2%81%E8%84%B8",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时20分]"
         },
         {
           "title": "女教师因备孕与男友起争执捅死对方",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E5%9B%A0%E5%A4%87%E5%AD%95%E4%B8%8E%E7%94%B7%E5%8F%8B%E8%B5%B7%E4%BA%89%E6%89%A7%E6%8D%85%E6%AD%BB%E5%AF%B9%E6%96%B9",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时20分]"
         },
         {
           "title": "四川一50岁女区委书记病逝",
@@ -103,11 +95,25 @@
           "source": "今日头条",
           "ranks": [
             18,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时20分]"
+        },
+        {
+          "title": "女孩8岁独居床头放菜刀现考上一本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A98%E5%B2%81%E7%8B%AC%E5%B1%85%E5%BA%8A%E5%A4%B4%E6%94%BE%E8%8F%9C%E5%88%80%E7%8E%B0%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时20分]"
         },
         {
           "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
@@ -117,8 +123,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时20分]"
         },
         {
           "title": "女孩独游南太行失联8天",
@@ -132,13 +138,24 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
+          "title": "女子被小三后实名举报985博士后",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%B0%8F%E4%B8%89%E5%90%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5985%E5%8D%9A%E5%A3%AB%E5%90%8E%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
           "title": "女子旅游错把丧葬品当纪念品买下",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         }
@@ -148,6 +165,17 @@
       "keyword_group": "化妆 护肤 皮肤",
       "match_count": 5,
       "titles": [
+        {
+          "title": "王者荣耀无尽之局新皮肤",
+          "url": "https://www.douyin.com/hot/2597117",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时20分]"
+        },
         {
           "title": "王者扁鹊双面药师皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%89%81%E9%B9%8A%E5%8F%8C%E9%9D%A2%E8%8D%AF%E5%B8%88%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
@@ -166,17 +194,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
-        },
-        {
-          "title": "王者荣耀无尽之局新皮肤",
-          "url": "https://www.douyin.com/hot/2597117",
-          "source": "抖音",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -203,6 +220,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口如何帮助人类",
+          "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
