@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T13:40:05.700715+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-08-05T16:24:34.829808+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
@@ -91,11 +91,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 16时24分]"
         },
         {
           "title": "四川一50岁女区委书记病逝",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 06时06分]"
+        },
+        {
+          "title": "女童基因编辑悲剧中伦理为何失守",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E6%82%B2%E5%89%A7%E4%B8%AD%E4%BC%A6%E7%90%86%E4%B8%BA%E4%BD%95%E5%A4%B1%E5%AE%88",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "女孩8岁独居床头放菜刀现考上一本",
@@ -138,6 +150,18 @@
           "time_info": "[00时48分 ~ 07时58分]"
         },
         {
+          "title": "女生预约参观北大没成功后考上北大",
+          "url": "https://www.toutiao.com/trending/7669433893754110006/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 16时24分]"
+        },
+        {
           "title": "女子被小三后实名举报985博士后",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%B0%8F%E4%B8%89%E5%90%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5985%E5%8D%9A%E5%A3%AB%E5%90%8E%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -149,6 +173,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 07时58分]"
+        },
+        {
+          "title": "女生感叹在山西错过饭点吃不上热乎饭",
+          "url": "https://www.toutiao.com/trending/7669363832125145098/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "女子遇暴雨打不到车叫跑腿送回家",
+          "url": "https://www.toutiao.com/trending/7670155213606584362/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "女排国手李盈莹因心脏问题接受手术",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%8E%92%E5%9B%BD%E6%89%8B%E6%9D%8E%E7%9B%88%E8%8E%B9%E5%9B%A0%E5%BF%83%E8%84%8F%E9%97%AE%E9%A2%98%E6%8E%A5%E5%8F%97%E6%89%8B%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "女排国手李盈莹已做心脏手术",
+          "url": "https://www.toutiao.com/trending/7670419064329748522/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "女子带10岁儿子从成都坐火车去意大利",
@@ -184,6 +252,28 @@
           "time_info": "[13时38分 ~ 13时39分]"
         },
         {
+          "title": "指责周星驰无儿女没朋友 李修贤致歉",
+          "url": "https://www.baidu.com/s?wd=%E6%8C%87%E8%B4%A3%E5%91%A8%E6%98%9F%E9%A9%B0%E6%97%A0%E5%84%BF%E5%A5%B3%E6%B2%A1%E6%9C%8B%E5%8F%8B+%E6%9D%8E%E4%BF%AE%E8%B4%A4%E8%87%B4%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "女生预约参观北大没成功后考上北大",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8F%82%E8%A7%82%E5%8C%97%E5%A4%A7%E6%B2%A1%E6%88%90%E5%8A%9F%E5%90%8E%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
           "title": "女孩独游南太行失联8天",
           "url": "https://www.toutiao.com/trending/7669368338086248499/",
           "source": "今日头条",
@@ -204,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "女生预约参观北大没成功后考上北大",
-          "url": "https://www.toutiao.com/trending/7669433893754110006/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "6岁女孩篮球场上接连带球过人引欢呼",
@@ -239,6 +318,17 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
+          "title": "女子在少林寺一比一还原武术动作",
+          "url": "https://www.toutiao.com/trending/7670122426831126564/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
           "title": "《天才女友》主角语文成绩148",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E3%80%8B%E4%B8%BB%E8%A7%92%E8%AF%AD%E6%96%87%E6%88%90%E7%BB%A9148",
           "source": "百度热搜",
@@ -261,6 +351,28 @@
           "time_info": "10时21分"
         },
         {
+          "title": "孙俪晒女儿化的妆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%99%92%E5%A5%B3%E5%84%BF%E5%8C%96%E7%9A%84%E5%A6%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
+          "url": "https://www.zhihu.com/question/2067981063033561186",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "44岁爸爸被女儿激将考上985研究生",
           "url": "https://www.baidu.com/s?wd=44%E5%B2%81%E7%88%B8%E7%88%B8%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%BF%80%E5%B0%86%E8%80%83%E4%B8%8A985%E7%A0%94%E7%A9%B6%E7%94%9F",
           "source": "百度热搜",
@@ -278,7 +390,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -322,7 +434,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         }
@@ -342,8 +454,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 16时24分]"
         },
         {
           "title": "澜新皮肤闪光海报预览",
