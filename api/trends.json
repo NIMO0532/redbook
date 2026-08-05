@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T05:01:40.740612+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-08-06T06:15:39.834136+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
         },
         {
           "title": "女子旅游错把丧葬品当纪念品买下",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 06时15分]"
         },
         {
           "title": "邯郸女当事人回应“举报法院执行局长索贿骚扰”：相信事件会得到公平公正处理",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 06时15分]"
         },
         {
           "title": "嘲讽周星驰无儿女没朋友 李修贤道歉",
@@ -51,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 06时15分]"
         },
         {
           "title": "李亚鹏向地铁吐血女孩捐99999元",
@@ -63,21 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
-          "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
-          "url": "https://www.zhihu.com/question/2067981063033561186",
-          "source": "知乎",
-          "ranks": [
-            4,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
         },
         {
           "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
@@ -87,8 +74,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 06时15分]"
+        },
+        {
+          "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
+          "url": "https://www.zhihu.com/question/2067981063033561186",
+          "source": "知乎",
+          "ranks": [
+            4,
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时18分 ~ 05时01分]"
+          "time_info": "[01时24分 ~ 06时15分]"
         },
         {
           "title": "女儿考上一本出轨父亲拒付学费",
@@ -96,11 +97,34 @@
           "source": "微博",
           "ranks": [
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
+        },
+        {
+          "title": "日本女网红自杀过程被完整直播",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E8%BF%87%E7%A8%8B%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
+        },
+        {
+          "title": "染色体缺失,英女孩变三无超人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356773&amp;topic_name=%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%2C%E8%8B%B1%E5%A5%B3%E5%AD%A9%E5%8F%98%E4%B8%89%E6%97%A0%E8%B6%85%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
         },
         {
           "title": "出国帮子女带娃的老人在夹缝中煎熬",
@@ -116,26 +140,16 @@
           "time_info": "[01时24分 ~ 05时01分]"
         },
         {
-          "title": "日本女网红自杀过程被完整直播",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E8%BF%87%E7%A8%8B%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "见过蜘蛛侠穿女装吗",
+          "url": "https://www.douyin.com/hot/2598079",
+          "source": "抖音",
           "ranks": [
-            21
+            27,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
-          "title": "染色体缺失,英女孩变三无超人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356773&amp;topic_name=%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%2C%E8%8B%B1%E5%A5%B3%E5%AD%A9%E5%8F%98%E4%B8%89%E6%97%A0%E8%B6%85%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "time_info": "[03时19分 ~ 06时15分]"
         },
         {
           "title": "老板杀女友后抛尸 一度判无罪获国赔",
@@ -149,16 +163,16 @@
           "time_info": "[01时23分 ~ 01时24分]"
         },
         {
-          "title": "见过蜘蛛侠穿女装吗",
-          "url": "https://www.douyin.com/hot/2598079",
-          "source": "抖音",
+          "title": "少女前线2追放伊格蕾塔PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF2%E8%BF%BD%E6%94%BE%E4%BC%8A%E6%A0%BC%E8%95%BE%E5%A1%94PV",
+          "source": "bilibili 热搜",
           "ranks": [
-            27,
-            22
+            30,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时19分 ~ 05时01分]"
+          "time_info": "[01时24分 ~ 06时15分]"
         },
         {
           "title": "女孩从18楼跳下男友反复修改赔偿金",
@@ -181,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "少女前线2追放伊格蕾塔PV",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF2%E8%BF%BD%E6%94%BE%E4%BC%8A%E6%A0%BC%E8%95%BE%E5%A1%94PV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
         }
       ]
     },
@@ -206,11 +209,12 @@
           "ranks": [
             17,
             16,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
         },
         {
           "title": "百里守约新皮肤爆料",
@@ -222,8 +226,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
         },
         {
           "title": "澜无双皮肤闪光海报",
@@ -231,22 +235,24 @@
           "source": "抖音",
           "ranks": [
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 06时15分]"
         },
         {
           "title": "王者海月真言先知皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%B5%B7%E6%9C%88%E7%9C%9F%E8%A8%80%E5%85%88%E7%9F%A5%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 06时15分]"
         }
       ]
     },
@@ -260,11 +266,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时15分]"
         }
       ]
     }
