@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T01:24:50.964231+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T03:19:56.098526+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "李亚鹏向地铁吐血女孩捐99999元",
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
         },
         {
           "title": "买1送1,女子吃披萨吃出剪刀",
@@ -25,31 +25,45 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
         },
         {
-          "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
-          "url": "https://www.zhihu.com/question/2067981063033561186",
-          "source": "知乎",
+          "title": "女子旅游错把丧葬品当纪念品买下",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B",
+          "source": "百度热搜",
           "ranks": [
-            4
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 03时19分]"
         },
         {
           "title": "邯郸女当事人回应“举报法院执行局长索贿骚扰”：相信事件会得到公平公正处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33718921",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 03时19分]"
+        },
+        {
+          "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
+          "url": "https://www.zhihu.com/question/2067981063033561186",
+          "source": "知乎",
+          "ranks": [
+            4,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "time_info": "[01时24分 ~ 03时19分]"
         },
         {
           "title": "嘲讽周星驰无儿女没朋友 李修贤道歉",
@@ -59,19 +73,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 03时19分]"
         },
         {
-          "title": "女子旅游错把丧葬品当纪念品买下",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B",
-          "source": "百度热搜",
+          "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33722401",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "time_info": "[03时18分 ~ 03时19分]"
         },
         {
           "title": "老板杀女友后抛尸 一度判无罪获国赔",
@@ -89,11 +103,24 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%E5%87%BA%E8%BD%A8%E7%88%B6%E4%BA%B2%E6%8B%92%E4%BB%98%E5%AD%A6%E8%B4%B9%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
+        },
+        {
+          "title": "出国帮子女带娃的老人在夹缝中煎熬",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%9B%BD%E5%B8%AE%E5%AD%90%E5%A5%B3%E5%B8%A6%E5%A8%83%E7%9A%84%E8%80%81%E4%BA%BA%E5%9C%A8%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%85%8E%E7%86%AC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
         },
         {
           "title": "日本女网红自杀过程被完整直播",
@@ -102,9 +129,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
         },
         {
           "title": "染色体缺失,英女孩变三无超人",
@@ -113,9 +140,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
         },
         {
           "title": "女孩从18楼跳下男友反复修改赔偿金",
@@ -124,9 +151,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "女子因邻车长期压线停车装护栏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%82%BB%E8%BD%A6%E9%95%BF%E6%9C%9F%E5%8E%8B%E7%BA%BF%E5%81%9C%E8%BD%A6%E8%A3%85%E6%8A%A4%E6%A0%8F%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "见过蜘蛛侠穿女装吗",
+          "url": "https://www.douyin.com/hot/2598079",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "少女前线2追放伊格蕾塔PV",
@@ -135,18 +184,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "出国帮子女带娃的老人在夹缝中煎熬",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%9B%BD%E5%B8%AE%E5%AD%90%E5%A5%B3%E5%B8%A6%E5%A8%83%E7%9A%84%E8%80%81%E4%BA%BA%E5%9C%A8%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%85%8E%E7%86%AC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -154,29 +192,42 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "王者澜雾影狼魂皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BE%9C%E9%9B%BE%E5%BD%B1%E7%8B%BC%E9%AD%82%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
         {
           "title": "百里守约新皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E9%87%8C%E5%AE%88%E7%BA%A6%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
+        },
+        {
+          "title": "王者澜雾影狼魂皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BE%9C%E9%9B%BE%E5%BD%B1%E7%8B%BC%E9%AD%82%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
+        },
+        {
+          "title": "澜无双皮肤闪光海报",
+          "url": "https://www.douyin.com/hot/2598915",
+          "source": "抖音",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时19分"
         },
         {
           "title": "王者海月真言先知皮肤爆料",
@@ -185,7 +236,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -200,11 +251,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
         }
       ]
     }
