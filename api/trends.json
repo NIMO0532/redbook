@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T09:53:30.816706+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-08-06T13:02:17.403857+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
@@ -16,19 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时18分 ~ 09时53分]"
-        },
-        {
-          "title": "买1送1,女子吃披萨吃出剪刀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356800&amp;topic_name=%E4%B9%B01%E9%80%811%2C%E5%A5%B3%E5%AD%90%E5%90%83%E6%8A%AB%E8%90%A8%E5%90%83%E5%87%BA%E5%89%AA%E5%88%80",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 09时53分]"
+          "appearance_count": 11,
+          "time_info": "[03时18分 ~ 13时01分]"
         },
         {
           "title": "女子旅游错把丧葬品当纪念品买下",
@@ -52,11 +41,12 @@
             8,
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 09时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 13时01分]"
         },
         {
           "title": "嘲讽周星驰无儿女没朋友 李修贤道歉",
@@ -65,11 +55,24 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 09时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 13时01分]"
+        },
+        {
+          "title": "买1送1,女子吃披萨吃出剪刀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356800&amp;topic_name=%E4%B9%B01%E9%80%811%2C%E5%A5%B3%E5%AD%90%E5%90%83%E6%8A%AB%E8%90%A8%E5%90%83%E5%87%BA%E5%89%AA%E5%88%80",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 13时01分]"
         },
         {
           "title": "41岁女子为鼓励女儿考上985研究生",
@@ -77,11 +80,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 09时53分]"
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 13时01分]"
         },
         {
           "title": "李亚鹏向地铁吐血女孩捐99999元",
@@ -101,11 +105,37 @@
           "url": "https://www.toutiao.com/trending/7670496020695859238/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时01分]"
+        },
+        {
+          "title": "日本女网红自杀过程被完整直播",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E8%BF%87%E7%A8%8B%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 13时01分]"
+        },
+        {
+          "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2068288018167882727",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "time_info": "[09时53分 ~ 13时01分]"
         },
         {
           "title": "李亚鹏向地铁吐血女孩捐99999元",
@@ -133,18 +163,6 @@
           "time_info": "[01时24分 ~ 07时53分]"
         },
         {
-          "title": "日本女网红自杀过程被完整直播",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E8%BF%87%E7%A8%8B%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 09时53分]"
-        },
-        {
           "title": "染色体缺失,英女孩变三无超人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356773&amp;topic_name=%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%2C%E8%8B%B1%E5%A5%B3%E5%AD%A9%E5%8F%98%E4%B8%89%E6%97%A0%E8%B6%85%E4%BA%BA",
           "source": "贴吧",
@@ -154,17 +172,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 09时53分]"
-        },
-        {
-          "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
-          "url": "https://www.zhihu.com/question/2068288018167882727",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
         },
         {
           "title": "女儿考上一本出轨父亲拒付学费",
@@ -181,6 +188,18 @@
           "time_info": "[01时24分 ~ 07时53分]"
         },
         {
+          "title": "女排国手李盈莹已做心脏手术，确定无缘今年亚锦赛和亚运会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33719648",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 13时01分]"
+        },
+        {
           "title": "老板杀女友后抛尸 一度判无罪获国赔",
           "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E6%9D%80%E5%A5%B3%E5%8F%8B%E5%90%8E%E6%8A%9B%E5%B0%B8+%E4%B8%80%E5%BA%A6%E5%88%A4%E6%97%A0%E7%BD%AA%E8%8E%B7%E5%9B%BD%E8%B5%94",
           "source": "百度热搜",
@@ -193,16 +212,17 @@
           "time_info": "[01时23分 ~ 07时53分]"
         },
         {
-          "title": "女排国手李盈莹已做心脏手术，确定无缘今年亚锦赛和亚运会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33719648",
-          "source": "澎湃新闻",
+          "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
+          "url": "https://www.zhihu.com/question/2068241594126267915",
+          "source": "知乎",
           "ranks": [
-            16,
-            15
+            12,
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 13时01分]"
         },
         {
           "title": "少女前线2追放伊格蕾塔PV",
@@ -265,18 +285,6 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
-          "url": "https://www.zhihu.com/question/2068241594126267915",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时53分]"
-        },
-        {
           "title": "为鼓励女儿 41岁妈妈考上985研究生",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E9%BC%93%E5%8A%B1%E5%A5%B3%E5%84%BF+41%E5%B2%81%E5%A6%88%E5%A6%88%E8%80%83%E4%B8%8A985%E7%A0%94%E7%A9%B6%E7%94%9F",
           "source": "百度热搜",
@@ -321,6 +329,61 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
+          "title": "日本女演员捐款反被嘲脏钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356813&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E6%8D%90%E6%AC%BE%E5%8F%8D%E8%A2%AB%E5%98%B2%E8%84%8F%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "婚外胚胎案父亲已10个月没见过女儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E7%88%B6%E4%BA%B2%E5%B7%B210%E4%B8%AA%E6%9C%88%E6%B2%A1%E8%A7%81%E8%BF%87%E5%A5%B3%E5%84%BF%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "C罗再次回应女友身材评论",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8F%8B%E8%BA%AB%E6%9D%90%E8%AF%84%E8%AE%BA%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "日本籍女网红在韩直播时自杀身亡",
+          "url": "https://www.toutiao.com/trending/7670081701817073705/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "侯卓成前女友",
+          "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E5%89%8D%E5%A5%B3%E5%8F%8B&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "女孩从18楼跳下男友反复修改赔偿金",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%BB%8E18%E6%A5%BC%E8%B7%B3%E4%B8%8B%E7%94%B7%E5%8F%8B%E5%8F%8D%E5%A4%8D%E4%BF%AE%E6%94%B9%E8%B5%94%E5%81%BF%E9%87%91%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -346,7 +409,7 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "王者澜雾影狼魂皮肤爆料",
@@ -365,6 +428,20 @@
           "time_info": "[01时24分 ~ 09时53分]"
         },
         {
+          "title": "澜无双皮肤闪光海报",
+          "url": "https://www.douyin.com/hot/2598915",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时19分 ~ 13时01分]"
+        },
+        {
           "title": "百里守约新皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E9%87%8C%E5%AE%88%E7%BA%A6%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
@@ -380,19 +457,6 @@
           "time_info": "[01时24分 ~ 09时53分]"
         },
         {
-          "title": "澜无双皮肤闪光海报",
-          "url": "https://www.douyin.com/hot/2598915",
-          "source": "抖音",
-          "ranks": [
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 09时53分]"
-        },
-        {
           "title": "王者海月真言先知皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%B5%B7%E6%9C%88%E7%9C%9F%E8%A8%80%E5%85%88%E7%9F%A5%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
@@ -404,6 +468,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 09时53分]"
+        },
+        {
+          "title": "王者荣耀无尽之局新皮肤",
+          "url": "https://www.douyin.com/hot/2597117",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -423,6 +498,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用老一辈的审美看八仙",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E5%AE%A1%E7%BE%8E%E7%9C%8B%E5%85%AB%E4%BB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
