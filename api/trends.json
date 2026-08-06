@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:02:17.403857+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-08-06T16:21:28.583011+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
@@ -56,11 +56,12 @@
             12,
             13,
             14,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 13时01分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 16时21分]"
         },
         {
           "title": "买1送1,女子吃披萨吃出剪刀",
@@ -68,11 +69,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 13时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 16时21分]"
         },
         {
           "title": "41岁女子为鼓励女儿考上985研究生",
@@ -89,6 +91,19 @@
         },
         {
           "title": "李亚鹏向地铁吐血女孩捐99999元",
+          "url": "https://www.toutiao.com/trending/7670496020695859238/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 16时21分]"
+        },
+        {
+          "title": "李亚鹏向地铁吐血女孩捐99999元",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%90%91%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E6%8D%9099999%E5%85%83%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
@@ -101,16 +116,28 @@
           "time_info": "[01时24分 ~ 09时53分]"
         },
         {
-          "title": "李亚鹏向地铁吐血女孩捐99999元",
-          "url": "https://www.toutiao.com/trending/7670496020695859238/",
-          "source": "今日头条",
+          "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2068288018167882727",
+          "source": "知乎",
           "ranks": [
-            2,
-            5
+            4,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时01分]"
+          "time_info": "[09时53分 ~ 16时21分]"
+        },
+        {
+          "title": "80后女柜员逆袭成4200亿银行副行长",
+          "url": "https://www.toutiao.com/trending/7670734565728272447/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "日本女网红自杀过程被完整直播",
@@ -126,18 +153,6 @@
           "time_info": "[01时24分 ~ 13时01分]"
         },
         {
-          "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
-          "url": "https://www.zhihu.com/question/2068288018167882727",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时01分]"
-        },
-        {
           "title": "李亚鹏向地铁吐血女孩捐99999元",
           "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%90%91%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E6%8D%9099999%E5%85%83",
           "source": "百度热搜",
@@ -147,6 +162,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "婚外胚胎案父亲已10个月没见过女儿",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E7%88%B6%E4%BA%B2%E5%B7%B210%E4%B8%AA%E6%9C%88%E6%B2%A1%E8%A7%81%E8%BF%87%E5%A5%B3%E5%84%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "女子用漏洞0元买了3千台电器",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E6%BC%8F%E6%B4%9E0%E5%85%83%E4%B9%B0%E4%BA%863%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
@@ -172,6 +209,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 09时53分]"
+        },
+        {
+          "title": "霓虹女网红遭粉丝网暴自缢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356828&amp;topic_name=%E9%9C%93%E8%99%B9%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E7%B2%89%E4%B8%9D%E7%BD%91%E6%9A%B4%E8%87%AA%E7%BC%A2",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "女儿考上一本出轨父亲拒付学费",
@@ -200,6 +248,19 @@
           "time_info": "[07时52分 ~ 13时01分]"
         },
         {
+          "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
+          "url": "https://www.zhihu.com/question/2068241594126267915",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 16时21分]"
+        },
+        {
           "title": "老板杀女友后抛尸 一度判无罪获国赔",
           "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E6%9D%80%E5%A5%B3%E5%8F%8B%E5%90%8E%E6%8A%9B%E5%B0%B8+%E4%B8%80%E5%BA%A6%E5%88%A4%E6%97%A0%E7%BD%AA%E8%8E%B7%E5%9B%BD%E8%B5%94",
           "source": "百度热搜",
@@ -210,19 +271,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 07时53分]"
-        },
-        {
-          "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
-          "url": "https://www.zhihu.com/question/2068241594126267915",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时01分]"
         },
         {
           "title": "少女前线2追放伊格蕾塔PV",
@@ -274,6 +322,18 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
+          "title": "日本女演员捐款反被嘲脏钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356813&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E6%8D%90%E6%AC%BE%E5%8F%8D%E8%A2%AB%E5%98%B2%E8%84%8F%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时21分]"
+        },
+        {
           "title": "被错换37年女子起诉医院：本不需辍学",
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%94%99%E6%8D%A237%E5%B9%B4%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%BE%8D%E5%AD%A6",
           "source": "百度热搜",
@@ -283,6 +343,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "日本女演员捐款300万日元被骂脏钱",
+          "url": "https://www.toutiao.com/trending/7670510447481667638/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "日本地震遇难女子与婚纱一同下葬",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%A9%9A%E7%BA%B1%E4%B8%80%E5%90%8C%E4%B8%8B%E8%91%AC",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "祠堂中门大开迎接考上北大女孩拜祖",
+          "url": "https://www.toutiao.com/trending/7670163447250239529/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "为鼓励女儿 41岁妈妈考上985研究生",
@@ -307,6 +400,17 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
+          "title": "侯卓成前女友",
+          "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E5%89%8D%E5%A5%B3%E5%8F%8B&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时21分]"
+        },
+        {
           "title": "川师大称给“床头放菜刀女孩”帮助",
           "url": "https://www.toutiao.com/trending/7670168061567434779/",
           "source": "今日头条",
@@ -329,24 +433,13 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "日本女演员捐款反被嘲脏钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356813&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E6%8D%90%E6%AC%BE%E5%8F%8D%E8%A2%AB%E5%98%B2%E8%84%8F%E9%92%B1",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "婚外胚胎案父亲已10个月没见过女儿",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E7%88%B6%E4%BA%B2%E5%B7%B210%E4%B8%AA%E6%9C%88%E6%B2%A1%E8%A7%81%E8%BF%87%E5%A5%B3%E5%84%BF%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -357,7 +450,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -368,20 +461,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "侯卓成前女友",
-          "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E5%89%8D%E5%A5%B3%E5%8F%8B&t=31&band_rank=21&Refer=top",
+          "title": "直播自杀日本女网红已身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E8%87%AA%E6%9D%80%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "16时21分"
+        },
+        {
+          "title": "妈妈偷改女儿高考志愿",
+          "url": "https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%81%B7%E6%94%B9%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "女孩从18楼跳下男友反复修改赔偿金",
@@ -412,6 +516,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "澜无双皮肤闪光海报",
+          "url": "https://www.douyin.com/hot/2598915",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时19分 ~ 16时21分]"
+        },
+        {
           "title": "王者澜雾影狼魂皮肤爆料",
           "url": "https://search.bilibili.com/all?keyword=%E6%BE%9C%E9%9B%BE%E5%BD%B1%E7%8B%BC%E9%AD%82%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
@@ -426,20 +544,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 09时53分]"
-        },
-        {
-          "title": "澜无双皮肤闪光海报",
-          "url": "https://www.douyin.com/hot/2598915",
-          "source": "抖音",
-          "ranks": [
-            13,
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时19分 ~ 13时01分]"
         },
         {
           "title": "百里守约新皮肤爆料",
@@ -476,7 +580,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -484,7 +588,7 @@
     },
     {
       "keyword_group": "脑机接口",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "脑机接口如何帮助人类",
@@ -498,12 +602,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 06时15分]"
+        },
+        {
+          "title": "北京海淀加速打造脑机接口新高地 核心企业占全国近60%",
+          "url": "https://wallstreetcn.com/livenews/3145898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "北京海淀加速打造脑机接口新高地 核心企业占全国近60%",
+          "url": "https://flash.jin10.com/detail/20260806154251975800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
     {
       "keyword_group": "审美",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "用老一辈的审美看八仙",
@@ -512,9 +638,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时21分]"
+        },
+        {
+          "title": "作品深度是新时代的审美谎言",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9C%E5%93%81%E6%B7%B1%E5%BA%A6%E6%98%AF%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AE%A1%E7%BE%8E%E8%B0%8E%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "16时21分"
         }
       ]
     }
