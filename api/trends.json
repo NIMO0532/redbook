@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T00:45:17.834754+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T01:43:09.661709+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
@@ -15,41 +15,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时42分]"
         },
         {
           "title": "女子称面试大概率失败但很开心",
           "url": "https://www.toutiao.com/trending/7671129967350186020/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时42分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
           "url": "https://www.toutiao.com/trending/7671197679598501942/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时42分]"
         },
         {
           "title": "名创优品回应女子吐槽内裤质量差",
           "url": "https://www.toutiao.com/trending/7671241351901331502/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时42分]"
         },
         {
           "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
@@ -59,19 +62,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时42分]"
         },
         {
           "title": "中国女篮70-67险胜尼日利亚女篮",
           "url": "https://www.toutiao.com/trending/7670790051076309030/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时42分]"
+        },
+        {
+          "title": "女子生下4胞胎被全家宠上天称嫁对人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "time_info": "[00时45分 ~ 01时42分]"
         },
         {
           "title": "女儿为争财产堵门阻挠父亲出殡",
@@ -85,15 +101,37 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
-          "title": "女子生下4胞胎被全家宠上天称嫁对人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "女子丧偶后卷入赔偿金争夺战",
+          "url": "https://www.toutiao.com/trending/7671254166086189075/",
+          "source": "今日头条",
           "ranks": [
-            23
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 01时42分]"
+        },
+        {
+          "title": "河南濮阳一女子趁店内无人拿走手机",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E8%B6%81%E5%BA%97%E5%86%85%E6%97%A0%E4%BA%BA%E6%8B%BF%E8%B5%B0%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 01时42分]"
+        },
+        {
+          "title": "女子趁店内无人偷走手机",
+          "url": "https://www.toutiao.com/trending/7670836574881316902/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 01时42分]"
         },
         {
           "title": "南太行失联女孩家属发声",
@@ -102,7 +140,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         }
@@ -117,11 +155,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E5%AE%A1%E7%BE%8E%E7%9C%8B%E5%85%AB%E4%BB%99",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时42分]"
         }
       ]
     }
