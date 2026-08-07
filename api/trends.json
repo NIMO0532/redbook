@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-07T13:30:07.132499+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-08-07T15:03:49.575077+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "9岁120斤啦啦队女孩跳舞火出圈",
+          "url": "https://www.toutiao.com/trending/7670834349955514409/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 15时03分]"
+        },
+        {
+          "title": "对话重庆地铁吐血女孩",
+          "url": "https://www.toutiao.com/trending/7670863821283806770/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时36分 ~ 15时03分]"
+        },
         {
           "title": "男子结婚8年发现3个女儿均非亲生",
           "url": "https://www.toutiao.com/trending/7670902198699819049/",
@@ -19,16 +43,16 @@
           "time_info": "[11时43分 ~ 11时44分]"
         },
         {
-          "title": "9岁120斤啦啦队女孩跳舞火出圈",
-          "url": "https://www.toutiao.com/trending/7670834349955514409/",
+          "title": "70多岁父亲独自坐车到上海看望女儿",
+          "url": "https://www.toutiao.com/trending/7671102765592051763/",
           "source": "今日头条",
           "ranks": [
-            14,
-            2
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时43分 ~ 13时29分]"
+          "time_info": "[13时28分 ~ 15时03分]"
         },
         {
           "title": "女子开一天一夜空调后二氧化碳中毒",
@@ -42,16 +66,29 @@
           "time_info": "[11时43分 ~ 11时44分]"
         },
         {
-          "title": "对话重庆地铁吐血女孩",
-          "url": "https://www.toutiao.com/trending/7670863821283806770/",
+          "title": "女子开一天一夜空调后二氧化碳中毒",
+          "url": "https://www.toutiao.com/trending/7670581486756560938/",
           "source": "今日头条",
           "ranks": [
-            15,
-            20
+            13,
+            28,
+            29
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时36分 ~ 13时29分]"
+          "time_info": "[08时36分 ~ 15时03分]"
+        },
+        {
+          "title": "27岁女子成组织卖淫集团主犯被通缉",
+          "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E8%A2%AB%E9%80%9A%E7%BC%89",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 15时03分]"
         },
         {
           "title": "父亲劝读师范 女儿偏要考北大",
@@ -66,6 +103,32 @@
           "time_info": "[11时43分 ~ 13时29分]"
         },
         {
+          "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33735577",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 15时03分]"
+        },
+        {
+          "title": "霓虹女网红遭粉丝网暴自缢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356828&amp;topic_name=%E9%9C%93%E8%99%B9%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E7%B2%89%E4%B8%9D%E7%BD%91%E6%9A%B4%E8%87%AA%E7%BC%A2",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时37分 ~ 15时03分]"
+        },
+        {
           "title": "27岁女子成组织卖淫集团主犯被通缉",
           "url": "https://www.toutiao.com/trending/7670541877679620150/",
           "source": "今日头条",
@@ -78,29 +141,16 @@
           "time_info": "[08时36分 ~ 11时44分]"
         },
         {
-          "title": "女子开一天一夜空调后二氧化碳中毒",
-          "url": "https://www.toutiao.com/trending/7670581486756560938/",
-          "source": "今日头条",
+          "title": "汪峰阻止14岁女儿买大牌",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E9%98%BB%E6%AD%A214%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B9%B0%E5%A4%A7%E7%89%8C",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            28
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时36分 ~ 11时44分]"
-        },
-        {
-          "title": "霓虹女网红遭粉丝网暴自缢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356828&amp;topic_name=%E9%9C%93%E8%99%B9%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E7%B2%89%E4%B8%9D%E7%BD%91%E6%9A%B4%E8%87%AA%E7%BC%A2",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 13时29分]"
+          "time_info": "[13时28分 ~ 15时03分]"
         },
         {
           "title": "日本女演员捐款反被嘲脏钱",
@@ -116,26 +166,15 @@
           "time_info": "[08时37分 ~ 13时29分]"
         },
         {
-          "title": "70多岁父亲独自坐车到上海看望女儿",
-          "url": "https://www.toutiao.com/trending/7671102765592051763/",
+          "title": "男友花15元为女孩手搓“空调”",
+          "url": "https://www.toutiao.com/trending/7670855173081710611/",
           "source": "今日头条",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
-          "title": "27岁女子成组织卖淫集团主犯被通缉",
-          "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E8%A2%AB%E9%80%9A%E7%BC%89",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "time_info": "[15时02分 ~ 15时03分]"
         },
         {
           "title": "47岁妈妈突然产女 26岁女儿：很震惊",
@@ -149,17 +188,6 @@
           "time_info": "[11时43分 ~ 11时44分]"
         },
         {
-          "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33735577",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
           "title": "翁虹想演《功夫女足2》 角色都想好了",
           "url": "https://www.baidu.com/s?wd=%E7%BF%81%E8%99%B9%E6%83%B3%E6%BC%94%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B32%E3%80%8B+%E8%A7%92%E8%89%B2%E9%83%BD%E6%83%B3%E5%A5%BD%E4%BA%86",
           "source": "百度热搜",
@@ -169,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 11时44分]"
-        },
-        {
-          "title": "汪峰阻止14岁女儿买大牌",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E9%98%BB%E6%AD%A214%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B9%B0%E5%A4%A7%E7%89%8C",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
         },
         {
           "title": "女子利用漏洞0元薅走3000多件家电",
@@ -202,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时36分 ~ 08时37分]"
+        },
+        {
+          "title": "9岁120斤啦啦队女孩跳舞火出圈",
+          "url": "https://www.baidu.com/s?wd=9%E5%B2%81120%E6%96%A4%E5%95%A6%E5%95%A6%E9%98%9F%E5%A5%B3%E5%AD%A9%E8%B7%B3%E8%88%9E%E7%81%AB%E5%87%BA%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
         },
         {
           "title": "27岁女子组织卖淫集团被悬赏通缉",
@@ -237,13 +265,24 @@
           "time_info": "[11时43分 ~ 11时44分]"
         },
         {
+          "title": "田曦薇胡一天天才女友抖音直播",
+          "url": "https://www.douyin.com/hot/2600436",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "27岁女子成组织卖淫集团主犯",
           "url": "https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -298,24 +337,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "用老一辈的审美看八仙",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E5%AE%A1%E7%BE%8E%E7%9C%8B%E5%85%AB%E4%BB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时37分 ~ 15时03分]"
+        },
+        {
           "title": "作品深度是新时代的审美谎言",
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9C%E5%93%81%E6%B7%B1%E5%BA%A6%E6%98%AF%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AE%A1%E7%BE%8E%E8%B0%8E%E8%A8%80",
           "source": "bilibili 热搜",
           "ranks": [
             30,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时37分 ~ 11时44分]"
-        },
-        {
-          "title": "用老一辈的审美看八仙",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E5%AE%A1%E7%BE%8E%E7%9C%8B%E5%85%AB%E4%BB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
