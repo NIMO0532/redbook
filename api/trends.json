@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:32:23.198949+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-08-08T06:27:53.193580+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 06时27分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 06时27分]"
         },
         {
           "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 06时27分]"
         },
         {
           "title": "河南濮阳一女子趁店内无人拿走手机",
@@ -52,11 +52,12 @@
             22,
             8,
             6,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 06时27分]"
         },
         {
           "title": "女子称面试大概率失败但很开心",
@@ -66,11 +67,25 @@
             6,
             8,
             28,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时27分]"
+        },
+        {
+          "title": "女子生下4胞胎被全家宠上天称嫁对人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时27分]"
         },
         {
           "title": "中国女篮70-67险胜尼日利亚女篮",
@@ -85,19 +100,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 03时46分]"
-        },
-        {
-          "title": "女子生下4胞胎被全家宠上天称嫁对人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时32分]"
         },
         {
           "title": "名创优品回应女子吐槽内裤质量差",
@@ -118,11 +120,12 @@
           "ranks": [
             30,
             29,
-            27
+            27,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 05时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 06时27分]"
         },
         {
           "title": "女儿为争财产堵门阻挠父亲出殡",
@@ -187,8 +190,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时27分]"
         }
       ]
     }
