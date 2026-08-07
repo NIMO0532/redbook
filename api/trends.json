@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:45:25.939802+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-08-07T19:40:54.201750+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
@@ -16,11 +16,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时28分 ~ 18时45分]"
+          "appearance_count": 12,
+          "time_info": "[13时28分 ~ 19时40分]"
         },
         {
           "title": "9岁120斤啦啦队女孩跳舞火出圈",
@@ -34,6 +35,35 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时43分 ~ 16时49分]"
+        },
+        {
+          "title": "女儿卖房定价9000被母亲7500签约",
+          "url": "https://www.toutiao.com/trending/7671197679598501942/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 19时40分]"
+        },
+        {
+          "title": "霓虹女网红遭粉丝网暴自缢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356828&amp;topic_name=%E9%9C%93%E8%99%B9%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E7%B2%89%E4%B8%9D%E7%BD%91%E6%9A%B4%E8%87%AA%E7%BC%A2",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            17,
+            21,
+            24,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时37分 ~ 19时40分]"
         },
         {
           "title": "对话重庆地铁吐血女孩",
@@ -61,22 +91,6 @@
           "time_info": "[16时48分 ~ 18时45分]"
         },
         {
-          "title": "霓虹女网红遭粉丝网暴自缢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356828&amp;topic_name=%E9%9C%93%E8%99%B9%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E7%B2%89%E4%B8%9D%E7%BD%91%E6%9A%B4%E8%87%AA%E7%BC%A2",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            17,
-            21,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时37分 ~ 18时45分]"
-        },
-        {
           "title": "男子结婚8年发现3个女儿均非亲生",
           "url": "https://www.toutiao.com/trending/7670902198699819049/",
           "source": "今日头条",
@@ -98,17 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时28分 ~ 15时03分]"
-        },
-        {
-          "title": "女儿卖房定价9000被母亲7500签约",
-          "url": "https://www.toutiao.com/trending/7671197679598501942/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "女子开一天一夜空调后二氧化碳中毒",
@@ -243,6 +246,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时37分 ~ 13时29分]"
+        },
+        {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "47岁妈妈突然产女 26岁女儿：很震惊",
@@ -383,7 +397,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -484,11 +498,12 @@
             22,
             23,
             20,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时37分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[08时37分 ~ 19时40分]"
         },
         {
           "title": "作品深度是新时代的审美谎言",
