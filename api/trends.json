@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T20:45:31.585211+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-08-07T22:08:00.813616+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时28分 ~ 20时45分]"
+          "appearance_count": 15,
+          "time_info": "[13时28分 ~ 22时07分]"
         },
         {
           "title": "9岁120斤啦啦队女孩跳舞火出圈",
@@ -43,11 +43,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 22时07分]"
         },
         {
           "title": "霓虹女网红遭粉丝网暴自缢",
@@ -153,6 +154,17 @@
           "time_info": "[08时36分 ~ 15时03分]"
         },
         {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 22时07分]"
+        },
+        {
           "title": "27岁女子成组织卖淫集团主犯被通缉",
           "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E8%A2%AB%E9%80%9A%E7%BC%89",
           "source": "百度热搜",
@@ -187,17 +199,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时43分 ~ 13时29分]"
-        },
-        {
-          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
-          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时39分 ~ 20时45分]"
         },
         {
           "title": "27岁女子成组织卖淫集团主犯被通缉",
@@ -248,6 +249,30 @@
           "time_info": "[16时49分 ~ 18时45分]"
         },
         {
+          "title": "女儿为争财产堵门阻挠父亲出殡",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%BA%E4%BA%89%E8%B4%A2%E4%BA%A7%E5%A0%B5%E9%97%A8%E9%98%BB%E6%8C%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E6%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时07分]"
+        },
+        {
+          "title": "女子跳下货车男子追逐 二人系夫妻",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%B3%E4%B8%8B%E8%B4%A7%E8%BD%A6%E7%94%B7%E5%AD%90%E8%BF%BD%E9%80%90+%E4%BA%8C%E4%BA%BA%E7%B3%BB%E5%A4%AB%E5%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时07分]"
+        },
+        {
           "title": "日本女演员捐款反被嘲脏钱",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356813&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E6%8D%90%E6%AC%BE%E5%8F%8D%E8%A2%AB%E5%98%B2%E8%84%8F%E9%92%B1",
           "source": "贴吧",
@@ -272,17 +297,6 @@
           "time_info": "[11时43分 ~ 11时44分]"
         },
         {
-          "title": "女儿为争财产堵门阻挠父亲出殡",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%BA%E4%BA%89%E8%B4%A2%E4%BA%A7%E5%A0%B5%E9%97%A8%E9%98%BB%E6%8C%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E6%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
           "title": "翁虹想演《功夫女足2》 角色都想好了",
           "url": "https://www.baidu.com/s?wd=%E7%BF%81%E8%99%B9%E6%83%B3%E6%BC%94%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B32%E3%80%8B+%E8%A7%92%E8%89%B2%E9%83%BD%E6%83%B3%E5%A5%BD%E4%BA%86",
           "source": "百度热搜",
@@ -292,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 11时44分]"
-        },
-        {
-          "title": "女子跳下货车男子追逐 二人系夫妻",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%B3%E4%B8%8B%E8%B4%A7%E8%BD%A6%E7%94%B7%E5%AD%90%E8%BF%BD%E9%80%90+%E4%BA%8C%E4%BA%BA%E7%B3%BB%E5%A4%AB%E5%A6%BB",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "女子利用漏洞0元薅走3000多件家电",
@@ -399,7 +402,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -476,7 +479,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -487,7 +490,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -556,11 +559,12 @@
             23,
             20,
             18,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时37分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[08时37分 ~ 22时07分]"
         },
         {
           "title": "作品深度是新时代的审美谎言",
