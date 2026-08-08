@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T20:32:54.400719+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-08-08T21:40:15.227066+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "女子称丰胸术9个月后确诊乳腺癌，医美机构：手术不可能引发癌症，建议走司法途径",
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时26分 ~ 20时32分]"
+          "appearance_count": 22,
+          "time_info": "[07时26分 ~ 21时39分]"
         },
         {
           "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
@@ -63,6 +64,21 @@
           "time_info": "[13时37分 ~ 17时30分]"
         },
         {
+          "title": "女员工0元购狂薅3千台电器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 21时39分]"
+        },
+        {
           "title": "女儿卖房定价9000被母亲7500签约",
           "url": "https://www.toutiao.com/trending/7671197679598501942/",
           "source": "今日头条",
@@ -92,21 +108,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时41分 ~ 09时03分]"
-        },
-        {
-          "title": "女员工0元购狂薅3千台电器",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 20时32分]"
         },
         {
           "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
@@ -169,6 +170,20 @@
           "time_info": "[00时45分 ~ 09时03分]"
         },
         {
+          "title": "功夫女足全员多谢观众的支持",
+          "url": "https://www.douyin.com/hot/2601850",
+          "source": "抖音",
+          "ranks": [
+            14,
+            20,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 21时39分]"
+        },
+        {
           "title": "女主硬加吻戏短剧已下架",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E7%A1%AC%E5%8A%A0%E5%90%BB%E6%88%8F%E7%9F%AD%E5%89%A7%E5%B7%B2%E4%B8%8B%E6%9E%B6",
           "source": "百度热搜",
@@ -194,20 +209,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时42分 ~ 18时24分]"
-        },
-        {
-          "title": "功夫女足全员多谢观众的支持",
-          "url": "https://www.douyin.com/hot/2601850",
-          "source": "抖音",
-          "ranks": [
-            14,
-            20,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 20时32分]"
         },
         {
           "title": "女儿为争财产堵门阻挠父亲出殡",
@@ -238,6 +239,29 @@
           "time_info": "[00时44分 ~ 03时46分]"
         },
         {
+          "title": "中国女篮70:67尼日利亚",
+          "url": "https://www.douyin.com/hot/2601456",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 21时39分]"
+        },
+        {
+          "title": "深度探访伊朗遇袭女子学校",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "男子工地坠亡百万赔偿金妻女仅得3万",
           "url": "https://www.toutiao.com/trending/7670351274126114822/",
           "source": "今日头条",
@@ -249,16 +273,16 @@
           "time_info": "09时03分"
         },
         {
-          "title": "中国女篮70:67尼日利亚",
-          "url": "https://www.douyin.com/hot/2601456",
-          "source": "抖音",
+          "title": "郭晶晶大女儿边走路边看书",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BE%B9%E8%B5%B0%E8%B7%AF%E8%BE%B9%E7%9C%8B%E4%B9%A6",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            26
+            23,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时32分]"
+          "time_info": "[19时21分 ~ 21时39分]"
         },
         {
           "title": "丈夫坠亡后百万赔偿款妻女仅得3万",
@@ -324,18 +348,6 @@
           "time_info": "[09时03分 ~ 12时49分]"
         },
         {
-          "title": "郭晶晶大女儿边走路边看书",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BE%B9%E8%B5%B0%E8%B7%AF%E8%BE%B9%E7%9C%8B%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 20时32分]"
-        },
-        {
           "title": "22岁女生独闯南太行失联12天",
           "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E7%94%9F%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9412%E5%A4%A9",
           "source": "百度热搜",
@@ -346,6 +358,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时37分 ~ 14时38分]"
+        },
+        {
+          "title": "女子突发疾病 嫂子坚持抢救",
+          "url": "https://www.toutiao.com/trending/7671558271230345267/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时39分]"
         },
         {
           "title": "医生回应女子被狗舔脚确诊三级暴露",
@@ -359,6 +383,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 11时18分]"
+        },
+        {
+          "title": "俄罗斯女子错过航班闯停机坪拦飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E5%AD%90%E9%94%99%E8%BF%87%E8%88%AA%E7%8F%AD%E9%97%AF%E5%81%9C%E6%9C%BA%E5%9D%AA%E6%8B%A6%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时39分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -396,17 +431,6 @@
           "time_info": "[07时26分 ~ 07时27分]"
         },
         {
-          "title": "女子突发疾病 嫂子坚持抢救",
-          "url": "https://www.toutiao.com/trending/7671558271230345267/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
           "title": "18岁女孩遭强奸案被挂案五年",
           "url": "https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%BC%BA%E5%A5%B8%E6%A1%88%E8%A2%AB%E6%8C%82%E6%A1%88%E4%BA%94%E5%B9%B4%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -419,15 +443,16 @@
           "time_info": "[19时22分 ~ 20时32分]"
         },
         {
-          "title": "俄罗斯女子错过航班闯停机坪拦飞机",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E5%AD%90%E9%94%99%E8%BF%87%E8%88%AA%E7%8F%AD%E9%97%AF%E5%81%9C%E6%9C%BA%E5%9D%AA%E6%8B%A6%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "瑞典大满贯 女单签表",
+          "url": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%20%E5%A5%B3%E5%8D%95%E7%AD%BE%E8%A1%A8&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            29,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "time_info": "[20时32分 ~ 21时39分]"
         },
         {
           "title": "要不念相思刺棠互换男女主吧",
@@ -517,17 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        },
-        {
-          "title": "瑞典大满贯 女单签表",
-          "url": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%20%E5%A5%B3%E5%8D%95%E7%AD%BE%E8%A1%A8&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         }
       ]
     },
