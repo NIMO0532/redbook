@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T17:31:09.332104+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-08-08T18:24:19.125224+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时26分 ~ 17时30分]"
+          "appearance_count": 17,
+          "time_info": "[07时26分 ~ 18时24分]"
         },
         {
           "title": "新疆女孩在天津偶遇支教老师哭红眼",
@@ -40,11 +40,12 @@
           "ranks": [
             1,
             7,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时48分 ~ 17时30分]"
+          "appearance_count": 13,
+          "time_info": "[12时48分 ~ 18时24分]"
         },
         {
           "title": "新疆女孩在天津偶遇支教老师哭红眼",
@@ -161,8 +162,35 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时30分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 18时24分]"
+        },
+        {
+          "title": "女主硬加吻戏短剧已下架",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E7%A1%AC%E5%8A%A0%E5%90%BB%E6%88%8F%E7%9F%AD%E5%89%A7%E5%B7%B2%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 18时24分]"
+        },
+        {
+          "title": "教练失手女子被踏板砸中：当场砸出血",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E7%BB%83%E5%A4%B1%E6%89%8B%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%8F%E6%9D%BF%E7%A0%B8%E4%B8%AD%EF%BC%9A%E5%BD%93%E5%9C%BA%E7%A0%B8%E5%87%BA%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 18时24分]"
         },
         {
           "title": "女儿为争财产堵门阻挠父亲出殡",
@@ -204,30 +232,18 @@
           "time_info": "09时03分"
         },
         {
-          "title": "女主硬加吻戏短剧已下架",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E7%A1%AC%E5%8A%A0%E5%90%BB%E6%88%8F%E7%9F%AD%E5%89%A7%E5%B7%B2%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
+          "title": "功夫女足全员多谢观众的支持",
+          "url": "https://www.douyin.com/hot/2601850",
+          "source": "抖音",
           "ranks": [
-            10,
-            9,
-            8
+            14,
+            20,
+            18,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时42分 ~ 17时30分]"
-        },
-        {
-          "title": "教练失手女子被踏板砸中：当场砸出血",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E7%BB%83%E5%A4%B1%E6%89%8B%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%8F%E6%9D%BF%E7%A0%B8%E4%B8%AD%EF%BC%9A%E5%BD%93%E5%9C%BA%E7%A0%B8%E5%87%BA%E8%A1%80",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时42分 ~ 17时30分]"
+          "time_info": "[14时38分 ~ 18时24分]"
         },
         {
           "title": "丈夫坠亡后百万赔偿款妻女仅得3万",
@@ -293,19 +309,6 @@
           "time_info": "[09时03分 ~ 12时49分]"
         },
         {
-          "title": "功夫女足全员多谢观众的支持",
-          "url": "https://www.douyin.com/hot/2601850",
-          "source": "抖音",
-          "ranks": [
-            14,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时30分]"
-        },
-        {
           "title": "22岁女生独闯南太行失联12天",
           "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E7%94%9F%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9412%E5%A4%A9",
           "source": "百度热搜",
@@ -329,6 +332,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 11时18分]"
+        },
+        {
+          "title": "中国女篮70:67尼日利亚",
+          "url": "https://www.douyin.com/hot/2601456",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -364,18 +379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
-          "title": "中国女篮70:67尼日利亚",
-          "url": "https://www.douyin.com/hot/2601456",
-          "source": "抖音",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时30分]"
         },
         {
           "title": "要不念相思刺棠互换男女主吧",
@@ -501,7 +504,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         }
@@ -535,11 +538,12 @@
           "ranks": [
             3,
             21,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时24分]"
         }
       ]
     }
