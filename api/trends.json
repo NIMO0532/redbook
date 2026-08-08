@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-08T14:38:52.402405+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-08-08T15:43:27.160769+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "新疆女孩在天津偶遇支教老师哭红眼",
+          "url": "https://www.toutiao.com/trending/7671460092932636678/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 15时43分]"
+        },
         {
           "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
           "url": "https://m.thepaper.cn/newsDetail_forward_33735577",
@@ -30,19 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 14时38分]"
-        },
-        {
-          "title": "新疆女孩在天津偶遇支教老师哭红眼",
-          "url": "https://www.toutiao.com/trending/7671460092932636678/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 14时38分]"
+          "appearance_count": 12,
+          "time_info": "[07时26分 ~ 15时43分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -99,11 +99,12 @@
             13,
             17,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 15时43分]"
         },
         {
           "title": "女子称面试大概率失败但很开心",
@@ -140,11 +141,24 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            5
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时37分 ~ 15时43分]"
+        },
+        {
+          "title": "女员工0元购狂薅3千台电器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时37分 ~ 14时38分]"
+          "time_info": "[12时49分 ~ 15时43分]"
         },
         {
           "title": "中国女篮70-67险胜尼日利亚女篮",
@@ -170,18 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "女员工0元购狂薅3千台电器",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 14时38分]"
         },
         {
           "title": "丈夫坠亡后百万赔偿款妻女仅得3万",
@@ -259,6 +261,18 @@
           "time_info": "[13时37分 ~ 14时38分]"
         },
         {
+          "title": "女儿为争财产堵门阻挠父亲出殡",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%BA%E4%BA%89%E8%B4%A2%E4%BA%A7%E5%A0%B5%E9%97%A8%E9%98%BB%E6%8C%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E6%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 15时43分]"
+        },
+        {
           "title": "医生回应女子被狗舔脚确诊三级暴露",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E8%88%94%E8%84%9A%E7%A1%AE%E8%AF%8A%E4%B8%89%E7%BA%A7%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -270,6 +284,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 11时18分]"
+        },
+        {
+          "title": "女主硬加吻戏短剧已下架",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E7%A1%AC%E5%8A%A0%E5%90%BB%E6%88%8F%E7%9F%AD%E5%89%A7%E5%B7%B2%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "教练失手女子被踏板砸中：当场砸出血",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E7%BB%83%E5%A4%B1%E6%89%8B%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%8F%E6%9D%BF%E7%A0%B8%E4%B8%AD%EF%BC%9A%E5%BD%93%E5%9C%BA%E7%A0%B8%E5%87%BA%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -284,6 +320,30 @@
           "time_info": "[09时03分 ~ 11时18分]"
         },
         {
+          "title": "功夫女足全员多谢观众的支持",
+          "url": "https://www.douyin.com/hot/2601850",
+          "source": "抖音",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时43分]"
+        },
+        {
+          "title": "丈夫坠亡后百万赔偿款妻女仅得 3 万，婆家转移上百万元拒不履行判决，法律角度如何分析？女子当前该怎么做？",
+          "url": "https://www.zhihu.com/question/2069341361208128649",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时43分]"
+        },
+        {
           "title": "9岁120斤啦啦队女孩跳舞火出圈",
           "url": "https://www.toutiao.com/trending/7670834349955514409/",
           "source": "今日头条",
@@ -293,17 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
-          "title": "女儿为争财产堵门阻挠父亲出殡",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%BA%E4%BA%89%E8%B4%A2%E4%BA%A7%E5%A0%B5%E9%97%A8%E9%98%BB%E6%8C%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E6%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
         },
         {
           "title": "要不念相思刺棠互换男女主吧",
@@ -362,17 +411,6 @@
           "time_info": "09时03分"
         },
         {
-          "title": "功夫女足全员多谢观众的支持",
-          "url": "https://www.douyin.com/hot/2601850",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "在法乙场均 20 分 20 篮板的变性女篮选手朱丽叶 - 泰塔特喊话称「不会拒绝 WNBA」，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2068724038579347946",
           "source": "知乎",
@@ -384,24 +422,13 @@
           "time_info": "09时03分"
         },
         {
-          "title": "丈夫坠亡后百万赔偿款妻女仅得 3 万，婆家转移上百万元拒不履行判决，法律角度如何分析？女子当前该怎么做？",
-          "url": "https://www.zhihu.com/question/2069341361208128649",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "母女桨板漂流被冲深水区教练不敢救",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E6%A1%A8%E6%9D%BF%E6%BC%82%E6%B5%81%E8%A2%AB%E5%86%B2%E6%B7%B1%E6%B0%B4%E5%8C%BA%E6%95%99%E7%BB%83%E4%B8%8D%E6%95%A2%E6%95%91%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -448,7 +475,7 @@
     },
     {
       "keyword_group": "审美",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "用老一辈的审美看八仙",
@@ -466,6 +493,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 09时03分]"
+        },
+        {
+          "title": "动画真的审美降级了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     }
