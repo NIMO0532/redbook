@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T11:19:10.608730+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-08-08T12:49:31.906357+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
@@ -93,6 +93,18 @@
           "time_info": "[00时45分 ~ 09时03分]"
         },
         {
+          "title": "女子称丰胸术9个月后确诊乳腺癌，医美机构：手术不可能引发癌症，建议走司法途径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739244",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 12时49分]"
+        },
+        {
           "title": "南太行失联女孩家属发声",
           "url": "https://www.douyin.com/hot/2601303",
           "source": "抖音",
@@ -102,23 +114,23 @@
             27,
             15,
             14,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 11时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 12时49分]"
         },
         {
-          "title": "女子称丰胸术9个月后确诊乳腺癌，医美机构：手术不可能引发癌症，建议走司法途径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739244",
-          "source": "澎湃新闻",
+          "title": "新疆女孩在天津偶遇支教老师哭红眼",
+          "url": "https://www.toutiao.com/trending/7671460092932636678/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 11时18分]"
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
           "title": "中国女篮70-67险胜尼日利亚女篮",
@@ -146,6 +158,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "女员工0元购狂薅3千台电器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "丈夫坠亡后百万赔偿款妻女仅得3万",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%9D%A0%E4%BA%A1%E5%90%8E%E7%99%BE%E4%B8%87%E8%B5%94%E5%81%BF%E6%AC%BE%E5%A6%BB%E5%A5%B3%E4%BB%85%E5%BE%973%E4%B8%87%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -158,6 +181,19 @@
           "time_info": "[07时27分 ~ 09时03分]"
         },
         {
+          "title": "女子被狗舔脚确诊三级暴露 医生回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E8%88%94%E8%84%9A%E7%A1%AE%E8%AF%8A%E4%B8%89%E7%BA%A7%E6%9A%B4%E9%9C%B2+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 12时49分]"
+        },
+        {
           "title": "名创优品回应女子吐槽内裤质量差",
           "url": "https://www.toutiao.com/trending/7671241351901331502/",
           "source": "今日头条",
@@ -168,6 +204,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 01时42分]"
+        },
+        {
+          "title": "女子生下4胞胎被全家“宠上天”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E2%80%9C%E5%AE%A0%E4%B8%8A%E5%A4%A9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 12时49分]"
+        },
+        {
+          "title": "女子带娃漂流落水 教练员称不敢捞",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E6%BC%82%E6%B5%81%E8%90%BD%E6%B0%B4+%E6%95%99%E7%BB%83%E5%91%98%E7%A7%B0%E4%B8%8D%E6%95%A2%E6%8D%9E",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 12时49分]"
         },
         {
           "title": "医生回应女子被狗舔脚确诊三级暴露",
@@ -183,48 +245,12 @@
           "time_info": "[07时27分 ~ 11时18分]"
         },
         {
-          "title": "女子被狗舔脚确诊三级暴露 医生回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E8%88%94%E8%84%9A%E7%A1%AE%E8%AF%8A%E4%B8%89%E7%BA%A7%E6%9A%B4%E9%9C%B2+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时18分]"
-        },
-        {
-          "title": "女子生下4胞胎被全家“宠上天”",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E2%80%9C%E5%AE%A0%E4%B8%8A%E5%A4%A9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时18分]"
-        },
-        {
           "title": "女儿卖房定价9000被母亲7500签约",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%8D%96%E6%88%BF%E5%AE%9A%E4%BB%B79000%E8%A2%AB%E6%AF%8D%E4%BA%B27500%E7%AD%BE%E7%BA%A6",
           "source": "百度热搜",
           "ranks": [
             14,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时18分]"
-        },
-        {
-          "title": "女子带娃漂流落水 教练员称不敢捞",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E6%BC%82%E6%B5%81%E8%90%BD%E6%B0%B4+%E6%95%99%E7%BB%83%E5%91%98%E7%A7%B0%E4%B8%8D%E6%95%A2%E6%8D%9E",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -326,7 +352,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
@@ -334,7 +360,7 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "百里守约无尽之局皮肤测评",
@@ -346,6 +372,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 11时18分]"
+        },
+        {
+          "title": "丁禹兮逆应援为粉丝请化妆师",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%80%86%E5%BA%94%E6%8F%B4%E4%B8%BA%E7%B2%89%E4%B8%9D%E8%AF%B7%E5%8C%96%E5%A6%86%E5%B8%88%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
