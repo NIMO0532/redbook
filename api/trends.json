@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T01:23:25.663774+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-08-09T02:26:34.582867+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[00时23分 ~ 01时23分]"
         },
         {
+          "title": "女子轻信快递丢失三倍理赔险失百万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BD%BB%E4%BF%A1%E5%BF%AB%E9%80%92%E4%B8%A2%E5%A4%B1%E4%B8%89%E5%80%8D%E7%90%86%E8%B5%94%E9%99%A9%E5%A4%B1%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 02时26分]"
+        },
+        {
           "title": "国乒女单三将晋级四强",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E4%B8%89%E5%B0%86%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
           "source": "百度热搜",
@@ -48,11 +60,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "女员工0元购狂薅3千台电器",
@@ -63,19 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时23分]"
-        },
-        {
-          "title": "女子轻信快递丢失三倍理赔险失百万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BD%BB%E4%BF%A1%E5%BF%AB%E9%80%92%E4%B8%A2%E5%A4%B1%E4%B8%89%E5%80%8D%E7%90%86%E8%B5%94%E9%99%A9%E5%A4%B1%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "三亚海边女明星们",
@@ -102,6 +104,23 @@
       ]
     },
     {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王者无尽之局皮肤实战测评",
+          "url": "https://www.douyin.com/hot/2602260",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "审美",
       "match_count": 1,
       "titles": [
@@ -111,11 +130,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         }
       ]
     }
