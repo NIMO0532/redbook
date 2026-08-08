@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-09T05:23:11.216490+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-08-09T06:21:24.985417+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "国乒女单三将晋级四强",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E4%B8%89%E5%B0%86%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30,
+            26,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时21分]"
+        },
         {
           "title": "女子轻信快递丢失三倍理赔险失百万",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BD%BB%E4%BF%A1%E5%BF%AB%E9%80%92%E4%B8%A2%E5%A4%B1%E4%B8%89%E5%80%8D%E7%90%86%E8%B5%94%E9%99%A9%E5%A4%B1%E7%99%BE%E4%B8%87",
@@ -22,18 +37,16 @@
           "time_info": "[01时22分 ~ 04时20分]"
         },
         {
-          "title": "国乒女单三将晋级四强",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E4%B8%89%E5%B0%86%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
-          "source": "百度热搜",
+          "title": "女员工0元购狂薅3千台电器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
+          "source": "贴吧",
           "ranks": [
-            27,
-            30,
-            26,
-            29
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时22分]"
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "电影《功夫女足》映期延长至 9 月 10 日，目前票房破 22 亿，你认为最终票房有望冲击多少？",
@@ -45,18 +58,6 @@
             16,
             15,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时22分]"
-        },
-        {
-          "title": "女员工0元购狂薅3千台电器",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -85,6 +86,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 01时23分]"
+        },
+        {
+          "title": "新疆女孩在天津偶遇支教老师哭红眼",
+          "url": "https://www.toutiao.com/trending/7671460092932636678/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
         },
         {
           "title": "三亚海边女明星们",
@@ -122,8 +134,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时26分 ~ 06时21分]"
         }
       ]
     },
@@ -141,11 +153,12 @@
             20,
             21,
             17,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
         }
       ]
     }
