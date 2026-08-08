@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:20:43.046863+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-08-09T05:23:11.216490+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -22,29 +22,18 @@
           "time_info": "[01时22分 ~ 04时20分]"
         },
         {
-          "title": "郭晶晶大女儿边走路边看书",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BE%B9%E8%B5%B0%E8%B7%AF%E8%BE%B9%E7%9C%8B%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时23分]"
-        },
-        {
           "title": "国乒女单三将晋级四强",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E4%B8%89%E5%B0%86%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
           "source": "百度热搜",
           "ranks": [
             27,
             30,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时22分]"
         },
         {
           "title": "电影《功夫女足》映期延长至 9 月 10 日，目前票房破 22 亿，你认为最终票房有望冲击多少？",
@@ -58,8 +47,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "女员工0元购狂薅3千台电器",
@@ -70,8 +59,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时22分]"
+        },
+        {
+          "title": "郭晶晶大女儿边走路边看书",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BE%B9%E8%B5%B0%E8%B7%AF%E8%BE%B9%E7%9C%8B%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时23分]"
         },
         {
           "title": "WTT横滨冠军赛国乒女单三将晋级四强",
@@ -121,8 +122,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 05时22分]"
         }
       ]
     },
@@ -139,11 +140,12 @@
             28,
             20,
             21,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时22分]"
         }
       ]
     }
