@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T18:24:19.125224+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-08-08T19:22:36.730109+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时26分 ~ 18时24分]"
+          "appearance_count": 19,
+          "time_info": "[07时26分 ~ 19时22分]"
         },
         {
           "title": "新疆女孩在天津偶遇支教老师哭红眼",
@@ -124,6 +124,20 @@
           "time_info": "[00时45分 ~ 15时43分]"
         },
         {
+          "title": "女员工0元购狂薅3千台电器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 19时22分]"
+        },
+        {
           "title": "女子称面试大概率失败但很开心",
           "url": "https://www.toutiao.com/trending/7671129967350186020/",
           "source": "今日头条",
@@ -151,19 +165,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 09时03分]"
-        },
-        {
-          "title": "女员工0元购狂薅3千台电器",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356959&amp;topic_name=%E5%A5%B3%E5%91%98%E5%B7%A50%E5%85%83%E8%B4%AD%E7%8B%82%E8%96%853%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 18时24分]"
         },
         {
           "title": "女主硬加吻戏短剧已下架",
@@ -207,6 +208,20 @@
           "time_info": "[00时44分 ~ 17时30分]"
         },
         {
+          "title": "功夫女足全员多谢观众的支持",
+          "url": "https://www.douyin.com/hot/2601850",
+          "source": "抖音",
+          "ranks": [
+            14,
+            20,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 19时22分]"
+        },
+        {
           "title": "中国女篮70-67险胜尼日利亚女篮",
           "url": "https://www.toutiao.com/trending/7670790051076309030/",
           "source": "今日头条",
@@ -230,20 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "功夫女足全员多谢观众的支持",
-          "url": "https://www.douyin.com/hot/2601850",
-          "source": "抖音",
-          "ranks": [
-            14,
-            20,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时24分]"
         },
         {
           "title": "丈夫坠亡后百万赔偿款妻女仅得3万",
@@ -309,6 +310,18 @@
           "time_info": "[09时03分 ~ 12时49分]"
         },
         {
+          "title": "中国女篮70:67尼日利亚",
+          "url": "https://www.douyin.com/hot/2601456",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时22分]"
+        },
+        {
           "title": "22岁女生独闯南太行失联12天",
           "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E7%94%9F%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9412%E5%A4%A9",
           "source": "百度热搜",
@@ -332,18 +345,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 11时18分]"
-        },
-        {
-          "title": "中国女篮70:67尼日利亚",
-          "url": "https://www.douyin.com/hot/2601456",
-          "source": "抖音",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -379,6 +380,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
+        },
+        {
+          "title": "郭晶晶大女儿边走路边看书",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BE%B9%E8%B5%B0%E8%B7%AF%E8%BE%B9%E7%9C%8B%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "要不念相思刺棠互换男女主吧",
@@ -468,12 +480,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "18岁女孩遭强奸案被挂案五年",
+          "url": "https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%BC%BA%E5%A5%B8%E6%A1%88%E8%A2%AB%E6%8C%82%E6%A1%88%E4%BA%94%E5%B9%B4%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "百里守约无尽之局皮肤测评",
@@ -485,6 +508,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 11时18分]"
+        },
+        {
+          "title": "花海送长生皮肤和签名",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%E9%80%81%E9%95%BF%E7%94%9F%E7%9A%AE%E8%82%A4%E5%92%8C%E7%AD%BE%E5%90%8D&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "丁禹兮逆应援为粉丝请化妆师",
@@ -539,11 +573,12 @@
             3,
             21,
             23,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 19时22分]"
         }
       ]
     }
