@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:40:15.227066+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-08-08T22:25:22.184439+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "女子称丰胸术9个月后确诊乳腺癌，医美机构：手术不可能引发癌症，建议走司法途径",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时26分 ~ 21时39分]"
+          "appearance_count": 24,
+          "time_info": "[07时26分 ~ 22时25分]"
         },
         {
           "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
@@ -72,11 +72,12 @@
             7,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时49分 ~ 21时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时49分 ~ 22时25分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -157,6 +158,21 @@
           "time_info": "[00时44分 ~ 07时27分]"
         },
         {
+          "title": "功夫女足全员多谢观众的支持",
+          "url": "https://www.douyin.com/hot/2601850",
+          "source": "抖音",
+          "ranks": [
+            14,
+            20,
+            18,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时38分 ~ 22时25分]"
+        },
+        {
           "title": "女子生下4胞胎被全家宠上天称嫁对人了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -168,20 +184,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 09时03分]"
-        },
-        {
-          "title": "功夫女足全员多谢观众的支持",
-          "url": "https://www.douyin.com/hot/2601850",
-          "source": "抖音",
-          "ranks": [
-            14,
-            20,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时38分 ~ 21时39分]"
         },
         {
           "title": "女主硬加吻戏短剧已下架",
@@ -211,6 +213,18 @@
           "time_info": "[15时42分 ~ 18时24分]"
         },
         {
+          "title": "郭晶晶大女儿边走路边看书",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BE%B9%E8%B5%B0%E8%B7%AF%E8%BE%B9%E7%9C%8B%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 22时25分]"
+        },
+        {
           "title": "女儿为争财产堵门阻挠父亲出殡",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%BA%E4%BA%89%E8%B4%A2%E4%BA%A7%E5%A0%B5%E9%97%A8%E9%98%BB%E6%8C%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E6%AE%A1",
           "source": "百度热搜",
@@ -223,6 +237,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 17时30分]"
+        },
+        {
+          "title": "深度探访伊朗遇袭女子学校",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "中国女篮70-67险胜尼日利亚女篮",
@@ -251,17 +276,6 @@
           "time_info": "[16时31分 ~ 21时39分]"
         },
         {
-          "title": "深度探访伊朗遇袭女子学校",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "男子工地坠亡百万赔偿金妻女仅得3万",
           "url": "https://www.toutiao.com/trending/7670351274126114822/",
           "source": "今日头条",
@@ -273,16 +287,28 @@
           "time_info": "09时03分"
         },
         {
-          "title": "郭晶晶大女儿边走路边看书",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BE%B9%E8%B5%B0%E8%B7%AF%E8%BE%B9%E7%9C%8B%E4%B9%A6",
-          "source": "百度热搜",
+          "title": "女子突发疾病 嫂子坚持抢救",
+          "url": "https://www.toutiao.com/trending/7671558271230345267/",
+          "source": "今日头条",
           "ranks": [
-            23,
-            16
+            16,
+            18,
+            29
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时21分 ~ 21时39分]"
+          "time_info": "[20时31分 ~ 22时25分]"
+        },
+        {
+          "title": "俄罗斯女子错过航班闯停机坪拦飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E5%AD%90%E9%94%99%E8%BF%87%E8%88%AA%E7%8F%AD%E9%97%AF%E5%81%9C%E6%9C%BA%E5%9D%AA%E6%8B%A6%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时25分]"
         },
         {
           "title": "丈夫坠亡后百万赔偿款妻女仅得3万",
@@ -360,18 +386,6 @@
           "time_info": "[13时37分 ~ 14时38分]"
         },
         {
-          "title": "女子突发疾病 嫂子坚持抢救",
-          "url": "https://www.toutiao.com/trending/7671558271230345267/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时39分]"
-        },
-        {
           "title": "医生回应女子被狗舔脚确诊三级暴露",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E8%88%94%E8%84%9A%E7%A1%AE%E8%AF%8A%E4%B8%89%E7%BA%A7%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -385,15 +399,15 @@
           "time_info": "[07时27分 ~ 11时18分]"
         },
         {
-          "title": "俄罗斯女子错过航班闯停机坪拦飞机",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E5%AD%90%E9%94%99%E8%BF%87%E8%88%AA%E7%8F%AD%E9%97%AF%E5%81%9C%E6%9C%BA%E5%9D%AA%E6%8B%A6%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "WTT横滨冠军赛国乒女单三将晋级四强",
+          "url": "https://www.toutiao.com/trending/7670712779452071955/",
+          "source": "今日头条",
           "ranks": [
-            26
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时39分]"
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "女儿卖房定价9000被母亲7500签约",
@@ -520,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "电影《功夫女足》映期延长至 9 月 10 日，目前票房破 22 亿，你认为最终票房有望冲击多少？",
+          "url": "https://www.zhihu.com/question/2069082068911502422",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "母女桨板漂流被冲深水区教练不敢救",
