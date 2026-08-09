@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T06:22:43.048248+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-08-10T07:23:56.818825+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 07时23分]"
         },
         {
           "title": "女演员朱锐自称破产失业",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 07时23分]"
         },
         {
           "title": "女演员朱锐自曝破产失业耗尽积蓄",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 07时23分]"
         },
         {
           "title": "上门女婿出轨女邻居多年被判重婚罪",
@@ -51,8 +51,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 07时23分]"
         },
         {
           "title": "印女子出轨被撞破与情夫一起遭毒打",
@@ -63,8 +63,52 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 07时23分]"
+        },
+        {
+          "title": "日本父女闹掰,一句恶心伤透心",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356987&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B6%E5%A5%B3%E9%97%B9%E6%8E%B0%2C%E4%B8%80%E5%8F%A5%E6%81%B6%E5%BF%83%E4%BC%A4%E9%80%8F%E5%BF%83",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
+        },
+        {
+          "title": "异环戏耍玩家,女神同居纯幻想",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356985&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%88%8F%E8%80%8D%E7%8E%A9%E5%AE%B6%2C%E5%A5%B3%E7%A5%9E%E5%90%8C%E5%B1%85%E7%BA%AF%E5%B9%BB%E6%83%B3",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
+        },
+        {
+          "title": "富养女成仇人,老爹被嫌弃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356986&amp;topic_name=%E5%AF%8C%E5%85%BB%E5%A5%B3%E6%88%90%E4%BB%87%E4%BA%BA%2C%E8%80%81%E7%88%B9%E8%A2%AB%E5%AB%8C%E5%BC%83",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
+        },
+        {
+          "title": "张本兄妹包揽WTT横滨男女单冠军",
+          "url": "https://www.douyin.com/hot/2603672",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
         },
         {
           "title": "女子误入密林 救援队砍出生命通道",
@@ -81,50 +125,6 @@
           "time_info": "[00时25分 ~ 05时24分]"
         },
         {
-          "title": "日本父女闹掰,一句恶心伤透心",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356987&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B6%E5%A5%B3%E9%97%B9%E6%8E%B0%2C%E4%B8%80%E5%8F%A5%E6%81%B6%E5%BF%83%E4%BC%A4%E9%80%8F%E5%BF%83",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
-          "title": "异环戏耍玩家,女神同居纯幻想",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356985&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%88%8F%E8%80%8D%E7%8E%A9%E5%AE%B6%2C%E5%A5%B3%E7%A5%9E%E5%90%8C%E5%B1%85%E7%BA%AF%E5%B9%BB%E6%83%B3",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
-          "title": "富养女成仇人,老爹被嫌弃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356986&amp;topic_name=%E5%AF%8C%E5%85%BB%E5%A5%B3%E6%88%90%E4%BB%87%E4%BA%BA%2C%E8%80%81%E7%88%B9%E8%A2%AB%E5%AB%8C%E5%BC%83",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
-          "title": "张本兄妹包揽WTT横滨男女单冠军",
-          "url": "https://www.douyin.com/hot/2603672",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
           "title": "印度女子出轨被撞破在院子内遭毒打",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%92%9E%E7%A0%B4%E5%9C%A8%E9%99%A2%E5%AD%90%E5%86%85%E9%81%AD%E6%AF%92%E6%89%93%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -135,8 +135,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
         },
         {
           "title": "追风女记者抱杆抵抗强风",
@@ -157,11 +157,12 @@
           "ranks": [
             24,
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 07时23分]"
         },
         {
           "title": "女演员朱锐自曝破产失业",
@@ -193,8 +194,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
         }
       ]
     },
@@ -208,11 +209,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
         }
       ]
     }
