@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T18:26:05.205094+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-08-09T19:23:26.869026+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "女员工0元购狂薅3千台电器",
@@ -17,11 +17,12 @@
             20,
             23,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 18时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 19时23分]"
         },
         {
           "title": "女子轻信快递丢失三倍理赔险失百万",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 06时21分]"
+        },
+        {
+          "title": "上门女婿出轨女邻居多年被判重婚罪",
+          "url": "https://www.toutiao.com/trending/7671844544510377990/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时47分 ~ 19时23分]"
         },
         {
           "title": "《天才女友》制片人发文：忍不下去了",
@@ -93,15 +105,38 @@
           "time_info": "[00时23分 ~ 03时23分]"
         },
         {
-          "title": "上门女婿出轨女邻居多年被判重婚罪",
-          "url": "https://www.toutiao.com/trending/7671844544510377990/",
-          "source": "今日头条",
+          "title": "女子发现前夫婚内与第三者育有两子",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A4%AB%E5%A9%9A%E5%86%85%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E8%82%B2%E6%9C%89%E4%B8%A4%E5%AD%90",
+          "source": "百度热搜",
           "ranks": [
-            21
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时47分 ~ 18时25分]"
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
+          "title": "异环戏耍玩家,女神同居纯幻想",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356985&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%88%8F%E8%80%8D%E7%8E%A9%E5%AE%B6%2C%E5%A5%B3%E7%A5%9E%E5%90%8C%E5%B1%85%E7%BA%AF%E5%B9%BB%E6%83%B3",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "富养女成仇人,老爹被嫌弃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356986&amp;topic_name=%E5%AF%8C%E5%85%BB%E5%A5%B3%E6%88%90%E4%BB%87%E4%BA%BA%2C%E8%80%81%E7%88%B9%E8%A2%AB%E5%AB%8C%E5%BC%83",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "见到女儿瞬间父亲眼里有了光",
@@ -117,6 +152,18 @@
           "time_info": "[16时33分 ~ 18时25分]"
         },
         {
+          "title": "16岁女孩连喝多杯奶茶后进ICU",
+          "url": "https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%9E%E5%96%9D%E5%A4%9A%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%90%8E%E8%BF%9BICU",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 19时23分]"
+        },
+        {
           "title": "WTT横滨冠军赛国乒女单三将晋级四强",
           "url": "https://www.toutiao.com/trending/7670712779452071955/",
           "source": "今日头条",
@@ -129,16 +176,16 @@
           "time_info": "[00时23分 ~ 01时23分]"
         },
         {
-          "title": "女子发现前夫婚内与第三者育有两子",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A4%AB%E5%A9%9A%E5%86%85%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E8%82%B2%E6%9C%89%E4%B8%A4%E5%AD%90",
-          "source": "百度热搜",
+          "title": "李云霄获百花奖最佳女配角提名",
+          "url": "https://www.toutiao.com/trending/7671263484551315483/",
+          "source": "今日头条",
           "ranks": [
             18,
-            17
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时25分]"
+          "time_info": "[18时24分 ~ 19时23分]"
         },
         {
           "title": "天才女友总制片人怎么了",
@@ -177,6 +224,17 @@
           "time_info": "[18时24分 ~ 18时25分]"
         },
         {
+          "title": "复旦美籍留学生被曝玩弄多名女性，胡锡进发声",
+          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
           "title": "父亲节俭供养留学女儿反遭辱骂",
           "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82%E4%BF%AD%E4%BE%9B%E5%85%BB%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E5%8F%8D%E9%81%AD%E8%BE%B1%E9%AA%82&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -211,26 +269,15 @@
           "time_info": "[14时41分 ~ 14时42分]"
         },
         {
-          "title": "李云霄获百花奖最佳女配角提名",
-          "url": "https://www.toutiao.com/trending/7671263484551315483/",
-          "source": "今日头条",
+          "title": "女童基因编辑致死案的两份知情同意书中皆未提死亡风险，医疗团队这一操作存在哪些问题？",
+          "url": "https://www.zhihu.com/question/2069745726142117561",
+          "source": "知乎",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
-          "title": "16岁女孩连喝多杯奶茶后进ICU",
-          "url": "https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%9E%E5%96%9D%E5%A4%9A%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%90%8E%E8%BF%9BICU",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "time_info": "[18时25分 ~ 19时23分]"
         },
         {
           "title": "新疆女孩在天津偶遇支教老师哭红眼",
@@ -253,17 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
-        },
-        {
-          "title": "女童基因编辑致死案的两份知情同意书中皆未提死亡风险，医疗团队这一操作存在哪些问题？",
-          "url": "https://www.zhihu.com/question/2069745726142117561",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "深度探访伊朗遇袭女子学校",
@@ -316,7 +352,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -356,11 +392,12 @@
           "ranks": [
             15,
             13,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 19时23分]"
         }
       ]
     },
