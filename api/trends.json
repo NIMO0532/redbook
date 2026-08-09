@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T03:27:48.854760+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-08-10T04:23:46.394123+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "女演员朱锐自称破产失业",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "女演员朱锐自曝破产失业耗尽积蓄",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "上门女婿出轨女邻居多年被判重婚罪",
@@ -51,8 +51,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "印女子出轨被撞破与情夫一起遭毒打",
@@ -63,8 +63,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "追风女记者抱杆抵抗强风",
@@ -99,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "异环戏耍玩家,女神同居纯幻想",
@@ -110,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "富养女成仇人,老爹被嫌弃",
@@ -121,8 +121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "张本兄妹包揽WTT横滨男女单冠军",
@@ -132,8 +132,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "印度女子出轨被撞破在院子内遭毒打",
@@ -145,8 +145,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
@@ -154,11 +154,12 @@
           "source": "微博",
           "ranks": [
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时23分]"
         },
         {
           "title": "女演员朱锐自曝破产失业",
@@ -184,11 +185,12 @@
           "ranks": [
             3,
             1,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         }
       ]
     }
