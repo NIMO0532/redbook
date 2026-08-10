@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T07:23:56.818825+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-08-10T09:09:29.320860+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "独闯南太行的失联女生最后轨迹已确认",
@@ -23,11 +23,12 @@
           "url": "https://www.toutiao.com/trending/7672020807342555187/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 07时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 09时09分]"
         },
         {
           "title": "女演员朱锐自曝破产失业耗尽积蓄",
@@ -35,11 +36,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 07时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 09时09分]"
         },
         {
           "title": "上门女婿出轨女邻居多年被判重婚罪",
@@ -63,8 +65,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 07时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 09时09分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -74,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时09分]"
         },
         {
           "title": "异环戏耍玩家,女神同居纯幻想",
@@ -85,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时09分]"
         },
         {
           "title": "富养女成仇人,老爹被嫌弃",
@@ -96,19 +98,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时09分]"
         },
         {
           "title": "张本兄妹包揽WTT横滨男女单冠军",
           "url": "https://www.douyin.com/hot/2603672",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时09分]"
         },
         {
           "title": "女子误入密林 救援队砍出生命通道",
@@ -165,15 +168,49 @@
           "time_info": "[02时29分 ~ 07时23分]"
         },
         {
+          "title": "56岁刘奕君跟13岁女儿合跳",
+          "url": "https://www.toutiao.com/trending/7671619504258105398/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
           "title": "女演员朱锐自曝破产失业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E6%9C%B1%E9%94%90%E8%87%AA%E6%9B%9D%E7%A0%B4%E4%BA%A7%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 09时09分]"
+        },
+        {
+          "title": "王真儿冲百花奖最佳女配",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9C%9F%E5%84%BF%E5%86%B2%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "09时09分"
+        },
+        {
+          "title": "梅婷12岁女儿百花奖发言落落大方",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A9%B712%E5%B2%81%E5%A5%B3%E5%84%BF%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%91%E8%A8%80%E8%90%BD%E8%90%BD%E5%A4%A7%E6%96%B9%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
@@ -191,11 +228,12 @@
             4,
             9,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时09分]"
         }
       ]
     },
@@ -210,11 +248,12 @@
           "ranks": [
             29,
             17,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 09时09分]"
         }
       ]
     }
