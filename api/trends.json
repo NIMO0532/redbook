@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T05:35:07.939784+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-08-11T06:29:43.082294+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 06时29分]"
         },
         {
           "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
@@ -28,8 +28,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
+        },
+        {
+          "title": "抗台风!女书记单扛170斤重物",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
+        },
+        {
+          "title": "南太行失联22岁女孩遗体被发现",
+          "url": "https://www.douyin.com/hot/2604364",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
         },
         {
           "title": "独闯南太行失联女子遗体已找到",
@@ -43,31 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 05时34分]"
-        },
-        {
-          "title": "抗台风!女书记单扛170斤重物",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
-        },
-        {
-          "title": "南太行失联22岁女孩遗体被发现",
-          "url": "https://www.douyin.com/hot/2604364",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 06时29分]"
         },
         {
           "title": "母亲救溺水女儿 两人均被海浪卷走",
@@ -82,8 +82,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 06时29分]"
         },
         {
           "title": "卫诗雅获百花奖最佳女主角",
@@ -93,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 06时29分]"
         },
         {
           "title": "萨日娜获百花奖最佳女配角",
@@ -104,8 +104,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 06时29分]"
         },
         {
           "title": "卫诗雅获百花奖最佳女主角",
@@ -117,8 +117,24 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
+        },
+        {
+          "title": "卫诗雅百花奖最佳女主",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            22,
+            24,
+            23,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
         },
         {
           "title": "王骁萨日娜百花奖最佳男女配",
@@ -130,23 +146,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
-        },
-        {
-          "title": "卫诗雅百花奖最佳女主",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            22,
-            24,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -156,8 +157,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
         },
         {
           "title": "富养女成仇人,老爹被嫌弃",
@@ -167,8 +168,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时29分]"
         },
         {
           "title": "晚年独居女性如何面对老去的寂寞",
@@ -178,11 +179,12 @@
             29,
             20,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 06时29分]"
         },
         {
           "title": "越南女子杀子骗保被判处无期徒刑",
@@ -193,8 +195,30 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时33分 ~ 06时29分]"
+        },
+        {
+          "title": "女子称7旬环卫工父亲被女主播骗钱3年",
+          "url": "https://www.toutiao.com/trending/7672328457020047396/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时33分 ~ 05时34分]"
+          "time_info": "[05时33分 ~ 06时29分]"
+        },
+        {
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时44分 ~ 06时29分]"
         },
         {
           "title": "泰国被接机女生疑遭带走",
@@ -208,28 +232,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 03时50分]"
-        },
-        {
-          "title": "女子称7旬环卫工父亲被女主播骗钱3年",
-          "url": "https://www.toutiao.com/trending/7672328457020047396/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 05时34分]"
-        },
-        {
-          "title": "孙女用AI把奶奶P进《西游记》",
-          "url": "https://www.toutiao.com/trending/7672253690623508506/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 02时45分]"
         }
       ]
     },
@@ -242,11 +244,12 @@
           "url": "https://www.douyin.com/hot/2605068",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 06时29分]"
         }
       ]
     }
