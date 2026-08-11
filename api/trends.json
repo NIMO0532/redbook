@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-08-11T11:29:07.422382+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-08-11T13:01:56.224066+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "抗台风!女书记单扛170斤重物",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 11时28分]"
-        },
         {
           "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2068484771710293896",
@@ -32,6 +19,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 07时27分]"
+        },
+        {
+          "title": "抗台风!女书记单扛170斤重物",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 13时01分]"
         },
         {
           "title": "卫诗雅获百花奖最佳女主角",
@@ -126,8 +127,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 11时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 13时01分]"
         },
         {
           "title": "萨日娜获百花奖最佳女配角",
@@ -147,11 +148,12 @@
           "ranks": [
             24,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 11时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 13时01分]"
         },
         {
           "title": "富养女成仇人,老爹被嫌弃",
@@ -225,15 +227,15 @@
           "time_info": "[04时33分 ~ 06时29分]"
         },
         {
-          "title": "凶手父母多次热情招待溺亡女孩父母",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "闺蜜诱骗撕票,女网红不幸遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "13时01分"
         },
         {
           "title": "女子花3万全款购入宝鸡40平米住房",
@@ -246,6 +248,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 11时28分]"
+        },
+        {
+          "title": "医生问诊27岁女子 妈妈在旁不停打断",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E9%97%AE%E8%AF%8A27%E5%B2%81%E5%A5%B3%E5%AD%90+%E5%A6%88%E5%A6%88%E5%9C%A8%E6%97%81%E4%B8%8D%E5%81%9C%E6%89%93%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 13时01分]"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -272,6 +287,18 @@
           "time_info": "[07时27分 ~ 09时08分]"
         },
         {
+          "title": "凶手父母多次热情招待溺亡女孩父母",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时01分]"
+        },
+        {
           "title": "泰国被接机女生疑遭带走",
           "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E8%A2%AB%E6%8E%A5%E6%9C%BA%E5%A5%B3%E7%94%9F%E7%96%91%E9%81%AD%E5%B8%A6%E8%B5%B0&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -285,27 +312,95 @@
           "time_info": "[00时45分 ~ 03时50分]"
         },
         {
-          "title": "医生问诊27岁女子 妈妈在旁不停打断",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E9%97%AE%E8%AF%8A27%E5%B2%81%E5%A5%B3%E5%AD%90+%E5%A6%88%E5%A6%88%E5%9C%A8%E6%97%81%E4%B8%8D%E5%81%9C%E6%89%93%E6%96%AD",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时28分]"
-        },
-        {
           "title": "百花奖男女明星怼脸镜头",
           "url": "https://www.douyin.com/hot/2605120",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时01分]"
+        },
+        {
+          "title": "警方介入调查独闯南太行女子死因",
+          "url": "https://www.toutiao.com/trending/7672386776553406527/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时08分 ~ 11时28分]"
+          "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "女子被拐关地下室被虐8年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%90%E5%85%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%A2%AB%E8%99%908%E5%B9%B4%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时01分]"
+        },
+        {
+          "title": "少年强抱女友跳河自己上岸女友溺亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E5%BC%BA%E6%8A%B1%E5%A5%B3%E5%8F%8B%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%B2%B8%E5%A5%B3%E5%8F%8B%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时01分]"
+        },
+        {
+          "title": "少年不满分手抱女友跳河后独自逃离",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%91%E5%B9%B4%E4%B8%8D%E6%BB%A1%E5%88%86%E6%89%8B%E6%8A%B1%E5%A5%B3%E5%8F%8B%E8%B7%B3%E6%B2%B3%E5%90%8E%E7%8B%AC%E8%87%AA%E9%80%83%E7%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "凶手父母多次热情招待溺亡女孩父母",
+          "url": "https://www.baidu.com/s?wd=%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "女子连用美白面霜确诊“激素脸”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%A8%E7%BE%8E%E7%99%BD%E9%9D%A2%E9%9C%9C%E7%A1%AE%E8%AF%8A%E2%80%9C%E6%BF%80%E7%B4%A0%E8%84%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "俄少女被诱骗进缅甸电诈园 游河逃生",
+          "url": "https://www.toutiao.com/trending/7672560326260539433/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时01分]"
         },
         {
           "title": "热身第二场，中国女篮 69-65 尼日利亚，张子宇 23 分 13 篮板，14 投 10 中，如何评价本场比赛？",
@@ -319,28 +414,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "女子被拐关地下室被虐8年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%90%E5%85%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%A2%AB%E8%99%908%E5%B9%B4%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "少年强抱女友跳河自己上岸女友溺亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E5%BC%BA%E6%8A%B1%E5%A5%B3%E5%8F%8B%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%B2%B8%E5%A5%B3%E5%8F%8B%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "医生问诊27岁女子妈妈在旁不停打断",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E9%97%AE%E8%AF%8A27%E5%B2%81%E5%A5%B3%E5%AD%90%E5%A6%88%E5%A6%88%E5%9C%A8%E6%97%81%E4%B8%8D%E5%81%9C%E6%89%93%E6%96%AD%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -350,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "王灿回应女儿嘴巴凸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%81%BF%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%98%B4%E5%B7%B4%E5%87%B8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "历届百花奖获奖女演员齐亮相",
