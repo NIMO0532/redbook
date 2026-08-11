@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T01:52:52.387634+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-08-12T02:52:29.452370+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "女生泰国失联,疑被卖电诈区",
@@ -27,31 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "女生晨跑后热射病离世身体发生了什么",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E7%94%9F%E6%99%A8%E8%B7%91%E5%90%8E%E7%83%AD%E5%B0%84%E7%97%85%E7%A6%BB%E4%B8%96%E8%BA%AB%E4%BD%93%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
-        },
-        {
-          "title": "曝刺棠女主换成杨超越了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%BA%E6%A3%A0%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%BA%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "后宫女主献吻反派,读者炸锅",
@@ -61,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "女演员被曝1天只吃2个馒头 本人回应",
@@ -72,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "女子做核磁忘摘金手镯",
@@ -81,11 +70,25 @@
           "source": "今日头条",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 02时52分]"
+        },
+        {
+          "title": "曝刺棠女主换成杨超越了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%BA%E6%A3%A0%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "“美个朋友”社交平台被控借女主播诈骗3.2亿元案将恢复庭审",
@@ -95,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "“上海女子在台风中坠楼”不实",
@@ -106,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "上海浦东一女子台风中坠楼不实",
@@ -117,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "安徽安庆22岁女大学生被前男友杀害案二审宣判：维持死刑判决",
@@ -128,8 +131,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 02时52分]"
+        },
+        {
+          "title": "王菲过完57岁生日带女儿回北京",
+          "url": "https://www.toutiao.com/trending/7671653749860876334/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时52分]"
+          "time_info": "[01时51分 ~ 02时52分]"
         },
         {
           "title": "建议女生不要在网上过度分享",
@@ -140,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "闺蜜诱骗撕票,女网红不幸遇害",
@@ -151,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
@@ -160,22 +175,24 @@
           "source": "知乎",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
           "url": "https://www.zhihu.com/question/2070481032956962155",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "16 岁少年强抱女友跳河自己上岸女友溺亡，凶手母亲包庇其 17 年，凶手及其家属可能受到哪些处罚？",
@@ -185,8 +202,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "抗台风!女书记单扛170斤重物",
@@ -196,41 +213,43 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时52分]"
-        },
-        {
-          "title": "王菲过完57岁生日带女儿回北京",
-          "url": "https://www.toutiao.com/trending/7671653749860876334/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "我听交警的涉事女子道歉赔偿",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%90%AC%E4%BA%A4%E8%AD%A6%E7%9A%84%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时52分]"
         },
         {
           "title": "女子因丈夫私自给公婆转50万怒提离婚",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E4%B8%88%E5%A4%AB%E7%A7%81%E8%87%AA%E7%BB%99%E5%85%AC%E5%A9%86%E8%BD%AC50%E4%B8%87%E6%80%92%E6%8F%90%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时52分]"
+        },
+        {
+          "title": "网红雅典娜是家中独生女",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E6%98%AF%E5%AE%B6%E4%B8%AD%E7%8B%AC%E7%94%9F%E5%A5%B3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "02时52分"
         }
       ]
     }
