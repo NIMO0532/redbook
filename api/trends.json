@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T04:42:13.513271+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-08-13T05:37:56.274752+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 05时37分]"
         },
         {
           "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
@@ -28,8 +28,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 05时37分]"
+        },
+        {
+          "title": "女儿想在同学家过夜被爸爸拒绝",
+          "url": "https://www.toutiao.com/trending/7672968551817265188/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19,
+            24,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 05时37分]"
         },
         {
           "title": "哥哥去世嫂子改嫁 女子抚养侄子",
@@ -41,33 +56,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 05时37分]"
         },
         {
           "title": "女孩在自家店里完成12部位颠球",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%BA%97%E9%87%8C%E5%AE%8C%E6%88%9012%E9%83%A8%E4%BD%8D%E9%A2%A0%E7%90%83",
           "source": "百度热搜",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时41分]"
-        },
-        {
-          "title": "女儿想在同学家过夜被爸爸拒绝",
-          "url": "https://www.toutiao.com/trending/7672968551817265188/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19,
-            24,
+            16,
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 05时37分]"
         },
         {
           "title": "女孩在自家店里完成12部位颠球",
@@ -76,11 +78,12 @@
           "ranks": [
             22,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 05时37分]"
         },
         {
           "title": "母亲乱投资欠下五百万 女儿卖房扛债",
@@ -93,8 +96,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 05时37分]"
         },
         {
           "title": "女子逆行撞小伙被拘留罚款",
@@ -104,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 05时37分]"
         },
         {
           "title": "百万粉灵异女网红车祸身亡",
@@ -115,8 +118,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 05时37分]"
+        },
+        {
+          "title": "后宫女主献吻反派,读者炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357167&amp;topic_name=%E5%90%8E%E5%AE%AB%E5%A5%B3%E4%B8%BB%E7%8C%AE%E5%90%BB%E5%8F%8D%E6%B4%BE%2C%E8%AF%BB%E8%80%85%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 05时37分]"
+        },
+        {
+          "title": "女生泰国失联,疑被卖电诈区",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357133&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%2C%E7%96%91%E8%A2%AB%E5%8D%96%E7%94%B5%E8%AF%88%E5%8C%BA",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 05时37分]"
+        },
+        {
+          "title": "闺蜜诱骗撕票,女网红不幸遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 05时37分]"
         },
         {
           "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
@@ -132,39 +168,6 @@
           "time_info": "[00时50分 ~ 04时41分]"
         },
         {
-          "title": "后宫女主献吻反派,读者炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357167&amp;topic_name=%E5%90%8E%E5%AE%AB%E5%A5%B3%E4%B8%BB%E7%8C%AE%E5%90%BB%E5%8F%8D%E6%B4%BE%2C%E8%AF%BB%E8%80%85%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 04时41分]"
-        },
-        {
-          "title": "女生泰国失联,疑被卖电诈区",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357133&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%2C%E7%96%91%E8%A2%AB%E5%8D%96%E7%94%B5%E8%AF%88%E5%8C%BA",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 04时41分]"
-        },
-        {
-          "title": "闺蜜诱骗撕票,女网红不幸遇害",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 04时41分]"
-        },
-        {
           "title": "卫健委介入17岁女孩流产监护人不知情",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A517%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B5%81%E4%BA%A7%E7%9B%91%E6%8A%A4%E4%BA%BA%E4%B8%8D%E7%9F%A5%E6%83%85%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -172,11 +175,12 @@
             27,
             20,
             26,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时37分]"
         },
         {
           "title": "香港打击街头卖淫20名女子被捕",
@@ -186,8 +190,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 05时37分]"
         },
         {
           "title": "女子躲雨遇热心店主狂买10件衣服",
@@ -200,6 +204,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "两女子帮助黑人至中国幼儿园任教被判刑",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%A5%B3%E5%AD%90%E5%B8%AE%E5%8A%A9%E9%BB%91%E4%BA%BA%E8%87%B3%E4%B8%AD%E5%9B%BD%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BB%BB%E6%95%99%E8%A2%AB%E5%88%A4%E5%88%91&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时58分 ~ 05时37分]"
         },
         {
           "title": "中国女篮不敌尼日利亚 杨舒予23分",
@@ -235,18 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时53分]"
-        },
-        {
-          "title": "两女子帮助黑人至中国幼儿园任教被判刑",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%A5%B3%E5%AD%90%E5%B8%AE%E5%8A%A9%E9%BB%91%E4%BA%BA%E8%87%B3%E4%B8%AD%E5%9B%BD%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BB%BB%E6%95%99%E8%A2%AB%E5%88%A4%E5%88%91&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 04时41分]"
         }
       ]
     },
