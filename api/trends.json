@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T13:39:24.620372+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-08-12T15:13:44.546545+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
@@ -28,24 +28,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 13时39分]"
-        },
-        {
-          "title": "女生泰国失联,疑被卖电诈区",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357133&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%2C%E7%96%91%E8%A2%AB%E5%8D%96%E7%94%B5%E8%AF%88%E5%8C%BA",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            7,
+            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 15时13分]"
         },
         {
           "title": "女生晨跑后热射病离世身体发生了什么",
@@ -60,6 +48,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 06时34分]"
+        },
+        {
+          "title": "女生泰国失联,疑被卖电诈区",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357133&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%2C%E7%96%91%E8%A2%AB%E5%8D%96%E7%94%B5%E8%AF%88%E5%8C%BA",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 15时13分]"
         },
         {
           "title": "女子做核磁忘摘金手镯",
@@ -116,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 13时39分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 15时13分]"
         },
         {
           "title": "“上海女子在台风中坠楼”不实",
@@ -149,11 +151,12 @@
             11,
             12,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 15时13分]"
         },
         {
           "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
@@ -190,11 +193,12 @@
             19,
             20,
             23,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 15时13分]"
         },
         {
           "title": "曝刺棠女主换成杨超越了",
@@ -256,6 +260,19 @@
           "time_info": "[00时51分 ~ 07时32分]"
         },
         {
+          "title": "女子逆行撞小伙被拘留罚款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 15时13分]"
+        },
+        {
           "title": "建议女生不要在网上过度分享",
           "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%BD%91%E4%B8%8A%E8%BF%87%E5%BA%A6%E5%88%86%E4%BA%AB&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -270,16 +287,17 @@
           "time_info": "[00时51分 ~ 06时34分]"
         },
         {
-          "title": "女子逆行撞小伙被拘留罚款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
-          "source": "贴吧",
+          "title": "印度一保安强奸女生被捕后求原谅",
+          "url": "https://www.toutiao.com/trending/7671997397107064859/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            3
+            11,
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时39分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时13分]"
         },
         {
           "title": "“我听交警的”涉事女子道歉赔偿",
@@ -293,6 +311,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 13时39分]"
+        },
+        {
+          "title": "母亲与怀孕妻子遇害 2岁女儿目睹全程",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%8E%E6%80%80%E5%AD%95%E5%A6%BB%E5%AD%90%E9%81%87%E5%AE%B3+2%E5%B2%81%E5%A5%B3%E5%84%BF%E7%9B%AE%E7%9D%B9%E5%85%A8%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时13分]"
         },
         {
           "title": "我听交警的涉事女子道歉赔偿",
@@ -323,6 +353,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 06时34分]"
+        },
+        {
+          "title": "百万粉灵异女网红车祸身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "网红雅典娜是家中独生女",
@@ -366,50 +407,52 @@
           "time_info": "[04时38分 ~ 07时32分]"
         },
         {
-          "title": "印度一保安强奸女生被捕后求原谅",
-          "url": "https://www.toutiao.com/trending/7671997397107064859/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时39分]"
-        },
-        {
-          "title": "母亲与怀孕妻子遇害 2岁女儿目睹全程",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%8E%E6%80%80%E5%AD%95%E5%A6%BB%E5%AD%90%E9%81%87%E5%AE%B3+2%E5%B2%81%E5%A5%B3%E5%84%BF%E7%9B%AE%E7%9D%B9%E5%85%A8%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时39分]"
-        },
-        {
           "title": "男子酒后与女子亲密猝死家属索赔被驳",
           "url": "https://www.toutiao.com/trending/7672729176848924678/",
           "source": "今日头条",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 15时13分]"
         },
         {
           "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765987",
           "source": "澎湃新闻",
           "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 15时13分]"
+        },
+        {
+          "title": "男子殴打女友致死被判误杀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A5%B3%E5%8F%8B%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E8%AF%AF%E6%9D%80%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "time_info": "[13时39分 ~ 15时13分]"
+        },
+        {
+          "title": "演员包文婧坦言二胎很难一碗水端平，毕竟和女儿相处更久，这种偏心是真实存在的吗？这种话该不该公开说出口？",
+          "url": "https://www.zhihu.com/question/2069445513607213352",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 15时13分]"
         },
         {
           "title": "中国女排3-0横扫日本",
@@ -421,17 +464,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "男子殴打女友致死被判误杀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A5%B3%E5%8F%8B%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E8%AF%AF%E6%9D%80%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
         },
         {
           "title": "杨洋倩女幽魂cos",
@@ -456,15 +488,15 @@
           "time_info": "03时57分"
         },
         {
-          "title": "演员包文婧坦言二胎很难一碗水端平，毕竟和女儿相处更久，这种偏心是真实存在的吗？这种话该不该公开说出口？",
-          "url": "https://www.zhihu.com/question/2069445513607213352",
-          "source": "知乎",
+          "title": "女子吐槽女厕门缝宽还正对大门",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%A5%B3%E5%8E%95%E9%97%A8%E7%BC%9D%E5%AE%BD%E8%BF%98%E6%AD%A3%E5%AF%B9%E5%A4%A7%E9%97%A8%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "15时13分"
         },
         {
           "title": "朱女士要求返还夫妻共同财产",
@@ -473,7 +505,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
