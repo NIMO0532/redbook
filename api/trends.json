@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T06:33:08.946393+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-08-13T07:33:52.800765+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -20,18 +20,6 @@
           "time_info": "[00时49分 ~ 06时32分]"
         },
         {
-          "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765987",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时32分]"
-        },
-        {
           "title": "女儿想在同学家过夜被爸爸拒绝",
           "url": "https://www.toutiao.com/trending/7672968551817265188/",
           "source": "今日头条",
@@ -40,11 +28,24 @@
             19,
             24,
             17,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
+        },
+        {
+          "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765987",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "哥哥去世嫂子改嫁 女子抚养侄子",
@@ -53,11 +54,12 @@
           "ranks": [
             15,
             17,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "女孩在自家店里完成12部位颠球",
@@ -68,8 +70,23 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
+        },
+        {
+          "title": "母亲乱投资欠下五百万 女儿卖房扛债",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B9%B1%E6%8A%95%E8%B5%84%E6%AC%A0%E4%B8%8B%E4%BA%94%E7%99%BE%E4%B8%87+%E5%A5%B3%E5%84%BF%E5%8D%96%E6%88%BF%E6%89%9B%E5%80%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22,
+            23,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "女孩在自家店里完成12部位颠球",
@@ -82,22 +99,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时32分]"
-        },
-        {
-          "title": "母亲乱投资欠下五百万 女儿卖房扛债",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B9%B1%E6%8A%95%E8%B5%84%E6%AC%A0%E4%B8%8B%E4%BA%94%E7%99%BE%E4%B8%87+%E5%A5%B3%E5%84%BF%E5%8D%96%E6%88%BF%E6%89%9B%E5%80%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "女子逆行撞小伙被拘留罚款",
@@ -107,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
           "title": "百万粉灵异女网红车祸身亡",
@@ -118,8 +121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
           "title": "后宫女主献吻反派,读者炸锅",
@@ -129,8 +132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
           "title": "女生泰国失联,疑被卖电诈区",
@@ -140,8 +143,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时33分]"
+        },
+        {
+          "title": "香港打击街头卖淫20名女子被捕",
+          "url": "https://www.toutiao.com/trending/7672553473870774291/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时52分 ~ 07时33分]"
         },
         {
           "title": "闺蜜诱骗撕票,女网红不幸遇害",
@@ -151,8 +166,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
           "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
@@ -161,11 +176,12 @@
           "ranks": [
             14,
             10,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
           "title": "卫健委介入17岁女孩流产监护人不知情",
@@ -176,22 +192,25 @@
             20,
             26,
             30,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时33分]"
         },
         {
-          "title": "香港打击街头卖淫20名女子被捕",
-          "url": "https://www.toutiao.com/trending/7672553473870774291/",
+          "title": "女子躲雨遇热心店主狂买10件衣服",
+          "url": "https://www.toutiao.com/trending/7673091896931893311/",
           "source": "今日头条",
           "ranks": [
-            22
+            29,
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时52分 ~ 06时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "两女子帮助黑人至中国幼儿园任教被判刑",
@@ -203,8 +222,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时58分 ~ 06时32分]"
+          "appearance_count": 5,
+          "time_info": "[03时58分 ~ 07时33分]"
+        },
+        {
+          "title": "男子伪装快递员杀害前女友被判死刑",
+          "url": "https://www.toutiao.com/trending/7673090079111397385/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "中国女篮不敌尼日利亚 杨舒予23分",
@@ -218,30 +250,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 06时32分]"
-        },
-        {
-          "title": "女子躲雨遇热心店主狂买10件衣服",
-          "url": "https://www.toutiao.com/trending/7673091896931893311/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时41分]"
-        },
-        {
-          "title": "男子伪装快递员杀害前女友被判死刑",
-          "url": "https://www.toutiao.com/trending/7673090079111397385/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "泰国失联女孩祁萌更新社媒",
@@ -261,9 +269,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "从“不敢保”到“主动保”，保险补齐脑机接口产业化关键一环",
+          "url": "https://wallstreetcn.com/livenews/3148780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
