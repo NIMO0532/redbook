@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T19:42:05.597829+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-08-12T20:52:24.992120+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
@@ -37,6 +37,20 @@
           "time_info": "[00时51分 ~ 06时34分]"
         },
         {
+          "title": "女子逆行撞小伙被拘留罚款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 20时52分]"
+        },
+        {
           "title": "后宫女主献吻反派,读者炸锅",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357167&amp;topic_name=%E5%90%8E%E5%AE%AB%E5%A5%B3%E4%B8%BB%E7%8C%AE%E5%90%BB%E5%8F%8D%E6%B4%BE%2C%E8%AF%BB%E8%80%85%E7%82%B8%E9%94%85",
           "source": "贴吧",
@@ -48,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 19时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 20时52分]"
         },
         {
           "title": "女生泰国失联,疑被卖电诈区",
@@ -64,22 +78,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 19时41分]"
-        },
-        {
-          "title": "女子逆行撞小伙被拘留罚款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 19时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 20时52分]"
         },
         {
           "title": "女子做核磁忘摘金手镯",
@@ -152,8 +152,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时38分 ~ 19时41分]"
+          "appearance_count": 12,
+          "time_info": "[13时38分 ~ 20时52分]"
         },
         {
           "title": "“上海女子在台风中坠楼”不实",
@@ -191,8 +191,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 19时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 20时52分]"
         },
         {
           "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
@@ -235,8 +235,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 19时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 20时52分]"
         },
         {
           "title": "曝刺棠女主换成杨超越了",
@@ -339,6 +339,19 @@
           "time_info": "[00时51分 ~ 06时34分]"
         },
         {
+          "title": "百万粉灵异女网红车祸身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 20时52分]"
+        },
+        {
           "title": "印度一保安强奸女生被捕后求原谅",
           "url": "https://www.toutiao.com/trending/7671997397107064859/",
           "source": "今日头条",
@@ -377,6 +390,19 @@
           "time_info": "[11时58分 ~ 15时13分]"
         },
         {
+          "title": "冯小刚徐帆的养女朵朵现身活动",
+          "url": "https://www.toutiao.com/trending/7673042380484886537/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 20时52分]"
+        },
+        {
           "title": "我听交警的涉事女子道歉赔偿",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%90%AC%E4%BA%A4%E8%AD%A6%E7%9A%84%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -405,19 +431,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 06时34分]"
-        },
-        {
-          "title": "百万粉灵异女网红车祸身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 19时41分]"
         },
         {
           "title": "网红雅典娜是家中独生女",
@@ -461,16 +474,16 @@
           "time_info": "[04时38分 ~ 07时32分]"
         },
         {
-          "title": "冯小刚徐帆的养女朵朵现身活动",
-          "url": "https://www.toutiao.com/trending/7673042380484886537/",
+          "title": "被前男友杀害女生母亲带着判决书扫墓",
+          "url": "https://www.toutiao.com/trending/7672065703012515886/",
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时54分 ~ 19时41分]"
+          "time_info": "[19时40分 ~ 20时52分]"
         },
         {
           "title": "帮180斤女友减肥致死 男子智力仅及格",
@@ -483,6 +496,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时54分 ~ 19时41分]"
+        },
+        {
+          "title": "日本女主播直播时对黑人用歧视词汇",
+          "url": "https://www.toutiao.com/trending/7672174150161154054/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时40分 ~ 20时52分]"
+        },
+        {
+          "title": "华人富豪全裸坠亡女友发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%AF%8C%E8%B1%AA%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时52分]"
         },
         {
           "title": "男子殴打女友致死被判误杀",
@@ -528,40 +565,6 @@
           "source": "今日头条",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
-          "title": "华人富豪全裸坠亡女友发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%AF%8C%E8%B1%AA%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时41分]"
-        },
-        {
-          "title": "被前男友杀害女生母亲带着判决书扫墓",
-          "url": "https://www.toutiao.com/trending/7672065703012515886/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
-          "title": "日本女主播直播时对黑人用歧视词汇",
-          "url": "https://www.toutiao.com/trending/7672174150161154054/",
-          "source": "今日头条",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -621,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
+          "url": "https://www.zhihu.com/question/2068973888067964954",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "女子吐槽女厕门缝宽还正对大门",
