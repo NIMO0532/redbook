@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:55:28.295733+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-08-12T19:42:05.597829+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 18时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 19时41分]"
         },
         {
           "title": "女生泰国失联,疑被卖电诈区",
@@ -64,8 +64,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 18时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 19时41分]"
+        },
+        {
+          "title": "女子逆行撞小伙被拘留罚款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 19时41分]"
         },
         {
           "title": "女子做核磁忘摘金手镯",
@@ -127,6 +141,21 @@
           "time_info": "[00时50分 ~ 17时05分]"
         },
         {
+          "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765987",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时38分 ~ 19时41分]"
+        },
+        {
           "title": "“上海女子在台风中坠楼”不实",
           "url": "https://www.toutiao.com/trending/7672214861442465833/",
           "source": "今日头条",
@@ -162,8 +191,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 18时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 19时41分]"
         },
         {
           "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
@@ -206,8 +235,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 18时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 19时41分]"
         },
         {
           "title": "曝刺棠女主换成杨超越了",
@@ -224,20 +253,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 07时32分]"
-        },
-        {
-          "title": "女子逆行撞小伙被拘留罚款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 18时55分]"
         },
         {
           "title": "女公厕大门正对着蹲位设计引争议",
@@ -275,25 +290,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 18时55分]"
-        },
-        {
-          "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765987",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时38分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[17时04分 ~ 19时41分]"
         },
         {
           "title": "男子酒后与女子亲密猝死家属索赔被驳",
@@ -405,6 +407,19 @@
           "time_info": "[01时52分 ~ 06时34分]"
         },
         {
+          "title": "百万粉灵异女网红车祸身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 19时41分]"
+        },
+        {
           "title": "网红雅典娜是家中独生女",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E6%98%AF%E5%AE%B6%E4%B8%AD%E7%8B%AC%E7%94%9F%E5%A5%B3%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -433,19 +448,6 @@
           "time_info": "[04时37分 ~ 07时32分]"
         },
         {
-          "title": "百万粉灵异女网红车祸身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 18时55分]"
-        },
-        {
           "title": "20 岁中国富二代在泰国被杀，嫌犯称在女友浴室看到他，还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2069733970867122230",
           "source": "知乎",
@@ -457,6 +459,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时32分]"
+        },
+        {
+          "title": "冯小刚徐帆的养女朵朵现身活动",
+          "url": "https://www.toutiao.com/trending/7673042380484886537/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时54分 ~ 19时41分]"
+        },
+        {
+          "title": "帮180斤女友减肥致死 男子智力仅及格",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%AE180%E6%96%A4%E5%A5%B3%E5%8F%8B%E5%87%8F%E8%82%A5%E8%87%B4%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%99%BA%E5%8A%9B%E4%BB%85%E5%8F%8A%E6%A0%BC",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时54分 ~ 19时41分]"
         },
         {
           "title": "男子殴打女友致死被判误杀",
@@ -472,6 +498,19 @@
           "time_info": "[13时39分 ~ 17时05分]"
         },
         {
+          "title": "印度保安强奸女学生后求放过",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%90%8E%E6%B1%82%E6%94%BE%E8%BF%87%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时41分]"
+        },
+        {
           "title": "演员包文婧坦言二胎很难一碗水端平，毕竟和女儿相处更久，这种偏心是真实存在的吗？这种话该不该公开说出口？",
           "url": "https://www.zhihu.com/question/2069445513607213352",
           "source": "知乎",
@@ -484,15 +523,49 @@
           "time_info": "[13时39分 ~ 17时05分]"
         },
         {
-          "title": "冯小刚徐帆的养女朵朵现身活动",
-          "url": "https://www.toutiao.com/trending/7673042380484886537/",
+          "title": "女儿想在同学家过夜被爸爸拒绝",
+          "url": "https://www.toutiao.com/trending/7672968551817265188/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "华人富豪全裸坠亡女友发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%AF%8C%E8%B1%AA%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时41分]"
+        },
+        {
+          "title": "被前男友杀害女生母亲带着判决书扫墓",
+          "url": "https://www.toutiao.com/trending/7672065703012515886/",
           "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "日本女主播直播时对黑人用歧视词汇",
+          "url": "https://www.toutiao.com/trending/7672174150161154054/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "中国女排3-0横扫日本",
@@ -528,29 +601,6 @@
           "time_info": "[17时04分 ~ 17时05分]"
         },
         {
-          "title": "印度保安强奸女学生后求放过",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%90%8E%E6%B1%82%E6%94%BE%E8%BF%87%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时55分]"
-        },
-        {
-          "title": "帮180斤女友减肥致死 男子智力仅及格",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%AE180%E6%96%A4%E5%A5%B3%E5%8F%8B%E5%87%8F%E8%82%A5%E8%87%B4%E6%AD%BB+%E7%94%B7%E5%AD%90%E6%99%BA%E5%8A%9B%E4%BB%85%E5%8F%8A%E6%A0%BC",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
-        },
-        {
           "title": "杨洋倩女幽魂cos",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82cos%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -571,17 +621,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
-        },
-        {
-          "title": "华人富豪全裸坠亡女友发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%AF%8C%E8%B1%AA%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "女子吐槽女厕门缝宽还正对大门",
