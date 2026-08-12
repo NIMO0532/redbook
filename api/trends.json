@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T22:17:24.191898+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-08-12T23:54:12.234320+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
@@ -30,11 +30,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时59分 ~ 22时17分]"
+          "appearance_count": 9,
+          "time_info": "[11时59分 ~ 23时53分]"
         },
         {
           "title": "女生晨跑后热射病离世身体发生了什么",
@@ -59,11 +60,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 23时53分]"
         },
         {
           "title": "女生泰国失联,疑被卖电诈区",
@@ -76,11 +78,12 @@
             11,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 23时53分]"
         },
         {
           "title": "女子做核磁忘摘金手镯",
@@ -154,8 +157,27 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时38分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[13时38分 ~ 23时53分]"
+        },
+        {
+          "title": "闺蜜诱骗撕票,女网红不幸遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            15,
+            16,
+            19,
+            20,
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 23时53分]"
         },
         {
           "title": "“上海女子在台风中坠楼”不实",
@@ -178,24 +200,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时50分 ~ 09时16分]"
-        },
-        {
-          "title": "闺蜜诱骗撕票,女网红不幸遇害",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            15,
-            16,
-            19,
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 22时17分]"
         },
         {
           "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
@@ -301,6 +305,20 @@
           "time_info": "[17时04分 ~ 19时41分]"
         },
         {
+          "title": "百万粉灵异女网红车祸身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 23时53分]"
+        },
+        {
           "title": "男子酒后与女子亲密猝死家属索赔被驳",
           "url": "https://www.toutiao.com/trending/7672729176848924678/",
           "source": "今日头条",
@@ -326,19 +344,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 07时32分]"
-        },
-        {
-          "title": "百万粉灵异女网红车祸身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 22时17分]"
         },
         {
           "title": "建议女生不要在网上过度分享",
@@ -477,6 +482,30 @@
           "time_info": "[04时38分 ~ 07时32分]"
         },
         {
+          "title": "女子躲雨遇热心店主狂买10件衣服",
+          "url": "https://www.toutiao.com/trending/7673091896931893311/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时16分 ~ 23时53分]"
+        },
+        {
+          "title": "泰国失联女孩发作品称已回国引质疑",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%8F%91%E4%BD%9C%E5%93%81%E7%A7%B0%E5%B7%B2%E5%9B%9E%E5%9B%BD%E5%BC%95%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时16分 ~ 23时53分]"
+        },
+        {
           "title": "被前男友杀害女生母亲带着判决书扫墓",
           "url": "https://www.toutiao.com/trending/7672065703012515886/",
           "source": "今日头条",
@@ -510,6 +539,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时40分 ~ 20时52分]"
+        },
+        {
+          "title": "女孩在自家店里完成12部位颠球",
+          "url": "https://www.toutiao.com/trending/7672685605450989618/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时16分 ~ 23时53分]"
+        },
+        {
+          "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
+          "url": "https://www.zhihu.com/question/2068973888067964954",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 23时53分]"
         },
         {
           "title": "华人富豪全裸坠亡女友发声",
@@ -563,15 +616,16 @@
           "time_info": "[13时39分 ~ 17时05分]"
         },
         {
-          "title": "女子躲雨遇热心店主狂买10件衣服",
-          "url": "https://www.toutiao.com/trending/7673091896931893311/",
-          "source": "今日头条",
+          "title": "泰国失联女孩祁萌更新社媒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E7%A5%81%E8%90%8C%E6%9B%B4%E6%96%B0%E7%A4%BE%E5%AA%92%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "time_info": "[22时17分 ~ 23时53分]"
         },
         {
           "title": "女儿想在同学家过夜被爸爸拒绝",
@@ -585,27 +639,26 @@
           "time_info": "[19时40分 ~ 19时41分]"
         },
         {
-          "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
-          "url": "https://www.zhihu.com/question/2068973888067964954",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 22时17分]"
-        },
-        {
-          "title": "泰国失联女孩发作品称已回国引质疑",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%8F%91%E4%BD%9C%E5%93%81%E7%A7%B0%E5%B7%B2%E5%9B%9E%E5%9B%BD%E5%BC%95%E8%B4%A8%E7%96%91",
+          "title": "女孩在自家店里完成12部位颠球",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%BA%97%E9%87%8C%E5%AE%8C%E6%88%9012%E9%83%A8%E4%BD%8D%E9%A2%A0%E7%90%83",
           "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "哥哥去世嫂子改嫁 女子抚养侄子",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E5%8E%BB%E4%B8%96%E5%AB%82%E5%AD%90%E6%94%B9%E5%AB%81+%E5%A5%B3%E5%AD%90%E6%8A%9A%E5%85%BB%E4%BE%84%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "中国女排3-0横扫日本",
@@ -630,17 +683,6 @@
           "time_info": "[17时04分 ~ 17时05分]"
         },
         {
-          "title": "女孩在自家店里完成12部位颠球",
-          "url": "https://www.toutiao.com/trending/7672685605450989618/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
           "title": "哥伦比亚一女子震后被困36小时获救",
           "url": "https://www.toutiao.com/trending/7672759120882581546/",
           "source": "今日头条",
@@ -652,15 +694,26 @@
           "time_info": "[17时04分 ~ 17时05分]"
         },
         {
-          "title": "泰国失联女孩祁萌更新社媒",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E7%A5%81%E8%90%8C%E6%9B%B4%E6%96%B0%E7%A4%BE%E5%AA%92%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "男子伪装快递员杀害前女友被判死刑",
+          "url": "https://www.toutiao.com/trending/7673090079111397385/",
+          "source": "今日头条",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "女大学生白天摆摊晚上照顾患癌爷爷",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%99%BD%E5%A4%A9%E6%91%86%E6%91%8A%E6%99%9A%E4%B8%8A%E7%85%A7%E9%A1%BE%E6%82%A3%E7%99%8C%E7%88%B7%E7%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "杨洋倩女幽魂cos",
@@ -705,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "市监局介入情感专家扑倒女客户",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E4%BB%8B%E5%85%A5%E6%83%85%E6%84%9F%E4%B8%93%E5%AE%B6%E6%89%91%E5%80%92%E5%A5%B3%E5%AE%A2%E6%88%B7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "朱女士要求返还夫妻共同财产",
@@ -791,11 +855,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 23时53分]"
         }
       ]
     }
