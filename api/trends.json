@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-12T09:16:22.322151+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-08-12T12:00:04.466050+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "女生泰国失联,疑被卖电诈区",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357133&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%2C%E7%96%91%E8%A2%AB%E5%8D%96%E7%94%B5%E8%AF%88%E5%8C%BA",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 09时16分]"
-        },
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
           "url": "https://www.toutiao.com/trending/7672677762373664804/",
@@ -26,11 +15,36 @@
             1,
             4,
             2,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 09时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 11时59分]"
+        },
+        {
+          "title": "女生泰国失联,疑被卖电诈区",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357133&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%2C%E7%96%91%E8%A2%AB%E5%8D%96%E7%94%B5%E8%AF%88%E5%8C%BA",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时59分]"
+        },
+        {
+          "title": "后宫女主献吻反派,读者炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357167&amp;topic_name=%E5%90%8E%E5%AE%AB%E5%A5%B3%E4%B8%BB%E7%8C%AE%E5%90%BB%E5%8F%8D%E6%B4%BE%2C%E8%AF%BB%E8%80%85%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时59分]"
         },
         {
           "title": "女生晨跑后热射病离世身体发生了什么",
@@ -45,18 +59,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 06时34分]"
-        },
-        {
-          "title": "后宫女主献吻反派,读者炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357167&amp;topic_name=%E5%90%8E%E5%AE%AB%E5%A5%B3%E4%B8%BB%E7%8C%AE%E5%90%BB%E5%8F%8D%E6%B4%BE%2C%E8%AF%BB%E8%80%85%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 09时16分]"
         },
         {
           "title": "女子做核磁忘摘金手镯",
@@ -112,8 +114,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 09时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 11时59分]"
         },
         {
           "title": "“上海女子在台风中坠楼”不实",
@@ -138,6 +140,33 @@
           "time_info": "[00时50分 ~ 09时16分]"
         },
         {
+          "title": "闺蜜诱骗撕票,女网红不幸遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时59分]"
+        },
+        {
+          "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069387389651215691",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时59分]"
+        },
+        {
           "title": "王菲过完57岁生日带女儿回北京",
           "url": "https://www.toutiao.com/trending/7671653749860876334/",
           "source": "今日头条",
@@ -149,6 +178,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时51分 ~ 07时32分]"
+        },
+        {
+          "title": "抗台风!女书记单扛170斤重物",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时59分]"
         },
         {
           "title": "曝刺棠女主换成杨超越了",
@@ -182,32 +224,6 @@
           "time_info": "[03时56分 ~ 07时32分]"
         },
         {
-          "title": "闺蜜诱骗撕票,女网红不幸遇害",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 09时16分]"
-        },
-        {
-          "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069387389651215691",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 09时16分]"
-        },
-        {
           "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
           "url": "https://www.zhihu.com/question/2070481032956962155",
           "source": "知乎",
@@ -217,18 +233,6 @@
             15,
             11,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 09时16分]"
-        },
-        {
-          "title": "抗台风!女书记单扛170斤重物",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -292,6 +296,17 @@
           "time_info": "[01时52分 ~ 06时34分]"
         },
         {
+          "title": "女子逆行撞小伙被拘留罚款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "网红雅典娜是家中独生女",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E6%98%AF%E5%AE%B6%E4%B8%AD%E7%8B%AC%E7%94%9F%E5%A5%B3%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -337,11 +352,34 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%90%AC%E4%BA%A4%E8%AD%A6%E7%9A%84%E2%80%9D%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF",
           "source": "百度热搜",
           "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时59分]"
+        },
+        {
+          "title": "印度一保安强奸女生被捕后求原谅",
+          "url": "https://www.toutiao.com/trending/7671997397107064859/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "母亲与怀孕妻子遇害 2岁女儿目睹全程",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%8E%E6%80%80%E5%AD%95%E5%A6%BB%E5%AD%90%E9%81%87%E5%AE%B3+2%E5%B2%81%E5%A5%B3%E5%84%BF%E7%9B%AE%E7%9D%B9%E5%85%A8%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "中国女排3-0横扫日本",
@@ -355,6 +393,17 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
+          "title": "杨洋倩女幽魂cos",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82cos%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "男子在住所杀害前女友开16度藏尸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E4%BD%8F%E6%89%80%E6%9D%80%E5%AE%B3%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%BC%8016%E5%BA%A6%E8%97%8F%E5%B0%B8%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -364,6 +413,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "陈思诚现身女友家乡",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E7%8E%B0%E8%BA%AB%E5%A5%B3%E5%8F%8B%E5%AE%B6%E4%B9%A1%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "女子体重七八十斤暴食后肚子胀如怀孕",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E9%87%8D%E4%B8%83%E5%85%AB%E5%8D%81%E6%96%A4%E6%9A%B4%E9%A3%9F%E5%90%8E%E8%82%9A%E5%AD%90%E8%83%80%E5%A6%82%E6%80%80%E5%AD%95%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股脑机接口概念异动拉升，创新医疗快速涨停，菲沃泰涨超10%，爱朋医疗、声迅股份、倍益康、三博脑科、南京熊猫跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "浙江：强化脑机接口企业全生命周期金融支持，推动脑机接口企业选择合适上市方式",
+          "url": "https://wallstreetcn.com/livenews/3148381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "A股脑机接口板块走高，创新医疗涨停，菲沃泰涨超10%，爱朋医疗、倍益康、世运电路、三博脑科、东方中科跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812111101444800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     }
