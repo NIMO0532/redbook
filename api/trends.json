@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T06:34:25.806078+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-08-14T07:34:42.521937+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "女子称因台风影响出行取消行程后被扣八千余元，携程：不属不可抗力，已提供关怀补偿",
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 06时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 07时34分]"
         },
         {
           "title": "女子爱生闷气乳腺癌去世 丈夫痛哭",
@@ -58,11 +58,12 @@
             21,
             18,
             16,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 06时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 07时34分]"
         },
         {
           "title": "深圳女生一天1500专门劝人别买房",
@@ -76,8 +77,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时34分]"
         },
         {
           "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
@@ -87,11 +88,12 @@
             10,
             12,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时34分]"
         },
         {
           "title": "男子健身房指导女友被要求看结婚证",
@@ -105,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时34分]"
         },
         {
           "title": "女子逆行撞小伙被拘留罚款",
@@ -117,8 +119,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时34分]"
         },
         {
           "title": "女生总感觉没衣服穿的原因",
@@ -130,8 +132,35 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 07时34分]"
+        },
+        {
+          "title": "“他衣服是破的 却给女儿买新的”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%96%E8%A1%A3%E6%9C%8D%E6%98%AF%E7%A0%B4%E7%9A%84+%E5%8D%B4%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E6%96%B0%E7%9A%84%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 07时34分]"
+        },
+        {
+          "title": "女子花8万做试管被推进简易房手术",
+          "url": "https://www.toutiao.com/trending/7672263112929787910/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 07时34分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
@@ -159,29 +188,29 @@
           "time_info": "[01时52分 ~ 05时37分]"
         },
         {
-          "title": "“他衣服是破的 却给女儿买新的”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%96%E8%A1%A3%E6%9C%8D%E6%98%AF%E7%A0%B4%E7%9A%84+%E5%8D%B4%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E6%96%B0%E7%9A%84%E2%80%9D",
-          "source": "百度热搜",
+          "title": "女子虐待亲生女儿致死后患重度抑郁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%99%90%E5%BE%85%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%E8%87%B4%E6%AD%BB%E5%90%8E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            16,
-            18,
-            20
+            28,
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
         },
         {
-          "title": "女子花8万做试管被推进简易房手术",
-          "url": "https://www.toutiao.com/trending/7672263112929787910/",
+          "title": "4岁半女童“满头白发”确诊白癜风",
+          "url": "https://www.toutiao.com/trending/7673449359346319370/",
           "source": "今日头条",
           "ranks": [
-            26,
-            21
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 05时37分]"
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 07时34分]"
         },
         {
           "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
@@ -208,17 +237,38 @@
           "time_info": "[02时53分 ~ 04时34分]"
         },
         {
-          "title": "女子虐待亲生女儿致死后患重度抑郁",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%99%90%E5%BE%85%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%E8%87%B4%E6%AD%BB%E5%90%8E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "英国17岁男孩胁迫117名女孩自残",
+          "url": "https://www.toutiao.com/trending/7673163065797427254/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            23,
-            18
+            29,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时34分]"
+          "time_info": "[05时37分 ~ 07时34分]"
+        },
+        {
+          "title": "张帅组合夺得多伦多站女双冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%B8%85%E7%BB%84%E5%90%88%E5%A4%BA%E5%BE%97%E5%A4%9A%E4%BC%A6%E5%A4%9A%E7%AB%99%E5%A5%B3%E5%8F%8C%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
+        },
+        {
+          "title": "女子乳腺癌去世丈夫痛哭",
+          "url": "https://www.toutiao.com/trending/7673134486418178084/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -233,24 +283,13 @@
           "time_info": "[05时37分 ~ 06时34分]"
         },
         {
-          "title": "4岁半女童“满头白发”确诊白癜风",
-          "url": "https://www.toutiao.com/trending/7673449359346319370/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
-        },
-        {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
           "url": "https://flash.jin10.com/detail/20260814053520853800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -261,20 +300,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "英国17岁男孩胁迫117名女孩自残",
-          "url": "https://www.toutiao.com/trending/7673163065797427254/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时34分"
         }
       ]
     },
@@ -290,11 +318,12 @@
             14,
             5,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时34分]"
         }
       ]
     }
