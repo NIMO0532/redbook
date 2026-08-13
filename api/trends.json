@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-14T01:53:06.708752+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-08-14T02:53:46.487812+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "女子称因台风影响出行取消行程后被扣八千余元，携程：不属不可抗力，已提供关怀补偿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33776219",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时53分]"
         },
         {
           "title": "女子爱生闷气乳腺癌去世 丈夫痛哭",
@@ -27,8 +28,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时53分]"
         },
         {
           "title": "女子虐待女儿致死 入狱后屡次轻生",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时53分]"
         },
         {
           "title": "“他衣服是破的 却给女儿买新的”",
@@ -48,11 +50,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时53分]"
         },
         {
           "title": "哥哥借房给侄女上学 房子被弟弟偷卖",
@@ -60,11 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时53分]"
         },
         {
           "title": "深圳女生一天1500专门劝人别买房",
@@ -74,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时53分]"
         },
         {
           "title": "男子健身房指导女友被要求看结婚证",
@@ -83,11 +87,12 @@
           "source": "微博",
           "ranks": [
             22,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时53分]"
         },
         {
           "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
@@ -98,8 +103,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时53分]"
         },
         {
           "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
@@ -109,8 +114,43 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时53分]"
+        },
+        {
+          "title": "女子逆行撞小伙被拘留罚款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时53分]"
+        },
+        {
+          "title": "女生总感觉没衣服穿的原因",
+          "url": "https://www.douyin.com/hot/2608630",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
+          "time_info": "[01时52分 ~ 02时53分]"
+        },
+        {
+          "title": "金鹰奖女主提名",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%A5%B3%E4%B8%BB%E6%8F%90%E5%90%8D%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时53分]"
         },
         {
           "title": "女子花8万做试管被推进简易房手术",
@@ -124,38 +164,15 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
-          "title": "女子逆行撞小伙被拘留罚款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
-        },
-        {
-          "title": "女生总感觉没衣服穿的原因",
-          "url": "https://www.douyin.com/hot/2608630",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "金鹰奖女主提名",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%A5%B3%E4%B8%BB%E6%8F%90%E5%90%8D%23&t=31&band_rank=23&Refer=top",
+          "title": "疑似泰国失联女孩弟弟发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%BC%9F%E5%BC%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "02时53分"
         }
       ]
     },
@@ -172,8 +189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时53分]"
         }
       ]
     }
