@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T22:19:13.201525+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-08-13T23:53:18.428270+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "泰国失联女孩发作品称已回国引质疑",
@@ -60,11 +60,12 @@
             21,
             22,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 23时52分]"
         },
         {
           "title": "百万粉灵异女网红车祸身亡",
@@ -197,6 +198,20 @@
           "time_info": "[17时55分 ~ 20时53分]"
         },
         {
+          "title": "哥哥借房给侄女上学 房子被弟弟偷卖",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E5%80%9F%E6%88%BF%E7%BB%99%E4%BE%84%E5%A5%B3%E4%B8%8A%E5%AD%A6+%E6%88%BF%E5%AD%90%E8%A2%AB%E5%BC%9F%E5%BC%9F%E5%81%B7%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时56分 ~ 23时52分]"
+        },
+        {
           "title": "歼-16女飞行员采访时遇紧急出勤",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%BC-16%E5%A5%B3%E9%A3%9E%E8%A1%8C%E5%91%98%E9%87%87%E8%AE%BF%E6%97%B6%E9%81%87%E7%B4%A7%E6%80%A5%E5%87%BA%E5%8B%A4",
           "source": "bilibili 热搜",
@@ -213,11 +228,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[20时52分 ~ 23时52分]"
         },
         {
           "title": "香港打击街头卖淫20名女子被捕",
@@ -246,19 +262,6 @@
           "time_info": "[16时14分 ~ 20时53分]"
         },
         {
-          "title": "哥哥借房给侄女上学 房子被弟弟偷卖",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E5%80%9F%E6%88%BF%E7%BB%99%E4%BE%84%E5%A5%B3%E4%B8%8A%E5%AD%A6+%E6%88%BF%E5%AD%90%E8%A2%AB%E5%BC%9F%E5%BC%9F%E5%81%B7%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时56分 ~ 22时18分]"
-        },
-        {
           "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
           "url": "https://www.zhihu.com/question/2068973888067964954",
           "source": "知乎",
@@ -271,6 +274,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 07时33分]"
+        },
+        {
+          "title": "女子爱生闷气乳腺癌去世 丈夫痛哭",
+          "url": "https://www.toutiao.com/trending/7673134486418178084/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时41分 ~ 23时52分]"
+        },
+        {
+          "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
+          "url": "https://www.zhihu.com/question/2070260620662924741",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时14分 ~ 23时52分]"
         },
         {
           "title": "卫健委介入17岁女孩流产监护人不知情",
@@ -299,18 +325,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时55分 ~ 19时42分]"
-        },
-        {
-          "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
-          "url": "https://www.zhihu.com/question/2070260620662924741",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时14分 ~ 22时18分]"
         },
         {
           "title": "花48万托人给子女买事业编工作",
@@ -349,15 +363,16 @@
           "time_info": "[14时10分 ~ 17时56分]"
         },
         {
-          "title": "女子爱生闷气乳腺癌去世 丈夫痛哭",
-          "url": "https://www.toutiao.com/trending/7673134486418178084/",
-          "source": "今日头条",
+          "title": "女子称穿一次性内裤脱落 品牌回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A9%BF%E4%B8%80%E6%AC%A1%E6%80%A7%E5%86%85%E8%A3%A4%E8%84%B1%E8%90%BD+%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            11
+            13,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时41分 ~ 22时18分]"
+          "time_info": "[20时52分 ~ 23时52分]"
         },
         {
           "title": "女子躲雨遇热心店主狂买10件衣服",
@@ -462,6 +477,32 @@
           "time_info": "[12时03分 ~ 14时11分]"
         },
         {
+          "title": "深圳女生一天1500专门劝人别买房",
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%A5%B3%E7%94%9F%E4%B8%80%E5%A4%A91500%E4%B8%93%E9%97%A8%E5%8A%9D%E4%BA%BA%E5%88%AB%E4%B9%B0%E6%88%BF&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时52分]"
+        },
+        {
+          "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
+          "url": "https://www.zhihu.com/question/2070208110300608458",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时52分]"
+        },
+        {
           "title": "刘晓庆袁泉白百何杨紫诠释四代女性",
           "url": "https://www.toutiao.com/trending/7672566202795327497/",
           "source": "今日头条",
@@ -474,27 +515,15 @@
           "time_info": "[20时52分 ~ 22时18分]"
         },
         {
-          "title": "女子称穿一次性内裤脱落 品牌回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A9%BF%E4%B8%80%E6%AC%A1%E6%80%A7%E5%86%85%E8%A3%A4%E8%84%B1%E8%90%BD+%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "女子称因台风影响出行取消行程后被扣八千余元，携程：不属不可抗力，已提供关怀补偿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33776219",
+          "source": "澎湃新闻",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时18分]"
-        },
-        {
-          "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
-          "url": "https://www.zhihu.com/question/2070208110300608458",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时18分]"
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "刘晓庆 女帝和她的将相",
@@ -532,18 +561,6 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
-          "title": "深圳女生一天1500专门劝人别买房",
-          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%A5%B3%E7%94%9F%E4%B8%80%E5%A4%A91500%E4%B8%93%E9%97%A8%E5%8A%9D%E4%BA%BA%E5%88%AB%E4%B9%B0%E6%88%BF&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时18分]"
-        },
-        {
           "title": "中国女篮不敌尼日利亚 杨舒予23分",
           "url": "https://www.toutiao.com/trending/7672768744046526518/",
           "source": "今日头条",
@@ -575,6 +592,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "女子虐待女儿致死 入狱后屡次轻生",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%99%90%E5%BE%85%E5%A5%B3%E5%84%BF%E8%87%B4%E6%AD%BB+%E5%85%A5%E7%8B%B1%E5%90%8E%E5%B1%A1%E6%AC%A1%E8%BD%BB%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "英国首相拟让男犯进女子监狱服刑",
@@ -627,7 +655,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -698,11 +726,12 @@
           "source": "微博",
           "ranks": [
             4,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时52分]"
         },
         {
           "title": "狄仁杰小李飞刀皮肤曝光",
