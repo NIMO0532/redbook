@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:46:42.523325+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-08-15T02:43:42.548830+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时43分]"
         },
         {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
@@ -27,20 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
-        },
-        {
-          "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
-          "url": "https://www.zhihu.com/question/2071540861712721478",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时43分]"
         },
         {
           "title": "国乒男女双全军覆没",
@@ -51,8 +39,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 02时43分]"
+        },
+        {
+          "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
+          "url": "https://www.zhihu.com/question/2071540861712721478",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时43分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时43分]"
         },
         {
           "title": "WTT瑞典站国乒男女双遭淘汰",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时43分]"
         },
         {
           "title": "女子称自己月经持续来了8年",
@@ -87,8 +87,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时43分]"
         }
       ]
     }
