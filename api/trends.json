@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-08-15T05:19:20.795961+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-08-15T06:15:26.088681+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
       "match_count": 10,
       "titles": [
-        {
-          "title": "国乒男女双全军覆没",
-          "url": "https://www.toutiao.com/trending/7673729998800293418/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 05时19分]"
-        },
         {
           "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
           "url": "https://www.zhihu.com/question/2071379437682267339",
@@ -29,8 +16,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时15分]"
+        },
+        {
+          "title": "国乒男女双全军覆没",
+          "url": "https://www.toutiao.com/trending/7673729998800293418/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 06时15分]"
         },
         {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
@@ -41,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时15分]"
         },
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
@@ -52,11 +53,25 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时15分]"
+        },
+        {
+          "title": "WTT瑞典站国乒男女双遭淘汰",
+          "url": "https://www.douyin.com/hot/2608948",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时15分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -67,20 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时19分]"
-        },
-        {
-          "title": "WTT瑞典站国乒男女双遭淘汰",
-          "url": "https://www.douyin.com/hot/2608948",
-          "source": "抖音",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时15分]"
         },
         {
           "title": "女子称自己月经持续来了8年",
@@ -90,11 +93,12 @@
             29,
             23,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时15分]"
         },
         {
           "title": "母亲陪伴女儿对抗SMA重症",
@@ -102,33 +106,36 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时23分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[04时23分 ~ 06时15分]"
         },
         {
           "title": "小伙瞒着父母去泰国找女友被边检劝返",
           "url": "https://www.toutiao.com/trending/7673738830248099878/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 06时15分]"
         },
         {
           "title": "女子连中4瓶1元换购商家拒兑换",
           "url": "https://www.toutiao.com/trending/7673763584488456234/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 06时15分]"
         }
       ]
     }
