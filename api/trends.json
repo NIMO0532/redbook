@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T19:39:29.804383+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-08-14T20:48:22.668979+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "国乒男女双全军覆没",
@@ -16,11 +16,12 @@
             2,
             1,
             6,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时38分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[13时38分 ~ 20时47分]"
         },
         {
           "title": "女子称因台风影响出行取消行程后被扣八千余元，携程：不属不可抗力，已提供关怀补偿",
@@ -112,6 +113,18 @@
           "time_info": "[00时48分 ~ 13时39分]"
         },
         {
+          "title": "Bin成接头暗号,恋综男女看对眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357469&amp;topic_name=Bin%E6%88%90%E6%8E%A5%E5%A4%B4%E6%9A%97%E5%8F%B7%2C%E6%81%8B%E7%BB%BC%E7%94%B7%E5%A5%B3%E7%9C%8B%E5%AF%B9%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 20时47分]"
+        },
+        {
           "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
           "url": "https://www.zhihu.com/question/2070208110300608458",
           "source": "知乎",
@@ -126,18 +139,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时48分 ~ 09时17分]"
-        },
-        {
-          "title": "Bin成接头暗号,恋综男女看对眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357469&amp;topic_name=Bin%E6%88%90%E6%8E%A5%E5%A4%B4%E6%9A%97%E5%8F%B7%2C%E6%81%8B%E7%BB%BC%E7%94%B7%E5%A5%B3%E7%9C%8B%E5%AF%B9%E7%9C%BC",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 19时39分]"
         },
         {
           "title": "深圳女生一天1500专门劝人别买房",
@@ -168,6 +169,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 07时34分]"
+        },
+        {
+          "title": "赴泰失联24岁女孩已回国？中使馆回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%9424%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%9B%9E%E5%9B%BD%EF%BC%9F%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 20时47分]"
         },
         {
           "title": "“他衣服是破的 却给女儿买新的”",
@@ -201,11 +215,12 @@
           "url": "https://www.toutiao.com/trending/7673763584488456234/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 20时47分]"
         },
         {
           "title": "武汉女子离婚反赔非洲丈夫17万",
@@ -219,16 +234,17 @@
           "time_info": "[18时51分 ~ 18时52分]"
         },
         {
-          "title": "赴泰失联24岁女孩已回国？中使馆回应",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%9424%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%9B%9E%E5%9B%BD%EF%BC%9F%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
+          "title": "车辆坠河女孩失联 爸爸表弟爬窗获救",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94+%E7%88%B8%E7%88%B8%E8%A1%A8%E5%BC%9F%E7%88%AC%E7%AA%97%E8%8E%B7%E6%95%91",
           "source": "百度热搜",
           "ranks": [
-            29,
-            4
+            23,
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 20时47分]"
         },
         {
           "title": "酒吧多名女子穿近似海航空姐制服跳舞",
@@ -291,23 +307,24 @@
           "time_info": "[01时52分 ~ 05时37分]"
         },
         {
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "source": "知乎",
+          "ranks": [
+            20,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 20时47分]"
+        },
+        {
           "title": "酒吧多女子穿近似海航空姐制服跳舞",
           "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%90%A7%E5%A4%9A%E5%A5%B3%E5%AD%90%E7%A9%BF%E8%BF%91%E4%BC%BC%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%A7%90%E5%88%B6%E6%9C%8D%E8%B7%B3%E8%88%9E",
           "source": "百度热搜",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 19时39分]"
-        },
-        {
-          "title": "车辆坠河女孩失联 爸爸表弟爬窗获救",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94+%E7%88%B8%E7%88%B8%E8%A1%A8%E5%BC%9F%E7%88%AC%E7%AA%97%E8%8E%B7%E6%95%91",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -339,16 +356,17 @@
           "time_info": "[06时33分 ~ 07时34分]"
         },
         {
-          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
-          "url": "https://www.zhihu.com/question/2071379437682267339",
-          "source": "知乎",
+          "title": "WTT瑞典站国乒男女双遭淘汰",
+          "url": "https://www.douyin.com/hot/2608948",
+          "source": "抖音",
           "ranks": [
-            20,
-            8
+            26,
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时39分]"
+          "time_info": "[18时52分 ~ 20时47分]"
         },
         {
           "title": "韩国女星被扒曾祖父是韩奸",
@@ -413,6 +431,17 @@
           "time_info": "[05时37分 ~ 07时34分]"
         },
         {
+          "title": "英国女主持跳水秀前空翻致肺萎陷",
+          "url": "https://www.toutiao.com/trending/7673807514912718911/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
           "title": "张帅组合夺得多伦多站女双冠军",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%B8%85%E7%BB%84%E5%90%88%E5%A4%BA%E5%BE%97%E5%A4%9A%E4%BC%A6%E5%A4%9A%E7%AB%99%E5%A5%B3%E5%8F%8C%E5%86%A0%E5%86%9B",
           "source": "百度热搜",
@@ -434,18 +463,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 13时39分]"
-        },
-        {
-          "title": "WTT瑞典站国乒男女双遭淘汰",
-          "url": "https://www.douyin.com/hot/2608948",
-          "source": "抖音",
-          "ranks": [
-            26,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时39分]"
         },
         {
           "title": "女子乳腺癌去世丈夫痛哭",
@@ -505,6 +522,17 @@
           "time_info": "[15时13分 ~ 17时02分]"
         },
         {
+          "title": "母亲陪伴女儿对抗SMA重症",
+          "url": "https://www.toutiao.com/trending/7673800532972945458/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
           "title": "小伙瞒着父母去泰国找女友被边检劝返",
           "url": "https://www.toutiao.com/trending/7673738830248099878/",
           "source": "今日头条",
@@ -525,6 +553,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 09时17分]"
+        },
+        {
+          "title": "4岁半女童满头白发确诊白癜风",
+          "url": "https://www.baidu.com/s?wd=4%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E6%BB%A1%E5%A4%B4%E7%99%BD%E5%8F%91%E7%A1%AE%E8%AF%8A%E7%99%BD%E7%99%9C%E9%A3%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "女孩中考692分选择中本贯通",
@@ -580,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "女子称2岁儿子失踪快1年仍未找到",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B02%E5%B2%81%E5%84%BF%E5%AD%90%E5%A4%B1%E8%B8%AA%E5%BF%AB1%E5%B9%B4%E4%BB%8D%E6%9C%AA%E6%89%BE%E5%88%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "女子骑三轮在车流中乱钻撞上迈巴赫",
