@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-14T22:12:12.790601+08:00",
-  "total_titles_processed": 1885,
+  "generated_at": "2026-08-14T23:44:53.672203+08:00",
+  "total_titles_processed": 1990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "Bin成接头暗号,恋综男女看对眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357469&amp;topic_name=Bin%E6%88%90%E6%8E%A5%E5%A4%B4%E6%9A%97%E5%8F%B7%2C%E6%81%8B%E7%BB%BC%E7%94%B7%E5%A5%B3%E7%9C%8B%E5%AF%B9%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 23时44分]"
+        },
         {
           "title": "国乒男女双全军覆没",
           "url": "https://www.toutiao.com/trending/7673729998800293418/",
@@ -18,23 +31,12 @@
             6,
             7,
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时38分 ~ 22时11分]"
-        },
-        {
-          "title": "Bin成接头暗号,恋综男女看对眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357469&amp;topic_name=Bin%E6%88%90%E6%8E%A5%E5%A4%B4%E6%9A%97%E5%8F%B7%2C%E6%81%8B%E7%BB%BC%E7%94%B7%E5%A5%B3%E7%9C%8B%E5%AF%B9%E7%9C%BC",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 22时11分]"
+          "appearance_count": 14,
+          "time_info": "[13时38分 ~ 23时44分]"
         },
         {
           "title": "女子称因台风影响出行取消行程后被扣八千余元，携程：不属不可抗力，已提供关怀补偿",
@@ -157,6 +159,21 @@
           "time_info": "[00时48分 ~ 07时34分]"
         },
         {
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "source": "知乎",
+          "ranks": [
+            20,
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 23时44分]"
+        },
+        {
           "title": "男子健身房指导女友被要求看结婚证",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -222,20 +239,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时38分 ~ 20时47分]"
-        },
-        {
-          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
-          "url": "https://www.zhihu.com/question/2071379437682267339",
-          "source": "知乎",
-          "ranks": [
-            20,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 22时11分]"
         },
         {
           "title": "武汉女子离婚反赔非洲丈夫17万",
@@ -308,6 +311,21 @@
           "time_info": "04时34分"
         },
         {
+          "title": "WTT瑞典站国乒男女双遭淘汰",
+          "url": "https://www.douyin.com/hot/2608948",
+          "source": "抖音",
+          "ranks": [
+            26,
+            13,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 23时44分]"
+        },
+        {
           "title": "金鹰奖女主提名",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%A5%B3%E4%B8%BB%E6%8F%90%E5%90%8D%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -320,20 +338,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时52分 ~ 05时37分]"
-        },
-        {
-          "title": "WTT瑞典站国乒男女双遭淘汰",
-          "url": "https://www.douyin.com/hot/2608948",
-          "source": "抖音",
-          "ranks": [
-            26,
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 22时11分]"
         },
         {
           "title": "酒吧多女子穿近似海航空姐制服跳舞",
@@ -559,6 +563,17 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
+          "title": "石洵瑶晋级WTT瑞典大满贯女单八强",
+          "url": "https://www.toutiao.com/trending/7673735189344763946/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
+        },
+        {
           "title": "4岁半女童满头白发确诊白癜风",
           "url": "https://www.baidu.com/s?wd=4%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E6%BB%A1%E5%A4%B4%E7%99%BD%E5%8F%91%E7%A1%AE%E8%AF%8A%E7%99%BD%E7%99%9C%E9%A3%8E",
           "source": "百度热搜",
@@ -598,7 +613,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -612,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
+          "url": "https://www.zhihu.com/question/2071540861712721478",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "侯卓成称前女友已道歉",
@@ -647,6 +673,17 @@
           "time_info": "20时47分"
         },
         {
+          "title": "房主任女儿发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "女子骑三轮在车流中乱钻撞上迈巴赫",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%91%E4%B8%89%E8%BD%AE%E5%9C%A8%E8%BD%A6%E6%B5%81%E4%B8%AD%E4%B9%B1%E9%92%BB%E6%92%9E%E4%B8%8A%E8%BF%88%E5%B7%B4%E8%B5%AB%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -656,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "女子称自己月经持续来了8年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%9C%88%E7%BB%8F%E6%8C%81%E7%BB%AD%E6%9D%A5%E4%BA%868%E5%B9%B4%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "王曼昱蒯曼无缘女双四强",
@@ -686,7 +734,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -697,7 +745,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         }
