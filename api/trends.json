@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T19:13:37.788720+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-08-15T20:22:35.813806+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
@@ -69,8 +69,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 19时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 20时22分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -89,8 +89,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 19时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 20时22分]"
         },
         {
           "title": "“上一次出门是两个多月前”，消失的阿富汗女性",
@@ -116,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时09分 ~ 19时13分]"
+          "appearance_count": 19,
+          "time_info": "[10时09分 ~ 20时22分]"
         },
         {
           "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
@@ -160,6 +160,35 @@
           "time_info": "[00时43分 ~ 07时15分]"
         },
         {
+          "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
+          "url": "https://www.zhihu.com/question/2070905498790879818",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16,
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 20时22分]"
+        },
+        {
+          "title": "外国女子倒车落下山崖 女儿不幸身亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%80%92%E8%BD%A6%E8%90%BD%E4%B8%8B%E5%B1%B1%E5%B4%96+%E5%A5%B3%E5%84%BF%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 20时22分]"
+        },
+        {
           "title": "母亲陪伴女儿对抗SMA重症",
           "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E9%99%AA%E4%BC%B4%E5%A5%B3%E5%84%BF%E5%AF%B9%E6%8A%97SMA%E9%87%8D%E7%97%87",
           "source": "百度热搜",
@@ -172,20 +201,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时23分 ~ 07时15分]"
-        },
-        {
-          "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
-          "url": "https://www.zhihu.com/question/2070905498790879818",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 19时13分]"
         },
         {
           "title": "3个女儿均非亲生，当事人要求妻子退赔31万余元",
@@ -212,19 +227,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 06时15分]"
-        },
-        {
-          "title": "外国女子倒车落下山崖 女儿不幸身亡",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%80%92%E8%BD%A6%E8%90%BD%E4%B8%8B%E5%B1%B1%E5%B4%96+%E5%A5%B3%E5%84%BF%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 19时13分]"
         },
         {
           "title": "“这个正在读初三的女生订婚了”",
@@ -290,6 +292,17 @@
           "time_info": "[16时18分 ~ 17时19分]"
         },
         {
+          "title": "王曼昱晋级女单四强",
+          "url": "https://www.toutiao.com/trending/7673656638473633835/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "朱女士案赶快拿钱离婚才是上策",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A5%B3%E5%A3%AB%E6%A1%88%E8%B5%B6%E5%BF%AB%E6%8B%BF%E9%92%B1%E7%A6%BB%E5%A9%9A%E6%89%8D%E6%98%AF%E4%B8%8A%E7%AD%96&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -300,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时15分]"
+        },
+        {
+          "title": "杜女士你的身份证在邢昭林这儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%A5%B3%E5%A3%AB%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%9C%A8%E9%82%A2%E6%98%AD%E6%9E%97%E8%BF%99%E5%84%BF%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时22分]"
         },
         {
           "title": "波兰女子当街殴打辱骂乌克兰男子",
@@ -357,24 +382,13 @@
           "time_info": "07时15分"
         },
         {
-          "title": "杜女士你的身份证在邢昭林这儿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%A5%B3%E5%A3%AB%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%9C%A8%E9%82%A2%E6%98%AD%E6%9E%97%E8%BF%99%E5%84%BF%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
           "title": "丈夫多年给丧偶初中女同学逐条留言",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%A4%9A%E5%B9%B4%E7%BB%99%E4%B8%A7%E5%81%B6%E5%88%9D%E4%B8%AD%E5%A5%B3%E5%90%8C%E5%AD%A6%E9%80%90%E6%9D%A1%E7%95%99%E8%A8%80%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
