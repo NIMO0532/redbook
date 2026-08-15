@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T07:15:29.386094+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-08-15T08:49:16.622261+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 08时48分]"
         },
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 08时48分]"
         },
         {
           "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
@@ -41,11 +41,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 08时48分]"
         },
         {
           "title": "国乒男女双全军覆没",
@@ -84,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 08时48分]"
         },
         {
           "title": "母亲陪伴女儿对抗SMA重症",
@@ -143,13 +144,24 @@
           "time_info": "[05时18分 ~ 07时15分]"
         },
         {
+          "title": "母女被拐卖父亲被骗无偿工作11年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E8%A2%AB%E6%8B%90%E5%8D%96%E7%88%B6%E4%BA%B2%E8%A2%AB%E9%AA%97%E6%97%A0%E5%81%BF%E5%B7%A5%E4%BD%9C11%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
           "title": "房主任女儿发声",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
