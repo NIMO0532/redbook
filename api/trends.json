@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T16:19:44.232032+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-08-15T17:19:19.095656+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
@@ -64,11 +64,12 @@
             11,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时19分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -82,11 +83,12 @@
             13,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时19分]"
         },
         {
           "title": "“上一次出门是两个多月前”，消失的阿富汗女性",
@@ -107,11 +109,24 @@
           "ranks": [
             16,
             14,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时09分 ~ 17时19分]"
+        },
+        {
+          "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
+          "url": "https://news.ifeng.com/c/8vbYXcmuc0b",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[10时09分 ~ 16时19分]"
+          "time_info": "[11时32分 ~ 17时19分]"
         },
         {
           "title": "WTT瑞典站国乒男女双遭淘汰",
@@ -127,16 +142,18 @@
           "time_info": "[00时43分 ~ 07时15分]"
         },
         {
-          "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
-          "url": "https://news.ifeng.com/c/8vbYXcmuc0b",
-          "source": "凤凰网",
+          "title": "李连杰谈女儿心理问题",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            12
+            29,
+            18,
+            25,
+            19
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时32分 ~ 16时19分]"
+          "time_info": "[12时21分 ~ 17时19分]"
         },
         {
           "title": "母亲陪伴女儿对抗SMA重症",
@@ -162,19 +179,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时32分 ~ 15时23分]"
-        },
-        {
-          "title": "李连杰谈女儿心理问题",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时19分]"
         },
         {
           "title": "女子称自己月经持续来了8年",
@@ -218,6 +222,19 @@
           "time_info": "[05时18分 ~ 07时15分]"
         },
         {
+          "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
+          "url": "https://www.zhihu.com/question/2070905498790879818",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 17时19分]"
+        },
+        {
           "title": "母女被拐卖父亲被骗无偿工作11年",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E8%A2%AB%E6%8B%90%E5%8D%96%E7%88%B6%E4%BA%B2%E8%A2%AB%E9%AA%97%E6%97%A0%E5%81%BF%E5%B7%A5%E4%BD%9C11%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -230,38 +247,39 @@
           "time_info": "[08时48分 ~ 10时10分]"
         },
         {
-          "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
-          "url": "https://www.zhihu.com/question/2070905498790879818",
-          "source": "知乎",
+          "title": "“这个正在读初三的女生订婚了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%99%E4%B8%AA%E6%AD%A3%E5%9C%A8%E8%AF%BB%E5%88%9D%E4%B8%89%E7%9A%84%E5%A5%B3%E7%94%9F%E8%AE%A2%E5%A9%9A%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            16
+            26,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时19分]"
+          "time_info": "[16时18分 ~ 17时19分]"
         },
         {
           "title": "房主任大女儿否认被妈妈打压",
           "url": "https://www.toutiao.com/trending/7673781267155697707/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 17时19分]"
         },
         {
-          "title": "“这个正在读初三的女生订婚了”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%99%E4%B8%AA%E6%AD%A3%E5%9C%A8%E8%AF%BB%E5%88%9D%E4%B8%89%E7%9A%84%E5%A5%B3%E7%94%9F%E8%AE%A2%E5%A9%9A%E4%BA%86%E2%80%9D",
+          "title": "外国女子倒车落下山崖 女儿不幸身亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%80%92%E8%BD%A6%E8%90%BD%E4%B8%8B%E5%B1%B1%E5%B4%96+%E5%A5%B3%E5%84%BF%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
-            26
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "波兰女子当街殴打辱骂乌克兰男子",
@@ -295,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "朱女士案赶快拿钱离婚才是上策",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A5%B3%E5%A3%AB%E6%A1%88%E8%B5%B6%E5%BF%AB%E6%8B%BF%E9%92%B1%E7%A6%BB%E5%A9%9A%E6%89%8D%E6%98%AF%E4%B8%8A%E7%AD%96&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "女孩停用网红面霜后成激素脸",
@@ -347,7 +376,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
