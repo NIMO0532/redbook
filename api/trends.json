@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T10:10:38.717786+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-15T11:33:37.055756+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 10时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 11时33分]"
         },
         {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
@@ -29,11 +29,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 10时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 11时33分]"
         },
         {
           "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
@@ -72,11 +73,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 10时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 11时33分]"
         },
         {
           "title": "WTT瑞典站国乒男女双遭淘汰",
@@ -163,22 +165,46 @@
           "url": "https://news.ifeng.com/c/8vbTqY8cPCc",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 11时33分]"
         },
         {
           "title": "消失的阿富汗女性",
           "url": "https://m.thepaper.cn/newsDetail_forward_33781589",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 11时33分]"
+        },
+        {
+          "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
+          "url": "https://news.ifeng.com/c/8vbYXcmuc0b",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "3个女儿均非亲生，当事人要求妻子退赔31万余元",
+          "url": "https://news.ifeng.com/c/8vbbFPzZmV2",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "母亲出轨女儿带父亲找到第三者",
@@ -187,9 +213,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "女孩停用网红面霜后成激素脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%9C%E7%94%A8%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%9C%9C%E5%90%8E%E6%88%90%E6%BF%80%E7%B4%A0%E8%84%B8%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "房主任女儿发声",
@@ -201,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "比尔盖茨女儿被曝涉嫌电信欺诈",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E7%94%B5%E4%BF%A1%E6%AC%BA%E8%AF%88%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     }
