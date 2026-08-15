@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T13:19:17.648646+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-08-15T14:25:05.814918+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
@@ -47,11 +47,12 @@
             6,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 13时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 14时24分]"
         },
         {
           "title": "国乒男女双全军覆没",
@@ -78,11 +79,12 @@
             8,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 13时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 14时24分]"
         },
         {
           "title": "WTT瑞典站国乒男女双遭淘汰",
@@ -96,6 +98,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 07时15分]"
+        },
+        {
+          "title": "“上一次出门是两个多月前”，消失的阿富汗女性",
+          "url": "https://news.ifeng.com/c/8vbTqY8cPCc",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 14时24分]"
+        },
+        {
+          "title": "消失的阿富汗女性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33781589",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 14时24分]"
         },
         {
           "title": "母亲陪伴女儿对抗SMA重症",
@@ -112,30 +139,6 @@
           "time_info": "[04时23分 ~ 07时15分]"
         },
         {
-          "title": "“上一次出门是两个多月前”，消失的阿富汗女性",
-          "url": "https://news.ifeng.com/c/8vbTqY8cPCc",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 13时18分]"
-        },
-        {
-          "title": "消失的阿富汗女性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33781589",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 13时18分]"
-        },
-        {
           "title": "女子称自己月经持续来了8年",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%9C%88%E7%BB%8F%E6%8C%81%E7%BB%AD%E6%9D%A5%E4%BA%868%E5%B9%B4%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -149,6 +152,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 06时15分]"
+        },
+        {
+          "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
+          "url": "https://news.ifeng.com/c/8vbYXcmuc0b",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时32分 ~ 14时24分]"
+        },
+        {
+          "title": "3个女儿均非亲生，当事人要求妻子退赔31万余元",
+          "url": "https://news.ifeng.com/c/8vbbFPzZmV2",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时32分 ~ 14时24分]"
         },
         {
           "title": "小伙瞒着父母去泰国找女友被边检劝返",
@@ -177,28 +202,6 @@
           "time_info": "[05时18分 ~ 07时15分]"
         },
         {
-          "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
-          "url": "https://news.ifeng.com/c/8vbYXcmuc0b",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 13时18分]"
-        },
-        {
-          "title": "3个女儿均非亲生，当事人要求妻子退赔31万余元",
-          "url": "https://news.ifeng.com/c/8vbbFPzZmV2",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 13时18分]"
-        },
-        {
           "title": "母女被拐卖父亲被骗无偿工作11年",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E8%A2%AB%E6%8B%90%E5%8D%96%E7%88%B6%E4%BA%B2%E8%A2%AB%E9%AA%97%E6%97%A0%E5%81%BF%E5%B7%A5%E4%BD%9C11%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -215,11 +218,24 @@
           "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时24分]"
+        },
+        {
+          "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
+          "url": "https://www.zhihu.com/question/2070905498790879818",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时24分]"
         },
         {
           "title": "波兰女子当街殴打辱骂乌克兰男子",
@@ -239,7 +255,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -253,17 +269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        },
-        {
-          "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
-          "url": "https://www.zhihu.com/question/2070905498790879818",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "女孩停用网红面霜后成激素脸",
@@ -286,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "首批舰载机女飞夜间着舰",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E6%89%B9%E8%88%B0%E8%BD%BD%E6%9C%BA%E5%A5%B3%E9%A3%9E%E5%A4%9C%E9%97%B4%E7%9D%80%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "比尔盖茨女儿被曝涉嫌电信欺诈",
