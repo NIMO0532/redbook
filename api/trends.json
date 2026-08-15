@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T15:24:11.784429+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-08-15T16:19:44.232032+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
@@ -67,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 15时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时43分 ~ 16时19分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -85,8 +85,33 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 15时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时43分 ~ 16时19分]"
+        },
+        {
+          "title": "“上一次出门是两个多月前”，消失的阿富汗女性",
+          "url": "https://news.ifeng.com/c/8vbTqY8cPCc",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 16时19分]"
+        },
+        {
+          "title": "消失的阿富汗女性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33781589",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 16时19分]"
         },
         {
           "title": "WTT瑞典站国乒男女双遭淘汰",
@@ -102,29 +127,16 @@
           "time_info": "[00时43分 ~ 07时15分]"
         },
         {
-          "title": "“上一次出门是两个多月前”，消失的阿富汗女性",
-          "url": "https://news.ifeng.com/c/8vbTqY8cPCc",
+          "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
+          "url": "https://news.ifeng.com/c/8vbYXcmuc0b",
           "source": "凤凰网",
           "ranks": [
-            12,
-            9
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时09分 ~ 15时23分]"
-        },
-        {
-          "title": "消失的阿富汗女性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33781589",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 15时23分]"
+          "time_info": "[11时32分 ~ 16时19分]"
         },
         {
           "title": "母亲陪伴女儿对抗SMA重症",
@@ -141,17 +153,6 @@
           "time_info": "[04时23分 ~ 07时15分]"
         },
         {
-          "title": "一用就白、一停就烂脸，女孩用网红美白霜变激素脸",
-          "url": "https://news.ifeng.com/c/8vbYXcmuc0b",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 15时23分]"
-        },
-        {
           "title": "3个女儿均非亲生，当事人要求妻子退赔31万余元",
           "url": "https://news.ifeng.com/c/8vbbFPzZmV2",
           "source": "凤凰网",
@@ -161,6 +162,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时32分 ~ 15时23分]"
+        },
+        {
+          "title": "李连杰谈女儿心理问题",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时19分]"
         },
         {
           "title": "女子称自己月经持续来了8年",
@@ -204,19 +218,6 @@
           "time_info": "[05时18分 ~ 07时15分]"
         },
         {
-          "title": "李连杰谈女儿心理问题",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时23分]"
-        },
-        {
           "title": "母女被拐卖父亲被骗无偿工作11年",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E8%A2%AB%E6%8B%90%E5%8D%96%E7%88%B6%E4%BA%B2%E8%A2%AB%E9%AA%97%E6%97%A0%E5%81%BF%E5%B7%A5%E4%BD%9C11%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -237,8 +238,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时19分]"
+        },
+        {
+          "title": "房主任大女儿否认被妈妈打压",
+          "url": "https://www.toutiao.com/trending/7673781267155697707/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "“这个正在读初三的女生订婚了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%99%E4%B8%AA%E6%AD%A3%E5%9C%A8%E8%AF%BB%E5%88%9D%E4%B8%89%E7%9A%84%E5%A5%B3%E7%94%9F%E8%AE%A2%E5%A9%9A%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "波兰女子当街殴打辱骂乌克兰男子",
@@ -316,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "苏格兰女子吹风机烤死3个月大女儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%A5%B3%E5%AD%90%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%83%A4%E6%AD%BB3%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%84%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     }
