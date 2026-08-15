@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T00:16:18.154307+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-16T01:14:51.136595+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "欢天喜地七仙女选角让人笑哭",
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时14分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357711&amp;topic_name=%E9%A2%9C%E5%80%BC%E7%BC%A9%E6%B0%B4%21%E6%B9%AE%E7%81%AD%E4%B9%8B%E6%BD%AE%E5%A5%B3%E4%B8%BB%E5%8F%98%E7%BD%91%E7%BA%A2",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时14分]"
         },
         {
           "title": "28岁男子和43岁女子领证结婚",
           "url": "https://www.toutiao.com/trending/7674151636219068466/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时14分]"
         },
         {
           "title": "消失的阿富汗女性",
@@ -48,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时14分]"
         },
         {
           "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
@@ -59,30 +61,43 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时14分]"
         },
         {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357547&amp;topic_name=%E5%A5%B3%E9%85%8D%E9%81%AD%E6%8B%89%E9%83%8E%E9%85%8D%2C%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E4%BC%AA%E5%90%8E%E5%AE%AB",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时14分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357469&amp;topic_name=Bin%E6%88%90%E6%8E%A5%E5%A4%B4%E6%9A%97%E5%8F%B7%2C%E6%81%8B%E7%BB%BC%E7%94%B7%E5%A5%B3%E7%9C%8B%E5%AF%B9%E7%9C%BC",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时14分]"
+        },
+        {
+          "title": "田径全锦赛女子百米决赛陈妤颉夺冠",
+          "url": "https://www.toutiao.com/trending/7673762881246216218/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         }
       ]
     }
