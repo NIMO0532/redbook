@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T06:13:43.767703+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-08-16T07:13:44.401719+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "28岁男子和43岁女子领证结婚",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "消失的阿富汗女性",
@@ -48,11 +48,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
@@ -63,8 +64,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -75,8 +76,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "女子花 8 万做地下试管被推进简易房手术，多部门已介入，暴露出哪些监管盲区？如何斩断这条灰色产业链？",
@@ -86,11 +87,24 @@
             19,
             15,
             14,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 07时13分]"
+        },
+        {
+          "title": "直观看见了女儿奴的诞生",
+          "url": "https://s.weibo.com/weibo?q=%E7%9B%B4%E8%A7%82%E7%9C%8B%E8%A7%81%E4%BA%86%E5%A5%B3%E5%84%BF%E5%A5%B4%E7%9A%84%E8%AF%9E%E7%94%9F&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
@@ -104,6 +118,18 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
+          "title": "被前夫杀害女子被家人劝说离婚后仍同居",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%89%8D%E5%A4%AB%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E4%BA%BA%E5%8A%9D%E8%AF%B4%E7%A6%BB%E5%A9%9A%E5%90%8E%E4%BB%8D%E5%90%8C%E5%B1%85%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
           "title": "田径全锦赛女子百米决赛陈妤颉夺冠",
           "url": "https://www.toutiao.com/trending/7673762881246216218/",
           "source": "今日头条",
@@ -115,35 +141,13 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "直观看见了女儿奴的诞生",
-          "url": "https://s.weibo.com/weibo?q=%E7%9B%B4%E8%A7%82%E7%9C%8B%E8%A7%81%E4%BA%86%E5%A5%B3%E5%84%BF%E5%A5%B4%E7%9A%84%E8%AF%9E%E7%94%9F&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "被前夫杀害女子被家人劝说离婚后仍同居",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%89%8D%E5%A4%AB%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E4%BA%BA%E5%8A%9D%E8%AF%B4%E7%A6%BB%E5%A9%9A%E5%90%8E%E4%BB%8D%E5%90%8C%E5%B1%85%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
           "title": "获千万打赏女主播涉诈骗被公诉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8E%B7%E5%8D%83%E4%B8%87%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%B6%89%E8%AF%88%E9%AA%97%E8%A2%AB%E5%85%AC%E8%AF%89%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
