@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T02:18:11.099494+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-08-16T03:17:33.794537+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时17分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时17分]"
         },
         {
           "title": "28岁男子和43岁女子领证结婚",
@@ -39,19 +39,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时17分]"
         },
         {
           "title": "消失的阿富汗女性",
           "url": "https://m.thepaper.cn/newsDetail_forward_33781589",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时17分]"
         },
         {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
@@ -62,8 +63,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时17分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -74,8 +75,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时17分]"
         },
         {
           "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
@@ -89,6 +90,18 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
+          "title": "女子花 8 万做地下试管被推进简易房手术，多部门已介入，暴露出哪些监管盲区？如何斩断这条灰色产业链？",
+          "url": "https://www.zhihu.com/question/2071178348793786464",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时17分]"
+        },
+        {
           "title": "田径全锦赛女子百米决赛陈妤颉夺冠",
           "url": "https://www.toutiao.com/trending/7673762881246216218/",
           "source": "今日头条",
@@ -98,17 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 01时14分]"
-        },
-        {
-          "title": "女子花 8 万做地下试管被推进简易房手术，多部门已介入，暴露出哪些监管盲区？如何斩断这条灰色产业链？",
-          "url": "https://www.zhihu.com/question/2071178348793786464",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
         }
       ]
     }
