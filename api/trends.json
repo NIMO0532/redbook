@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T21:26:14.588997+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-08-16T22:16:03.248590+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "欢天喜地七仙女选角让人笑哭",
@@ -33,8 +33,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时52分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[08时52分 ~ 22时15分]"
         },
         {
           "title": "新加坡老人轻拍女童头部被家长撂倒",
@@ -44,11 +44,12 @@
             2,
             4,
             15,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 20时23分]"
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 22时14分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -63,11 +64,27 @@
             10,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 21时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 22时15分]"
+        },
+        {
+          "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
+          "url": "https://wallstreetcn.com/articles/3779528",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 22时15分]"
         },
         {
           "title": "女子产后抑郁离世父母与丈夫争夺财产",
@@ -117,8 +134,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时52分 ~ 21时25分]"
+          "appearance_count": 12,
+          "time_info": "[08时52分 ~ 22时15分]"
         },
         {
           "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
@@ -135,6 +152,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时18分 ~ 16时20分]"
+        },
+        {
+          "title": "转转眼镜女压价,5090遭贱卖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            3,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 22时15分]"
         },
         {
           "title": "张本美和早田希娜女双夺冠",
@@ -208,11 +240,12 @@
             26,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 21时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 22时15分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -234,33 +267,17 @@
           "time_info": "[00时15分 ~ 17时20分]"
         },
         {
-          "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
-          "url": "https://wallstreetcn.com/articles/3779528",
-          "source": "华尔街见闻",
+          "title": "王艺迪胜张本美和 国乒锁定女单冠军",
+          "url": "https://www.toutiao.com/trending/7674585115275562539/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7,
-            5,
+            2,
             4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 21时25分]"
-        },
-        {
-          "title": "转转眼镜女压价,5090遭贱卖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            3,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 22时15分]"
         },
         {
           "title": "产后自杀女子曾凑10万彩礼打给母亲",
@@ -283,11 +300,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 21时25分]"
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 22时15分]"
         },
         {
           "title": "新加坡老人轻拍小女孩头部被家长撂倒",
@@ -318,18 +336,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时17分 ~ 10时18分]"
-        },
-        {
-          "title": "王艺迪胜张本美和 国乒锁定女单冠军",
-          "url": "https://www.toutiao.com/trending/7674585115275562539/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时25分]"
         },
         {
           "title": "女子泼水到别人门前 回去时摔倒了",
@@ -381,6 +387,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时19分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260816215626803800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
+          "url": "https://flash.jin10.com/detail/20260816215609663800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "女子展示空翻后上马失败",
@@ -443,6 +471,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时21分]"
+        },
+        {
+          "title": "锐评抽象电影女版战狼",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 22时15分]"
+        },
+        {
+          "title": "美国女子怀孕八个月却每天吸食芬太尼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%85%AB%E4%B8%AA%E6%9C%88%E5%8D%B4%E6%AF%8F%E5%A4%A9%E5%90%B8%E9%A3%9F%E8%8A%AC%E5%A4%AA%E5%B0%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时15分]"
         },
         {
           "title": "女子产后抑郁自杀生前备忘录曝光",
@@ -552,16 +606,16 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
-          "title": "锐评抽象电影女版战狼",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
-          "source": "bilibili 热搜",
+          "title": "扎蟹女工两三秒制服梭子蟹",
+          "url": "https://www.toutiao.com/trending/7674103498824302655/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            29
+            21,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时13分]"
+          "time_info": "[22时14分 ~ 22时15分]"
         },
         {
           "title": "三孩非亲生案女方：他怎么说我不在乎",
@@ -619,18 +673,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 08时52分]"
-        },
-        {
-          "title": "美国女子怀孕八个月却每天吸食芬太尼",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%85%AB%E4%B8%AA%E6%9C%88%E5%8D%B4%E6%AF%8F%E5%A4%A9%E5%90%B8%E9%A3%9F%E8%8A%AC%E5%A4%AA%E5%B0%BC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时25分]"
         },
         {
           "title": "田径全锦赛女子百米决赛陈妤颉夺冠",
