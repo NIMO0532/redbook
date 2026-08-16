@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:13:35.916525+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-08-17T06:13:53.425712+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "女主播希望停止榜一大哥病态折磨",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 06时13分]"
         },
         {
           "title": "赵本山女儿自曝患三种精神疾病",
@@ -41,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 06时13分]"
         },
         {
           "title": "异环惊现NTR,路人爽抽女神",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "转转眼镜女压价,5090遭贱卖",
@@ -65,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -79,8 +79,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -91,8 +91,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "这个秋天我要做个帅女",
@@ -121,6 +121,30 @@
           "time_info": "[02时17分 ~ 04时13分]"
         },
         {
+          "title": "新加坡老人轻拍女童头部被家长撂倒",
+          "url": "https://www.toutiao.com/trending/7674458401706983460/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 06时13分]"
+        },
+        {
+          "title": "00后女儿和80后妈妈前后脚生娃",
+          "url": "https://www.toutiao.com/trending/7674453421857685540/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
           "title": "中国U17女足5-0大胜皇马U17女足",
           "url": "https://www.toutiao.com/trending/7674454798841839662/",
           "source": "今日头条",
@@ -143,28 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时13分]"
-        },
-        {
-          "title": "00后女儿和80后妈妈前后脚生娃",
-          "url": "https://www.toutiao.com/trending/7674453421857685540/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 05时13分]"
-        },
-        {
-          "title": "新加坡老人轻拍女童头部被家长撂倒",
-          "url": "https://www.toutiao.com/trending/7674458401706983460/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
         },
         {
           "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
