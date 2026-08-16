@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T02:18:40.677283+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-17T03:16:43.993036+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时16分]"
         },
         {
           "title": "女主播希望停止榜一大哥病态折磨",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时16分]"
         },
         {
           "title": "异环惊现NTR,路人爽抽女神",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时16分]"
         },
         {
           "title": "转转眼镜女压价,5090遭贱卖",
@@ -51,8 +52,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时16分]"
+        },
+        {
+          "title": "赵本山女儿自曝患三种精神疾病",
+          "url": "https://www.toutiao.com/trending/7674534332543828031/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 03时16分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -61,11 +74,12 @@
           "ranks": [
             16,
             14,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时16分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -76,8 +90,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时16分]"
         },
         {
           "title": "中国U17女足5-0大胜皇马U17女足",
@@ -127,15 +141,15 @@
           "time_info": "[00时16分 ~ 01时13分]"
         },
         {
-          "title": "赵本山女儿自曝患三种精神疾病",
-          "url": "https://www.toutiao.com/trending/7674534332543828031/",
+          "title": "新加坡老人轻拍女童头部被家长撂倒",
+          "url": "https://www.toutiao.com/trending/7674458401706983460/",
           "source": "今日头条",
           "ranks": [
-            29
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "time_info": "[03时15分 ~ 03时16分]"
         },
         {
           "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
