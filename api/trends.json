@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T16:20:30.386003+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-08-16T17:20:57.391065+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "欢天喜地七仙女选角让人笑哭",
@@ -29,11 +29,12 @@
             6,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 16时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 17时20分]"
         },
         {
           "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
@@ -48,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 17时20分]"
         },
         {
           "title": "28岁男子和43岁女子领证结婚",
@@ -99,6 +100,21 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "老人闯高速身亡子女索赔13万",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%97%AF%E9%AB%98%E9%80%9F%E8%BA%AB%E4%BA%A1%E5%AD%90%E5%A5%B3%E7%B4%A2%E8%B5%9413%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            15,
+            18,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时20分 ~ 17时20分]"
+        },
+        {
           "title": "女配遭拉郎配,吧友吐槽伪后宫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357547&amp;topic_name=%E5%A5%B3%E9%85%8D%E9%81%AD%E6%8B%89%E9%83%8E%E9%85%8D%2C%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E4%BC%AA%E5%90%8E%E5%AE%AB",
           "source": "贴吧",
@@ -110,11 +126,12 @@
             23,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 16时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 17时20分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -128,11 +145,38 @@
             25,
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 16时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 17时20分]"
+        },
+        {
+          "title": "新加坡老人轻拍女童头部被家长撂倒",
+          "url": "https://www.toutiao.com/trending/7674458401706983460/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 17时20分]"
+        },
+        {
+          "title": "榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2072076213984518341",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 17时20分]"
         },
         {
           "title": "女子花 8 万做地下试管被推进简易房手术，多部门已介入，暴露出哪些监管盲区？如何斩断这条灰色产业链？",
@@ -151,32 +195,17 @@
           "time_info": "[02时17分 ~ 10时18分]"
         },
         {
-          "title": "老人闯高速身亡子女索赔13万",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%97%AF%E9%AB%98%E9%80%9F%E8%BA%AB%E4%BA%A1%E5%AD%90%E5%A5%B3%E7%B4%A2%E8%B5%9413%E4%B8%87",
-          "source": "百度热搜",
+          "title": "女子产后抑郁离世父母与丈夫争夺财产",
+          "url": "https://www.toutiao.com/trending/7674416714771873846/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 16时20分]"
-        },
-        {
-          "title": "榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2072076213984518341",
-          "source": "知乎",
-          "ranks": [
-            6,
             5,
-            4,
-            7
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时20分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 17时20分]"
         },
         {
           "title": "这个秋天我要做个帅女",
@@ -206,17 +235,6 @@
           "time_info": "[11时41分 ~ 14时27分]"
         },
         {
-          "title": "新加坡老人轻拍女童头部被家长撂倒",
-          "url": "https://www.toutiao.com/trending/7674458401706983460/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
           "title": "陈熠0-4张本美和 止步女单八强",
           "url": "https://www.toutiao.com/trending/7673340343484071946/",
           "source": "今日头条",
@@ -228,29 +246,6 @@
           "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "新加坡老人轻拍小女孩头部被家长撂倒",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%92%82%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
-          "title": "女子产后抑郁离世父母与丈夫争夺财产",
-          "url": "https://www.toutiao.com/trending/7674416714771873846/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 16时20分]"
-        },
-        {
           "title": "转转眼镜女压价,5090遭贱卖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
           "source": "贴吧",
@@ -259,8 +254,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 17时20分]"
+        },
+        {
+          "title": "新加坡老人轻拍小女孩头部被家长撂倒",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%92%82%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 17时20分]"
         },
         {
           "title": "异环惊现NTR,路人爽抽女神",
@@ -269,9 +276,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时20分]"
+        },
+        {
+          "title": "张本美和早田希娜女双夺冠",
+          "url": "https://www.toutiao.com/trending/7673935326909513764/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 17时20分]"
+        },
+        {
+          "title": "产后自杀女子曾凑10万彩礼打给母亲",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E5%90%8E%E8%87%AA%E6%9D%80%E5%A5%B3%E5%AD%90%E6%9B%BE%E5%87%9110%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%89%93%E7%BB%99%E6%AF%8D%E4%BA%B2",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 17时20分]"
         },
         {
           "title": "女子展示空翻后上马失败",
@@ -300,27 +332,29 @@
           "time_info": "[11时41分 ~ 13时21分]"
         },
         {
-          "title": "张本美和早田希娜女双夺冠",
-          "url": "https://www.toutiao.com/trending/7673935326909513764/",
-          "source": "今日头条",
+          "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
+          "url": "https://wallstreetcn.com/articles/3779528",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时20分]"
         },
         {
-          "title": "产后自杀女子曾凑10万彩礼打给母亲",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E5%90%8E%E8%87%AA%E6%9D%80%E5%A5%B3%E5%AD%90%E6%9B%BE%E5%87%9110%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%89%93%E7%BB%99%E6%AF%8D%E4%BA%B2",
-          "source": "百度热搜",
+          "title": "00后女儿和80后妈妈前后脚生娃",
+          "url": "https://www.toutiao.com/trending/7674453421857685540/",
+          "source": "今日头条",
           "ranks": [
-            24,
-            9
+            7,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时24分 ~ 16时20分]"
+          "time_info": "[16时19分 ~ 17时20分]"
         },
         {
           "title": "新加坡老人轻拍小女孩头部被家长撂倒",
@@ -359,17 +393,6 @@
           "time_info": "[12时28分 ~ 14时27分]"
         },
         {
-          "title": "00后女儿和80后妈妈前后脚生娃",
-          "url": "https://www.toutiao.com/trending/7674453421857685540/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
           "title": "陈熠0-4张本美和 止步女单八强",
           "url": "https://www.baidu.com/s?wd=%E9%99%88%E7%86%A00-4%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C+%E6%AD%A2%E6%AD%A5%E5%A5%B3%E5%8D%95%E5%85%AB%E5%BC%BA",
           "source": "百度热搜",
@@ -379,18 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 08时52分]"
-        },
-        {
-          "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
-          "url": "https://wallstreetcn.com/articles/3779528",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时20分]"
         },
         {
           "title": "直观看见了女儿奴的诞生",
@@ -403,6 +414,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "女子泼水到别人门前 回去时摔倒了",
+          "url": "https://www.toutiao.com/trending/7674439079534133257/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "女儿产后自杀母亲回应被指重男轻女",
@@ -464,6 +486,18 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "70岁老人轻拍女孩头部家长愤怒推倒",
+          "url": "https://s.weibo.com/weibo?q=%2370%E5%B2%81%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E5%AE%B6%E9%95%BF%E6%84%A4%E6%80%92%E6%8E%A8%E5%80%92%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时20分]"
+        },
+        {
           "title": "余依婷夺得女子200米混合泳金牌",
           "url": "https://www.toutiao.com/trending/7673751597566623785/",
           "source": "今日头条",
@@ -518,17 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
-        },
-        {
-          "title": "70岁老人轻拍女孩头部家长愤怒推倒",
-          "url": "https://s.weibo.com/weibo?q=%2370%E5%B2%81%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E5%AE%B6%E9%95%BF%E6%84%A4%E6%80%92%E6%8E%A8%E5%80%92%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
         },
         {
           "title": "获千万打赏女主播涉诈骗被公诉",
