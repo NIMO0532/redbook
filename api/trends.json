@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T00:16:51.006828+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-17T01:13:52.936521+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -14,86 +14,104 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
+        },
+        {
+          "title": "女主播希望停止榜一大哥病态折磨",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%B8%8C%E6%9C%9B%E5%81%9C%E6%AD%A2%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E7%97%85%E6%80%81%E6%8A%98%E7%A3%A8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "01时13分"
         },
         {
           "title": "中国U17女足5-0大胜皇马U17女足",
           "url": "https://www.toutiao.com/trending/7674454798841839662/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时13分]"
         },
         {
           "title": "异环惊现NTR,路人爽抽女神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357806&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%83%8A%E7%8E%B0NTR%2C%E8%B7%AF%E4%BA%BA%E7%88%BD%E6%8A%BD%E5%A5%B3%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "这个秋天我要做个帅女",
           "url": "https://www.douyin.com/hot/2610669",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "转转眼镜女压价,5090遭贱卖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357711&amp;topic_name=%E9%A2%9C%E5%80%BC%E7%BC%A9%E6%B0%B4%21%E6%B9%AE%E7%81%AD%E4%B9%8B%E6%BD%AE%E5%A5%B3%E4%B8%BB%E5%8F%98%E7%BD%91%E7%BA%A2",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
           "url": "https://flash.jin10.com/detail/20260816215626803800",
           "source": "金十数据",
           "ranks": [
-            21
+            21,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
         },
         {
           "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
@@ -102,7 +120,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         }
