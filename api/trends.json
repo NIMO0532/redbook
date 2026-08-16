@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T12:28:52.395644+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-08-16T13:22:11.840995+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 12时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时21分]"
         },
         {
           "title": "欢天喜地七仙女选角让人笑哭",
@@ -43,11 +43,12 @@
             9,
             15,
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 12时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 13时21分]"
         },
         {
           "title": "消失的阿富汗女性",
@@ -70,11 +71,12 @@
             18,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 12时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时21分]"
         },
         {
           "title": "Bin成接头暗号,恋综男女看对眼",
@@ -84,11 +86,12 @@
             20,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 12时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时21分]"
         },
         {
           "title": "女子花 8 万做地下试管被推进简易房手术，多部门已介入，暴露出哪些监管盲区？如何斩断这条灰色产业链？",
@@ -107,6 +110,20 @@
           "time_info": "[02时17分 ~ 10时18分]"
         },
         {
+          "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2072134899692311514",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时18分 ~ 13时21分]"
+        },
+        {
           "title": "陈熠0-4张本美和 止步女单八强",
           "url": "https://www.toutiao.com/trending/7673340343484071946/",
           "source": "今日头条",
@@ -116,19 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 08时52分]"
-        },
-        {
-          "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2072134899692311514",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时18分 ~ 12时28分]"
         },
         {
           "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
@@ -141,20 +145,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 12时28分]"
-        },
-        {
-          "title": "这个秋天我要做个帅女",
-          "url": "https://www.douyin.com/hot/2610669",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 13时21分]"
         },
         {
           "title": "女子展示空翻后上马失败",
@@ -162,11 +154,25 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 13时21分]"
+        },
+        {
+          "title": "这个秋天我要做个帅女",
+          "url": "https://www.douyin.com/hot/2610669",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 13时21分]"
         },
         {
           "title": "妻子产后抑郁自缢 娘家两度起诉女婿",
@@ -177,8 +183,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 13时21分]"
         },
         {
           "title": "00后女儿和80后妈妈前后脚生娃",
@@ -186,11 +192,37 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            20
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 13时21分]"
+        },
+        {
+          "title": "榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2072076213984518341",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时21分]"
+        },
+        {
+          "title": "老人闯高速身亡子女索赔13万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%97%AF%E9%AB%98%E9%80%9F%E8%BA%AB%E4%BA%A1%E5%AD%90%E5%A5%B3%E7%B4%A2%E8%B5%9413%E4%B8%87%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时41分 ~ 12时28分]"
+          "time_info": "[11时42分 ~ 13时21分]"
         },
         {
           "title": "陈熠0-4张本美和 止步女单八强",
@@ -214,18 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "老人闯高速身亡子女索赔13万",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%97%AF%E9%AB%98%E9%80%9F%E8%BA%AB%E4%BA%A1%E5%AD%90%E5%A5%B3%E7%B4%A2%E8%B5%9413%E4%B8%87%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时28分]"
         },
         {
           "title": "女子产后抑郁自缢至亲因财产对簿公堂",
@@ -263,6 +283,17 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
+          "title": "女子产后抑郁自杀生前备忘录曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E8%87%AA%E6%9D%80%E7%94%9F%E5%89%8D%E5%A4%87%E5%BF%98%E5%BD%95%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时21分]"
+        },
+        {
           "title": "被前夫杀害女子被家人劝说离婚后仍同居",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%89%8D%E5%A4%AB%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E4%BA%BA%E5%8A%9D%E8%AF%B4%E7%A6%BB%E5%A9%9A%E5%90%8E%E4%BB%8D%E5%90%8C%E5%B1%85%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -273,6 +304,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "余依婷夺得女子200米混合泳金牌",
+          "url": "https://www.toutiao.com/trending/7673751597566623785/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "带大3个非亲生孙女婆婆哀求留下一个",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%A6%E5%A4%A73%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%AD%99%E5%A5%B3%E5%A9%86%E5%A9%86%E5%93%80%E6%B1%82%E7%95%99%E4%B8%8B%E4%B8%80%E4%B8%AA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时21分]"
         },
         {
           "title": "女子出门逛街偶遇谢霆锋",
@@ -286,6 +340,17 @@
           "time_info": "[08时51分 ~ 08时52分]"
         },
         {
+          "title": "老人闯高速身亡子女索赔13万",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%97%AF%E9%AB%98%E9%80%9F%E8%BA%AB%E4%BA%A1%E5%AD%90%E5%A5%B3%E7%B4%A2%E8%B5%9413%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
           "title": "田径全锦赛女子百米决赛陈妤颉夺冠",
           "url": "https://www.toutiao.com/trending/7673762881246216218/",
           "source": "今日头条",
@@ -295,17 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 01时14分]"
-        },
-        {
-          "title": "榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2072076213984518341",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
         },
         {
           "title": "女子产后抑郁离世父母与丈夫争夺财产",
@@ -319,17 +373,6 @@
           "time_info": "08时52分"
         },
         {
-          "title": "女子产后抑郁自杀生前备忘录曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E8%87%AA%E6%9D%80%E7%94%9F%E5%89%8D%E5%A4%87%E5%BF%98%E5%BD%95%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
           "title": "获千万打赏女主播涉诈骗被公诉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8E%B7%E5%8D%83%E4%B8%87%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%B6%89%E8%AF%88%E9%AA%97%E8%A2%AB%E5%85%AC%E8%AF%89%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -339,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "带大3个非亲生孙女婆婆哀求留下一个",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%A6%E5%A4%A73%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%AD%99%E5%A5%B3%E5%A9%86%E5%A9%86%E5%93%80%E6%B1%82%E7%95%99%E4%B8%8B%E4%B8%80%E4%B8%AA%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
         }
       ]
     },
@@ -367,8 +399,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时18分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时18分 ~ 13时21分]"
         }
       ]
     }
