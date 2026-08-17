@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T08:50:11.352385+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-08-17T10:16:47.429876+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -16,8 +16,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 08时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时16分]"
+        },
+        {
+          "title": "异环惊现NTR,路人爽抽女神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357806&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%83%8A%E7%8E%B0NTR%2C%E8%B7%AF%E4%BA%BA%E7%88%BD%E6%8A%BD%E5%A5%B3%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时16分]"
+        },
+        {
+          "title": "转转眼镜女压价,5090遭贱卖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时16分]"
         },
         {
           "title": "赵本山女儿自曝患三种精神疾病",
@@ -30,6 +56,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时17分 ~ 07时13分]"
+        },
+        {
+          "title": "颜值缩水!湮灭之潮女主变网红",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357711&amp;topic_name=%E9%A2%9C%E5%80%BC%E7%BC%A9%E6%B0%B4%21%E6%B9%AE%E7%81%AD%E4%B9%8B%E6%BD%AE%E5%A5%B3%E4%B8%BB%E5%8F%98%E7%BD%91%E7%BA%A2",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时16分]"
         },
         {
           "title": "女主播希望停止榜一大哥病态折磨",
@@ -47,43 +86,19 @@
           "time_info": "[01时13分 ~ 07时13分]"
         },
         {
-          "title": "异环惊现NTR,路人爽抽女神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357806&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%83%8A%E7%8E%B0NTR%2C%E8%B7%AF%E4%BA%BA%E7%88%BD%E6%8A%BD%E5%A5%B3%E7%A5%9E",
-          "source": "贴吧",
+          "title": "00后女儿和80后妈妈前后脚生娃",
+          "url": "https://www.toutiao.com/trending/7674453421857685540/",
+          "source": "今日头条",
           "ranks": [
-            8,
+            26,
+            22,
             10,
-            11
+            29,
+            25
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时16分 ~ 08时49分]"
-        },
-        {
-          "title": "转转眼镜女压价,5090遭贱卖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 08时49分]"
-        },
-        {
-          "title": "颜值缩水!湮灭之潮女主变网红",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357711&amp;topic_name=%E9%A2%9C%E5%80%BC%E7%BC%A9%E6%B0%B4%21%E6%B9%AE%E7%81%AD%E4%B9%8B%E6%BD%AE%E5%A5%B3%E4%B8%BB%E5%8F%98%E7%BD%91%E7%BA%A2",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 08时49分]"
+          "time_info": "[05时12分 ~ 10时16分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -94,36 +109,23 @@
             14,
             17,
             21,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 10时16分]"
         },
         {
-          "title": "00后女儿和80后妈妈前后脚生娃",
-          "url": "https://www.toutiao.com/trending/7674453421857685540/",
+          "title": "假军人骗财骗色致10多名女子上当",
+          "url": "https://www.toutiao.com/trending/7673820120289361971/",
           "source": "今日头条",
-          "ranks": [
-            26,
-            22,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时12分 ~ 08时49分]"
-        },
-        {
-          "title": "2026 WTT 瑞典大满贯赛女单决赛，王曼昱 4-2 战胜王艺迪夺得女单冠军，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2072490910139544733",
-          "source": "知乎",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
         },
         {
           "title": "扎蟹女工两三秒制服梭子蟹",
@@ -149,6 +151,54 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时15分 ~ 07时13分]"
+        },
+        {
+          "title": "2026 WTT 瑞典大满贯赛女单决赛，王曼昱 4-2 战胜王艺迪夺得女单冠军，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2072490910139544733",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时16分]"
+        },
+        {
+          "title": "王曼昱瑞典大满贯女单夺冠",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 10时16分]"
+        },
+        {
+          "title": "王曼昱瑞典大满贯女单夺冠",
+          "url": "https://www.toutiao.com/trending/7674771660993482249/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 10时16分]"
+        },
+        {
+          "title": "女儿交了一个保洁员家庭的朋友，我该不该「适度引导」？",
+          "url": "https://www.zhihu.com/question/2070952313695555812",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时16分]"
         },
         {
           "title": "这个秋天我要做个帅女",
@@ -177,28 +227,6 @@
           "time_info": "[00时15分 ~ 01时13分]"
         },
         {
-          "title": "王曼昱瑞典大满贯女单夺冠",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
-        },
-        {
-          "title": "王曼昱瑞典大满贯女单夺冠",
-          "url": "https://www.toutiao.com/trending/7674771660993482249/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
-        },
-        {
           "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
           "url": "https://flash.jin10.com/detail/20260816215626803800",
           "source": "金十数据",
@@ -211,15 +239,15 @@
           "time_info": "[00时16分 ~ 01时13分]"
         },
         {
-          "title": "女儿交了一个保洁员家庭的朋友，我该不该「适度引导」？",
-          "url": "https://www.zhihu.com/question/2070952313695555812",
-          "source": "知乎",
+          "title": "41岁妈妈和23岁女儿同年生娃",
+          "url": "https://s.weibo.com/weibo?q=%2341%E5%B2%81%E5%A6%88%E5%A6%88%E5%92%8C23%E5%B2%81%E5%A5%B3%E5%84%BF%E5%90%8C%E5%B9%B4%E7%94%9F%E5%A8%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时16分]"
         },
         {
           "title": "余高远娶了司令女儿",
@@ -228,7 +256,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
@@ -242,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "41岁妈妈和23岁女儿同年生娃",
-          "url": "https://s.weibo.com/weibo?q=%2341%E5%B2%81%E5%A6%88%E5%A6%88%E5%92%8C23%E5%B2%81%E5%A5%B3%E5%84%BF%E5%90%8C%E5%B9%B4%E7%94%9F%E5%A8%83%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
         },
         {
           "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
