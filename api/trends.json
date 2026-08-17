@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T00:19:56.654521+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-18T01:20:59.710348+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "女患者报警称“被男医生猥亵揉胸”",
@@ -15,19 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时20分]"
+        },
+        {
+          "title": "央企高管涉嫌酒局上伤害女性被免职",
+          "url": "https://www.toutiao.com/trending/7674979381101465098/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时20分]"
         },
         {
           "title": "5岁女童在家中不慎吞下50g金条",
           "url": "https://www.baidu.com/s?wd=5%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%AE%B6%E4%B8%AD%E4%B8%8D%E6%85%8E%E5%90%9E%E4%B8%8B50g%E9%87%91%E6%9D%A1",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时20分]"
         },
         {
           "title": "女患者称被男医生猥亵揉胸已立案",
@@ -37,19 +50,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "央企高管涉嫌酒局上伤害女性被免职",
-          "url": "https://www.toutiao.com/trending/7674979381101465098/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时20分]"
         },
         {
           "title": "房企高管涉嫌酒局上伤害女性被免职",
@@ -59,30 +61,44 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时20分]"
         },
         {
           "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？",
           "url": "https://www.zhihu.com/question/2067878677702866490",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时20分]"
         },
         {
-          "title": "吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？",
-          "url": "https://www.zhihu.com/question/2072440886320019399",
-          "source": "知乎",
+          "title": "锐评抽象电影女版战狼",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
+          "source": "bilibili 热搜",
           "ranks": [
+            24,
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时20分]"
+        },
+        {
+          "title": "并不是每个女孩都想变得很可爱",
+          "url": "https://www.douyin.com/hot/2613078",
+          "source": "抖音",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时20分]"
         },
         {
           "title": "异环惊现NTR,路人爽抽女神",
@@ -91,20 +107,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "锐评抽象电影女版战狼",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时20分]"
         },
         {
           "title": "转转眼镜女压价,5090遭贱卖",
@@ -113,7 +118,40 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时20分]"
+        },
+        {
+          "title": "薛甄珠才是2026年的大女主",
+          "url": "https://www.baidu.com/s?wd=%E8%96%9B%E7%94%84%E7%8F%A0%E6%89%8D%E6%98%AF2026%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%A5%B3%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "女子露营找厕所坠崖被消防员救出",
+          "url": "https://www.toutiao.com/trending/7674181029229379594/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？",
+          "url": "https://www.zhihu.com/question/2072440886320019399",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -124,20 +162,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
         {
-          "title": "并不是每个女孩都想变得很可爱",
-          "url": "https://www.douyin.com/hot/2613078",
-          "source": "抖音",
+          "title": "女患者称被男医生猥亵揉胸",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%82%A3%E8%80%85%E7%A7%B0%E8%A2%AB%E7%94%B7%E5%8C%BB%E7%94%9F%E7%8C%A5%E4%BA%B5%E6%8F%89%E8%83%B8%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            24
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时20分"
         }
       ]
     }
