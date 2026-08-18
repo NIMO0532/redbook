@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T12:28:32.319843+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-08-18T13:22:44.074092+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "女患者报警称“被男医生猥亵揉胸”",
@@ -123,8 +123,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 12时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时22分]"
+        },
+        {
+          "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33800378",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 13时22分]"
         },
         {
           "title": "女患者称被男医生猥亵揉胸",
@@ -174,11 +186,12 @@
           "url": "https://www.toutiao.com/trending/7675186350793952811/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时22分]"
         },
         {
           "title": "女子想烫大波浪 结果烫成“钢丝球”",
@@ -189,17 +202,6 @@
             12,
             17,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 12时28分]"
-        },
-        {
-          "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33800378",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -249,6 +251,32 @@
           "time_info": "[01时19分 ~ 05时18分]"
         },
         {
+          "title": "中国U17女足6:0拜仁U17女足",
+          "url": "https://www.douyin.com/hot/2613419",
+          "source": "抖音",
+          "ranks": [
+            18,
+            15,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时48分 ~ 13时22分]"
+        },
+        {
+          "title": "父亲当街踹女儿被路人制止时受轻伤：一审判决路人需赔偿1564元，二审发回重审明天开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33798503",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时22分]"
+        },
+        {
           "title": "锐评抽象电影女版战狼",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
           "source": "bilibili 热搜",
@@ -275,17 +303,16 @@
           "time_info": "[10时11分 ~ 12时28分]"
         },
         {
-          "title": "中国U17女足6:0拜仁U17女足",
-          "url": "https://www.douyin.com/hot/2613419",
-          "source": "抖音",
+          "title": "6岁女儿学跳舞让爸爸减了37斤",
+          "url": "https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AD%A6%E8%B7%B3%E8%88%9E%E8%AE%A9%E7%88%B8%E7%88%B8%E5%87%8F%E4%BA%8637%E6%96%A4",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            15,
-            14
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时48分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时22分]"
         },
         {
           "title": "姜月初刷新AI漫剧女打一天花板",
@@ -339,26 +366,16 @@
           "time_info": "[06时17分 ~ 08时48分]"
         },
         {
-          "title": "父亲当街踹女儿被路人制止时受轻伤：一审判决路人需赔偿1564元，二审发回重审明天开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798503",
-          "source": "澎湃新闻",
+          "title": "3孩非亲生女方认为男方理应养孩子",
+          "url": "https://s.weibo.com/weibo?q=%233%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 12时28分]"
-        },
-        {
-          "title": "6岁女儿学跳舞让爸爸减了37斤",
-          "url": "https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AD%A6%E8%B7%B3%E8%88%9E%E8%AE%A9%E7%88%B8%E7%88%B8%E5%87%8F%E4%BA%8637%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 12时28分]"
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时22分]"
         },
         {
           "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
@@ -371,6 +388,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时48分 ~ 10时12分]"
+        },
+        {
+          "title": "杭州酒局事件受害女子家人回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%E5%8F%97%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时22分]"
         },
         {
           "title": "学霸父母劝700分女儿读中职或更合适",
@@ -396,6 +425,17 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "男子高铁上猥亵女乘客被行拘5日",
+          "url": "https://www.toutiao.com/trending/7674994169189220361/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
           "title": "女孩顺风车内暴晒2小时向家人求救",
           "url": "https://www.toutiao.com/trending/7674622297487949866/",
           "source": "今日头条",
@@ -408,14 +448,36 @@
         },
         {
           "title": "3孩非亲生女方认为男方理应养孩子",
-          "url": "https://s.weibo.com/weibo?q=%233%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90",
+          "source": "百度热搜",
           "ranks": [
-            11
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2072862065841198775",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "南宁女患者报警称「被男医生猥亵揉胸」已立案，有哪些信息值得关注？如何保障患者就医安全与权益？",
+          "url": "https://www.zhihu.com/question/2072847028510630765",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "据福克斯新闻：特朗普女婿库什纳表示，加沙去军事化路线图取得突破。",
@@ -462,17 +524,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "杭州酒局事件受害女子家人回应",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%E5%8F%97%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
           "title": "U17女足6-0拜仁",
           "url": "https://search.bilibili.com/all?keyword=U17%E5%A5%B3%E8%B6%B36-0%E6%8B%9C%E4%BB%81",
           "source": "bilibili 热搜",
@@ -512,9 +563,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "王曼昱夺WTT女单冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BAWTT%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "女子想烫大波浪结果烫成钢丝球",
