@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T15:32:19.822430+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-08-18T16:27:24.626284+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "女患者报警称“被男医生猥亵揉胸”",
@@ -34,8 +34,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 15时32分]"
+          "appearance_count": 11,
+          "time_info": "[11时38分 ~ 16时27分]"
         },
         {
           "title": "多方回应女子杭州酒局遭伤害",
@@ -78,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时47分 ~ 15时32分]"
+          "appearance_count": 15,
+          "time_info": "[08时47分 ~ 16时27分]"
         },
         {
           "title": "5岁女童在家中不慎吞下50g金条",
@@ -116,6 +116,19 @@
           "time_info": "[00时18分 ~ 10时12分]"
         },
         {
+          "title": "父亲当街踹女儿被路人制止时受轻伤：一审判决路人需赔偿1564元，二审发回重审明天开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33798503",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时38分 ~ 16时27分]"
+        },
+        {
           "title": "房企高管涉嫌酒局上伤害女性被免职",
           "url": "https://www.baidu.com/s?wd=%E6%88%BF%E4%BC%81%E9%AB%98%E7%AE%A1%E6%B6%89%E5%AB%8C%E9%85%92%E5%B1%80%E4%B8%8A%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%85%8D%E8%81%8C",
           "source": "百度热搜",
@@ -150,8 +163,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 16时27分]"
         },
         {
           "title": "女患者称被男医生猥亵揉胸",
@@ -170,19 +183,6 @@
           "time_info": "[01时20分 ~ 10时12分]"
         },
         {
-          "title": "父亲当街踹女儿被路人制止时受轻伤：一审判决路人需赔偿1564元，二审发回重审明天开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798503",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 15时32分]"
-        },
-        {
           "title": "假军人骗财骗色致10多名女子上当",
           "url": "https://www.toutiao.com/trending/7673820120289361971/",
           "source": "今日头条",
@@ -194,6 +194,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时26分 ~ 07时16分]"
+        },
+        {
+          "title": "3孩非亲生女方认为男方理应养孩子",
+          "url": "https://www.baidu.com/s?wd=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 16时27分]"
         },
         {
           "title": "薛甄珠才是2026年的大女主",
@@ -208,6 +222,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 08时48分]"
+        },
+        {
+          "title": "男子高铁上猥亵女乘客被行拘5日",
+          "url": "https://www.toutiao.com/trending/7674994169189220361/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 16时27分]"
+        },
+        {
+          "title": "Rookie疑似和韩国女友分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358313&amp;topic_name=Rookie%E7%96%91%E4%BC%BC%E5%92%8C%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%8F%8B%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时27分]"
         },
         {
           "title": "女子想烫大波浪 结果烫成“钢丝球”",
@@ -280,40 +317,31 @@
           "time_info": "[11时38分 ~ 14时30分]"
         },
         {
-          "title": "Rookie疑似和韩国女友分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358313&amp;topic_name=Rookie%E7%96%91%E4%BC%BC%E5%92%8C%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%8F%8B%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "3孩非亲生女方认为男方理应养孩子",
-          "url": "https://www.baidu.com/s?wd=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 15时32分]"
-        },
-        {
-          "title": "男子高铁上猥亵女乘客被行拘5日",
-          "url": "https://www.toutiao.com/trending/7674994169189220361/",
+          "title": "女子强抓黑天鹅拍照 景区将其劝离",
+          "url": "https://www.toutiao.com/trending/7675189521491263551/",
           "source": "今日头条",
           "ranks": [
-            21,
-            22
+            18,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时21分 ~ 15时32分]"
+          "time_info": "[14时29分 ~ 16时27分]"
+        },
+        {
+          "title": "姜月初刷新AI漫剧女打一天花板",
+          "url": "https://www.douyin.com/hot/2613313",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时17分 ~ 16时27分]"
         },
         {
           "title": "中国U17女足6:0拜仁U17女足",
@@ -356,29 +384,16 @@
           "time_info": "[10时11分 ~ 12时28分]"
         },
         {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
+          "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2072862065841198775",
+          "source": "知乎",
           "ranks": [
-            30,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时17分 ~ 14时30分]"
-        },
-        {
-          "title": "女子强抓黑天鹅拍照 景区将其劝离",
-          "url": "https://www.toutiao.com/trending/7675189521491263551/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            17
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时29分 ~ 15时32分]"
+          "time_info": "[13时22分 ~ 16时27分]"
         },
         {
           "title": "女孩顺风车内暴晒2小时向家人求救",
@@ -392,18 +407,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2072862065841198775",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时32分]"
         },
         {
           "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？",
@@ -444,6 +447,41 @@
           "time_info": "[12时28分 ~ 14时30分]"
         },
         {
+          "title": "3孩非亲生奶奶想尽快送走3个孙女",
+          "url": "https://www.baidu.com/s?wd=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B6%E5%A5%B6%E6%83%B3%E5%B0%BD%E5%BF%AB%E9%80%81%E8%B5%B03%E4%B8%AA%E5%AD%99%E5%A5%B3",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 16时27分]"
+        },
+        {
+          "title": "女子在洗澡间装了张凌赫窗帘",
+          "url": "https://www.toutiao.com/trending/7674136502302457866/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 16时27分]"
+        },
+        {
+          "title": "女子看到癞蛤蟆吓得踩塌灶台",
+          "url": "https://www.toutiao.com/trending/7675239517507616778/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 16时27分]"
+        },
+        {
           "title": "南宁女患者报警称「被男医生猥亵揉胸」已立案，有哪些信息值得关注？如何保障患者就医安全与权益？",
           "url": "https://www.zhihu.com/question/2072847028510630765",
           "source": "知乎",
@@ -453,6 +491,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时30分]"
+        },
+        {
+          "title": "林志颖说林俊杰女友很乖很腼腆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%AF%B4%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E5%BE%88%E4%B9%96%E5%BE%88%E8%85%BC%E8%85%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时27分]"
         },
         {
           "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
@@ -513,17 +563,6 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
-          "title": "女子在洗澡间装了张凌赫窗帘",
-          "url": "https://www.toutiao.com/trending/7674136502302457866/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "据福克斯新闻：特朗普女婿库什纳表示，加沙去军事化路线图取得突破。",
           "url": "https://flash.jin10.com/detail/20260818022750746800",
           "source": "金十数据",
@@ -535,15 +574,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "林志颖说林俊杰女友很乖很腼腆",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%AF%B4%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E5%BE%88%E4%B9%96%E5%BE%88%E8%85%BC%E8%85%86%23&t=31&band_rank=14&Refer=top",
+          "title": "路人制止父亲脚踹女儿被拘超200天",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E5%88%B6%E6%AD%A2%E7%88%B6%E4%BA%B2%E8%84%9A%E8%B8%B9%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8B%98%E8%B6%85200%E5%A4%A9%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普女婿库什纳：如果伊朗愿意完成此前与美方讨论中的协议，放弃制造核武器的能力，那么美方显然愿意达成交易；但目前伊朗并未表现出愿意采取符合美方利益措施的意愿。",
@@ -623,28 +662,6 @@
           "time_info": "12时28分"
         },
         {
-          "title": "女子看到癞蛤蟆吓得踩塌灶台",
-          "url": "https://www.toutiao.com/trending/7675239517507616778/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "3孩非亲生奶奶想尽快送走3个孙女",
-          "url": "https://www.baidu.com/s?wd=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B6%E5%A5%B6%E6%83%B3%E5%B0%BD%E5%BF%AB%E9%80%81%E8%B5%B03%E4%B8%AA%E5%AD%99%E5%A5%B3",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "王曼昱夺WTT女单冠军",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BAWTT%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
@@ -665,6 +682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "女患者称被男医生猥亵揉胸双方已报警",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%82%A3%E8%80%85%E7%A7%B0%E8%A2%AB%E7%94%B7%E5%8C%BB%E7%94%9F%E7%8C%A5%E4%BA%B5%E6%8F%89%E8%83%B8%E5%8F%8C%E6%96%B9%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "6岁女儿学跳舞让爸爸减了37斤",
