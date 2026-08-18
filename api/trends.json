@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T11:39:17.769582+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-08-18T12:28:32.319843+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "女患者报警称“被男医生猥亵揉胸”",
@@ -119,11 +119,12 @@
           "ranks": [
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 12时28分]"
         },
         {
           "title": "女患者称被男医生猥亵揉胸",
@@ -169,6 +170,72 @@
           "time_info": "[01时19分 ~ 08时48分]"
         },
         {
+          "title": "正部级“女老虎”刘慧被公诉",
+          "url": "https://www.toutiao.com/trending/7675186350793952811/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 12时28分]"
+        },
+        {
+          "title": "女子想烫大波浪 结果烫成“钢丝球”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%83%B3%E7%83%AB%E5%A4%A7%E6%B3%A2%E6%B5%AA+%E7%BB%93%E6%9E%9C%E7%83%AB%E6%88%90%E2%80%9C%E9%92%A2%E4%B8%9D%E7%90%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 12时28分]"
+        },
+        {
+          "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33800378",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 12时28分]"
+        },
+        {
+          "title": "多方回应女子杭州酒局遭伤害",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 12时28分]"
+        },
+        {
+          "title": "并不是每个女孩都想变得很可爱",
+          "url": "https://www.douyin.com/hot/2613078",
+          "source": "抖音",
+          "ranks": [
+            24,
+            21,
+            27,
+            29,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 12时28分]"
+        },
+        {
           "title": "女子露营找厕所坠崖被消防员救出",
           "url": "https://www.toutiao.com/trending/7674181029229379594/",
           "source": "今日头条",
@@ -180,69 +247,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时19分 ~ 05时18分]"
-        },
-        {
-          "title": "并不是每个女孩都想变得很可爱",
-          "url": "https://www.douyin.com/hot/2613078",
-          "source": "抖音",
-          "ranks": [
-            24,
-            21,
-            27,
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 11时38分]"
-        },
-        {
-          "title": "正部级“女老虎”刘慧被公诉",
-          "url": "https://www.toutiao.com/trending/7675186350793952811/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "女子想烫大波浪 结果烫成“钢丝球”",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%83%B3%E7%83%AB%E5%A4%A7%E6%B3%A2%E6%B5%AA+%E7%BB%93%E6%9E%9C%E7%83%AB%E6%88%90%E2%80%9C%E9%92%A2%E4%B8%9D%E7%90%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 11时38分]"
-        },
-        {
-          "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33800378",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 11时38分]"
-        },
-        {
-          "title": "多方回应女子杭州酒局遭伤害",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 11时38分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -257,6 +261,44 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 06时17分]"
+        },
+        {
+          "title": "女子乘高铁遭猥亵 男子被行拘5日",
+          "url": "https://www.toutiao.com/trending/7674994169189220361/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 12时28分]"
+        },
+        {
+          "title": "中国U17女足6:0拜仁U17女足",
+          "url": "https://www.douyin.com/hot/2613419",
+          "source": "抖音",
+          "ranks": [
+            18,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 12时28分]"
+        },
+        {
+          "title": "姜月初刷新AI漫剧女打一天花板",
+          "url": "https://www.douyin.com/hot/2613313",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 12时28分]"
         },
         {
           "title": "女孩顺风车内暴晒2小时向家人求救",
@@ -297,41 +339,26 @@
           "time_info": "[06时17分 ~ 08时48分]"
         },
         {
-          "title": "中国U17女足6:0拜仁U17女足",
-          "url": "https://www.douyin.com/hot/2613419",
-          "source": "抖音",
+          "title": "父亲当街踹女儿被路人制止时受轻伤：一审判决路人需赔偿1564元，二审发回重审明天开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33798503",
+          "source": "澎湃新闻",
           "ranks": [
-            18,
-            15,
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时48分 ~ 11时38分]"
+          "time_info": "[11时38分 ~ 12时28分]"
         },
         {
-          "title": "女子乘高铁遭猥亵 男子被行拘5日",
-          "url": "https://www.toutiao.com/trending/7674994169189220361/",
-          "source": "今日头条",
+          "title": "6岁女儿学跳舞让爸爸减了37斤",
+          "url": "https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AD%A6%E8%B7%B3%E8%88%9E%E8%AE%A9%E7%88%B8%E7%88%B8%E5%87%8F%E4%BA%8637%E6%96%A4",
+          "source": "百度热搜",
           "ranks": [
-            21,
-            22
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时11分 ~ 11时38分]"
-        },
-        {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
-          "ranks": [
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 08时48分]"
+          "time_info": "[11时38分 ~ 12时28分]"
         },
         {
           "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
@@ -380,6 +407,17 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
+          "title": "3孩非亲生女方认为男方理应养孩子",
+          "url": "https://s.weibo.com/weibo?q=%233%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "据福克斯新闻：特朗普女婿库什纳表示，加沙去军事化路线图取得突破。",
           "url": "https://flash.jin10.com/detail/20260818022750746800",
           "source": "金十数据",
@@ -424,6 +462,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "杭州酒局事件受害女子家人回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%E5%8F%97%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "U17女足6-0拜仁",
           "url": "https://search.bilibili.com/all?keyword=U17%E5%A5%B3%E8%B6%B36-0%E6%8B%9C%E4%BB%81",
           "source": "bilibili 热搜",
@@ -446,17 +495,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "父亲当街踹女儿被路人制止时受轻伤：一审判决路人需赔偿1564元，二审发回重审明天开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798503",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "特朗普女婿库什纳：美国与伊朗政府不同领域之间的对话比以往任何时候都更加活跃。",
           "url": "https://flash.jin10.com/detail/20260818030513713800",
           "source": "金十数据",
@@ -466,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "招商蛇口高管涉嫌酒局伤害女性被刑拘，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2072862065841198775",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "女子想烫大波浪结果烫成钢丝球",
@@ -480,23 +529,12 @@
         },
         {
           "title": "6岁女儿学跳舞让爸爸减了37斤",
-          "url": "https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AD%A6%E8%B7%B3%E8%88%9E%E8%AE%A9%E7%88%B8%E7%88%B8%E5%87%8F%E4%BA%8637%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "6岁女儿学跳舞让爸爸减了37斤",
           "url": "https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AD%A6%E8%B7%B3%E8%88%9E%E8%AE%A9%E7%88%B8%E7%88%B8%E5%87%8F%E4%BA%8637%E6%96%A4%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
