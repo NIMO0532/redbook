@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T08:48:32.235001+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-08-18T10:12:30.399884+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "女患者报警称“被男医生猥亵揉胸”",
@@ -22,6 +22,21 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时18分 ~ 08时48分]"
+        },
+        {
+          "title": "多方回应女子杭州酒局遭伤害",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            6,
+            2,
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时27分 ~ 10时12分]"
         },
         {
           "title": "央企高管涉嫌酒局上伤害女性被免职",
@@ -51,11 +66,12 @@
             16,
             23,
             12,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 08时48分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 10时12分]"
         },
         {
           "title": "女患者称被男医生猥亵揉胸已立案",
@@ -66,11 +82,12 @@
             12,
             13,
             17,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 08时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 10时12分]"
         },
         {
           "title": "房企高管涉嫌酒局上伤害女性被免职",
@@ -84,53 +101,28 @@
           "time_info": "[00时18分 ~ 08时48分]"
         },
         {
-          "title": "多方回应女子杭州酒局遭伤害",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时27分 ~ 08时48分]"
-        },
-        {
-          "title": "假军人骗财骗色致10多名女子上当",
-          "url": "https://www.toutiao.com/trending/7673820120289361971/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时26分 ~ 07时16分]"
-        },
-        {
           "title": "异环惊现NTR,路人爽抽女神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357806&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%83%8A%E7%8E%B0NTR%2C%E8%B7%AF%E4%BA%BA%E7%88%BD%E6%8A%BD%E5%A5%B3%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 10时12分]"
         },
         {
           "title": "转转眼镜女压价,5090遭贱卖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357801&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%9C%BC%E9%95%9C%E5%A5%B3%E5%8E%8B%E4%BB%B7%2C5090%E9%81%AD%E8%B4%B1%E5%8D%96",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 10时12分]"
         },
         {
           "title": "女患者称被男医生猥亵揉胸",
@@ -145,8 +137,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 08时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 10时12分]"
+        },
+        {
+          "title": "假军人骗财骗色致10多名女子上当",
+          "url": "https://www.toutiao.com/trending/7673820120289361971/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时26分 ~ 07时16分]"
         },
         {
           "title": "薛甄珠才是2026年的大女主",
@@ -204,6 +209,41 @@
           "time_info": "[00时19分 ~ 04时18分]"
         },
         {
+          "title": "女子想烫大波浪 结果烫成“钢丝球”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%83%B3%E7%83%AB%E5%A4%A7%E6%B3%A2%E6%B5%AA+%E7%BB%93%E6%9E%9C%E7%83%AB%E6%88%90%E2%80%9C%E9%92%A2%E4%B8%9D%E7%90%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 10时12分]"
+        },
+        {
+          "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33800378",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 10时12分]"
+        },
+        {
+          "title": "多方回应女子杭州酒局遭伤害",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 10时12分]"
+        },
+        {
           "title": "女孩顺风车内暴晒2小时向家人求救",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%86%85%E6%9A%B4%E6%99%922%E5%B0%8F%E6%97%B6%E5%90%91%E5%AE%B6%E4%BA%BA%E6%B1%82%E6%95%91%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -254,26 +294,28 @@
           "time_info": "[06时17分 ~ 08时48分]"
         },
         {
-          "title": "女子想烫大波浪 结果烫成“钢丝球”",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%83%B3%E7%83%AB%E5%A4%A7%E6%B3%A2%E6%B5%AA+%E7%BB%93%E6%9E%9C%E7%83%AB%E6%88%90%E2%80%9C%E9%92%A2%E4%B8%9D%E7%90%83%E2%80%9D",
-          "source": "百度热搜",
+          "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
+          "url": "https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AD%E8%BD%A6%E8%B7%AF%E8%BF%87%E9%82%B5%E9%98%B3%E5%8F%B8%E6%9C%BA%E4%B8%8B%E8%BD%A6%E5%A4%B1%E8%81%94%E8%A2%AB%E9%94%812%E5%B0%8F%E6%97%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            15,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "time_info": "[08时48分 ~ 10时12分]"
         },
         {
-          "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33800378",
-          "source": "澎湃新闻",
+          "title": "中国U17女足6:0拜仁U17女足",
+          "url": "https://www.douyin.com/hot/2613419",
+          "source": "抖音",
           "ranks": [
-            13
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "time_info": "[08时48分 ~ 10时12分]"
         },
         {
           "title": "学霸父母劝700分女儿读中职或更合适",
@@ -299,15 +341,15 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
-          "title": "多方回应女子杭州酒局遭伤害",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3",
-          "source": "百度热搜",
+          "title": "女子乘高铁遭猥亵 男子被行拘5日",
+          "url": "https://www.toutiao.com/trending/7674994169189220361/",
+          "source": "今日头条",
           "ranks": [
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "女孩顺风车内暴晒2小时向家人求救",
@@ -343,17 +385,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
-          "url": "https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AD%E8%BD%A6%E8%B7%AF%E8%BF%87%E9%82%B5%E9%98%B3%E5%8F%B8%E6%9C%BA%E4%B8%8B%E8%BD%A6%E5%A4%B1%E8%81%94%E8%A2%AB%E9%94%812%E5%B0%8F%E6%97%B6%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        },
-        {
           "title": "特朗普女婿库什纳：特朗普在与伊朗达成协议方面将保持耐心。",
           "url": "https://flash.jin10.com/detail/20260818030822369800",
           "source": "金十数据",
@@ -382,7 +413,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -396,17 +427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "中国U17女足6:0拜仁U17女足",
-          "url": "https://www.douyin.com/hot/2613419",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
         },
         {
           "title": "特朗普女婿库什纳：美国与伊朗政府不同领域之间的对话比以往任何时候都更加活跃。",
@@ -426,7 +446,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         }
