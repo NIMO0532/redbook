@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T21:56:30.987949+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-08-26T22:49:35.066848+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "女网友偶遇Bin,瘦得像杨洋",
@@ -16,11 +16,12 @@
             3,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 21时56分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 22时49分]"
         },
         {
           "title": "13岁女孩三天靠AI赚1.8万",
@@ -32,11 +33,12 @@
             16,
             17,
             27,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时53分 ~ 21时56分]"
+          "appearance_count": 15,
+          "time_info": "[13时53分 ~ 22时49分]"
         },
         {
           "title": "上海13岁女孩靠AI 3天赚了1.8万元",
@@ -47,11 +49,12 @@
             5,
             13,
             12,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时45分 ~ 21时56分]"
+          "appearance_count": 11,
+          "time_info": "[16时45分 ~ 22时49分]"
         },
         {
           "title": "中国女游客在网红打卡点不幸溺亡，一对中国夫妇曾在此被巨浪卷走",
@@ -62,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时53分 ~ 21时56分]"
+          "appearance_count": 15,
+          "time_info": "[13时53分 ~ 22时49分]"
         },
         {
           "title": "《粉红女郎》“男人婆”张延离婚",
@@ -81,6 +84,21 @@
           "time_info": "[16时45分 ~ 21时56分]"
         },
         {
+          "title": "29岁女硕士在泰国遭绑架",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360381&amp;topic_name=29%E5%B2%81%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15,
+            16,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 22时49分]"
+        },
+        {
           "title": "男子求复合遭拒后杀害前女友：一审被判死缓，检方认为量刑畸轻提起抗诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33846206",
           "source": "澎湃新闻",
@@ -96,6 +114,48 @@
           "time_info": "[13时53分 ~ 20时56分]"
         },
         {
+          "title": "女子穿拖鞋开套牌车砸西瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360338&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%8B%96%E9%9E%8B%E5%BC%80%E5%A5%97%E7%89%8C%E8%BD%A6%E7%A0%B8%E8%A5%BF%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18,
+            19,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 22时49分]"
+        },
+        {
+          "title": "女网红独闯印度平安回国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360245&amp;topic_name=%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%8B%AC%E9%97%AF%E5%8D%B0%E5%BA%A6%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            20,
+            21,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 22时49分]"
+        },
+        {
+          "title": "女留学生韩国遇害,嫌犯落网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360611&amp;topic_name=%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E9%9F%A9%E5%9B%BD%E9%81%87%E5%AE%B3%2C%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 22时49分]"
+        },
+        {
           "title": "韩国警方公布中国女生遇害案细节：凶手作案后男扮女装",
           "url": "https://news.ifeng.com/c/8vtzLMzMYFZ",
           "source": "凤凰网",
@@ -108,58 +168,17 @@
           "time_info": "[13时53分 ~ 18时37分]"
         },
         {
-          "title": "29岁女硕士在泰国遭绑架",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360381&amp;topic_name=29%E5%B2%81%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6",
-          "source": "贴吧",
+          "title": "在韩失踪中国女生确认遇害，警方：嫌疑人自称“男友”报假警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33848851",
+          "source": "澎湃新闻",
           "ranks": [
+            13,
             12,
-            15,
-            16,
-            19
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 21时56分]"
-        },
-        {
-          "title": "女子穿拖鞋开套牌车砸西瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360338&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%8B%96%E9%9E%8B%E5%BC%80%E5%A5%97%E7%89%8C%E8%BD%A6%E7%A0%B8%E8%A5%BF%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 21时56分]"
-        },
-        {
-          "title": "女网红独闯印度平安回国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360245&amp;topic_name=%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%8B%AC%E9%97%AF%E5%8D%B0%E5%BA%A6%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            20,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 21时56分]"
-        },
-        {
-          "title": "女留学生韩国遇害,嫌犯落网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360611&amp;topic_name=%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E9%9F%A9%E5%9B%BD%E9%81%87%E5%AE%B3%2C%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 21时56分]"
+          "appearance_count": 8,
+          "time_info": "[18时36分 ~ 22时49分]"
         },
         {
           "title": "涉嫌杀害25岁在韩女留学生，30多岁男子被捕画面曝光",
@@ -199,18 +218,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时52分 ~ 17时43分]"
-        },
-        {
-          "title": "在韩失踪中国女生确认遇害，警方：嫌疑人自称“男友”报假警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33848851",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时36分 ~ 21时56分]"
         },
         {
           "title": "杀害在韩女生嫌疑人被捕时低头沉默",
@@ -462,11 +469,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时49分]"
         },
         {
           "title": "海南大学一女研究生失联 警方介入",
@@ -474,11 +482,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时49分]"
         },
         {
           "title": "在韩遇害女生本可邮寄毕业证回国",
@@ -688,6 +697,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "3-0！中国女排横扫中国台北",
+          "url": "https://www.baidu.com/s?wd=3-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%A8%AA%E6%89%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "监控拍下嫌犯男扮女装拉行李箱抛尸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E5%AB%8C%E7%8A%AF%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E6%8B%89%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%9B%E5%B0%B8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -719,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "30岁女子长期吃外卖出现心衰征兆",
+          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%96%E5%8D%96%E5%87%BA%E7%8E%B0%E5%BF%83%E8%A1%B0%E5%BE%81%E5%85%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "韩警方搜寻焚烧厂找遇害女生遗体",
@@ -760,9 +791,41 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鲁班大师新皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B2%81%E7%8F%AD%E5%A4%A7%E5%B8%88%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            21,
+            26,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时49分 ~ 22时49分]"
+        },
+        {
+          "title": "女子天热出门化妆 假鼻子全是汗泡",
+          "url": "https://www.toutiao.com/trending/7677795405807747091/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -808,26 +871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鲁班大师新皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B2%81%E7%8F%AD%E5%A4%A7%E5%B8%88%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            21,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 20时56分]"
         }
       ]
     }
