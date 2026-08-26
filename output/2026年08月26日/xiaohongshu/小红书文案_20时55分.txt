@@ -1,0 +1,89 @@
+==================================================
+           📕 小红书文案生成
+==================================================
+
+【第一部分：封面图文案】
+1. 5个雷区💣女生必看
+2. 智商税收割机⚠️
+3. 塌房预警🚨避坑指南
+
+【第二部分：标题】
+1. 关于智商税，我想说点实话
+2. 消费降级时代的生存法则
+
+【第三部分：正文】
+默认AI不可用
+
+【第四部分：末尾固定人设标签】
+——我是小雷达，专注分享女生视角的生活洞察。不制造焦虑，只提供思考角度。下期见。
+
+【第五部分：首评钩子】
+1. 你们有没有踩过类似的智商税？评论区聊聊！
+2. 想看更多避坑内容的可以关注我！
+
+【第六部分：参考新闻链接】
+1. 13岁女孩三天靠AI赚1.8万
+   https://www.toutiao.com/trending/7677929697972043822/
+2. 中国女游客在网红打卡点不幸溺亡，一对中国夫妇曾在此被巨浪卷走
+   https://news.ifeng.com/c/8vtlLR4X7f2
+3. 男子求复合遭拒后杀害前女友：一审被判死缓，检方认为量刑畸轻提起抗诉
+   https://www.thepaper.cn/newsDetail_forward_33846206
+4. 韩国警方公布中国女生遇害案细节：凶手作案后男扮女装
+   https://news.ifeng.com/c/8vtzLMzMYFZ
+5. 上海13岁女孩靠AI 3天赚了1.8万元
+   https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B713%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9D%A0AI+3%E5%A4%A9%E8%B5%9A%E4%BA%861.8%E4%B8%87%E5%85%83
+6. 涉嫌杀害25岁在韩女留学生，30多岁男子被捕画面曝光
+   https://v.ifeng.com/c/8vtutgJkw6g
+7. 《粉红女郎》“男人婆”张延离婚
+   https://www.toutiao.com/trending/7678212945226039835/
+8. 爸爸拉1200多斤西瓜带女儿进藏自驾游
+   https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E6%8B%891200%E5%A4%9A%E6%96%A4%E8%A5%BF%E7%93%9C%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%9B%E8%97%8F%E8%87%AA%E9%A9%BE%E6%B8%B8
+9. 中国首位打破世界纪录的女运动员逝世
+   https://www.toutiao.com/trending/7678188760428888074/
+10. 杀害在韩女生嫌疑人被捕时低头沉默
+   https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%9C%A8%E9%9F%A9%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%97%B6%E4%BD%8E%E5%A4%B4%E6%B2%89%E9%BB%98
+11. 洪崖洞疑触电2人是母女 系外地游客
+   https://www.toutiao.com/trending/7677931728664756267/
+12. 前世界冠军被判猥亵男女童罪名成立
+   https://www.baidu.com/s?wd=%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%A2%AB%E5%88%A4%E7%8C%A5%E4%BA%B5%E7%94%B7%E5%A5%B3%E7%AB%A5%E7%BD%AA%E5%90%8D%E6%88%90%E7%AB%8B
+13. 杀害中国女生嫌犯懂神经解剖
+   https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%8A%AF%E6%87%82%E7%A5%9E%E7%BB%8F%E8%A7%A3%E5%89%96
+14. 洪崖洞附近母女疑触电女儿尚未脱险
+   https://www.toutiao.com/trending/7677931728664756267/
+15. 杀害在韩女生嫌犯被曝长期骚扰女性
+   https://www.toutiao.com/trending/7678177441055047723/
+16. 杀害在韩女生嫌疑人被捕时低头沉默
+   https://www.toutiao.com/trending/7677965635020570630/
+17. 嫌疑人和在韩遇害女生系师生关系
+   https://www.baidu.com/s?wd=%E5%AB%8C%E7%96%91%E4%BA%BA%E5%92%8C%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E7%B3%BB%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB
+18. 在韩失踪中国女生确认遇害，警方：嫌疑人自称“男友”报假警
+   https://www.thepaper.cn/newsDetail_forward_33848851
+19. 在韩遇害女生姐姐连发三句“要他死”
+   https://www.baidu.com/s?wd=%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E5%A7%90%E5%A7%90%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8F%A5%E2%80%9C%E8%A6%81%E4%BB%96%E6%AD%BB%E2%80%9D
+20. 女生在韩遇害嫌疑人为中国籍男子
+   https://www.toutiao.com/trending/7677969313785544713/
+21. 洪崖洞附近母女疑触电 女儿尚未脱险
+   https://www.baidu.com/s?wd=%E6%B4%AA%E5%B4%96%E6%B4%9E%E9%99%84%E8%BF%91%E6%AF%8D%E5%A5%B3%E7%96%91%E8%A7%A6%E7%94%B5+%E5%A5%B3%E5%84%BF%E5%B0%9A%E6%9C%AA%E8%84%B1%E9%99%A9
+22. 杀害中国女生嫌犯曾男扮女装干扰警方
+   https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%8A%AF%E6%9B%BE%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E5%B9%B2%E6%89%B0%E8%AD%A6%E6%96%B9
+23. 在韩遇害女生部分遗体被丢弃
+   https://www.baidu.com/s?wd=%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E9%83%A8%E5%88%86%E9%81%97%E4%BD%93%E8%A2%AB%E4%B8%A2%E5%BC%83
+24. 《粉红女郎》“男人婆”张延宣布离婚
+   https://www.toutiao.com/trending/7678212945226039835/
+25. 女生在韩遇害 警方：嫌疑人为中国籍
+   https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3+%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%AB%8C%E7%96%91%E4%BA%BA%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%B1%8D
+26. 包贝尔曾自曝同时交往7个女友
+   https://www.baidu.com/s?wd=%E5%8C%85%E8%B4%9D%E5%B0%94%E6%9B%BE%E8%87%AA%E6%9B%9D%E5%90%8C%E6%97%B6%E4%BA%A4%E5%BE%807%E4%B8%AA%E5%A5%B3%E5%8F%8B
+27. 百花奖最佳女主角卫诗雅：女配更难演
+   https://www.baidu.com/s?wd=%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%8D%AB%E8%AF%97%E9%9B%85%EF%BC%9A%E5%A5%B3%E9%85%8D%E6%9B%B4%E9%9A%BE%E6%BC%94
+28. 女子主动到派出所问自己是不是逃犯
+   https://www.toutiao.com/trending/7678273323930976283/
+29. 海南大学一女研究生失联 警方介入
+   https://www.toutiao.com/trending/7678286404431249462/
+30. 月薪2万女子为裁员焦虑，每天学习到凌晨5点
+   https://news.ifeng.com/c/8vtfhQEJ6vI
+31. 女子好奇“抱柱”被卡 不死心又卡住
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A5%BD%E5%A5%87%E2%80%9C%E6%8A%B1%E6%9F%B1%E2%80%9D%E8%A2%AB%E5%8D%A1+%E4%B8%8D%E6%AD%BB%E5%BF%83%E5%8F%88%E5%8D%A1%E4%BD%8F
+32. 安徽警方通报女子贴三伏贴遭医生猥亵
+   https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%B4%B4%E4%B8%89%E4%BC%8F%E8%B4%B4%E9%81%AD%E5%8C%BB%E7%94%9F%E7%8C%A5%E4%BA%B5
+
