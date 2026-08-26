@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-08-26T17:43:37.556950+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-08-26T18:37:12.599077+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
-        {
-          "title": "女网友偶遇Bin,瘦得像杨洋",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360514&amp;topic_name=%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87Bin%2C%E7%98%A6%E5%BE%97%E5%83%8F%E6%9D%A8%E6%B4%8B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 17时43分]"
-        },
         {
           "title": "13岁女孩三天靠AI赚1.8万",
           "url": "https://www.toutiao.com/trending/7677929697972043822/",
@@ -28,11 +15,75 @@
             2,
             4,
             16,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 18时37分]"
+        },
+        {
+          "title": "女网友偶遇Bin,瘦得像杨洋",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360514&amp;topic_name=%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87Bin%2C%E7%98%A6%E5%BE%97%E5%83%8F%E6%9D%A8%E6%B4%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 18时37分]"
+        },
+        {
+          "title": "韩国警方公布中国女生遇害案细节：凶手作案后男扮女装",
+          "url": "https://news.ifeng.com/c/8vtzLMzMYFZ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 18时37分]"
+        },
+        {
+          "title": "中国女游客在网红打卡点不幸溺亡，一对中国夫妇曾在此被巨浪卷走",
+          "url": "https://news.ifeng.com/c/8vtlLR4X7f2",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 18时37分]"
+        },
+        {
+          "title": "男子求复合遭拒后杀害前女友：一审被判死缓，检方认为量刑畸轻提起抗诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33846206",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 18时37分]"
+        },
+        {
+          "title": "涉嫌杀害25岁在韩女留学生，30多岁男子被捕画面曝光",
+          "url": "https://v.ifeng.com/c/8vtutgJkw6g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 18时37分]"
         },
         {
           "title": "中国首位打破世界纪录的女运动员逝世",
@@ -49,43 +100,6 @@
           "time_info": "[14时52分 ~ 17时43分]"
         },
         {
-          "title": "韩国警方公布中国女生遇害案细节：凶手作案后男扮女装",
-          "url": "https://news.ifeng.com/c/8vtzLMzMYFZ",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时43分]"
-        },
-        {
-          "title": "中国女游客在网红打卡点不幸溺亡，一对中国夫妇曾在此被巨浪卷走",
-          "url": "https://news.ifeng.com/c/8vtlLR4X7f2",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时43分]"
-        },
-        {
-          "title": "男子求复合遭拒后杀害前女友：一审被判死缓，检方认为量刑畸轻提起抗诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33846206",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时43分]"
-        },
-        {
           "title": "杀害在韩女生嫌疑人被捕时低头沉默",
           "url": "https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%9C%A8%E9%9F%A9%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%97%B6%E4%BD%8E%E5%A4%B4%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
@@ -95,6 +109,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 14时52分]"
+        },
+        {
+          "title": "上海13岁女孩靠AI 3天赚了1.8万元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B713%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9D%A0AI+3%E5%A4%A9%E8%B5%9A%E4%BA%861.8%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 18时37分]"
         },
         {
           "title": "洪崖洞疑触电2人是母女 系外地游客",
@@ -108,15 +135,32 @@
           "time_info": "13时53分"
         },
         {
-          "title": "涉嫌杀害25岁在韩女留学生，30多岁男子被捕画面曝光",
-          "url": "https://v.ifeng.com/c/8vtutgJkw6g",
-          "source": "凤凰网",
+          "title": "29岁女硕士在泰国遭绑架",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360381&amp;topic_name=29%E5%B2%81%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6",
+          "source": "贴吧",
           "ranks": [
-            10
+            12,
+            15,
+            16,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时52分 ~ 17时43分]"
+          "time_info": "[13时53分 ~ 18时37分]"
+        },
+        {
+          "title": "女子穿拖鞋开套牌车砸西瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360338&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%8B%96%E9%9E%8B%E5%BC%80%E5%A5%97%E7%89%8C%E8%BD%A6%E7%A0%B8%E8%A5%BF%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 18时37分]"
         },
         {
           "title": "前世界冠军被判猥亵男女童罪名成立",
@@ -131,6 +175,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时52分 ~ 17时43分]"
+        },
+        {
+          "title": "女网红独闯印度平安回国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360245&amp;topic_name=%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%8B%AC%E9%97%AF%E5%8D%B0%E5%BA%A6%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            20,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 18时37分]"
         },
         {
           "title": "杀害中国女生嫌犯懂神经解剖",
@@ -155,6 +213,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "女留学生韩国遇害,嫌犯落网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360611&amp;topic_name=%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E9%9F%A9%E5%9B%BD%E9%81%87%E5%AE%B3%2C%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "杭州电梯事件女子已清空账号作品",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E6%A2%AF%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7%E4%BD%9C%E5%93%81%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -164,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
-        },
-        {
-          "title": "在韩遇害女生部分遗体被丢弃",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E9%83%A8%E5%88%86%E9%81%97%E4%BD%93%E8%A2%AB%E4%B8%A2%E5%BC%83%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "杀害在韩女生嫌犯被曝长期骚扰女性",
@@ -202,16 +260,17 @@
           "time_info": "[13时53分 ~ 15时49分]"
         },
         {
-          "title": "上海13岁女孩靠AI 3天赚了1.8万元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B713%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9D%A0AI+3%E5%A4%A9%E8%B5%9A%E4%BA%861.8%E4%B8%87%E5%85%83",
+          "title": "爸爸拉1200多斤西瓜带女儿进藏自驾游",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E6%8B%891200%E5%A4%9A%E6%96%A4%E8%A5%BF%E7%93%9C%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%9B%E8%97%8F%E8%87%AA%E9%A9%BE%E6%B8%B8",
           "source": "百度热搜",
           "ranks": [
-            10,
-            5
+            7,
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 18时37分]"
         },
         {
           "title": "嫌疑人和在韩遇害女生系师生关系",
@@ -227,18 +286,16 @@
           "time_info": "[15时48分 ~ 17时43分]"
         },
         {
-          "title": "29岁女硕士在泰国遭绑架",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360381&amp;topic_name=29%E5%B2%81%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6",
-          "source": "贴吧",
+          "title": "《粉红女郎》“男人婆”张延离婚",
+          "url": "https://www.toutiao.com/trending/7678212945226039835/",
+          "source": "今日头条",
           "ranks": [
             12,
-            15,
-            16,
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时53分 ~ 17时43分]"
+          "time_info": "[16时45分 ~ 18时37分]"
         },
         {
           "title": "小酒窝给杜华女儿让C位",
@@ -256,32 +313,17 @@
           "time_info": "[13时53分 ~ 17时43分]"
         },
         {
-          "title": "女子穿拖鞋开套牌车砸西瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360338&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%8B%96%E9%9E%8B%E5%BC%80%E5%A5%97%E7%89%8C%E8%BD%A6%E7%A0%B8%E8%A5%BF%E7%93%9C",
-          "source": "贴吧",
+          "title": "在韩遇害女生姐姐连发三句“要他死”",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E5%A7%90%E5%A7%90%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8F%A5%E2%80%9C%E8%A6%81%E4%BB%96%E6%AD%BB%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 17时43分]"
-        },
-        {
-          "title": "女网红独闯印度平安回国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360245&amp;topic_name=%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%8B%AC%E9%97%AF%E5%8D%B0%E5%BA%A6%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
+            22,
             17,
-            20,
-            21,
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时53分 ~ 17时43分]"
+          "time_info": "[16时45分 ~ 18时37分]"
         },
         {
           "title": "嫌疑人和在韩遇害女生系师生关系",
@@ -320,6 +362,18 @@
           "time_info": "[14时52分 ~ 15时49分]"
         },
         {
+          "title": "在韩遇害女生部分遗体被丢弃",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E9%83%A8%E5%88%86%E9%81%97%E4%BD%93%E8%A2%AB%E4%B8%A2%E5%BC%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时37分]"
+        },
+        {
           "title": "女生在韩遇害嫌疑人为中国籍男子",
           "url": "https://www.toutiao.com/trending/7677969313785544713/",
           "source": "今日头条",
@@ -356,28 +410,17 @@
           "time_info": "[13时53分 ~ 14时52分]"
         },
         {
-          "title": "爸爸拉1200多斤西瓜带女儿进藏自驾游",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E6%8B%891200%E5%A4%9A%E6%96%A4%E8%A5%BF%E7%93%9C%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%9B%E8%97%8F%E8%87%AA%E9%A9%BE%E6%B8%B8",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 17时43分]"
-        },
-        {
           "title": "中国女子在泰国遭 4 名泰国男子绑架送往泰缅边境，跳车自救，还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2075353333452256735",
           "source": "知乎",
           "ranks": [
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时37分]"
         },
         {
           "title": "在韩失踪中国女留学生遇害，凶手曾自称男友报假警，哪些信息值得关注？凶手若为中国籍会怎样影响法律判定？",
@@ -388,19 +431,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时43分]"
-        },
-        {
-          "title": "《粉红女郎》“男人婆”张延离婚",
-          "url": "https://www.toutiao.com/trending/7678212945226039835/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时37分]"
         },
         {
           "title": "警方通报“女子称在电梯遭猥亵”",
@@ -413,18 +445,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时53分 ~ 15时49分]"
-        },
-        {
-          "title": "在韩遇害女生姐姐连发三句“要他死”",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E5%A7%90%E5%A7%90%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8F%A5%E2%80%9C%E8%A6%81%E4%BB%96%E6%AD%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 17时43分]"
         },
         {
           "title": "曝杀害中国女生嫌犯曾威胁学生延毕",
@@ -463,6 +483,29 @@
           "time_info": "[14时52分 ~ 15时49分]"
         },
         {
+          "title": "在韩遇害女生部分遗体被丢弃",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E9%83%A8%E5%88%86%E9%81%97%E4%BD%93%E8%A2%AB%E4%B8%A2%E5%BC%83",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 18时37分]"
+        },
+        {
+          "title": "在韩遇害女生本可邮寄毕业证回国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E6%9C%AC%E5%8F%AF%E9%82%AE%E5%AF%84%E6%AF%95%E4%B8%9A%E8%AF%81%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 18时37分]"
+        },
+        {
           "title": "《粉红女郎》“男人婆”张延宣布离婚",
           "url": "https://www.toutiao.com/trending/7678212945226039835/",
           "source": "今日头条",
@@ -472,6 +515,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时48分 ~ 15时49分]"
+        },
+        {
+          "title": "在韩失踪中国女生确认遇害，警方：嫌疑人自称“男友”报假警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33848851",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 18时37分]"
         },
         {
           "title": "女生在韩遇害 警方：嫌疑人为中国籍",
@@ -519,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "快乐女孩给小卖部进货指南",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E4%B9%90%E5%A5%B3%E5%AD%A9%E7%BB%99%E5%B0%8F%E5%8D%96%E9%83%A8%E8%BF%9B%E8%B4%A7%E6%8C%87%E5%8D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "杀害中国女生嫌犯懂神经解剖",
@@ -582,20 +647,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "在韩遇害女生本可邮寄毕业证回国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E6%9C%AC%E5%8F%AF%E9%82%AE%E5%AF%84%E6%AF%95%E4%B8%9A%E8%AF%81%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时46分"
+          "time_info": "17时43分"
         },
         {
           "title": "女子好奇“抱柱”被卡 不死心又卡住",
@@ -607,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "韩警方搜寻焚烧厂找遇害女生遗体",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E6%90%9C%E5%AF%BB%E7%84%9A%E7%83%A7%E5%8E%82%E6%89%BE%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E9%81%97%E4%BD%93%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "安徽警方通报女子贴三伏贴遭医生猥亵",
