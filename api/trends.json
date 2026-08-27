@@ -1,353 +1,193 @@
 {
-  "generated_at": "2026-08-27T12:21:58.596382+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-08-28T00:11:28.221078+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 15,
       "titles": [
         {
-          "title": "女留学生韩国遇害,嫌犯落网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360611&amp;topic_name=%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E9%9F%A9%E5%9B%BD%E9%81%87%E5%AE%B3%2C%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91",
+          "title": "孙哥发文忆女神:我的女友景甜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360909&amp;topic_name=%E5%AD%99%E5%93%A5%E5%8F%91%E6%96%87%E5%BF%86%E5%A5%B3%E7%A5%9E%3A%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C",
           "source": "贴吧",
           "ranks": [
-            3,
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 12时21分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "22岁女生患不宁腿综合征",
+          "url": "https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E7%94%9F%E6%82%A3%E4%B8%8D%E5%AE%81%E8%85%BF%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "香港警方通报68岁老人掌掴5岁女童",
+          "url": "https://www.toutiao.com/trending/7678307692948602926/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "女子追讨13年前2万元开店“保证金”一审败诉，被告称系管理费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33958484",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "如何看待孙宇晨最新力作《我的女友景甜》？",
+          "url": "https://www.zhihu.com/question/2076407501369635752",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "男子出轨女邻居并住其家中",
+          "url": "https://www.toutiao.com/trending/7678172443046854697/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "女骑高速狂飙200码还拍照",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360762&amp;topic_name=%E5%A5%B3%E9%AA%91%E9%AB%98%E9%80%9F%E7%8B%82%E9%A3%99200%E7%A0%81%E8%BF%98%E6%8B%8D%E7%85%A7",
           "source": "贴吧",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "男频和女频的区别",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E9%A2%91%E5%92%8C%E5%A5%B3%E9%A2%91%E7%9A%84%E5%8C%BA%E5%88%AB&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            2
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "女神异闻录4重制版剧情预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%954%E9%87%8D%E5%88%B6%E7%89%88%E5%89%A7%E6%83%85%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
+          "title": "香港警方通报68岁老人掌掴5岁女童",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A568%E5%B2%81%E8%80%81%E4%BA%BA%E6%8E%8C%E6%8E%B45%E5%B2%81%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "00时11分"
+        },
+        {
+          "title": "99年专属bgm女孩27",
+          "url": "https://www.douyin.com/hot/2625812",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "22岁女孩睡觉踩空惊醒确诊怪病",
+          "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9D%A1%E8%A7%89%E8%B8%A9%E7%A9%BA%E6%83%8A%E9%86%92%E7%A1%AE%E8%AF%8A%E6%80%AA%E7%97%85",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "日本男子电车内猥亵女学生",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360748&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E7%94%B5%E8%BD%A6%E5%86%85%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A6%E7%94%9F",
           "source": "贴吧",
           "ranks": [
-            4
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "00时11分"
         },
         {
-          "title": "13岁女孩三天靠AI赚1.8万",
-          "url": "https://www.toutiao.com/trending/7677929697972043822/",
+          "title": "父母公证赠女儿295万 离婚时女婿要分",
+          "url": "https://www.toutiao.com/trending/7678588168882503699/",
           "source": "今日头条",
           "ranks": [
-            10,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
-        },
-        {
-          "title": "女子主动到派出所问自己是不是逃犯",
-          "url": "https://www.toutiao.com/trending/7678273323930976283/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
-        },
-        {
-          "title": "女网友偶遇Bin,瘦得像杨洋",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360514&amp;topic_name=%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87Bin%2C%E7%98%A6%E5%BE%97%E5%83%8F%E6%9D%A8%E6%B4%8B",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 12时21分]"
-        },
-        {
-          "title": "30岁女子长期吃外卖出现心衰征兆",
-          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%96%E5%8D%96%E5%87%BA%E7%8E%B0%E5%BF%83%E8%A1%B0%E5%BE%81%E5%85%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 12时21分]"
-        },
-        {
-          "title": "29岁女硕士在泰国遭绑架",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360381&amp;topic_name=29%E5%B2%81%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 12时21分]"
-        },
-        {
-          "title": "海南大学一女研究生夜晚离校后失联",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%9C%E6%99%9A%E7%A6%BB%E6%A0%A1%E5%90%8E%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
-        },
-        {
-          "title": "女子主动到派出所问自己是不是逃犯",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BB%E5%8A%A8%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%E9%97%AE%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E6%98%AF%E9%80%83%E7%8A%AF",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            18,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "女子穿拖鞋开套牌车砸西瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360338&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%8B%96%E9%9E%8B%E5%BC%80%E5%A5%97%E7%89%8C%E8%BD%A6%E7%A0%B8%E8%A5%BF%E7%93%9C",
+          "title": "女子生下4胞胎丈夫感慨省了几十万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E4%B8%88%E5%A4%AB%E6%84%9F%E6%85%A8%E7%9C%81%E4%BA%86%E5%87%A0%E5%8D%81%E4%B8%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "女留学生韩国遇害,嫌犯落网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360611&amp;topic_name=%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E9%9F%A9%E5%9B%BD%E9%81%87%E5%AE%B3%2C%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91",
           "source": "贴吧",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "女网红独闯印度平安回国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360245&amp;topic_name=%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%8B%AC%E9%97%AF%E5%8D%B0%E5%BA%A6%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%9B%BD",
-          "source": "贴吧",
+          "title": "女子偷车被老公批评后归还 隔天重偷",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%B7%E8%BD%A6%E8%A2%AB%E8%80%81%E5%85%AC%E6%89%B9%E8%AF%84%E5%90%8E%E5%BD%92%E8%BF%98+%E9%9A%94%E5%A4%A9%E9%87%8D%E5%81%B7",
+          "source": "百度热搜",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
-        },
-        {
-          "title": "在韩失踪中国女生确认遇害，警方：嫌疑人自称“男友”报假警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33848851",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 03时05分]"
-        },
-        {
-          "title": "3-0！中国女排横扫中国台北",
-          "url": "https://www.baidu.com/s?wd=3-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%A8%AA%E6%89%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 03时05分]"
-        },
-        {
-          "title": "海南大学失联女研究生最后现身桥下",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%A4%B1%E8%81%94%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E6%9C%80%E5%90%8E%E7%8E%B0%E8%BA%AB%E6%A1%A5%E4%B8%8B%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 06时50分]"
-        },
-        {
-          "title": "警方通报女骑手高速狂飙时速超200公里",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E9%AA%91%E6%89%8B%E9%AB%98%E9%80%9F%E7%8B%82%E9%A3%99%E6%97%B6%E9%80%9F%E8%B6%85200%E5%85%AC%E9%87%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 06时50分]"
-        },
-        {
-          "title": "男女高速路上超速追逐竞驶被刑拘",
-          "url": "https://www.toutiao.com/trending/7677976477618667539/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 06时50分]"
-        },
-        {
-          "title": "杀中国女生后嫌疑人抛尸250公里外",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%90%8E%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8A%9B%E5%B0%B8250%E5%85%AC%E9%87%8C%E5%A4%96%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "杭州警方通报女子称在电梯遭骚扰",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E7%94%B5%E6%A2%AF%E9%81%AD%E9%AA%9A%E6%89%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "江歌妈妈长文回望十年怀念女儿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E9%95%BF%E6%96%87%E5%9B%9E%E6%9C%9B%E5%8D%81%E5%B9%B4%E6%80%80%E5%BF%B5%E5%A5%B3%E5%84%BF%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "办婚礼没领证女子在爱人祭日被赶婚房",
-          "url": "https://www.toutiao.com/trending/7678294098986713098/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "海南大学一女研究生失联 警方介入",
-          "url": "https://www.toutiao.com/trending/7678286404431249462/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "00后女飞毕业就飞上了运-20",
-          "url": "https://www.toutiao.com/trending/7677953825021378596/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "李昀锐工作室女孩剪辑百万点赞",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A5%B3%E5%AD%A9%E5%89%AA%E8%BE%91%E7%99%BE%E4%B8%87%E7%82%B9%E8%B5%9E%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "婚礼41天丧夫女子被赶出婆家",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC41%E5%A4%A9%E4%B8%A7%E5%A4%AB%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%A9%86%E5%AE%B6%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "女子天热出门化妆 假鼻子全是汗泡",
-          "url": "https://www.toutiao.com/trending/7677795405807747091/",
-          "source": "今日头条",
+          "title": "韩国恋综网红女嘉宾皮肤好神奇",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%81%8B%E7%BB%BC%E7%BD%91%E7%BA%A2%E5%A5%B3%E5%98%89%E5%AE%BE%E7%9A%AE%E8%82%A4%E5%A5%BD%E7%A5%9E%E5%A5%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时50分]"
-        },
-        {
-          "title": "鲁班大师新皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B2%81%E7%8F%AD%E5%A4%A7%E5%B8%88%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "00时11分"
         }
       ]
     },
@@ -356,16 +196,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "第一堂审美课是国产动画教的",
-          "url": "https://www.douyin.com/hot/2624747",
-          "source": "抖音",
+          "title": "吧友评007候选:审美降级严重",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360836&amp;topic_name=%E5%90%A7%E5%8F%8B%E8%AF%84007%E5%80%99%E9%80%89%3A%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%B8%A5%E9%87%8D",
+          "source": "贴吧",
           "ranks": [
-            25,
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 12时21分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         }
       ]
     }
