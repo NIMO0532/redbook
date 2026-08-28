@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-28T00:11:28.221078+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-08-28T09:19:58.372695+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "孙哥发文忆女神:我的女友景甜",
@@ -30,6 +30,101 @@
           "time_info": "00时11分"
         },
         {
+          "title": "女子追讨13年前2万元开店“保证金”一审败诉，被告称系管理费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33958484",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
+        },
+        {
+          "title": "男子出轨女邻居并住其家中",
+          "url": "https://www.toutiao.com/trending/7678172443046854697/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
+        },
+        {
+          "title": "女骑高速狂飙200码还拍照",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360762&amp;topic_name=%E5%A5%B3%E9%AA%91%E9%AB%98%E9%80%9F%E7%8B%82%E9%A3%99200%E7%A0%81%E8%BF%98%E6%8B%8D%E7%85%A7",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
+        },
+        {
+          "title": "22岁女孩睡觉踩空惊醒确诊怪病",
+          "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9D%A1%E8%A7%89%E8%B8%A9%E7%A9%BA%E6%83%8A%E9%86%92%E7%A1%AE%E8%AF%8A%E6%80%AA%E7%97%85",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
+        },
+        {
+          "title": "日本男子电车内猥亵女学生",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360748&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E7%94%B5%E8%BD%A6%E5%86%85%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A6%E7%94%9F",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
+        },
+        {
+          "title": "99年专属bgm女孩27",
+          "url": "https://www.douyin.com/hot/2625812",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
+        },
+        {
+          "title": "女留学生韩国遇害,嫌犯落网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360611&amp;topic_name=%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E9%9F%A9%E5%9B%BD%E9%81%87%E5%AE%B3%2C%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
+        },
+        {
+          "title": "父母公证赠女儿295万 离婚时女婿要分",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E5%85%AC%E8%AF%81%E8%B5%A0%E5%A5%B3%E5%84%BF295%E4%B8%87+%E7%A6%BB%E5%A9%9A%E6%97%B6%E5%A5%B3%E5%A9%BF%E8%A6%81%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "香港警方通报68岁老人掌掴5岁女童",
           "url": "https://www.toutiao.com/trending/7678307692948602926/",
           "source": "今日头条",
@@ -41,15 +136,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "女子追讨13年前2万元开店“保证金”一审败诉，被告称系管理费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33958484",
-          "source": "澎湃新闻",
+          "title": "杭州警方通报女子称在电梯遭骚扰",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E7%94%B5%E6%A2%AF%E9%81%AD%E9%AA%9A%E6%89%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "09时19分"
         },
         {
           "title": "如何看待孙宇晨最新力作《我的女友景甜》？",
@@ -63,26 +158,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "男子出轨女邻居并住其家中",
-          "url": "https://www.toutiao.com/trending/7678172443046854697/",
-          "source": "今日头条",
+          "title": "“外卖小哥救落水女孩”视频被质疑摆拍：街道办称救人属实、正为其争取见义勇为称号，平台给予现金奖励",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33959977",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "女骑高速狂飙200码还拍照",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360762&amp;topic_name=%E5%A5%B3%E9%AA%91%E9%AB%98%E9%80%9F%E7%8B%82%E9%A3%99200%E7%A0%81%E8%BF%98%E6%8B%8D%E7%85%A7",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "09时19分"
         },
         {
           "title": "香港警方通报68岁老人掌掴5岁女童",
@@ -90,39 +174,6 @@
           "source": "微博",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "99年专属bgm女孩27",
-          "url": "https://www.douyin.com/hot/2625812",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "22岁女孩睡觉踩空惊醒确诊怪病",
-          "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9D%A1%E8%A7%89%E8%B8%A9%E7%A9%BA%E6%83%8A%E9%86%92%E7%A1%AE%E8%AF%8A%E6%80%AA%E7%97%85",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "日本男子电车内猥亵女学生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360748&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E7%94%B5%E8%BD%A6%E5%86%85%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A6%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -140,6 +191,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "小女孩在游乐园锻炼身体臂力无敌",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%B8%B8%E4%B9%90%E5%9B%AD%E9%94%BB%E7%82%BC%E8%BA%AB%E4%BD%93%E8%87%82%E5%8A%9B%E6%97%A0%E6%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "女子生下4胞胎丈夫感慨省了几十万",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E4%B8%88%E5%A4%AB%E6%84%9F%E6%85%A8%E7%9C%81%E4%BA%86%E5%87%A0%E5%8D%81%E4%B8%87%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -151,15 +213,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "女留学生韩国遇害,嫌犯落网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360611&amp;topic_name=%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E9%9F%A9%E5%9B%BD%E9%81%87%E5%AE%B3%2C%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91",
-          "source": "贴吧",
+          "title": "外孙幼儿园摔倒 女子抓咬老师被拘",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%AD%99%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%94%E5%80%92+%E5%A5%B3%E5%AD%90%E6%8A%93%E5%92%AC%E8%80%81%E5%B8%88%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
           "ranks": [
-            26
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "09时19分"
         },
         {
           "title": "女子偷车被老公批评后归还 隔天重偷",
@@ -200,11 +262,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360836&amp;topic_name=%E5%90%A7%E5%8F%8B%E8%AF%84007%E5%80%99%E9%80%89%3A%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%B8%A5%E9%87%8D",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 09时19分]"
         }
       ]
     }
