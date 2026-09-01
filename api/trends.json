@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T01:40:58.652871+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-02T04:42:47.672767+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "孙女偷自家财物,被判6个月",
@@ -15,30 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
         },
         {
           "title": "女子携儿子出游酒后跳河失联4日",
           "url": "https://www.toutiao.com/trending/7680526092690063370/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "女生穿高跟鞋机场捧花接退伍男友",
-          "url": "https://www.toutiao.com/trending/7680473087791464486/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
         },
         {
           "title": "误认游戏机,女友暴怒砸家",
@@ -48,8 +38,158 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "女生穿高跟鞋机场捧花接退伍男友",
+          "url": "https://www.toutiao.com/trending/7680473087791464486/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "要钱不成反诬告,女主播被抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361796&amp;topic_name=%E8%A6%81%E9%92%B1%E4%B8%8D%E6%88%90%E5%8F%8D%E8%AF%AC%E5%91%8A%2C%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8A%93",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "女子当街被殴打扒裤 当地回应",
+          "url": "https://www.toutiao.com/trending/7680539410848563762/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "印度16岁少女被骗上大巴遭轮奸",
+          "url": "https://www.toutiao.com/trending/7680433820001075254/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "女子流产4次找不到病因 结果崩溃",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B5%81%E4%BA%A74%E6%AC%A1%E6%89%BE%E4%B8%8D%E5%88%B0%E7%97%85%E5%9B%A0+%E7%BB%93%E6%9E%9C%E5%B4%A9%E6%BA%83",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "2026 暑期档票房 124.98 亿，创影史最高场次纪录，《功夫女足》夺冠，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/2078049623604719716",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "女子携儿子闺蜜出游 酒后跳河失联",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%90%BA%E5%84%BF%E5%AD%90%E9%97%BA%E8%9C%9C%E5%87%BA%E6%B8%B8+%E9%85%92%E5%90%8E%E8%B7%B3%E6%B2%B3%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "诈骗赃款转女友,苦主追讨无门",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361617&amp;topic_name=%E8%AF%88%E9%AA%97%E8%B5%83%E6%AC%BE%E8%BD%AC%E5%A5%B3%E5%8F%8B%2C%E8%8B%A6%E4%B8%BB%E8%BF%BD%E8%AE%A8%E6%97%A0%E9%97%A8",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "父亲绳吊3岁女儿下桥救狗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361571&amp;topic_name=%E7%88%B6%E4%BA%B2%E7%BB%B3%E5%90%8A3%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%8B%E6%A1%A5%E6%95%91%E7%8B%97",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "可可里小姐闭店 女装退货率",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%AF%E5%8F%AF%E9%87%8C%E5%B0%8F%E5%A7%90%E9%97%AD%E5%BA%97%20%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "杭州电梯事件女方公司被扒",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E7%94%B5%E6%A2%AF%E4%BA%8B%E4%BB%B6%E5%A5%B3%E6%96%B9%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%89%92&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "女子赢2600万后质疑律师费过高",
+          "url": "https://www.toutiao.com/trending/7680121832695939135/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
+        },
+        {
+          "title": "误扔东西拒道歉,女子倒打一耙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361448&amp;topic_name=%E8%AF%AF%E6%89%94%E4%B8%9C%E8%A5%BF%E6%8B%92%E9%81%93%E6%AD%89%2C%E5%A5%B3%E5%AD%90%E5%80%92%E6%89%93%E4%B8%80%E8%80%99",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时42分]"
         },
         {
           "title": "官方通报女子被踢出 845 个群被迫离职，用人单位已履行判决，事件中暴露的问题该如何有效解决？",
@@ -63,15 +203,15 @@
           "time_info": "01时40分"
         },
         {
-          "title": "要钱不成反诬告,女主播被抓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361796&amp;topic_name=%E8%A6%81%E9%92%B1%E4%B8%8D%E6%88%90%E5%8F%8D%E8%AF%AC%E5%91%8A%2C%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8A%93",
-          "source": "贴吧",
+          "title": "女子反复流产竟是体内镉金属超标",
+          "url": "https://www.toutiao.com/trending/7680186376538030099/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "04时42分"
         },
         {
           "title": "女性内衣加抗癌药紫杉醇成分引争议",
@@ -79,39 +219,6 @@
           "source": "微博",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "女子当街被殴打扒裤 当地回应",
-          "url": "https://www.toutiao.com/trending/7680539410848563762/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "印度16岁少女被骗上大巴遭轮奸",
-          "url": "https://www.toutiao.com/trending/7680433820001075254/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "女子流产4次找不到病因 结果崩溃",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B5%81%E4%BA%A74%E6%AC%A1%E6%89%BE%E4%B8%8D%E5%88%B0%E7%97%85%E5%9B%A0+%E7%BB%93%E6%9E%9C%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,50 +236,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "2026 暑期档票房 124.98 亿，创影史最高场次纪录，《功夫女足》夺冠，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2078049623604719716",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "女子携儿子闺蜜出游 酒后跳河失联",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%90%BA%E5%84%BF%E5%AD%90%E9%97%BA%E8%9C%9C%E5%87%BA%E6%B8%B8+%E9%85%92%E5%90%8E%E8%B7%B3%E6%B2%B3%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "诈骗赃款转女友,苦主追讨无门",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361617&amp;topic_name=%E8%AF%88%E9%AA%97%E8%B5%83%E6%AC%BE%E8%BD%AC%E5%A5%B3%E5%8F%8B%2C%E8%8B%A6%E4%B8%BB%E8%BF%BD%E8%AE%A8%E6%97%A0%E9%97%A8",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "父亲绳吊3岁女儿下桥救狗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361571&amp;topic_name=%E7%88%B6%E4%BA%B2%E7%BB%B3%E5%90%8A3%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%8B%E6%A1%A5%E6%95%91%E7%8B%97",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
           "title": "女装半片毛衣卖128元",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E5%8D%8A%E7%89%87%E6%AF%9B%E8%A1%A3%E5%8D%96128%E5%85%83%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -184,48 +247,37 @@
           "time_info": "01时40分"
         },
         {
-          "title": "可可里小姐闭店 女装退货率",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%AF%E5%8F%AF%E9%87%8C%E5%B0%8F%E5%A7%90%E9%97%AD%E5%BA%97%20%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "俄罗斯总统普京：（关于乌克兰冲突）特朗普女婿库什纳和美国总统特使威特科夫是受欢迎的嘉宾。",
+          "url": "https://flash.jin10.com/detail/20260902041001651800",
+          "source": "金十数据",
           "ranks": [
-            23
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "04时42分"
         },
         {
-          "title": "杭州电梯事件女方公司被扒",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E7%94%B5%E6%A2%AF%E4%BA%8B%E4%BB%B6%E5%A5%B3%E6%96%B9%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%89%92&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "女孩起夜如厕误把电视柜当马桶坐塌",
+          "url": "https://www.toutiao.com/trending/7680139506997002278/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "04时42分"
         },
         {
-          "title": "女子赢2600万后质疑律师费过高",
-          "url": "https://www.toutiao.com/trending/7680121832695939135/",
-          "source": "今日头条",
+          "title": "36岁女子求职被HR脑补有孩子",
+          "url": "https://s.weibo.com/weibo?q=%2336%E5%B2%81%E5%A5%B3%E5%AD%90%E6%B1%82%E8%81%8C%E8%A2%ABHR%E8%84%91%E8%A1%A5%E6%9C%89%E5%AD%A9%E5%AD%90%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "误扔东西拒道歉,女子倒打一耙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361448&amp;topic_name=%E8%AF%AF%E6%89%94%E4%B8%9C%E8%A5%BF%E6%8B%92%E9%81%93%E6%AD%89%2C%E5%A5%B3%E5%AD%90%E5%80%92%E6%89%93%E4%B8%80%E8%80%99",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "04时42分"
         }
       ]
     }
