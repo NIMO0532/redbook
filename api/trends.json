@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T15:25:54.648184+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-09-01T21:12:43.715974+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
         {
           "title": "评论｜错失奥运门票，中国女排需要找准自己的路",
@@ -26,33 +26,35 @@
           "ranks": [
             3,
             2,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 15时25分]"
-        },
-        {
-          "title": "要钱不成反诬告,女主播被抓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361796&amp;topic_name=%E8%A6%81%E9%92%B1%E4%B8%8D%E6%88%90%E5%8F%8D%E8%AF%AC%E5%91%8A%2C%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8A%93",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 21时12分]"
         },
         {
           "title": "官方通报女子被踢出 845 个群被迫离职，用人单位已履行判决，事件中暴露的问题该如何有效解决？",
           "url": "https://www.zhihu.com/question/2078050476826649392",
           "source": "知乎",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 21时12分]"
+        },
+        {
+          "title": "误认游戏机,女友暴怒砸家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361822&amp;topic_name=%E8%AF%AF%E8%AE%A4%E6%B8%B8%E6%88%8F%E6%9C%BA%2C%E5%A5%B3%E5%8F%8B%E6%9A%B4%E6%80%92%E7%A0%B8%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "21时12分"
         },
         {
           "title": "父亲绳吊3岁女儿下桥救狗",
@@ -60,11 +62,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 21时12分]"
         },
         {
           "title": "误扔东西拒道歉,女子倒打一耙",
@@ -72,11 +75,24 @@
           "source": "贴吧",
           "ranks": [
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 21时12分]"
+        },
+        {
+          "title": "要钱不成反诬告,女主播被抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361796&amp;topic_name=%E8%A6%81%E9%92%B1%E4%B8%8D%E6%88%90%E5%8F%8D%E8%AF%AC%E5%91%8A%2C%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8A%93",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 21时12分]"
         },
         {
           "title": "孙女送纸壳祝寿,老人懵了",
@@ -163,6 +179,30 @@
           "time_info": "[09时02分 ~ 15时25分]"
         },
         {
+          "title": "女子遭职场“冷板凳”被迫离职，官方通报：将督促企业维护劳动者合法权益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33979995",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 21时12分]"
+        },
+        {
+          "title": "2026 暑期档票房 124.98 亿，创影史最高场次纪录，《功夫女足》夺冠，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/2078049623604719716",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 21时12分]"
+        },
+        {
           "title": "回到紧身裤烟熏妆时代女生版",
           "url": "https://www.douyin.com/hot/2630182",
           "source": "抖音",
@@ -203,9 +243,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "全校第一个生娃的00后清华女大",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%9F%E5%A8%83%E7%9A%8400%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%A4%A7%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "胡军给陈丽君当助理处得像父女",
@@ -225,7 +276,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -247,9 +298,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "印度16岁少女被骗上大巴遭轮奸",
+          "url": "https://www.toutiao.com/trending/7680433820001075254/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "官方通报女子被踢845个群被迫离职",
@@ -269,18 +331,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "2026 暑期档票房 124.98 亿，创影史最高场次纪录，《功夫女足》夺冠，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2078049623604719716",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -313,20 +364,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
         {
-          "title": "女子遭职场“冷板凳”被迫离职，官方通报：将督促企业维护劳动者合法权益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33979995",
-          "source": "澎湃新闻",
+          "title": "女子赢2600万后质疑律师费过高",
+          "url": "https://www.toutiao.com/trending/7680121832695939135/",
+          "source": "今日头条",
           "ranks": [
-            18
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "21时12分"
         },
         {
           "title": "16岁女孩车祸离世母亲恳求归还手机",
@@ -346,9 +397,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "可可里小姐闭店 女装退货率",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%AF%E5%8F%AF%E9%87%8C%E5%B0%8F%E5%A7%90%E9%97%AD%E5%BA%97%20%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "女孩起夜如厕误把电视柜当马桶坐塌",
@@ -357,9 +419,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "女生天生异瞳曾遭嘲讽 发视频被称赞",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%A9%E7%94%9F%E5%BC%82%E7%9E%B3%E6%9B%BE%E9%81%AD%E5%98%B2%E8%AE%BD+%E5%8F%91%E8%A7%86%E9%A2%91%E8%A2%AB%E7%A7%B0%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "女生自学手搓AI历史短剧播放破亿",
@@ -368,7 +441,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -379,7 +452,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -401,9 +474,31 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "32岁女子反复流产查出体内镉超标",
+          "url": "https://s.weibo.com/weibo?q=%2332%E5%B2%81%E5%A5%B3%E5%AD%90%E5%8F%8D%E5%A4%8D%E6%B5%81%E4%BA%A7%E6%9F%A5%E5%87%BA%E4%BD%93%E5%86%85%E9%95%89%E8%B6%85%E6%A0%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "奶奶送小孙女到自己的母校上学",
+          "url": "https://www.toutiao.com/trending/7679551401617326090/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     }
