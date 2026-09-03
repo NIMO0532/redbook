@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T11:28:00.423957+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-09-03T16:40:13.230432+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "擦边mod引吃醋,女友闹分手",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 16时40分]"
         },
         {
           "title": "男子盘手串包浆后被妻子用刷子搓净，玩家集体破防，到底什么是包浆？女子洗掉的到底是包浆还是油泥？",
@@ -45,6 +46,45 @@
           "time_info": "[01时41分 ~ 11时28分]"
         },
         {
+          "title": "女公关被揩油,意外查出癌症",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361932&amp;topic_name=%E5%A5%B3%E5%85%AC%E5%85%B3%E8%A2%AB%E6%8F%A9%E6%B2%B9%2C%E6%84%8F%E5%A4%96%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 16时40分]"
+        },
+        {
+          "title": "孙女偷自家财物,被判6个月",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361888&amp;topic_name=%E5%AD%99%E5%A5%B3%E5%81%B7%E8%87%AA%E5%AE%B6%E8%B4%A2%E7%89%A9%2C%E8%A2%AB%E5%88%A46%E4%B8%AA%E6%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 16时40分]"
+        },
+        {
+          "title": "误认游戏机,女友暴怒砸家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361822&amp;topic_name=%E8%AF%AF%E8%AE%A4%E6%B8%B8%E6%88%8F%E6%9C%BA%2C%E5%A5%B3%E5%8F%8B%E6%9A%B4%E6%80%92%E7%A0%B8%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 16时40分]"
+        },
+        {
           "title": "李月汝因遗失护照落选女篮大名单",
           "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%9C%88%E6%B1%9D%E5%9B%A0%E9%81%97%E5%A4%B1%E6%8A%A4%E7%85%A7%E8%90%BD%E9%80%89%E5%A5%B3%E7%AF%AE%E5%A4%A7%E5%90%8D%E5%8D%95",
           "source": "百度热搜",
@@ -56,16 +96,16 @@
           "time_info": "[01时41分 ~ 07时04分]"
         },
         {
-          "title": "女公关被揩油,意外查出癌症",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361932&amp;topic_name=%E5%A5%B3%E5%85%AC%E5%85%B3%E8%A2%AB%E6%8F%A9%E6%B2%B9%2C%E6%84%8F%E5%A4%96%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87",
-          "source": "贴吧",
+          "title": "解读｜中国女留学生在韩遇害：韩国警方为何选择公开嫌犯信息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33995743",
+          "source": "澎湃新闻",
           "ranks": [
             10,
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时41分 ~ 11时28分]"
+          "time_info": "[11时27分 ~ 16时40分]"
         },
         {
           "title": "女子喝冰冻可乐瞬间满嘴血",
@@ -81,16 +121,15 @@
           "time_info": "[01时41分 ~ 07时04分]"
         },
         {
-          "title": "孙女偷自家财物,被判6个月",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361888&amp;topic_name=%E5%AD%99%E5%A5%B3%E5%81%B7%E8%87%AA%E5%AE%B6%E8%B4%A2%E7%89%A9%2C%E8%A2%AB%E5%88%A46%E4%B8%AA%E6%9C%88",
-          "source": "贴吧",
+          "title": "女孩办幼升小升学宴系谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%8A%9E%E5%B9%BC%E5%8D%87%E5%B0%8F%E5%8D%87%E5%AD%A6%E5%AE%B4%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时41分 ~ 11时28分]"
+          "time_info": "[11时27分 ~ 16时40分]"
         },
         {
           "title": "女生带马到武汉上大学",
@@ -104,18 +143,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 07时04分]"
-        },
-        {
-          "title": "误认游戏机,女友暴怒砸家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361822&amp;topic_name=%E8%AF%AF%E8%AE%A4%E6%B8%B8%E6%88%8F%E6%9C%BA%2C%E5%A5%B3%E5%8F%8B%E6%9A%B4%E6%80%92%E7%A0%B8%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 11时28分]"
         },
         {
           "title": "女生接男友退伍反被惊喜求婚",
@@ -165,26 +192,15 @@
           "time_info": "[01时41分 ~ 07时04分]"
         },
         {
-          "title": "解读｜中国女留学生在韩遇害：韩国警方为何选择公开嫌犯信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33995743",
-          "source": "澎湃新闻",
+          "title": "16岁高中女生握力超强令人惊叹",
+          "url": "https://www.toutiao.com/trending/7680946586067386378/",
+          "source": "今日头条",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
-        },
-        {
-          "title": "女孩办幼升小升学宴系谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%8A%9E%E5%B9%BC%E5%8D%87%E5%B0%8F%E5%8D%87%E5%AD%A6%E5%AE%B4%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
+          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "杀害中国女生嫌犯供述作案过程",
@@ -221,6 +237,17 @@
           "time_info": "[11时27分 ~ 11时28分]"
         },
         {
+          "title": "中国女篮为何会输法国队29分",
+          "url": "https://www.toutiao.com/trending/7681134096407413286/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
           "title": "女子面试董助被要求花4万做医美",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A2%E8%AF%95%E8%91%A3%E5%8A%A9%E8%A2%AB%E8%A6%81%E6%B1%82%E8%8A%B14%E4%B8%87%E5%81%9A%E5%8C%BB%E7%BE%8E",
           "source": "百度热搜",
@@ -243,15 +270,48 @@
           "time_info": "[11时27分 ~ 11时28分]"
         },
         {
+          "title": "女子刷手机后退连人带椅摔下台阶",
+          "url": "https://www.toutiao.com/trending/7680381814217195556/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
+          "title": "中国女篮官宣女篮世界杯 12 人名单，李月汝因护照意外遗失无法出战，对女篮本次赛事安排和她本人有何影响？",
+          "url": "https://www.zhihu.com/question/2078630136119874202",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "中国女篮世界杯名单出炉",
           "url": "https://www.douyin.com/hot/2633540",
           "source": "抖音",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "“女孩办幼升小升学宴”系谣言",
+          "url": "https://www.douyin.com/hot/2633251",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "女子发生性关系后称遭强奸勒索19.5万",
@@ -260,7 +320,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -274,6 +334,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "41岁送女出嫁父亲回应早育",
+          "url": "https://s.weibo.com/weibo?q=%2341%E5%B2%81%E9%80%81%E5%A5%B3%E5%87%BA%E5%AB%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E6%97%A9%E8%82%B2%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "251斤女生减重121斤判若两人",
+          "url": "https://s.weibo.com/weibo?q=%23251%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E9%87%8D121%E6%96%A4%E5%88%A4%E8%8B%A5%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "为何我国将13周岁女孩作为HPV疫苗接种目标人群？专家解析",
+          "url": "https://wallstreetcn.com/livenews/3159792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "女子喝冰冻可乐瞬间满嘴血",
