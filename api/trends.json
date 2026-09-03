@@ -1,44 +1,47 @@
 {
-  "generated_at": "2026-09-04T01:36:39.858702+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-04T04:39:55.336184+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
-          "title": "你觉得中国女篮李月汝「护照遗失」的理由成立吗，因公护照和个人护照补办的流程差在哪里，真的完全来不及吗？",
-          "url": "https://www.zhihu.com/question/2078792215732512237",
+          "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看？",
+          "url": "https://www.zhihu.com/question/2077910656204927732",
           "source": "知乎",
           "ranks": [
-            4
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
           "title": "解读｜中国女留学生在韩遇害：韩国警方为何选择公开嫌犯信息",
           "url": "https://m.thepaper.cn/newsDetail_forward_33995743",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
-          "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看？",
-          "url": "https://www.zhihu.com/question/2077910656204927732",
+          "title": "你觉得中国女篮李月汝「护照遗失」的理由成立吗，因公护照和个人护照补办的流程差在哪里，真的完全来不及吗？",
+          "url": "https://www.zhihu.com/question/2078792215732512237",
           "source": "知乎",
           "ranks": [
-            9
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
           "title": "擦边mod引吃醋,女友闹分手",
@@ -48,30 +51,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
           "title": "香港演员刘兆铭去世，曾在《倩女幽魂》中饰演树妖姥姥，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
           "url": "https://www.zhihu.com/question/2078679838966151040",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
           "title": "女子花11万请人收纳屋子称很值得",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B111%E4%B8%87%E8%AF%B7%E4%BA%BA%E6%94%B6%E7%BA%B3%E5%B1%8B%E5%AD%90%E7%A7%B0%E5%BE%88%E5%80%BC%E5%BE%97",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
           "title": "女公关被揩油,意外查出癌症",
@@ -81,8 +86,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
           "title": "孙女偷自家财物,被判6个月",
@@ -92,19 +97,53 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
         },
         {
           "title": "上海女子住300平大平层花11万收纳",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%90%E4%BD%8F300%E5%B9%B3%E5%A4%A7%E5%B9%B3%E5%B1%82%E8%8A%B111%E4%B8%87%E6%94%B6%E7%BA%B3%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 04时39分]"
+        },
+        {
+          "title": "美网女单第二轮",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%A5%B3%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时36分"
+          "time_info": "04时39分"
+        },
+        {
+          "title": "《倩女幽魂》“姥姥”刘兆铭去世",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82%E3%80%8B%E2%80%9C%E5%A7%A5%E5%A7%A5%E2%80%9D%E5%88%98%E5%85%86%E9%93%AD%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "中国女篮世界杯名单出炉",
+          "url": "https://www.douyin.com/hot/2633540",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     }
