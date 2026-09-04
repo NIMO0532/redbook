@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-09-04T11:26:00.680633+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-09-04T16:34:43.653762+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "女高音歌唱家龚爽去世 年仅37岁",
+          "url": "https://www.toutiao.com/trending/7681524856717839913/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "女装老店疑因仅退款被迫停业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "女高音歌唱家龚爽因病离世 年仅37岁",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E9%9F%B3%E6%AD%8C%E5%94%B1%E5%AE%B6%E9%BE%9A%E7%88%BD%E5%9B%A0%E7%97%85%E7%A6%BB%E4%B8%96+%E5%B9%B4%E4%BB%8537%E5%B2%81",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "女留命案嫌犯自曝作案动机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
         {
           "title": "妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%AE%E7%86%9F%E8%91%A1%E8%90%84%E5%A5%B3%E5%84%BF%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%B9%8C%E9%B9%91%E8%9B%8B%23&t=31&band_rank=5&Refer=top",
@@ -14,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -31,6 +75,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 11时26分]"
+        },
+        {
+          "title": "擦边mod引吃醋,女友闹分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362074&amp;topic_name=%E6%93%A6%E8%BE%B9mod%E5%BC%95%E5%90%83%E9%86%8B%2C%E5%A5%B3%E5%8F%8B%E9%97%B9%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 16时34分]"
+        },
+        {
+          "title": "女篮世界杯中国vs美国",
+          "url": "https://www.douyin.com/hot/2634859",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 16时34分]"
         },
         {
           "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看？",
@@ -70,18 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 07时02分]"
-        },
-        {
-          "title": "擦边mod引吃醋,女友闹分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362074&amp;topic_name=%E6%93%A6%E8%BE%B9mod%E5%BC%95%E5%90%83%E9%86%8B%2C%E5%A5%B3%E5%8F%8B%E9%97%B9%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 11时26分]"
         },
         {
           "title": "女公关被揩油,意外查出癌症",
@@ -168,15 +225,27 @@
           "time_info": "[01时36分 ~ 04时39分]"
         },
         {
-          "title": "女篮世界杯中国vs美国",
-          "url": "https://www.douyin.com/hot/2634859",
+          "title": "孕5月女子肛门剧痛未就医不幸流产",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%955%E6%9C%88%E5%A5%B3%E5%AD%90%E8%82%9B%E9%97%A8%E5%89%A7%E7%97%9B%E6%9C%AA%E5%B0%B1%E5%8C%BB%E4%B8%8D%E5%B9%B8%E6%B5%81%E4%BA%A7%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 16时34分]"
+        },
+        {
+          "title": "女高音歌唱家龚爽去世",
+          "url": "https://www.douyin.com/hot/2635043",
           "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "16时34分"
         },
         {
           "title": "韩警方认定遇害女生与嫌犯曾是恋人",
@@ -185,7 +254,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -196,9 +265,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "女留学生被杀，凶手作案动机初步披露，系被害人要公开二人关系，凶手担心失去教职，还有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2079153698018522057",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "2026 暑期档交出超 124 亿票房成绩单，《功夫女足》拿下票房冠军，如何评价今年暑期档整体表现？",
@@ -207,7 +287,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -223,15 +303,32 @@
           "time_info": "04时39分"
         },
         {
-          "title": "孕5月女子肛门剧痛未就医不幸流产",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%955%E6%9C%88%E5%A5%B3%E5%AD%90%E8%82%9B%E9%97%A8%E5%89%A7%E7%97%9B%E6%9C%AA%E5%B0%B1%E5%8C%BB%E4%B8%8D%E5%B9%B8%E6%B5%81%E4%BA%A7%23&t=31&band_rank=23&Refer=top",
+          "title": "女子回应不抽烟不熬夜确诊肺癌晚期",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8A%BD%E7%83%9F%E4%B8%8D%E7%86%AC%E5%A4%9C%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "16时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "肤色不够正确,尖塔皮肤遭举报",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362324&amp;topic_name=%E8%82%A4%E8%89%B2%E4%B8%8D%E5%A4%9F%E6%AD%A3%E7%A1%AE%2C%E5%B0%96%E5%A1%94%E7%9A%AE%E8%82%A4%E9%81%AD%E4%B8%BE%E6%8A%A5",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -246,7 +343,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
