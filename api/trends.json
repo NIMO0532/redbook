@@ -1,312 +1,110 @@
 {
-  "generated_at": "2026-09-04T21:14:22.038482+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-09-05T01:25:44.573158+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "中国女篮不敌美国女篮",
+          "url": "https://www.toutiao.com/trending/7681646221273943578/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "女篮世界杯中国61:94美国",
+          "url": "https://www.douyin.com/hot/2634859",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "中国女篮失误次数是美国女篮两倍多",
+          "url": "https://www.toutiao.com/trending/7681676937646932531/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
         {
           "title": "女装老店疑因仅退款被迫停业",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
           "source": "贴吧",
           "ranks": [
-            2,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 21时14分]"
-        },
-        {
-          "title": "女篮世界杯中国vs美国",
-          "url": "https://www.douyin.com/hot/2634859",
-          "source": "抖音",
-          "ranks": [
-            7,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "女留命案嫌犯自曝作案动机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 21时14分]"
-        },
-        {
-          "title": "女篮世界杯中国vs美国",
-          "url": "https://www.toutiao.com/trending/7681646221273943578/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "擦边mod引吃醋,女友闹分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362074&amp;topic_name=%E6%93%A6%E8%BE%B9mod%E5%BC%95%E5%90%83%E9%86%8B%2C%E5%A5%B3%E5%8F%8B%E9%97%B9%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 21时14分]"
-        },
-        {
-          "title": "女高音歌唱家龚爽因病离世 年仅37岁",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E9%9F%B3%E6%AD%8C%E5%94%B1%E5%AE%B6%E9%BE%9A%E7%88%BD%E5%9B%A0%E7%97%85%E7%A6%BB%E4%B8%96+%E5%B9%B4%E4%BB%8537%E5%B2%81",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%AE%E7%86%9F%E8%91%A1%E8%90%84%E5%A5%B3%E5%84%BF%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%B9%8C%E9%B9%91%E8%9B%8B%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "01时25分"
         },
         {
-          "title": "女子花11万请人收纳屋子称很值得",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B111%E4%B8%87%E8%AF%B7%E4%BA%BA%E6%94%B6%E7%BA%B3%E5%B1%8B%E5%AD%90%E7%A7%B0%E5%BE%88%E5%80%BC%E5%BE%97",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            24,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 11时26分]"
-        },
-        {
-          "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看？",
-          "url": "https://www.zhihu.com/question/2077910656204927732",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 07时02分]"
-        },
-        {
-          "title": "解读｜中国女留学生在韩遇害：韩国警方为何选择公开嫌犯信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33995743",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 07时02分]"
-        },
-        {
-          "title": "你觉得中国女篮李月汝「护照遗失」的理由成立吗，因公护照和个人护照补办的流程差在哪里，真的完全来不及吗？",
-          "url": "https://www.zhihu.com/question/2078792215732512237",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 07时02分]"
-        },
-        {
-          "title": "女高音歌唱家龚爽去世 年仅37岁",
-          "url": "https://www.toutiao.com/trending/7681524856717839913/",
+          "title": "男子与前女友纠纷被其现男友等打死",
+          "url": "https://www.toutiao.com/trending/7681587417723633705/",
           "source": "今日头条",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 21时14分]"
-        },
-        {
-          "title": "女公关被揩油,意外查出癌症",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361932&amp;topic_name=%E5%A5%B3%E5%85%AC%E5%85%B3%E8%A2%AB%E6%8F%A9%E6%B2%B9%2C%E6%84%8F%E5%A4%96%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 11时26分]"
-        },
-        {
-          "title": "孙女偷自家财物,被判6个月",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361888&amp;topic_name=%E5%AD%99%E5%A5%B3%E5%81%B7%E8%87%AA%E5%AE%B6%E8%B4%A2%E7%89%A9%2C%E8%A2%AB%E5%88%A46%E4%B8%AA%E6%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 11时26分]"
-        },
-        {
-          "title": "上海女子住300平大平层花11万收纳",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%90%E4%BD%8F300%E5%B9%B3%E5%A4%A7%E5%B9%B3%E5%B1%82%E8%8A%B111%E4%B8%87%E6%94%B6%E7%BA%B3%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 07时02分]"
-        },
-        {
-          "title": "美网女单第二轮",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%A5%B3%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 07时02分]"
-        },
-        {
-          "title": "67岁女子勒死出轨丈夫被判无期",
-          "url": "https://www.toutiao.com/trending/7681280761727860755/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "《倩女幽魂》“姥姥”刘兆铭去世",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82%E3%80%8B%E2%80%9C%E5%A7%A5%E5%A7%A5%E2%80%9D%E5%88%98%E5%85%86%E9%93%AD%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 07时02分]"
-        },
-        {
-          "title": "香港演员刘兆铭去世，曾在《倩女幽魂》中饰演树妖姥姥，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
-          "url": "https://www.zhihu.com/question/2078679838966151040",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 04时39分]"
-        },
-        {
-          "title": "女留学生被杀，凶手作案动机初步披露，系被害人要公开二人关系，凶手担心失去教职，还有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2079153698018522057",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 21时14分]"
-        },
-        {
-          "title": "孕5月女子肛门剧痛未就医不幸流产",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%955%E6%9C%88%E5%A5%B3%E5%AD%90%E8%82%9B%E9%97%A8%E5%89%A7%E7%97%9B%E6%9C%AA%E5%B0%B1%E5%8C%BB%E4%B8%8D%E5%B9%B8%E6%B5%81%E4%BA%A7%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 16时34分]"
-        },
-        {
-          "title": "女高音歌唱家龚爽去世",
-          "url": "https://www.douyin.com/hot/2635043",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "陪看中国女篮迎战美国女篮",
-          "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%BF%8E%E6%88%98%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "韩警方认定遇害女生与嫌犯曾是恋人",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E8%AE%A4%E5%AE%9A%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E4%B8%8E%E5%AB%8C%E7%8A%AF%E6%9B%BE%E6%98%AF%E6%81%8B%E4%BA%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "01时25分"
         },
         {
-          "title": "女生在韩遇害嫌疑人自曝作案动机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%AB%8C%E7%96%91%E4%BA%BA%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "2026 女篮世界杯小组赛，中国女篮 61-94 不敌美国女篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2079140562767295956",
+          "source": "知乎",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "01时25分"
+        },
+        {
+          "title": "中国女篮61比94美国女篮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "41岁李念和14岁女儿跳舞",
+          "url": "https://www.toutiao.com/trending/7681301043893174315/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "武大女教授被举报事件男方系安徽大学副校长，安徽大学回应",
@@ -315,86 +113,75 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "01时25分"
         },
         {
-          "title": "2026 暑期档交出超 124 亿票房成绩单，《功夫女足》拿下票房冠军，如何评价今年暑期档整体表现？",
-          "url": "https://www.zhihu.com/question/2077722960719365746",
+          "title": "女留学生被杀，凶手作案动机初步披露，系被害人要公开二人关系，凶手担心失去教职，还有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2079153698018522057",
           "source": "知乎",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "01时25分"
         },
         {
-          "title": "在寿司郎给孩子接小便女子已道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%AF%BF%E5%8F%B8%E9%83%8E%E7%BB%99%E5%AD%A9%E5%AD%90%E6%8E%A5%E5%B0%8F%E4%BE%BF%E5%A5%B3%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "男子与前女友纠纷被其现男友等压死",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%BA%A0%E7%BA%B7%E8%A2%AB%E5%85%B6%E7%8E%B0%E7%94%B7%E5%8F%8B%E7%AD%89%E5%8E%8B%E6%AD%BB",
+          "source": "百度热搜",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "日本女篮102-97险胜马里",
-          "url": "https://www.toutiao.com/trending/7681462354719277106/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "中国女篮世界杯名单出炉",
-          "url": "https://www.douyin.com/hot/2633540",
-          "source": "抖音",
-          "ranks": [
-            22
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "01时25分"
         },
         {
           "title": "女生眼里进虫直接用手扒拉出来",
           "url": "https://www.toutiao.com/trending/7681531301388173318/",
           "source": "今日头条",
           "ranks": [
-            23
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "01时25分"
         },
         {
-          "title": "41岁李念和14岁女儿跳舞",
-          "url": "https://www.toutiao.com/trending/7681301043893174315/",
-          "source": "今日头条",
+          "title": "女子家中发现眼镜蛇徒手打包转移",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%9C%BC%E9%95%9C%E8%9B%87%E5%BE%92%E6%89%8B%E6%89%93%E5%8C%85%E8%BD%AC%E7%A7%BB",
+          "source": "百度热搜",
           "ranks": [
-            29
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "01时25分"
         },
         {
-          "title": "女子回应不抽烟不熬夜确诊肺癌晚期",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8A%BD%E7%83%9F%E4%B8%8D%E7%86%AC%E5%A4%9C%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "27岁网约车司机心梗去世留下俩女儿",
+          "url": "https://www.toutiao.com/trending/7681538743146971182/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "01时25分"
+        },
+        {
+          "title": "擦边mod引吃醋,女友闹分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362074&amp;topic_name=%E6%93%A6%E8%BE%B9mod%E5%BC%95%E5%90%83%E9%86%8B%2C%E5%A5%B3%E5%8F%8B%E9%97%B9%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     },
@@ -407,29 +194,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362324&amp;topic_name=%E8%82%A4%E8%89%B2%E4%B8%8D%E5%A4%9F%E6%AD%A3%E7%A1%AE%2C%E5%B0%96%E5%A1%94%E7%9A%AE%E8%82%A4%E9%81%AD%E4%B8%BE%E6%8A%A5",
           "source": "贴吧",
           "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 21时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "审美",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国审美失去下颌角已经很久了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AE%A1%E7%BE%8E%E5%A4%B1%E5%8E%BB%E4%B8%8B%E9%A2%8C%E8%A7%92%E5%B7%B2%E7%BB%8F%E5%BE%88%E4%B9%85%E4%BA%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "01时25分"
         }
       ]
     }
