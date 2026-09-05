@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T04:58:52.722009+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-09-06T06:47:35.262878+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
         },
         {
           "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
         },
         {
           "title": "女子40万租房2年退租被要求换新家具",
@@ -36,11 +36,12 @@
           "ranks": [
             22,
             15,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
         },
         {
           "title": "女子40万租房2年退租被要求换新家具",
@@ -52,8 +53,94 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "女子吃避孕药后久坐旅游患肺栓塞",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E5%90%8E%E4%B9%85%E5%9D%90%E6%97%85%E6%B8%B8%E6%82%A3%E8%82%BA%E6%A0%93%E5%A1%9E",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "张学友大女儿近照曝光",
+          "url": "https://www.toutiao.com/trending/7681711900145106985/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "万字拆解DC电影超级少女",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "二游反攻日本,企鹅女管出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "女装老店疑因仅退款被迫停业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "女留命案嫌犯自曝作案动机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "父亲送女儿到郑州上大学直呼高大上",
+          "url": "https://www.toutiao.com/trending/7681838012955197449/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "time_info": "[00时36分 ~ 06时47分]"
         },
         {
           "title": "正颌手术被做反女孩：已达成和解",
@@ -69,75 +156,41 @@
           "time_info": "[00时36分 ~ 04时58分]"
         },
         {
-          "title": "张学友大女儿近照曝光",
-          "url": "https://www.toutiao.com/trending/7681711900145106985/",
+          "title": "离异男子带3个孩子 大女儿确诊白血病",
+          "url": "https://www.toutiao.com/trending/7681942240712982574/",
           "source": "今日头条",
           "ranks": [
-            11,
-            13
+            19,
+            27,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "time_info": "[02时50分 ~ 06时47分]"
         },
         {
-          "title": "万字拆解DC电影超级少女",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
+          "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
+          "url": "https://flash.jin10.com/detail/20260906040447398800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            13,
-            22
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时47分]"
         },
         {
-          "title": "女子吃避孕药后久坐旅游患肺栓塞",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E5%90%8E%E4%B9%85%E5%9D%90%E6%97%85%E6%B8%B8%E6%82%A3%E8%82%BA%E6%A0%93%E5%A1%9E",
-          "source": "百度热搜",
+          "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
+          "url": "https://www.zhihu.com/question/2077943776237114404",
+          "source": "知乎",
           "ranks": [
-            17,
-            15,
-            18
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
-          "title": "二游反攻日本,企鹅女管出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
-          "title": "女装老店疑因仅退款被迫停业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
-          "title": "女留命案嫌犯自曝作案动机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时47分]"
         },
         {
           "title": "女子突发“文盲”丧失识字能力",
@@ -152,50 +205,15 @@
           "time_info": "[00时36分 ~ 02时50分]"
         },
         {
-          "title": "离异男子带3个孩子 大女儿确诊白血病",
-          "url": "https://www.toutiao.com/trending/7681942240712982574/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 04时58分]"
-        },
-        {
-          "title": "父亲送女儿到郑州上大学直呼高大上",
-          "url": "https://www.toutiao.com/trending/7681838012955197449/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
-          "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
-          "url": "https://flash.jin10.com/detail/20260906040447398800",
+          "title": "据塔斯社：美国总统特使威特科夫和特朗普女婿库什纳离开莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260906053124724800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
-          "url": "https://www.zhihu.com/question/2077943776237114404",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "06时47分"
         },
         {
           "title": "为什么希腊神话中赫拉是婚姻女神但是自己的婚姻却如此不幸？",
@@ -204,7 +222,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -240,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "乌议员：女性大规模服役只是时间问题",
+          "url": "https://www.toutiao.com/trending/7681842501988385326/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     }
