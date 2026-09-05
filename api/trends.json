@@ -1,601 +1,187 @@
 {
-  "generated_at": "2026-09-05T21:43:29.257170+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-09-06T00:36:49.312428+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 46,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "女装老店疑因仅退款被迫停业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            12,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 21时43分]"
-        },
-        {
-          "title": "女留命案嫌犯自曝作案动机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            14,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 21时43分]"
-        },
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
           "url": "https://original.ifeng.com/c/8wAjrDeDqv3",
           "source": "凤凰网",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 21时43分]"
-        },
-        {
-          "title": "中国女篮不敌美国女篮",
-          "url": "https://www.toutiao.com/trending/7681646221273943578/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "女篮世界杯中国61:94美国",
-          "url": "https://www.douyin.com/hot/2634859",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "女子吃甜虾后肚子痛 10 多天，肠道发现寄生虫，人们常说海水里的生鲜没有寄生虫靠谱吗？怎样吃才安全？",
-          "url": "https://www.zhihu.com/question/2078660058091729064",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时40分 ~ 18时08分]"
-        },
-        {
-          "title": "中国女篮失误次数是美国女篮两倍多",
-          "url": "https://www.toutiao.com/trending/7681676937646932531/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "女儿40除以5得出62看呆爸妈",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF40%E9%99%A4%E4%BB%A55%E5%BE%97%E5%87%BA62%E7%9C%8B%E5%91%86%E7%88%B8%E5%A6%88&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "男子与前女友纠纷被其现男友等打死",
-          "url": "https://www.toutiao.com/trending/7681587417723633705/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "41岁李念和14岁女儿跳舞",
-          "url": "https://www.toutiao.com/trending/7681301043893174315/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "武大女教授被举报事件男方系安徽大学副校长，安徽大学回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34006979",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "武大女教授被举报，男方现任安大副校长，安大及安徽省教育厅回应正核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34009823",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 18时08分]"
-        },
-        {
-          "title": "2026 女篮世界杯小组赛，中国女篮 61-94 不敌美国女篮，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2079140562767295956",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "中国女篮61比94美国女篮",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时50分]"
-        },
-        {
-          "title": "女留学生被杀，凶手作案动机初步披露，系被害人要公开二人关系，凶手担心失去教职，还有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2079153698018522057",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "男子与前女友纠纷被其现男友等压死",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%BA%A0%E7%BA%B7%E8%A2%AB%E5%85%B6%E7%8E%B0%E7%94%B7%E5%8F%8B%E7%AD%89%E5%8E%8B%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时50分]"
-        },
-        {
-          "title": "擦边mod引吃醋,女友闹分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362074&amp;topic_name=%E6%93%A6%E8%BE%B9mod%E5%BC%95%E5%90%83%E9%86%8B%2C%E5%A5%B3%E5%8F%8B%E9%97%B9%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 08时40分]"
-        },
-        {
-          "title": "父亲送女儿到郑州上大学直呼高大上",
-          "url": "https://www.toutiao.com/trending/7681838012955197449/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 21时43分]"
-        },
-        {
-          "title": "二游反攻日本,企鹅女管出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 21时43分]"
+          "time_info": "00时36分"
         },
         {
           "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
           "url": "https://m.thepaper.cn/newsDetail_forward_34014113",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 21时43分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "27岁网约车司机心梗去世留下俩女儿",
-          "url": "https://www.toutiao.com/trending/7681538743146971182/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 04时26分]"
-        },
-        {
-          "title": "离异男子带3个孩子 大女儿确诊白血病",
-          "url": "https://www.toutiao.com/trending/7681942240712982574/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 21时43分]"
-        },
-        {
-          "title": "女子停捐不到一个月被催捐",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%81%9C%E6%8D%90%E4%B8%8D%E5%88%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%82%AC%E6%8D%90&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 21时43分]"
-        },
-        {
-          "title": "王思雨：美国女篮在身体上有绝对优势",
-          "url": "https://www.toutiao.com/trending/7681697663078744586/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
-          "title": "上海到成都被订硬座还打卡女子拒出差",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%88%B0%E6%88%90%E9%83%BD%E8%A2%AB%E8%AE%A2%E7%A1%AC%E5%BA%A7%E8%BF%98%E6%89%93%E5%8D%A1%E5%A5%B3%E5%AD%90%E6%8B%92%E5%87%BA%E5%B7%AE%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 08时40分]"
-        },
-        {
-          "title": "女子怀孕5个多月产下巴掌大宝宝",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%955%E4%B8%AA%E5%A4%9A%E6%9C%88%E4%BA%A7%E4%B8%8B%E5%B7%B4%E6%8E%8C%E5%A4%A7%E5%AE%9D%E5%AE%9D",
+          "title": "女子40万租房2年退租被要求换新家具",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9040%E4%B8%87%E7%A7%9F%E6%88%BF2%E5%B9%B4%E9%80%80%E7%A7%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8D%A2%E6%96%B0%E5%AE%B6%E5%85%B7",
           "source": "百度热搜",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "女子家中发现眼镜蛇徒手打包转移",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%9C%BC%E9%95%9C%E8%9B%87%E5%BE%92%E6%89%8B%E6%89%93%E5%8C%85%E8%BD%AC%E7%A7%BB",
-          "source": "百度热搜",
+          "title": "张学友大女儿近照曝光",
+          "url": "https://www.toutiao.com/trending/7681711900145106985/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            14
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 08时40分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "女子突发“文盲”丧失识字能力",
+          "url": "https://www.toutiao.com/trending/7681878867938181171/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "二游反攻日本,企鹅女管出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "女子吃避孕药后久坐旅游患肺栓塞",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E5%90%8E%E4%B9%85%E5%9D%90%E6%97%85%E6%B8%B8%E6%82%A3%E8%82%BA%E6%A0%93%E5%A1%9E",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "万字拆解DC电影超级少女",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            16,
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 21时43分]"
-        },
-        {
-          "title": "女子配型救母发现非亲生称将起诉医院",
-          "url": "https://www.toutiao.com/trending/7681857791486329395/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
-          "title": "5岁女童电子病历被标注刁蛮 家长发声",
-          "url": "https://www.baidu.com/s?wd=5%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E8%A2%AB%E6%A0%87%E6%B3%A8%E5%88%81%E8%9B%AE+%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "妈妈震惊女儿发箍标价1490元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%9C%87%E6%83%8A%E5%A5%B3%E5%84%BF%E5%8F%91%E7%AE%8D%E6%A0%87%E4%BB%B71490%E5%85%83%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时50分]"
-        },
-        {
-          "title": "上海女导购“薅”了公司72万余元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AF%BC%E8%B4%AD%E2%80%9C%E8%96%85%E2%80%9D%E4%BA%86%E5%85%AC%E5%8F%B872%E4%B8%87%E4%BD%99%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "女高音歌唱家龚爽去世 年仅37岁",
-          "url": "https://www.toutiao.com/trending/7681524856717839913/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
-        },
-        {
-          "title": "女篮世界杯中国输美国33分没那么糟",
-          "url": "https://www.toutiao.com/trending/7680830585065029642/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
-          "title": "女子40万租房2年退租被要求换新家具",
-          "url": "https://www.toutiao.com/trending/7681949885624746027/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "00时36分"
+        },
+        {
+          "title": "正颌手术被做反女孩：已达成和解",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%A5%B3%E5%AD%A9%EF%BC%9A%E5%B7%B2%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "长沙女子新房门窗缝隙能塞进4根手指",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%A5%B3%E5%AD%90%E6%96%B0%E6%88%BF%E9%97%A8%E7%AA%97%E7%BC%9D%E9%9A%99%E8%83%BD%E5%A1%9E%E8%BF%9B4%E6%A0%B9%E6%89%8B%E6%8C%87",
           "source": "百度热搜",
           "ranks": [
-            10
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "00时36分"
+        },
+        {
+          "title": "女子40万租房2年退租被要求换新家具",
+          "url": "https://www.toutiao.com/trending/7681949885624746027/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "女装老店疑因仅退款被迫停业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "女子停捐不到一个月被催捐",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%81%9C%E6%8D%90%E4%B8%8D%E5%88%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%82%AC%E6%8D%90&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "女留命案嫌犯自曝作案动机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "父亲送女儿到郑州上大学直呼高大上",
+          "url": "https://www.toutiao.com/trending/7681838012955197449/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "据俄新社：克里姆林宫表示，在俄罗斯总统普京与美国总统特使威特科夫、特朗普女婿库什纳会谈后将向媒体通报情况。",
           "url": "https://flash.jin10.com/detail/20260905200607694800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "女子吃避孕药后久坐旅游患肺栓塞",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E5%90%8E%E4%B9%85%E5%9D%90%E6%97%85%E6%B8%B8%E6%82%A3%E8%82%BA%E6%A0%93%E5%A1%9E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "据国际文传电讯社：载有美国特使美国总统特使威特科夫和特朗普女婿库什纳的飞机已降落在莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260905163910633800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "父亲送女儿到郑州上大学直呼高大上",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E9%80%81%E5%A5%B3%E5%84%BF%E5%88%B0%E9%83%91%E5%B7%9E%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9B%B4%E5%91%BC%E9%AB%98%E5%A4%A7%E4%B8%8A",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "女篮世界杯中国队首战大比分不敌美国队",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34010828",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "多方回应18岁女孩疑被已婚男友打死",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%9418%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%96%91%E8%A2%AB%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%8F%8B%E6%89%93%E6%AD%BB%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "房主任进急诊还在被女儿骂",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%BF%9B%E6%80%A5%E8%AF%8A%E8%BF%98%E5%9C%A8%E8%A2%AB%E5%A5%B3%E5%84%BF%E9%AA%82%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "男子与前女友纠纷被其现男友压制致死",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%BA%A0%E7%BA%B7%E8%A2%AB%E5%85%B6%E7%8E%B0%E7%94%B7%E5%8F%8B%E5%8E%8B%E5%88%B6%E8%87%B4%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "据路透社：载有美国总统特使威特科夫、特朗普女婿库什纳和德米特里耶夫的车队已离开机场，前往莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260905182115712800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "女生眼里进虫直接用手扒拉出来",
-          "url": "https://www.toutiao.com/trending/7681531301388173318/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "又一脑机接口企业启动IPO辅导",
-          "url": "https://wallstreetcn.com/livenews/3160858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 18时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "肤色不够正确,尖塔皮肤遭举报",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362324&amp;topic_name=%E8%82%A4%E8%89%B2%E4%B8%8D%E5%A4%9F%E6%AD%A3%E7%A1%AE%2C%E5%B0%96%E5%A1%94%E7%9A%AE%E8%82%A4%E9%81%AD%E4%B8%BE%E6%8A%A5",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            25,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 21时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "审美",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《沙丘》在西方被捧成神作，为什么我却觉得很一般、看不进去，是审美没到位吗？",
-          "url": "https://www.zhihu.com/question/2078099179461669850",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 18时08分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
