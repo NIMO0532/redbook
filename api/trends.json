@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-09-05T06:50:44.403015+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-09-05T08:40:57.867012+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "中国女篮不敌美国女篮",
-          "url": "https://www.toutiao.com/trending/7681646221273943578/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时50分]"
-        },
-        {
-          "title": "女篮世界杯中国61:94美国",
-          "url": "https://www.douyin.com/hot/2634859",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时50分]"
-        },
         {
           "title": "女装老店疑因仅退款被迫停业",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
@@ -39,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 08时40分]"
         },
         {
           "title": "女留命案嫌犯自曝作案动机",
@@ -50,8 +26,45 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 08时40分]"
+        },
+        {
+          "title": "中国女篮不敌美国女篮",
+          "url": "https://www.toutiao.com/trending/7681646221273943578/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 08时40分]"
+        },
+        {
+          "title": "女篮世界杯中国61:94美国",
+          "url": "https://www.douyin.com/hot/2634859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 08时40分]"
+        },
+        {
+          "title": "女子吃甜虾后肚子痛 10 多天，肠道发现寄生虫，人们常说海水里的生鲜没有寄生虫靠谱吗？怎样吃才安全？",
+          "url": "https://www.zhihu.com/question/2078660058091729064",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
         },
         {
           "title": "中国女篮失误次数是美国女篮两倍多",
@@ -69,11 +82,12 @@
           "url": "https://www.toutiao.com/trending/7681587417723633705/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 08时40分]"
         },
         {
           "title": "41岁李念和14岁女儿跳舞",
@@ -81,11 +95,35 @@
           "source": "今日头条",
           "ranks": [
             14,
-            13
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 08时40分]"
+        },
+        {
+          "title": "武大女教授被举报事件男方系安徽大学副校长，安徽大学回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34006979",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 08时40分]"
+        },
+        {
+          "title": "2026 女篮世界杯小组赛，中国女篮 61-94 不敌美国女篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2079140562767295956",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "time_info": "[01时25分 ~ 08时40分]"
         },
         {
           "title": "中国女篮61比94美国女篮",
@@ -99,16 +137,15 @@
           "time_info": "[01时25分 ~ 06时50分]"
         },
         {
-          "title": "武大女教授被举报事件男方系安徽大学副校长，安徽大学回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34006979",
-          "source": "澎湃新闻",
+          "title": "女留学生被杀，凶手作案动机初步披露，系被害人要公开二人关系，凶手担心失去教职，还有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2079153698018522057",
+          "source": "知乎",
           "ranks": [
-            16,
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "time_info": "[01时25分 ~ 08时40分]"
         },
         {
           "title": "男子与前女友纠纷被其现男友等压死",
@@ -122,26 +159,15 @@
           "time_info": "[01时25分 ~ 06时50分]"
         },
         {
-          "title": "2026 女篮世界杯小组赛，中国女篮 61-94 不敌美国女篮，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2079140562767295956",
-          "source": "知乎",
+          "title": "擦边mod引吃醋,女友闹分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362074&amp;topic_name=%E6%93%A6%E8%BE%B9mod%E5%BC%95%E5%90%83%E9%86%8B%2C%E5%A5%B3%E5%8F%8B%E9%97%B9%E5%88%86%E6%89%8B",
+          "source": "贴吧",
           "ranks": [
-            12
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时50分]"
-        },
-        {
-          "title": "女留学生被杀，凶手作案动机初步披露，系被害人要公开二人关系，凶手担心失去教职，还有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2079153698018522057",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 08时40分]"
         },
         {
           "title": "27岁网约车司机心梗去世留下俩女儿",
@@ -156,15 +182,28 @@
           "time_info": "[01时25分 ~ 04时26分]"
         },
         {
-          "title": "擦边mod引吃醋,女友闹分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362074&amp;topic_name=%E6%93%A6%E8%BE%B9mod%E5%BC%95%E5%90%83%E9%86%8B%2C%E5%A5%B3%E5%8F%8B%E9%97%B9%E5%88%86%E6%89%8B",
-          "source": "贴吧",
+          "title": "上海到成都被订硬座还打卡女子拒出差",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%88%B0%E6%88%90%E9%83%BD%E8%A2%AB%E8%AE%A2%E7%A1%AC%E5%BA%A7%E8%BF%98%E6%89%93%E5%8D%A1%E5%A5%B3%E5%AD%90%E6%8B%92%E5%87%BA%E5%B7%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            30
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 08时40分]"
+        },
+        {
+          "title": "女子家中发现眼镜蛇徒手打包转移",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%9C%BC%E9%95%9C%E8%9B%87%E5%BE%92%E6%89%8B%E6%89%93%E5%8C%85%E8%BD%AC%E7%A7%BB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 08时40分]"
         },
         {
           "title": "妈妈震惊女儿发箍标价1490元",
@@ -190,26 +229,26 @@
           "time_info": "[04时25分 ~ 04时26分]"
         },
         {
-          "title": "上海到成都被订硬座还打卡女子拒出差",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%88%B0%E6%88%90%E9%83%BD%E8%A2%AB%E8%AE%A2%E7%A1%AC%E5%BA%A7%E8%BF%98%E6%89%93%E5%8D%A1%E5%A5%B3%E5%AD%90%E6%8B%92%E5%87%BA%E5%B7%AE%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
           "title": "多方回应18岁女孩疑被已婚男友打死",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%9418%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%96%91%E8%A2%AB%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%8F%8B%E6%89%93%E6%AD%BB%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "男子与前女友纠纷被其现男友压制致死",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%BA%A0%E7%BA%B7%E8%A2%AB%E5%85%B6%E7%8E%B0%E7%94%B7%E5%8F%8B%E5%8E%8B%E5%88%B6%E8%87%B4%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
         },
         {
           "title": "女生眼里进虫直接用手扒拉出来",
@@ -217,17 +256,6 @@
           "source": "今日头条",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "女子家中发现眼镜蛇徒手打包转移",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%9C%BC%E9%95%9C%E8%9B%87%E5%BE%92%E6%89%8B%E6%89%93%E5%8C%85%E8%BD%AC%E7%A7%BB",
-          "source": "百度热搜",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -247,8 +275,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 08时40分]"
         }
       ]
     }
