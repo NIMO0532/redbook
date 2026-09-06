@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T08:40:41.524029+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-09-06T13:37:28.572564+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
@@ -19,6 +19,80 @@
           "time_info": "[00时36分 ~ 06时47分]"
         },
         {
+          "title": "万字拆解DC电影超级少女",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13,
+            22,
+            20,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 13时37分]"
+        },
+        {
+          "title": "二游反攻日本,企鹅女管出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 13时37分]"
+        },
+        {
+          "title": "女装老店疑因仅退款被迫停业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 13时37分]"
+        },
+        {
+          "title": "女留命案嫌犯自曝作案动机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 13时37分]"
+        },
+        {
+          "title": "鸣笛催让路,女子报警称骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "早春晴朗原著尚之桃开公司不收女员工",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%8E%9F%E8%91%97%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%BC%80%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%94%B6%E5%A5%B3%E5%91%98%E5%B7%A5%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
           "url": "https://m.thepaper.cn/newsDetail_forward_34014113",
           "source": "澎湃新闻",
@@ -29,6 +103,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 08时40分]"
+        },
+        {
+          "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
+          "url": "https://www.zhihu.com/question/2077943776237114404",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 13时37分]"
         },
         {
           "title": "张学友大女儿近照曝光",
@@ -44,65 +132,16 @@
           "time_info": "[00时36分 ~ 08时40分]"
         },
         {
-          "title": "万字拆解DC电影超级少女",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
+          "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34017446",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            13,
-            22,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 08时40分]"
-        },
-        {
-          "title": "二游反攻日本,企鹅女管出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 08时40分]"
-        },
-        {
-          "title": "女装老店疑因仅退款被迫停业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362353&amp;topic_name=%E5%A5%B3%E8%A3%85%E8%80%81%E5%BA%97%E7%96%91%E5%9B%A0%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 08时40分]"
-        },
-        {
-          "title": "女留命案嫌犯自曝作案动机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362370&amp;topic_name=%E5%A5%B3%E7%95%99%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%87%AA%E6%9B%9D%E4%BD%9C%E6%A1%88%E5%8A%A8%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 08时40分]"
-        },
-        {
-          "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
-          "url": "https://www.zhihu.com/question/2077943776237114404",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 08时40分]"
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 13时37分]"
         },
         {
           "title": "父亲送女儿到郑州上大学直呼高大上",
@@ -222,26 +261,48 @@
           "time_info": "[00时36分 ~ 02时50分]"
         },
         {
-          "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34017446",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
           "title": "女子回应5岁女儿病历上被医生标注刁蛮",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%945%E5%B2%81%E5%A5%B3%E5%84%BF%E7%97%85%E5%8E%86%E4%B8%8A%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%A0%87%E6%B3%A8%E5%88%81%E8%9B%AE%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "机构：美国8月非农新增就业中98%来自女性",
+          "url": "https://flash.jin10.com/detail/20260906121754007800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
+          "url": "https://www.cls.cn/detail/2475058",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "郑钦文创女子大满贯翻盘纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%88%9B%E5%A5%B3%E5%AD%90%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%BF%BB%E7%9B%98%E7%BA%AA%E5%BD%95%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "为什么希腊神话中赫拉是婚姻女神但是自己的婚姻却如此不幸？",
@@ -272,7 +333,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
         },
@@ -288,6 +349,39 @@
           "time_info": "00时36分"
         },
         {
+          "title": "李多海妈妈来中国照顾怀孕女儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A4%9A%E6%B5%B7%E5%A6%88%E5%A6%88%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%85%A7%E9%A1%BE%E6%80%80%E5%AD%95%E5%A5%B3%E5%84%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "陈丽君这才是最尊重观众的女扮男装",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E8%BF%99%E6%89%8D%E6%98%AF%E6%9C%80%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%E7%9A%84%E5%A5%B3%E6%89%AE%E7%94%B7%E8%A3%85%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "女子曝在厕所遭男子开闪光灯偷拍",
+          "url": "https://www.toutiao.com/trending/7681112731174158378/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "据俄新社：克里姆林宫表示，在俄罗斯总统普京与美国总统特使威特科夫、特朗普女婿库什纳会谈后将向媒体通报情况。",
           "url": "https://flash.jin10.com/detail/20260905200607694800",
           "source": "金十数据",
@@ -297,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "王聪争夺UFC女子蝇量级冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%81%AA%E4%BA%89%E5%A4%BAUFC%E5%A5%B3%E5%AD%90%E8%9D%87%E9%87%8F%E7%BA%A7%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "乌议员：女性大规模服役只是时间问题",
