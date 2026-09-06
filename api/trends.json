@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T13:37:28.572564+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-09-06T18:29:02.469682+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 06时47分]"
+        },
+        {
+          "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34017446",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 18时29分]"
         },
         {
           "title": "万字拆解DC电影超级少女",
@@ -31,8 +44,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 13时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 18时29分]"
         },
         {
           "title": "二游反攻日本,企鹅女管出圈",
@@ -40,11 +53,24 @@
           "source": "贴吧",
           "ranks": [
             15,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 13时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 18时29分]"
+        },
+        {
+          "title": "鸣笛催让路,女子报警称骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时29分]"
         },
         {
           "title": "女装老店疑因仅退款被迫停业",
@@ -71,26 +97,26 @@
           "time_info": "[00时36分 ~ 13时37分]"
         },
         {
-          "title": "鸣笛催让路,女子报警称骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "早春晴朗原著尚之桃开公司不收女员工",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%8E%9F%E8%91%97%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%BC%80%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%94%B6%E5%A5%B3%E5%91%98%E5%B7%A5%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "中国女篮vs捷克女篮",
+          "url": "https://www.douyin.com/hot/2638075",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
@@ -130,18 +156,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 08时40分]"
-        },
-        {
-          "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34017446",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 13时37分]"
         },
         {
           "title": "父亲送女儿到郑州上大学直呼高大上",
@@ -225,6 +239,18 @@
           "time_info": "[02时50分 ~ 06时47分]"
         },
         {
+          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
+          "url": "https://www.cls.cn/detail/2475058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时29分]"
+        },
+        {
           "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
           "url": "https://flash.jin10.com/detail/20260906040447398800",
           "source": "金十数据",
@@ -261,6 +287,50 @@
           "time_info": "[00时36分 ~ 02时50分]"
         },
         {
+          "title": "朱雀展翅女子三人篮球全球总决赛",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%9B%80%E5%B1%95%E7%BF%85%E5%A5%B3%E5%AD%90%E4%B8%89%E4%BA%BA%E7%AF%AE%E7%90%83%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "鲍骊婧曹梓涵 女双银牌",
+          "url": "https://www.baidu.com/s?wd=%E9%B2%8D%E9%AA%8A%E5%A9%A7%E6%9B%B9%E6%A2%93%E6%B6%B5+%E5%A5%B3%E5%8F%8C%E9%93%B6%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "女子牙疼检查发现长了“牙瘤”",
+          "url": "https://www.toutiao.com/trending/7681581673164767268/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "女子买海鲜混入剧毒红斑斗蟹差点误食",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%B5%B7%E9%B2%9C%E6%B7%B7%E5%85%A5%E5%89%A7%E6%AF%92%E7%BA%A2%E6%96%91%E6%96%97%E8%9F%B9%E5%B7%AE%E7%82%B9%E8%AF%AF%E9%A3%9F",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "女子回应5岁女儿病历上被医生标注刁蛮",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%945%E5%B2%81%E5%A5%B3%E5%84%BF%E7%97%85%E5%8E%86%E4%B8%8A%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%A0%87%E6%B3%A8%E5%88%81%E8%9B%AE%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -278,20 +348,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
         {
-          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
-          "url": "https://www.cls.cn/detail/2475058",
-          "source": "财联社热门",
+          "title": "江西一低保家庭女孩自己攒钱去香港看演唱会被取消低保，你怎么看？",
+          "url": "https://www.zhihu.com/question/2079866742101241983",
+          "source": "知乎",
           "ranks": [
-            13
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "18时29分"
         },
         {
           "title": "郑钦文创女子大满贯翻盘纪录",
@@ -300,7 +370,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -325,6 +395,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "19 岁的张子宇世界杯中美女篮首秀，得 13 分六篮板，如何评价她的表现？",
+          "url": "https://www.zhihu.com/question/2079566714774218298",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "女子怀孕后工资从8000调到3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E5%B7%A5%E8%B5%84%E4%BB%8E8000%E8%B0%83%E5%88%B03000%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "严子怡夺钻石联赛总决赛女子标枪冠军",
@@ -355,7 +447,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -366,7 +458,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -377,7 +469,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -399,7 +491,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
