@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-06T18:29:02.469682+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-09-06T22:01:11.587362+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34017446",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 22时01分]"
+        },
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
           "url": "https://original.ifeng.com/c/8wAjrDeDqv3",
@@ -19,17 +33,30 @@
           "time_info": "[00时36分 ~ 06时47分]"
         },
         {
-          "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34017446",
-          "source": "澎湃新闻",
+          "title": "二游反攻日本,企鹅女管出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
           "ranks": [
-            6,
-            4,
-            5
+            15,
+            22,
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 22时01分]"
+        },
+        {
+          "title": "鸣笛催让路,女子报警称骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 22时01分]"
         },
         {
           "title": "万字拆解DC电影超级少女",
@@ -48,29 +75,38 @@
           "time_info": "[00时36分 ~ 18时29分]"
         },
         {
-          "title": "二游反攻日本,企鹅女管出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 18时29分]"
-        },
-        {
-          "title": "鸣笛催让路,女子报警称骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
+          "title": "中国女篮vs捷克女篮",
+          "url": "https://www.douyin.com/hot/2638075",
+          "source": "抖音",
           "ranks": [
             4,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时37分 ~ 18时29分]"
+          "time_info": "[18时29分 ~ 22时01分]"
+        },
+        {
+          "title": "女子怀孕后工资从8000调到3000",
+          "url": "https://www.toutiao.com/trending/7681226790446628915/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时01分]"
+        },
+        {
+          "title": "女子怀孕后工资从8000调到3000",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E5%B7%A5%E8%B5%84%E4%BB%8E8000%E8%B0%83%E5%88%B03000",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时01分]"
         },
         {
           "title": "女装老店疑因仅退款被迫停业",
@@ -108,17 +144,6 @@
           "time_info": "13时37分"
         },
         {
-          "title": "中国女篮vs捷克女篮",
-          "url": "https://www.douyin.com/hot/2638075",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
           "url": "https://m.thepaper.cn/newsDetail_forward_34014113",
           "source": "澎湃新闻",
@@ -129,6 +154,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 08时40分]"
+        },
+        {
+          "title": "偶像进军电竞,丝芭组女子战队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362733&amp;topic_name=%E5%81%B6%E5%83%8F%E8%BF%9B%E5%86%9B%E7%94%B5%E7%AB%9E%2C%E4%B8%9D%E8%8A%AD%E7%BB%84%E5%A5%B3%E5%AD%90%E6%88%98%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
+          "title": "工作人员曾反复劝阻女孩赴港看演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%9B%BE%E5%8F%8D%E5%A4%8D%E5%8A%9D%E9%98%BB%E5%A5%B3%E5%AD%A9%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
@@ -156,6 +203,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 08时40分]"
+        },
+        {
+          "title": "江西一低保家庭女孩自己攒钱去香港看演唱会被取消低保，你怎么看？",
+          "url": "https://www.zhihu.com/question/2079866742101241983",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 22时01分]"
+        },
+        {
+          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
+          "url": "https://www.cls.cn/detail/2475058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 22时01分]"
         },
         {
           "title": "父亲送女儿到郑州上大学直呼高大上",
@@ -239,16 +311,15 @@
           "time_info": "[02时50分 ~ 06时47分]"
         },
         {
-          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
-          "url": "https://www.cls.cn/detail/2475058",
-          "source": "财联社热门",
+          "title": "女生赴港看演唱会被取消低保",
+          "url": "https://www.toutiao.com/trending/7682359057683972658/",
+          "source": "今日头条",
           "ranks": [
-            13,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时37分 ~ 18时29分]"
+          "time_info": "[22时00分 ~ 22时01分]"
         },
         {
           "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
@@ -287,6 +358,17 @@
           "time_info": "[00时36分 ~ 02时50分]"
         },
         {
+          "title": "女子家中十万元现金悄悄“缩水”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8D%81%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91%E6%82%84%E6%82%84%E2%80%9C%E7%BC%A9%E6%B0%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时01分]"
+        },
+        {
           "title": "朱雀展翅女子三人篮球全球总决赛",
           "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%9B%80%E5%B1%95%E7%BF%85%E5%A5%B3%E5%AD%90%E4%B8%89%E4%BA%BA%E7%AF%AE%E7%90%83%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
@@ -296,6 +378,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "女孩吸食“笑气” 父亲含泪举报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%90%B8%E9%A3%9F%E2%80%9C%E7%AC%91%E6%B0%94%E2%80%9D+%E7%88%B6%E4%BA%B2%E5%90%AB%E6%B3%AA%E4%B8%BE%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时01分]"
         },
         {
           "title": "鲍骊婧曹梓涵 女双银牌",
@@ -331,6 +424,17 @@
           "time_info": "[18时28分 ~ 18时29分]"
         },
         {
+          "title": "遂川泥石流女子打数百个电话寻亲",
+          "url": "https://www.baidu.com/s?wd=%E9%81%82%E5%B7%9D%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%A5%B3%E5%AD%90%E6%89%93%E6%95%B0%E7%99%BE%E4%B8%AA%E7%94%B5%E8%AF%9D%E5%AF%BB%E4%BA%B2",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时01分]"
+        },
+        {
           "title": "女子回应5岁女儿病历上被医生标注刁蛮",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%945%E5%B2%81%E5%A5%B3%E5%84%BF%E7%97%85%E5%8E%86%E4%B8%8A%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%A0%87%E6%B3%A8%E5%88%81%E8%9B%AE%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -353,15 +457,15 @@
           "time_info": "13时37分"
         },
         {
-          "title": "江西一低保家庭女孩自己攒钱去香港看演唱会被取消低保，你怎么看？",
-          "url": "https://www.zhihu.com/question/2079866742101241983",
-          "source": "知乎",
+          "title": "中国女篮vs捷克女篮",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%8D%B7%E5%85%8B%E5%A5%B3%E7%AF%AE&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "22时01分"
         },
         {
           "title": "郑钦文创女子大满贯翻盘纪录",
@@ -403,7 +507,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -414,7 +518,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -463,6 +567,17 @@
           "time_info": "13时37分"
         },
         {
+          "title": "和汪苏泷合唱的女孩上大学了",
+          "url": "https://www.douyin.com/hot/2638046",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
           "title": "女子曝在厕所遭男子开闪光灯偷拍",
           "url": "https://www.toutiao.com/trending/7681112731174158378/",
           "source": "今日头条",
@@ -494,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "女儿用豆包抄答案家长只用了一招",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E7%94%A8%E8%B1%86%E5%8C%85%E6%8A%84%E7%AD%94%E6%A1%88%E5%AE%B6%E9%95%BF%E5%8F%AA%E7%94%A8%E4%BA%86%E4%B8%80%E6%8B%9B&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "乌议员：女性大规模服役只是时间问题",
