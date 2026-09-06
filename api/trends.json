@@ -1,35 +1,24 @@
 {
-  "generated_at": "2026-09-07T05:08:08.135409+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-09-07T07:35:08.628507+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "中国女篮力克捷克 出线占据主动",
-          "url": "https://www.toutiao.com/trending/7681478781722886186/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时08分]"
-        },
         {
           "title": "女生赴港看演唱会被取消低保",
           "url": "https://www.toutiao.com/trending/7682359057683972658/",
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时35分]"
         },
         {
           "title": "女篮世界杯中国队加时险胜捷克队",
@@ -39,19 +28,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时35分]"
         },
         {
-          "title": "江西一低保家庭女孩自己攒钱去香港看演唱会，网传其全家低保资格被取消，当地民政局回应正在核查，你怎么看？",
-          "url": "https://www.zhihu.com/question/2079866742101241983",
-          "source": "知乎",
+          "title": "中国女篮力克捷克 出线占据主动",
+          "url": "https://www.toutiao.com/trending/7681478781722886186/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时35分]"
         },
         {
           "title": "中国女篮加时险胜捷克女篮",
@@ -62,8 +53,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
+        },
+        {
+          "title": "江西一低保家庭女孩自己攒钱去香港看演唱会，网传其全家低保资格被取消，当地民政局回应正在核查，你怎么看？",
+          "url": "https://www.zhihu.com/question/2079866742101241983",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "鸣笛催让路,女子报警称骚扰",
@@ -73,19 +76,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
-          "title": "2026年女排欧锦赛",
-          "url": "https://s.weibo.com/weibo?q=2026%E5%B9%B4%E5%A5%B3%E6%8E%92%E6%AC%A7%E9%94%A6%E8%B5%9B&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "女子怀孕后工资从8000调到3000",
+          "url": "https://www.toutiao.com/trending/7681226790446628915/",
+          "source": "今日头条",
           "ranks": [
-            2
+            17,
+            9,
+            18,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时08分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时35分]"
         },
         {
           "title": "工作人员曾反复劝阻女孩赴港看演唱会",
@@ -96,21 +102,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
-          "title": "女子怀孕后工资从8000调到3000",
-          "url": "https://www.toutiao.com/trending/7681226790446628915/",
-          "source": "今日头条",
+          "title": "2026年女排欧锦赛",
+          "url": "https://s.weibo.com/weibo?q=2026%E5%B9%B4%E5%A5%B3%E6%8E%92%E6%AC%A7%E9%94%A6%E8%B5%9B&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            9,
-            18
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时08分]"
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
@@ -120,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "偶像进军电竞,丝芭组女子战队",
@@ -131,8 +135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "中国女篮大概率小组出线",
@@ -140,11 +144,25 @@
           "source": "微博",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
+        },
+        {
+          "title": "和汪苏泷合唱的女孩上大学了",
+          "url": "https://www.douyin.com/hot/2638046",
+          "source": "抖音",
+          "ranks": [
+            23,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "加时死里逃生，中国女篮 74-70 逆转捷克，韩旭砍 22+14，杨舒予 18 分 5 助，如何评价本场？",
@@ -171,17 +189,42 @@
           "time_info": "[00时54分 ~ 02时55分]"
         },
         {
-          "title": "和汪苏泷合唱的女孩上大学了",
-          "url": "https://www.douyin.com/hot/2638046",
-          "source": "抖音",
+          "title": "万字拆解DC电影超级少女",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
           "ranks": [
             23,
-            29,
-            30
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "time_info": "[02时55分 ~ 07时35分]"
+        },
+        {
+          "title": "陈妍希想认林心如女儿做儿媳妇",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%83%B3%E8%AE%A4%E6%9E%97%E5%BF%83%E5%A6%82%E5%A5%B3%E5%84%BF%E5%81%9A%E5%84%BF%E5%AA%B3%E5%A6%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时35分]"
+        },
+        {
+          "title": "5 岁女童电子病历被医生标注「刁蛮」，卫健局工作人员称当事人网上发帖是抹黑当地，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2079551816996540593",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 07时35分]"
         },
         {
           "title": "女子怀孕后工资从8000调到3000",
@@ -195,28 +238,16 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "陈妍希想认林心如女儿做儿媳妇",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%83%B3%E8%AE%A4%E6%9E%97%E5%BF%83%E5%A6%82%E5%A5%B3%E5%84%BF%E5%81%9A%E5%84%BF%E5%AA%B3%E5%A6%87%23&t=31&band_rank=19&Refer=top",
+          "title": "女儿用豆包抄答案家长只用了一招",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E7%94%A8%E8%B1%86%E5%8C%85%E6%8A%84%E7%AD%94%E6%A1%88%E5%AE%B6%E9%95%BF%E5%8F%AA%E7%94%A8%E4%BA%86%E4%B8%80%E6%8B%9B&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            19,
-            29
+            27,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时55分]"
-        },
-        {
-          "title": "万字拆解DC电影超级少女",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 05时08分]"
+          "time_info": "[02时55分 ~ 07时35分]"
         },
         {
           "title": "女子家中十万元现金悄悄“缩水”",
@@ -236,7 +267,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
         },
@@ -302,7 +333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
         },
@@ -340,17 +371,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "5 岁女童电子病历被医生标注「刁蛮」，卫健局工作人员称当事人网上发帖是抹黑当地，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2079551816996540593",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
           "title": "特朗普女婿库什纳：我们正与哈马斯合作推动解除武装，并已与以色列就加沙地带计划的最终目标达成一致。",
           "url": "https://flash.jin10.com/detail/20260907004803187800",
           "source": "金十数据",
@@ -373,26 +393,26 @@
           "time_info": "02时55分"
         },
         {
-          "title": "女儿用豆包抄答案家长只用了一招",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E7%94%A8%E8%B1%86%E5%8C%85%E6%8A%84%E7%AD%94%E6%A1%88%E5%AE%B6%E9%95%BF%E5%8F%AA%E7%94%A8%E4%BA%86%E4%B8%80%E6%8B%9B&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
           "title": "苏群称韩旭和杨舒予拯救了中国女篮",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BE%A4%E7%A7%B0%E9%9F%A9%E6%97%AD%E5%92%8C%E6%9D%A8%E8%88%92%E4%BA%88%E6%8B%AF%E6%95%91%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我们或许更倾向于某些谈判形式，但更糟糕的是根本没有谈判形式。我要感谢美国中东问题特使威特科夫和特朗普女婿库什纳今天在重启谈判进程中所发挥的作用。美国团队与俄罗斯领导人会面，今天又与我会面，讨论了所有可能性，这一点非常重要。我们举行了有欧洲代表参加的三方会谈，以及国家安全顾问会议，我认为我们将尽一切努力恢复谈判。",
+          "url": "https://flash.jin10.com/detail/20260907044059170800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
@@ -408,8 +428,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         }
       ]
     }
