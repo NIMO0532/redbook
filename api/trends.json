@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T07:35:08.628507+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-09-07T11:27:51.305021+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 35,
+      "match_count": 55,
       "titles": [
         {
           "title": "女生赴港看演唱会被取消低保",
@@ -45,18 +45,6 @@
           "time_info": "[00时54分 ~ 07时35分]"
         },
         {
-          "title": "中国女篮加时险胜捷克女篮",
-          "url": "https://www.douyin.com/hot/2638075",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时35分]"
-        },
-        {
           "title": "江西一低保家庭女孩自己攒钱去香港看演唱会，网传其全家低保资格被取消，当地民政局回应正在核查，你怎么看？",
           "url": "https://www.zhihu.com/question/2079866742101241983",
           "source": "知乎",
@@ -65,19 +53,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 11时27分]"
+        },
+        {
+          "title": "中国女篮加时险胜捷克女篮",
+          "url": "https://www.douyin.com/hot/2638075",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 11时27分]"
         },
         {
           "title": "鸣笛催让路,女子报警称骚扰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 11时27分]"
         },
         {
           "title": "女子怀孕后工资从8000调到3000",
@@ -106,6 +108,28 @@
           "time_info": "[00时55分 ~ 07时35分]"
         },
         {
+          "title": "贵州3名未成年女孩接连失联最小12岁",
+          "url": "https://www.toutiao.com/trending/7682587839762009619/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "凤凰女记者进入霍尔木兹海峡：很多船仍滞留在这",
+          "url": "https://original.ifeng.com/c/8wDZebd8EoE",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "2026年女排欧锦赛",
           "url": "https://s.weibo.com/weibo?q=2026%E5%B9%B4%E5%A5%B3%E6%8E%92%E6%AC%A7%E9%94%A6%E8%B5%9B&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -115,6 +139,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "女子月捐数年无人问停捐后遭催捐",
+          "url": "https://www.toutiao.com/trending/7682391746976055332/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "贵州3名未成年女孩接连失联",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E3%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E5%AD%A9%E6%8E%A5%E8%BF%9E%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "女子外出喝酒致儿子坠亡 法院判了",
+          "url": "https://www.toutiao.com/trending/7682364403169263622/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "偶像进军电竞,丝芭组女子战队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362733&amp;topic_name=%E5%81%B6%E5%83%8F%E8%BF%9B%E5%86%9B%E7%94%B5%E7%AB%9E%2C%E4%B8%9D%E8%8A%AD%E7%BB%84%E5%A5%B3%E5%AD%90%E6%88%98%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 11时27分]"
         },
         {
           "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
@@ -128,15 +197,17 @@
           "time_info": "[00时55分 ~ 07时35分]"
         },
         {
-          "title": "偶像进军电竞,丝芭组女子战队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362733&amp;topic_name=%E5%81%B6%E5%83%8F%E8%BF%9B%E5%86%9B%E7%94%B5%E7%AB%9E%2C%E4%B8%9D%E8%8A%AD%E7%BB%84%E5%A5%B3%E5%AD%90%E6%88%98%E9%98%9F",
-          "source": "贴吧",
+          "title": "5 岁女童电子病历被医生标注「刁蛮」，卫健局工作人员称当事人网上发帖是抹黑当地，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2079551816996540593",
+          "source": "知乎",
           "ranks": [
-            8
+            19,
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 11时27分]"
         },
         {
           "title": "中国女篮大概率小组出线",
@@ -150,6 +221,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 07时35分]"
+        },
+        {
+          "title": "万字拆解DC电影超级少女",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            20,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 11时27分]"
         },
         {
           "title": "和汪苏泷合唱的女孩上大学了",
@@ -189,19 +274,6 @@
           "time_info": "[00时54分 ~ 02时55分]"
         },
         {
-          "title": "万字拆解DC电影超级少女",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 07时35分]"
-        },
-        {
           "title": "陈妍希想认林心如女儿做儿媳妇",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%83%B3%E8%AE%A4%E6%9E%97%E5%BF%83%E5%A6%82%E5%A5%B3%E5%84%BF%E5%81%9A%E5%84%BF%E5%AA%B3%E5%A6%87%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -213,18 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 07时35分]"
-        },
-        {
-          "title": "5 岁女童电子病历被医生标注「刁蛮」，卫健局工作人员称当事人网上发帖是抹黑当地，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2079551816996540593",
-          "source": "知乎",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 07时35分]"
         },
         {
           "title": "女子怀孕后工资从8000调到3000",
@@ -261,6 +321,17 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
+          "title": "女子月捐数年无人问 停捐后遭催捐",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9C%88%E6%8D%90%E6%95%B0%E5%B9%B4%E6%97%A0%E4%BA%BA%E9%97%AE+%E5%81%9C%E6%8D%90%E5%90%8E%E9%81%AD%E5%82%AC%E6%8D%90",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "特朗普女婿库什纳：以色列政府在加沙的行为“有点不理智”。",
           "url": "https://flash.jin10.com/detail/20260907041625580800",
           "source": "金十数据",
@@ -281,6 +352,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "韩女早秋穿什么",
+          "url": "https://www.douyin.com/hot/2636588",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "官方正核查女生追星全家取消低保",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E6%AD%A3%E6%A0%B8%E6%9F%A5%E5%A5%B3%E7%94%9F%E8%BF%BD%E6%98%9F%E5%85%A8%E5%AE%B6%E5%8F%96%E6%B6%88%E4%BD%8E%E4%BF%9D%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "老派少女的穿搭",
+          "url": "https://www.douyin.com/hot/2638129",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "特朗普女婿库什纳：希望乌克兰、俄罗斯和美国举行的会谈能够恢复三边形式。",
@@ -305,6 +409,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "中国女篮战意大利决定附加赛对手",
+          "url": "https://www.toutiao.com/trending/7682532085806105115/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "特朗普女婿库什纳：普京对俄罗斯有着不同的愿景，这些愿景在冲突结束后同样可以实现。",
           "url": "https://flash.jin10.com/detail/20260907013622078800",
           "source": "金十数据",
@@ -314,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "女子外出喝酒 3岁儿子被反锁坠亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%96%E5%87%BA%E5%96%9D%E9%85%92+3%E5%B2%81%E5%84%BF%E5%AD%90%E8%A2%AB%E5%8F%8D%E9%94%81%E5%9D%A0%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "特朗普女婿库什纳：巴勒斯坦已经成立了一个新的技术官僚政府，它既不是巴勒斯坦权力机构，也不是哈马斯。如果武装势力存在，该政府就无法进驻。我们逐步意识到加沙军事化的程度已超出了理解范围。实现加沙非军事化绝非易事。",
@@ -338,6 +464,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "中国女篮极限逆转捷克暴露不少问题",
+          "url": "https://www.toutiao.com/trending/7682592109303451179/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "特朗普女婿库什纳：我们向加沙输送了大量援助物资，如今那里的营养不良率已是全球最低之一。我们有一个重建加沙的计划。这些事情需要时间。",
           "url": "https://flash.jin10.com/detail/20260907012737388800",
           "source": "金十数据",
@@ -347,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "中国女篮末轮将战意大利",
+          "url": "https://www.douyin.com/hot/2638660",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "特朗普女婿库什纳：特朗普素有完成不可能之事的政绩。上一届政府并未出访俄罗斯，仅由中情局局长进行过一次访问。",
@@ -360,6 +508,28 @@
           "time_info": "02时55分"
         },
         {
+          "title": "官方回应网传女生追星被取消低保",
+          "url": "https://www.douyin.com/hot/2638445",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "女孩攒钱赴港看演唱会疑被取消低保，法律上是怎样设置这种资格标准的？若全家被取消资格，​后续生活怎么办？",
+          "url": "https://www.zhihu.com/question/2079870954612835708",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "特朗普女婿库什纳：世界上没有永远的敌人，也没有永远的盟友。",
           "url": "https://flash.jin10.com/detail/20260907010912925800",
           "source": "金十数据",
@@ -369,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "中国女篮锁定附加赛名额",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E9%94%81%E5%AE%9A%E9%99%84%E5%8A%A0%E8%B5%9B%E5%90%8D%E9%A2%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "特朗普女婿库什纳：我们正与哈马斯合作推动解除武装，并已与以色列就加沙地带计划的最终目标达成一致。",
@@ -382,6 +563,28 @@
           "time_info": "02时55分"
         },
         {
+          "title": "金正恩携女儿出席“姜健”号入列仪式",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E6%90%BA%E5%A5%B3%E5%84%BF%E5%87%BA%E5%B8%AD%E2%80%9C%E5%A7%9C%E5%81%A5%E2%80%9D%E5%8F%B7%E5%85%A5%E5%88%97%E4%BB%AA%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "5岁女孩哭着抢收稻谷伙伴纷纷赶来",
+          "url": "https://www.toutiao.com/trending/7682559168775228955/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "特朗普女婿库什纳：特朗普总统希望建立一个实现全面和持久和平的框架，而不仅仅是结束当前的乌克兰战争。",
           "url": "https://flash.jin10.com/detail/20260907004215713800",
           "source": "金十数据",
@@ -391,6 +594,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "3女孩暑假接连失联最大仅14岁",
+          "url": "https://s.weibo.com/weibo?q=%233%E5%A5%B3%E5%AD%A9%E6%9A%91%E5%81%87%E6%8E%A5%E8%BF%9E%E5%A4%B1%E8%81%94%E6%9C%80%E5%A4%A7%E4%BB%8514%E5%B2%81%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "郭富城称碰到刘德华张学友会聊育女经",
+          "url": "https://www.toutiao.com/trending/7682164798209130522/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "苏群称韩旭和杨舒予拯救了中国女篮",
@@ -410,9 +635,43 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆品 美妆 护肤品",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "造假化妆品地下工厂调查",
+          "url": "https://www.baidu.com/s?wd=%E9%80%A0%E5%81%87%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%B0%E4%B8%8B%E5%B7%A5%E5%8E%82%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口驶入快车道：三类证扩容突破，IPO第一股争夺升温",
+          "url": "https://www.cls.cn/detail/2475289",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
@@ -425,11 +684,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362764&amp;topic_name=%E6%87%82%E7%8E%8B%E5%AE%A1%E7%BE%8E%E9%9C%B8%E5%87%8C%2C%E8%8A%B16%E4%BA%BF%E4%BF%AE%E5%AE%B4%E4%BC%9A%E5%8E%85",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 11时27分]"
         }
       ]
     }
