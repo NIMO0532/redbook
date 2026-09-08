@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T13:50:44.637282+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-09-08T18:48:54.053915+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "美国护士勒死子女,总统怒批",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[03时40分 ~ 18时48分]"
         },
         {
           "title": "中国女篮20分大胜意大利女篮",
@@ -44,13 +45,35 @@
           "time_info": "[03时40分 ~ 06时36分]"
         },
         {
+          "title": "爸爸含泪举报女儿吸笑气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363037&amp;topic_name=%E7%88%B8%E7%88%B8%E5%90%AB%E6%B3%AA%E4%B8%BE%E6%8A%A5%E5%A5%B3%E5%84%BF%E5%90%B8%E7%AC%91%E6%B0%94",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 18时48分]"
+        },
+        {
+          "title": "中国女篮将迎战波多黎各队",
+          "url": "https://www.douyin.com/hot/2640244",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "女子称在餐厅被4岁男童摸臀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363038&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E9%A4%90%E5%8E%85%E8%A2%AB4%E5%B2%81%E7%94%B7%E7%AB%A5%E6%91%B8%E8%87%80",
           "source": "贴吧",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -66,15 +89,15 @@
           "time_info": "08时59分"
         },
         {
-          "title": "爸爸含泪举报女儿吸笑气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363037&amp;topic_name=%E7%88%B8%E7%88%B8%E5%90%AB%E6%B3%AA%E4%B8%BE%E6%8A%A5%E5%A5%B3%E5%84%BF%E5%90%B8%E7%AC%91%E6%B0%94",
-          "source": "贴吧",
+          "title": "为什么子女买房会把父母安排在次卧",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AD%90%E5%A5%B3%E4%B9%B0%E6%88%BF%E4%BC%9A%E6%8A%8A%E7%88%B6%E6%AF%8D%E5%AE%89%E6%8E%92%E5%9C%A8%E6%AC%A1%E5%8D%A7%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "18时48分"
         },
         {
           "title": "江西赣州回应“女孩赴香港看演唱会被取消全家低保”：触发低保对象动态监测预警，核查后将依规处置",
@@ -107,11 +130,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 18时48分]"
         },
         {
           "title": "王子不会拍为4岁白血病女孩圆梦",
@@ -165,6 +189,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "马上评｜“低保女孩出境追星”挑战的是常识与人情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34024893",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 18时48分]"
         },
         {
           "title": "女生赴港看演唱会全家低保被取消？当地民政局工作人员：正核查",
@@ -238,6 +275,17 @@
           "time_info": "[03时40分 ~ 06时36分]"
         },
         {
+          "title": "贵州福泉三名未成年女孩接连失联，目前均已找到，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2080237533758054861",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 18时48分]"
+        },
+        {
           "title": "女子称在餐厅被男童摸屁股",
           "url": "https://www.toutiao.com/trending/7681643845302403082/",
           "source": "今日头条",
@@ -260,18 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 06时36分]"
-        },
-        {
-          "title": "马上评｜“低保女孩出境追星”挑战的是常识与人情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34024893",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 13时50分]"
         },
         {
           "title": "重庆一女子与店员产生纠纷后阻碍民警执行职务，被行政拘留",
@@ -394,7 +430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -410,15 +446,26 @@
           "time_info": "08时59分"
         },
         {
-          "title": "贵州福泉三名未成年女孩接连失联，目前均已找到，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2080237533758054861",
-          "source": "知乎",
+          "title": "“青岛保时捷女销冠”称目前排名全球第一，能救保时捷吗？",
+          "url": "https://news.ifeng.com/c/8wFhgFoMenY",
+          "source": "凤凰网",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "18时48分"
+        },
+        {
+          "title": "摸臀事件女子 起号",
+          "url": "https://s.weibo.com/weibo?q=%E6%91%B8%E8%87%80%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%20%E8%B5%B7%E5%8F%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "埃及女主持人涉毒被判绞刑 庭上落泪",
@@ -427,7 +474,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -438,9 +485,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "女子深夜转呼啦圈减肥致黄体破裂",
+          "url": "https://www.toutiao.com/trending/7683044764192407588/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "青岛保时捷女销冠目前排名全球第一",
@@ -471,9 +529,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "贵州3名失联女孩均已找到",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E3%E5%90%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%9D%87%E5%B7%B2%E6%89%BE%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "被男童碰臀女子回应蹭流量质疑",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E7%AB%A5%E7%A2%B0%E8%87%80%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B9%AD%E6%B5%81%E9%87%8F%E8%B4%A8%E7%96%91%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "女子生下女婴才知腹中还有胎儿",
@@ -482,7 +562,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -515,9 +595,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆品 美妆 护肤品",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "记者暗访汕头化妆品造假窝点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%B1%95%E5%A4%B4%E5%8C%96%E5%A6%86%E5%93%81%E9%80%A0%E5%81%87%E7%AA%9D%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -530,11 +627,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%88%98%E5%A4%87%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 18时48分]"
         }
       ]
     },
