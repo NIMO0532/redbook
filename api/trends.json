@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-08T06:36:28.037512+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-09-08T08:59:32.593390+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国护士勒死子女,总统怒批",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8A%A4%E5%A3%AB%E5%8B%92%E6%AD%BB%E5%AD%90%E5%A5%B3%2C%E6%80%BB%E7%BB%9F%E6%80%92%E6%89%B9",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
         },
         {
           "title": "中国女篮全力冲击小组第二",
@@ -31,16 +32,136 @@
           "time_info": "[03时40分 ~ 06时36分]"
         },
         {
+          "title": "中国女篮20分大胜意大利女篮",
+          "url": "https://www.douyin.com/hot/2639628",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美网女单第四轮，郑钦文 2-0 斯瓦泰克挺进 8 强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2080414404730779495",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "中国女篮20分大胜意大利世界杯出线",
+          "url": "https://www.toutiao.com/trending/7682934969827593754/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "江西赣州回应“女孩赴香港看演唱会被取消全家低保”：触发低保对象动态监测预警，核查后将依规处置",
           "url": "https://m.thepaper.cn/newsDetail_forward_34024464",
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "柏林一座少女雕像为何让日本气急败坏",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%8F%E6%9E%97%E4%B8%80%E5%BA%A7%E5%B0%91%E5%A5%B3%E9%9B%95%E5%83%8F%E4%B8%BA%E4%BD%95%E8%AE%A9%E6%97%A5%E6%9C%AC%E6%B0%94%E6%80%A5%E8%B4%A5%E5%9D%8F",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "女子扔刀刚好刺死前夫获刑3年2个月",
+          "url": "https://www.toutiao.com/trending/7682727165016653860/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "王子不会拍为4岁白血病女孩圆梦",
+          "url": "https://www.douyin.com/hot/2639684",
+          "source": "抖音",
+          "ranks": [
+            14,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "女生赴港看演唱会全家低保被取消？当地民政局工作人员：正核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34022300",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "UP主和网恋奔现的美国女孩求婚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8C%E7%BD%91%E6%81%8B%E5%A5%94%E7%8E%B0%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%B1%82%E5%A9%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "鸣笛催让路,女子报警称骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
+        },
+        {
+          "title": "偶像进军电竞,丝芭组女子战队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362733&amp;topic_name=%E5%81%B6%E5%83%8F%E8%BF%9B%E5%86%9B%E7%94%B5%E7%AB%9E%2C%E4%B8%9D%E8%8A%AD%E7%BB%84%E5%A5%B3%E5%AD%90%E6%88%98%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
         },
         {
           "title": "河南一女子外出喝酒致 3 岁儿子反锁屋内身亡，被判过失致人死亡罪，如何从法律角度解读？类似悲剧能如何避免？",
@@ -67,36 +188,12 @@
           "time_info": "[03时40分 ~ 06时36分]"
         },
         {
-          "title": "柏林一座少女雕像为何让日本气急败坏",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%8F%E6%9E%97%E4%B8%80%E5%BA%A7%E5%B0%91%E5%A5%B3%E9%9B%95%E5%83%8F%E4%B8%BA%E4%BD%95%E8%AE%A9%E6%97%A5%E6%9C%AC%E6%B0%94%E6%80%A5%E8%B4%A5%E5%9D%8F",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
-        },
-        {
           "title": "中国女篮末轮将战意大利",
           "url": "https://www.douyin.com/hot/2638660",
           "source": "抖音",
           "ranks": [
             10,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
-        },
-        {
-          "title": "女子扔刀刚好刺死前夫获刑3年2个月",
-          "url": "https://www.toutiao.com/trending/7682727165016653860/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -115,30 +212,6 @@
           "time_info": "[03时40分 ~ 06时36分]"
         },
         {
-          "title": "王子不会拍为4岁白血病女孩圆梦",
-          "url": "https://www.douyin.com/hot/2639684",
-          "source": "抖音",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
-        },
-        {
-          "title": "女生赴港看演唱会全家低保被取消？当地民政局工作人员：正核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34022300",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
-        },
-        {
           "title": "老派少女的穿搭",
           "url": "https://www.douyin.com/hot/2638129",
           "source": "抖音",
@@ -151,15 +224,16 @@
           "time_info": "[03时40分 ~ 06时36分]"
         },
         {
-          "title": "UP主和网恋奔现的美国女孩求婚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8C%E7%BD%91%E6%81%8B%E5%A5%94%E7%8E%B0%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%B1%82%E5%A9%9A",
-          "source": "bilibili 热搜",
+          "title": "重庆一女子与店员产生纠纷后阻碍民警执行职务，被行政拘留",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34025348",
+          "source": "澎湃新闻",
           "ranks": [
+            19,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
+          "time_info": "[03时40分 ~ 08时59分]"
         },
         {
           "title": "女子在公厕生下女婴后独自离开",
@@ -167,17 +241,6 @@
           "source": "百度热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
-        },
-        {
-          "title": "鸣笛催让路,女子报警称骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362661&amp;topic_name=%E9%B8%A3%E7%AC%9B%E5%82%AC%E8%AE%A9%E8%B7%AF%2C%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -219,26 +282,114 @@
           "time_info": "[03时40分 ~ 06时36分]"
         },
         {
-          "title": "偶像进军电竞,丝芭组女子战队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362733&amp;topic_name=%E5%81%B6%E5%83%8F%E8%BF%9B%E5%86%9B%E7%94%B5%E7%AB%9E%2C%E4%B8%9D%E8%8A%AD%E7%BB%84%E5%A5%B3%E5%AD%90%E6%88%98%E9%98%9F",
-          "source": "贴吧",
+          "title": "女篮世界杯中国队大比分击败意大利",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%A7%E6%AF%94%E5%88%86%E5%87%BB%E8%B4%A5%E6%84%8F%E5%A4%A7%E5%88%A9",
+          "source": "百度热搜",
           "ranks": [
-            26
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
-          "title": "重庆一女子与店员产生纠纷后阻碍民警执行职务，被行政拘留",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34025348",
+          "title": "2026 女篮世界杯小组赛，中国女篮 71-51 意大利女篮 ，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2080297033966142022",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "青岛保时捷女销冠目前排名全球第一",
+          "url": "https://www.toutiao.com/trending/7682639386852392996/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "中国女篮20分大胜意大利女篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE20%E5%88%86%E5%A4%A7%E8%83%9C%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "让5追7奇迹再现 郑钦文晋级美网女单八强",
+          "url": "https://www.cls.cn/detail/2476439",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "青岛保时捷女销冠目前排名全球第一",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E7%9B%AE%E5%89%8D%E6%8E%92%E5%90%8D%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "韩旭谈女篮大胜意大利队",
+          "url": "https://www.toutiao.com/trending/7682890962951111218/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "马上评｜“低保女孩出境追星”挑战的是常识与人情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34024893",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "为什么国产偶像剧都喜欢把男女主的工作背景设定在广告、新闻、公关等传媒行业？",
+          "url": "https://www.zhihu.com/question/2078865478877799968",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "跳高女神胡麟鹏大婚",
+          "url": "https://www.douyin.com/hot/2639793",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "中国女篮胜了但别忘记29次失误",
@@ -247,9 +398,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "中国女篮淘汰赛迎战波多黎各",
+          "url": "https://www.toutiao.com/trending/7682889751791222790/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
@@ -262,11 +424,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362764&amp;topic_name=%E6%87%82%E7%8E%8B%E5%AE%A1%E7%BE%8E%E9%9C%B8%E5%87%8C%2C%E8%8A%B16%E4%BA%BF%E4%BF%AE%E5%AE%B4%E4%BC%9A%E5%8E%85",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 08时59分]"
         }
       ]
     }
