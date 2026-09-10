@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T07:01:20.496289+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-09-10T11:35:49.048250+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "被取消资助女生愿换掉苹果手机",
@@ -54,6 +54,17 @@
           "time_info": "[01时39分 ~ 07时01分]"
         },
         {
+          "title": "百万粉吃播女网红因催吐去世",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363398&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E5%90%83%E6%92%AD%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E5%82%AC%E5%90%90%E5%8E%BB%E4%B8%96",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "资助者回应大二女生被取消资助",
           "url": "https://www.toutiao.com/trending/7683177865940860947/",
           "source": "今日头条",
@@ -89,6 +100,41 @@
           "time_info": "01时39分"
         },
         {
+          "title": "房贷还不起,女子喊男友收房",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363399&amp;topic_name=%E6%88%BF%E8%B4%B7%E8%BF%98%E4%B8%8D%E8%B5%B7%2C%E5%A5%B3%E5%AD%90%E5%96%8A%E7%94%B7%E5%8F%8B%E6%94%B6%E6%88%BF",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "西安“31岁女护士遭男友杀害案”二审宣判：维持死刑判决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34037543",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 11时35分]"
+        },
+        {
+          "title": "三哥地铁骚扰上海女孩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363289&amp;topic_name=%E4%B8%89%E5%93%A5%E5%9C%B0%E9%93%81%E9%AA%9A%E6%89%B0%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 11时35分]"
+        },
+        {
           "title": "刘亦菲发合照裁掉越南女星",
           "url": "https://www.toutiao.com/trending/7683396950113058859/",
           "source": "今日头条",
@@ -113,26 +159,28 @@
           "time_info": "[01时39分 ~ 07时01分]"
         },
         {
-          "title": "西安“31岁女护士遭男友杀害案”二审宣判：维持死刑判决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34037543",
-          "source": "澎湃新闻",
+          "title": "女神异闻录6遭Steam泄露",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363278&amp;topic_name=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%956%E9%81%ADSteam%E6%B3%84%E9%9C%B2",
+          "source": "贴吧",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时39分 ~ 07时01分]"
+          "time_info": "[01时39分 ~ 11时35分]"
         },
         {
-          "title": "三哥地铁骚扰上海女孩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363289&amp;topic_name=%E4%B8%89%E5%93%A5%E5%9C%B0%E9%93%81%E9%AA%9A%E6%89%B0%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9",
+          "title": "金牌编辑认证:多女主最赚钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363241&amp;topic_name=%E9%87%91%E7%89%8C%E7%BC%96%E8%BE%91%E8%AE%A4%E8%AF%81%3A%E5%A4%9A%E5%A5%B3%E4%B8%BB%E6%9C%80%E8%B5%9A%E9%92%B1",
           "source": "贴吧",
           "ranks": [
-            9
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 11时35分]"
         },
         {
           "title": "女生用万元iPhone反咬资助人",
@@ -158,26 +206,17 @@
           "time_info": "[01时39分 ~ 07时01分]"
         },
         {
-          "title": "女神异闻录6遭Steam泄露",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363278&amp;topic_name=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%956%E9%81%ADSteam%E6%B3%84%E9%9C%B2",
-          "source": "贴吧",
+          "title": "22岁女子与男友吵架后轻生溺亡：生前写“卖身契”称男友“主人”，警方已介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34036967",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            19,
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时39分 ~ 07时01分]"
-        },
-        {
-          "title": "金牌编辑认证:多女主最赚钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363241&amp;topic_name=%E9%87%91%E7%89%8C%E7%BC%96%E8%BE%91%E8%AE%A4%E8%AF%81%3A%E5%A4%9A%E5%A5%B3%E4%B8%BB%E6%9C%80%E8%B5%9A%E9%92%B1",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 07时01分]"
+          "time_info": "[01时39分 ~ 11时35分]"
         },
         {
           "title": "爸爸含泪举报女儿吸笑气",
@@ -226,18 +265,6 @@
           "time_info": "[07时00分 ~ 07时01分]"
         },
         {
-          "title": "22岁女子与男友吵架后轻生溺亡：生前写“卖身契”称男友“主人”，警方已介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34036967",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 04时37分]"
-        },
-        {
           "title": "女子爱发语音突然打字家人报警",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%88%B1%E5%8F%91%E8%AF%AD%E9%9F%B3%E7%AA%81%E7%84%B6%E6%89%93%E5%AD%97%E5%AE%B6%E4%BA%BA%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -249,6 +276,61 @@
           "time_info": "[01时39分 ~ 04时37分]"
         },
         {
+          "title": "大雁塔女子往井里塞缝衣针",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363405&amp;topic_name=%E5%A4%A7%E9%9B%81%E5%A1%94%E5%A5%B3%E5%AD%90%E5%BE%80%E4%BA%95%E9%87%8C%E5%A1%9E%E7%BC%9D%E8%A1%A3%E9%92%88",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "中国女篮挺进世界杯八强",
+          "url": "https://www.douyin.com/hot/2642812",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "中国女篮3分险胜晋级世界杯八强",
+          "url": "https://www.toutiao.com/trending/7683062989511868454/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "女子孕32周剖宫产救出麻花脐带宝宝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%9532%E5%91%A8%E5%89%96%E5%AE%AB%E4%BA%A7%E6%95%91%E5%87%BA%E9%BA%BB%E8%8A%B1%E8%84%90%E5%B8%A6%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "被资助女生浓妆艳抹停助后遭威胁曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B5%84%E5%8A%A9%E5%A5%B3%E7%94%9F%E6%B5%93%E5%A6%86%E8%89%B3%E6%8A%B9%E5%81%9C%E5%8A%A9%E5%90%8E%E9%81%AD%E5%A8%81%E8%83%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "命案女逃犯潜逃25年被抓",
           "url": "https://www.toutiao.com/trending/7683486823289585670/",
           "source": "今日头条",
@@ -258,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "郭富城：不想女儿为了读书变近视",
+          "url": "https://www.toutiao.com/trending/7683297041712037898/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "捐赠人回应被资助女孩质问没打生活费",
@@ -277,7 +370,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
