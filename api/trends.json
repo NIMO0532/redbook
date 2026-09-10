@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T16:44:26.516045+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-09-10T21:22:38.207627+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 46,
+      "match_count": 57,
       "titles": [
         {
           "title": "被取消资助女生愿换掉苹果手机",
@@ -54,15 +54,40 @@
           "time_info": "[01时39分 ~ 07时01分]"
         },
         {
+          "title": "三哥地铁骚扰上海女孩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363289&amp;topic_name=%E4%B8%89%E5%93%A5%E5%9C%B0%E9%93%81%E9%AA%9A%E6%89%B0%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            15,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时39分 ~ 21时22分]"
+        },
+        {
           "title": "日本梅毒男性20到60岁女性20左右",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E7%94%B7%E6%80%A720%E5%88%B060%E5%B2%81%E5%A5%B3%E6%80%A720%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "中国女篮vs法国女篮",
+          "url": "https://www.douyin.com/hot/2644229",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "资助者回应大二女生被取消资助",
@@ -100,17 +125,17 @@
           "time_info": "01时39分"
         },
         {
-          "title": "三哥地铁骚扰上海女孩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363289&amp;topic_name=%E4%B8%89%E5%93%A5%E5%9C%B0%E9%93%81%E9%AA%9A%E6%89%B0%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9",
+          "title": "百万粉吃播女网红因催吐去世",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363398&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E5%90%83%E6%92%AD%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E5%82%AC%E5%90%90%E5%8E%BB%E4%B8%96",
           "source": "贴吧",
           "ranks": [
-            9,
-            15,
-            24
+            2,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时39分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 21时22分]"
         },
         {
           "title": "西安“31岁女护士遭男友杀害案”二审宣判：维持死刑判决",
@@ -138,28 +163,17 @@
           "time_info": "[01时39分 ~ 16时44分]"
         },
         {
-          "title": "百万粉吃播女网红因催吐去世",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363398&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E5%90%83%E6%92%AD%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E5%82%AC%E5%90%90%E5%8E%BB%E4%B8%96",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 16时44分]"
-        },
-        {
           "title": "房贷还不起,女子喊男友收房",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363399&amp;topic_name=%E6%88%BF%E8%B4%B7%E8%BF%98%E4%B8%8D%E8%B5%B7%2C%E5%A5%B3%E5%AD%90%E5%96%8A%E7%94%B7%E5%8F%8B%E6%94%B6%E6%88%BF",
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 21时22分]"
         },
         {
           "title": "刘亦菲发合照裁掉越南女星",
@@ -211,6 +225,19 @@
           "time_info": "[01时39分 ~ 11时35分]"
         },
         {
+          "title": "大雁塔女子往井里塞缝衣针",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363405&amp;topic_name=%E5%A4%A7%E9%9B%81%E5%A1%94%E5%A5%B3%E5%AD%90%E5%BE%80%E4%BA%95%E9%87%8C%E5%A1%9E%E7%BC%9D%E8%A1%A3%E9%92%88",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 21时22分]"
+        },
+        {
           "title": "女生用万元iPhone反咬资助人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363307&amp;topic_name=%E5%A5%B3%E7%94%9F%E7%94%A8%E4%B8%87%E5%85%83iPhone%E5%8F%8D%E5%92%AC%E8%B5%84%E5%8A%A9%E4%BA%BA",
           "source": "贴吧",
@@ -245,16 +272,28 @@
           "time_info": "[01时39分 ~ 07时01分]"
         },
         {
-          "title": "大雁塔女子往井里塞缝衣针",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363405&amp;topic_name=%E5%A4%A7%E9%9B%81%E5%A1%94%E5%A5%B3%E5%AD%90%E5%BE%80%E4%BA%95%E9%87%8C%E5%A1%9E%E7%BC%9D%E8%A1%A3%E9%92%88",
-          "source": "贴吧",
+          "title": "荷马《奥德赛》中 12 名女奴被处死的情节，为什么被诺兰删掉了？这一改编有什么用意？",
+          "url": "https://www.zhihu.com/question/2073382433731213176",
+          "source": "知乎",
           "ranks": [
-            6,
-            15
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时35分 ~ 16时44分]"
+          "time_info": "[16时44分 ~ 21时22分]"
+        },
+        {
+          "title": "劝阻吸烟被骂,女子拦停公交",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363438&amp;topic_name=%E5%8A%9D%E9%98%BB%E5%90%B8%E7%83%9F%E8%A2%AB%E9%AA%82%2C%E5%A5%B3%E5%AD%90%E6%8B%A6%E5%81%9C%E5%85%AC%E4%BA%A4",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 21时22分]"
         },
         {
           "title": "女篮",
@@ -336,37 +375,26 @@
           "time_info": "11时35分"
         },
         {
-          "title": "荷马《奥德赛》中 12 名女奴被处死的情节，为什么被诺兰删掉了？这一改编有什么用意？",
-          "url": "https://www.zhihu.com/question/2073382433731213176",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
           "title": "18岁女孩被包办婚姻强制辍学",
           "url": "https://www.toutiao.com/trending/7683377507525066794/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
         {
-          "title": "劝阻吸烟被骂,女子拦停公交",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363438&amp;topic_name=%E5%8A%9D%E9%98%BB%E5%90%B8%E7%83%9F%E8%A2%AB%E9%AA%82%2C%E5%A5%B3%E5%AD%90%E6%8B%A6%E5%81%9C%E5%85%AC%E4%BA%A4",
-          "source": "贴吧",
+          "title": "人民日报评女生赴港追星取消低保",
+          "url": "https://www.toutiao.com/trending/7683686814749753385/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "21时22分"
         },
         {
           "title": "被资助女生浓妆艳抹停助后遭威胁曝光",
@@ -386,9 +414,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "女子称在酒吧被男子碰臀起诉被驳回",
+          "url": "https://www.toutiao.com/trending/7683199717316444198/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "恋综女嘉宾自曝离过婚",
@@ -397,7 +436,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -408,9 +447,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "泰安50岁“仙女姐姐”老师火了",
+          "url": "https://www.toutiao.com/trending/7683713726092148755/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "女生自曝没考到年级前6被资助人拉黑",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E6%9B%9D%E6%B2%A1%E8%80%83%E5%88%B0%E5%B9%B4%E7%BA%A7%E5%89%8D6%E8%A2%AB%E8%B5%84%E5%8A%A9%E4%BA%BA%E6%8B%89%E9%BB%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "命案女逃犯潜逃25年被抓",
@@ -430,7 +491,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -444,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "泰安50岁“仙女姐姐”老师火了",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%8950%E5%B2%81%E2%80%9C%E4%BB%99%E5%A5%B3%E5%A7%90%E5%A7%90%E2%80%9D%E8%80%81%E5%B8%88%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "捐赠人回应被资助女孩质问没打生活费",
@@ -474,9 +546,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "因女儿不找对象 丈夫把妻子丢在高速",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E5%A5%B3%E5%84%BF%E4%B8%8D%E6%89%BE%E5%AF%B9%E8%B1%A1+%E4%B8%88%E5%A4%AB%E6%8A%8A%E5%A6%BB%E5%AD%90%E4%B8%A2%E5%9C%A8%E9%AB%98%E9%80%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "因女儿不找对象丈夫把妻子丢高速上",
@@ -485,9 +568,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "女篮世界杯：美国队108‑56匈牙利队",
+          "url": "https://www.toutiao.com/trending/7683864275771146246/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "妈妈称7岁白化病女儿出门被喊怪物",
@@ -496,9 +590,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "女生自曝没考到年级前6被资助人拉黑",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%87%AA%E6%9B%9D%E6%B2%A1%E8%80%83%E5%88%B0%E5%B9%B4%E7%BA%A7%E5%89%8D6%E8%A2%AB%E8%B5%84%E5%8A%A9%E4%BA%BA%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "男子出狱后又性侵智力障碍女子获刑",
@@ -507,7 +612,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -523,13 +628,35 @@
           "time_info": "01时39分"
         },
         {
+          "title": "16岁女孩被误诊脆骨病5年",
+          "url": "https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%AF%AF%E8%AF%8A%E8%84%86%E9%AA%A8%E7%97%855%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "酒馆老板娘被指诱骗15岁少女陪酒",
+          "url": "https://www.toutiao.com/trending/7683826623465291802/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "律师谈被资助女孩浓妆艳抹被停助",
           "url": "https://www.toutiao.com/trending/7683168662673342527/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
@@ -546,7 +673,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
