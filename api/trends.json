@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T18:47:44.554572+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-09-11T22:52:42.475888+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "中国女篮不敌法国无缘世界杯四强",
@@ -62,11 +62,12 @@
           "ranks": [
             9,
             14,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 18时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 22时52分]"
         },
         {
           "title": "房贷还不起,女子喊男友收房",
@@ -75,11 +76,12 @@
           "ranks": [
             10,
             15,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 18时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 22时52分]"
         },
         {
           "title": "14岁女生被多人殴打，重庆警方通报",
@@ -112,7 +114,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -166,6 +168,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 13时42分]"
+        },
+        {
+          "title": "止步世界杯八强，中国女篮须在失利中看清方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34048759",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 22时52分]"
         },
         {
           "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛？",
@@ -290,16 +305,63 @@
           "time_info": "[04时32分 ~ 06时58分]"
         },
         {
-          "title": "止步世界杯八强，中国女篮须在失利中看清方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34048759",
-          "source": "澎湃新闻",
+          "title": "3名俄男子被乌克兰女特工招募，称为其魅力倾倒(图)",
+          "url": "https://news.ifeng.com/c/8wKmIz5hmyO",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            11
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时42分 ~ 18时47分]"
+          "time_info": "[18时47分 ~ 22时52分]"
+        },
+        {
+          "title": "马上评｜女孩获救了，但“跨省抓人”不能就此翻篇",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34049773",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 22时52分]"
+        },
+        {
+          "title": "18岁女子加前男友微信，被现任发现，争吵后女子跳楼坠亡",
+          "url": "https://news.ifeng.com/c/8wKtF2g5zws",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 22时52分]"
+        },
+        {
+          "title": "女生吃瘪换手机,资助款续上了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363599&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%90%83%E7%98%AA%E6%8D%A2%E6%89%8B%E6%9C%BA%2C%E8%B5%84%E5%8A%A9%E6%AC%BE%E7%BB%AD%E4%B8%8A%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 22时52分]"
+        },
+        {
+          "title": "女星钟丽淇被曝进ICU 丈夫回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%9F%E9%92%9F%E4%B8%BD%E6%B7%87%E8%A2%AB%E6%9B%9D%E8%BF%9BICU+%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 22时52分]"
         },
         {
           "title": "坠楼砸坏宝马女孩伤势不重自己回家",
@@ -336,6 +398,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "官方通报男子编造女生催资助",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%A5%B3%E7%94%9F%E5%82%AC%E8%B5%84%E5%8A%A9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "中国女篮4年前赢法国14分如今输29分",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE4%E5%B9%B4%E5%89%8D%E8%B5%A2%E6%B3%95%E5%9B%BD14%E5%88%86%E5%A6%82%E4%BB%8A%E8%BE%9329%E5%88%86",
           "source": "百度热搜",
@@ -353,7 +426,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -375,9 +448,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
+        },
+        {
+          "title": "突然理解了一生爱出片的女人",
+          "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E4%B8%80%E7%94%9F%E7%88%B1%E5%87%BA%E7%89%87%E7%9A%84%E5%A5%B3%E4%BA%BA&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "陈熠晋级WTT澳门冠军赛女单8强",
@@ -386,7 +470,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -402,17 +486,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "3名俄男子被乌克兰女特工招募，称为其魅力倾倒(图)",
-          "url": "https://news.ifeng.com/c/8wKmIz5hmyO",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
           "title": "2岁女孩逛故宫指着文物让爸爸买",
           "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%80%9B%E6%95%85%E5%AE%AB%E6%8C%87%E7%9D%80%E6%96%87%E7%89%A9%E8%AE%A9%E7%88%B8%E7%88%B8%E4%B9%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -422,50 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
-        },
-        {
-          "title": "18岁女子加前男友微信，被现任发现，争吵后女子跳楼坠亡",
-          "url": "https://news.ifeng.com/c/8wKtF2g5zws",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "女生吃瘪换手机,资助款续上了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363599&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%90%83%E7%98%AA%E6%8D%A2%E6%89%8B%E6%9C%BA%2C%E8%B5%84%E5%8A%A9%E6%AC%BE%E7%BB%AD%E4%B8%8A%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "女星钟丽淇被曝进ICU 丈夫回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%9F%E9%92%9F%E4%B8%BD%E6%B7%87%E8%A2%AB%E6%9B%9D%E8%BF%9BICU+%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "马上评｜女孩获救了，但“跨省抓人”不能就此翻篇",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34049773",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         },
         {
           "title": "洪水中被蛇咬身亡女子家属起诉养殖户",
@@ -485,7 +514,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -507,7 +536,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -518,7 +547,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -551,7 +580,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -628,7 +657,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -639,7 +668,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -650,7 +679,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -661,7 +690,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -688,6 +717,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "广东女婴误吞电池26小时食道被腐蚀",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A5%B3%E5%A9%B4%E8%AF%AF%E5%90%9E%E7%94%B5%E6%B1%A026%E5%B0%8F%E6%97%B6%E9%A3%9F%E9%81%93%E8%A2%AB%E8%85%90%E8%9A%80",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "中国女篮29分不敌法国",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE29%E5%88%86%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -712,8 +752,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 22时52分]"
         },
         {
           "title": "为何王者荣耀世界的美术被质疑审美过时，而内部的上千精英大佬却未察觉？",
