@@ -1,0 +1,97 @@
+==================================================
+           📕 小红书文案生成
+==================================================
+
+【第一部分：封面图文案】
+1. 5个雷区💣女生必看
+2. 智商税收割机⚠️
+3. 塌房预警🚨避坑指南
+
+【第二部分：标题】
+1. 关于智商税，我想说点实话
+2. 消费降级时代的生存法则
+
+【第三部分：正文】
+默认AI不可用
+
+【第四部分：末尾固定人设标签】
+——我是小雷达，专注分享女生视角的生活洞察。不制造焦虑，只提供思考角度。下期见。
+
+【第五部分：首评钩子】
+1. 你们有没有踩过类似的智商税？评论区聊聊！
+2. 想看更多避坑内容的可以关注我！
+
+【第六部分：参考新闻链接】
+1. 中国女篮不敌法国 无缘世界杯四强
+   https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD+%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA
+2. 中国女篮无缘世界杯4强
+   https://www.toutiao.com/trending/7682919114865197066/
+3. 14岁女生被多人殴打，重庆警方通报
+   https://news.ifeng.com/c/8wJWenghQBA
+4. 女孩获救 但跨省抓人不能就此翻篇
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%8E%B7%E6%95%91+%E4%BD%86%E8%B7%A8%E7%9C%81%E6%8A%93%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%B0%B1%E6%AD%A4%E7%BF%BB%E7%AF%87
+5. 女篮不敌法国止步8强 张子宇送7失误
+   https://www.toutiao.com/trending/7683910121314848262/
+6. 泰安50岁“仙女姐姐”老师火了
+   https://www.toutiao.com/trending/7683713726092148755/
+7. 郑钦文这段话被联合国妇女署转发
+   https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%A2%AB%E8%81%94%E5%90%88%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%BD%B2%E8%BD%AC%E5%8F%91
+8. 女子用房车陪读称比租房经济
+   https://www.toutiao.com/trending/7683358423577804819/
+9. 因女儿不找对象 丈夫把妻子丢在高速
+   https://www.baidu.com/s?wd=%E5%9B%A0%E5%A5%B3%E5%84%BF%E4%B8%8D%E6%89%BE%E5%AF%B9%E8%B1%A1+%E4%B8%88%E5%A4%AB%E6%8A%8A%E5%A6%BB%E5%AD%90%E4%B8%A2%E5%9C%A8%E9%AB%98%E9%80%9F
+10. 罗杰斯：将中国股票留给女儿们
+   https://www.toutiao.com/trending/7683868463605154342/
+11. 越南女星回应合照被刘亦菲裁掉
+   https://www.toutiao.com/trending/7683793310908960266/
+12. 罗杰斯：将中国股票留给女儿们
+   https://www.baidu.com/s?wd=%E7%BD%97%E6%9D%B0%E6%96%AF%EF%BC%9A%E5%B0%86%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E7%95%99%E7%BB%99%E5%A5%B3%E5%84%BF%E4%BB%AC
+13. 人民日报评女生赴港追星取消低保
+   https://www.toutiao.com/trending/7683686814749753385/
+14. 中国女篮 体能消耗太大
+   https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE+%E4%BD%93%E8%83%BD%E6%B6%88%E8%80%97%E5%A4%AA%E5%A4%A7
+15. 止步世界杯八强，中国女篮须在失利中看清方向
+   https://www.thepaper.cn/newsDetail_forward_34048759
+16. 坠楼砸坏宝马女孩伤势不重自己回家
+   https://www.baidu.com/s?wd=%E5%9D%A0%E6%A5%BC%E7%A0%B8%E5%9D%8F%E5%AE%9D%E9%A9%AC%E5%A5%B3%E5%AD%A9%E4%BC%A4%E5%8A%BF%E4%B8%8D%E9%87%8D%E8%87%AA%E5%B7%B1%E5%9B%9E%E5%AE%B6
+17. 妈妈称7岁白化病女儿出门被喊怪物
+   https://www.toutiao.com/trending/7683435954390253578/
+18. 媒体：中国女篮的“中考”及格了
+   https://www.toutiao.com/trending/7683992771287810586/
+19. 中国女篮4年前赢法国14分如今输29分
+   https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE4%E5%B9%B4%E5%89%8D%E8%B5%A2%E6%B3%95%E5%9B%BD14%E5%88%86%E5%A6%82%E4%BB%8A%E8%BE%9329%E5%88%86
+20. 命案女逃犯潜逃25年在乌鲁木齐落网
+   https://www.toutiao.com/trending/7683505775041495590/
+21. 3名俄男子被乌克兰女特工招募，称为其魅力倾倒(图)
+   https://news.ifeng.com/c/8wKmIz5hmyO
+22. 18岁女子加前男友微信，被现任发现，争吵后女子跳楼坠亡
+   https://news.ifeng.com/c/8wKtF2g5zws
+23. 女星钟丽淇被曝进ICU 丈夫回应
+   https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%9F%E9%92%9F%E4%B8%BD%E6%B7%87%E8%A2%AB%E6%9B%9D%E8%BF%9BICU+%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94
+24. 马上评｜女孩获救了，但“跨省抓人”不能就此翻篇
+   https://www.thepaper.cn/newsDetail_forward_34049773
+25. 女子洪水中被蛇咬死 家属起诉养殖户
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%AA%E6%B0%B4%E4%B8%AD%E8%A2%AB%E8%9B%87%E5%92%AC%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B5%B7%E8%AF%89%E5%85%BB%E6%AE%96%E6%88%B7
+26. 失联13日女子遗体在川西折多河被找到
+   https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%9413%E6%97%A5%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E5%9C%A8%E5%B7%9D%E8%A5%BF%E6%8A%98%E5%A4%9A%E6%B2%B3%E8%A2%AB%E6%89%BE%E5%88%B0
+27. 投江女子身亡后聊天记录被男友删除
+   https://www.baidu.com/s?wd=%E6%8A%95%E6%B1%9F%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BA%A1%E5%90%8E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%88%A0%E9%99%A4
+28. 中国女篮在捧着金饭碗讨饭
+   https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%9C%A8%E6%8D%A7%E7%9D%80%E9%87%91%E9%A5%AD%E7%A2%97%E8%AE%A8%E9%A5%AD
+29. 特朗普给三位女助手各发4.5万美元被质疑违规，白宫：个人赠礼而已
+   https://www.thepaper.cn/newsDetail_forward_34042579
+30. 美住房部长企图拍打女议员臀部
+   https://www.toutiao.com/trending/7684067063761256511/
+31. 韩旭：希望更多女篮姑娘去海外打球
+   https://www.toutiao.com/trending/7683116227551756342/
+32. 女子被洪水冲来的眼镜蛇咬伤身亡
+   https://www.toutiao.com/trending/7684009575141442075/
+33. 媒体：缺少韩旭的中国女篮亚运怎么打
+   https://www.toutiao.com/trending/7684177950518051354/
+34. 女孩被包办婚姻逃离后父母跨省抓人
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%8C%85%E5%8A%9E%E5%A9%9A%E5%A7%BB%E9%80%83%E7%A6%BB%E5%90%8E%E7%88%B6%E6%AF%8D%E8%B7%A8%E7%9C%81%E6%8A%93%E4%BA%BA
+35. 女篮世界杯观察日记
+   https://www.toutiao.com/trending/7683086333276127286/
+36. 这些习惯会加速皮肤衰老
+   https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B9%A0%E6%83%AF%E4%BC%9A%E5%8A%A0%E9%80%9F%E7%9A%AE%E8%82%A4%E8%A1%B0%E8%80%81
+
