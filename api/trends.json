@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-11T06:58:14.054241+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-09-11T08:56:19.386615+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
-          "title": "中国女篮无缘世界杯4强",
-          "url": "https://www.toutiao.com/trending/7682919114865197066/",
-          "source": "今日头条",
+          "title": "中国女篮不敌法国无缘世界杯四强",
+          "url": "https://www.douyin.com/hot/2644229",
+          "source": "抖音",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时31分 ~ 06时58分]"
+          "time_info": "[01时31分 ~ 08时56分]"
         },
         {
           "title": "中国女篮不敌法国 无缘世界杯四强",
@@ -30,27 +30,29 @@
           "time_info": "[01时31分 ~ 06时58分]"
         },
         {
-          "title": "中国女篮不敌法国无缘世界杯四强",
-          "url": "https://www.douyin.com/hot/2644229",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
-        },
-        {
           "title": "女子旧手机号二次放号后支付宝被哈啰盗刷 6551 元，平台仅补 200 元，这合理吗？暴露了哪些问题？",
           "url": "https://www.zhihu.com/question/2081001656066504241",
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 08时56分]"
+        },
+        {
+          "title": "中国女篮无缘世界杯4强",
+          "url": "https://www.toutiao.com/trending/7682919114865197066/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 08时56分]"
         },
         {
           "title": "女篮不敌法国止步8强 张子宇送7失误",
@@ -78,6 +80,42 @@
           "time_info": "[04时32分 ~ 06时58分]"
         },
         {
+          "title": "14岁女生被多人殴打，重庆警方通报",
+          "url": "https://news.ifeng.com/c/8wJWenghQBA",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 08时56分]"
+        },
+        {
+          "title": "郑钦文这段话被联合国妇女署转发",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%A2%AB%E8%81%94%E5%90%88%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%BD%B2%E8%BD%AC%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28,
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 08时56分]"
+        },
+        {
+          "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2081332911245096714",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 08时56分]"
+        },
+        {
           "title": "女子用房车陪读称比租房经济",
           "url": "https://www.toutiao.com/trending/7683358423577804819/",
           "source": "今日头条",
@@ -89,6 +127,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 06时58分]"
+        },
+        {
+          "title": "百万粉吃播女网红因催吐去世",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363398&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E5%90%83%E6%92%AD%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E5%82%AC%E5%90%90%E5%8E%BB%E4%B8%96",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 08时56分]"
+        },
+        {
+          "title": "房贷还不起,女子喊男友收房",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363399&amp;topic_name=%E6%88%BF%E8%B4%B7%E8%BF%98%E4%B8%8D%E8%B5%B7%2C%E5%A5%B3%E5%AD%90%E5%96%8A%E7%94%B7%E5%8F%8B%E6%94%B6%E6%88%BF",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 08时56分]"
         },
         {
           "title": "因女儿不找对象 丈夫把妻子丢在高速",
@@ -104,15 +164,15 @@
           "time_info": "[01时31分 ~ 06时58分]"
         },
         {
-          "title": "14岁女生被多人殴打，重庆警方通报",
-          "url": "https://news.ifeng.com/c/8wJWenghQBA",
-          "source": "凤凰网",
+          "title": "劝阻吸烟被骂,女子拦停公交",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363438&amp;topic_name=%E5%8A%9D%E9%98%BB%E5%90%B8%E7%83%9F%E8%A2%AB%E9%AA%82%2C%E5%A5%B3%E5%AD%90%E6%8B%A6%E5%81%9C%E5%85%AC%E4%BA%A4",
+          "source": "贴吧",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时31分 ~ 06时58分]"
+          "time_info": "[01时31分 ~ 08时56分]"
         },
         {
           "title": "罗杰斯：将中国股票留给女儿们",
@@ -128,50 +188,39 @@
           "time_info": "[01时31分 ~ 06时58分]"
         },
         {
-          "title": "郑钦文这段话被联合国妇女署转发",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%A2%AB%E8%81%94%E5%90%88%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%BD%B2%E8%BD%AC%E5%8F%91",
-          "source": "百度热搜",
+          "title": "越南女星回应合照被刘亦菲裁掉",
+          "url": "https://www.toutiao.com/trending/7683793310908960266/",
+          "source": "今日头条",
           "ranks": [
-            30,
-            28,
+            23,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时32分 ~ 08时56分]"
+        },
+        {
+          "title": "大雁塔女子往井里塞缝衣针",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363405&amp;topic_name=%E5%A4%A7%E9%9B%81%E5%A1%94%E5%A5%B3%E5%AD%90%E5%BE%80%E4%BA%95%E9%87%8C%E5%A1%9E%E7%BC%9D%E8%A1%A3%E9%92%88",
+          "source": "贴吧",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时31分 ~ 06时58分]"
+          "time_info": "[01时31分 ~ 08时56分]"
         },
         {
-          "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2081332911245096714",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
-        },
-        {
-          "title": "百万粉吃播女网红因催吐去世",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363398&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E5%90%83%E6%92%AD%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E5%82%AC%E5%90%90%E5%8E%BB%E4%B8%96",
+          "title": "三哥地铁骚扰上海女孩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363289&amp;topic_name=%E4%B8%89%E5%93%A5%E5%9C%B0%E9%93%81%E9%AA%9A%E6%89%B0%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9",
           "source": "贴吧",
           "ranks": [
-            9
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
-        },
-        {
-          "title": "房贷还不起,女子喊男友收房",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363399&amp;topic_name=%E6%88%BF%E8%B4%B7%E8%BF%98%E4%B8%8D%E8%B5%B7%2C%E5%A5%B3%E5%AD%90%E5%96%8A%E7%94%B7%E5%8F%8B%E6%94%B6%E6%88%BF",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 08时56分]"
         },
         {
           "title": "罗杰斯：将中国股票留给女儿们",
@@ -198,46 +247,12 @@
           "time_info": "[01时31分 ~ 06时58分]"
         },
         {
-          "title": "劝阻吸烟被骂,女子拦停公交",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363438&amp;topic_name=%E5%8A%9D%E9%98%BB%E5%90%B8%E7%83%9F%E8%A2%AB%E9%AA%82%2C%E5%A5%B3%E5%AD%90%E6%8B%A6%E5%81%9C%E5%85%AC%E4%BA%A4",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
-        },
-        {
           "title": "人民日报评女生赴港追星取消低保",
           "url": "https://www.toutiao.com/trending/7683686814749753385/",
           "source": "今日头条",
           "ranks": [
             26,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
-        },
-        {
-          "title": "越南女星回应合照被刘亦菲裁掉",
-          "url": "https://www.toutiao.com/trending/7683793310908960266/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时32分 ~ 06时58分]"
-        },
-        {
-          "title": "大雁塔女子往井里塞缝衣针",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363405&amp;topic_name=%E5%A4%A7%E9%9B%81%E5%A1%94%E5%A5%B3%E5%AD%90%E5%BE%80%E4%BA%95%E9%87%8C%E5%A1%9E%E7%BC%9D%E8%A1%A3%E9%92%88",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -254,17 +269,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时32分 ~ 06时58分]"
-        },
-        {
-          "title": "三哥地铁骚扰上海女孩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363289&amp;topic_name=%E4%B8%89%E5%93%A5%E5%9C%B0%E9%93%81%E9%AA%9A%E6%89%B0%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时58分]"
         },
         {
           "title": "坠楼砸坏宝马女孩伤势不重自己回家",
@@ -290,6 +294,28 @@
           "time_info": "[06时57分 ~ 06时58分]"
         },
         {
+          "title": "媒体：中国女篮的“中考”及格了",
+          "url": "https://www.toutiao.com/trending/7683992771287810586/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "九尾妖狐三妖完成了女娲娘娘交给的任务却被姜子牙斩首了，死的冤不冤？",
+          "url": "https://www.zhihu.com/question/2079809515994857885",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "2岁女孩逛故宫指着文物让爸爸买",
           "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%80%9B%E6%95%85%E5%AE%AB%E6%8C%87%E7%9D%80%E6%96%87%E7%89%A9%E8%AE%A9%E7%88%B8%E7%88%B8%E4%B9%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -312,6 +338,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "重庆14女生被殴打7人被拘",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%8614%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AE%B4%E6%89%937%E4%BA%BA%E8%A2%AB%E6%8B%98%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "中国女篮VS法国女篮",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEVS%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -323,13 +360,46 @@
           "time_info": "01时31分"
         },
         {
+          "title": "特朗普给三位女助手各发4.5万美元被质疑违规，白宫：个人赠礼而已",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34042579",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "2026美网女单半决赛",
+          "url": "https://s.weibo.com/weibo?q=%232026%E7%BE%8E%E7%BD%91%E5%A5%B3%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "韩旭：希望更多女篮姑娘去海外打球",
+          "url": "https://www.toutiao.com/trending/7683116227551756342/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "91岁太姥骑车带2岁重孙女买零食",
           "url": "https://s.weibo.com/weibo?q=%2391%E5%B2%81%E5%A4%AA%E5%A7%A5%E9%AA%91%E8%BD%A6%E5%B8%A62%E5%B2%81%E9%87%8D%E5%AD%99%E5%A5%B3%E4%B9%B0%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -340,9 +410,54 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "当中式审美回到下颌角时代",
+          "url": "https://www.douyin.com/hot/2644069",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "为何王者荣耀世界的美术被质疑审美过时，而内部的上千精英大佬却未察觉？",
+          "url": "https://www.zhihu.com/question/2032386854570436068",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这些习惯会加速皮肤衰老",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B9%A0%E6%83%AF%E4%BC%9A%E5%8A%A0%E9%80%9F%E7%9A%AE%E8%82%A4%E8%A1%B0%E8%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     }
