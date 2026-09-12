@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-09-12T16:28:02.452986+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-09-12T20:42:26.442091+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "宜宾一镇干部否认推女子入厕强奸，警方复核称“有犯罪事实”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34052333",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 20时42分]"
+        },
         {
           "title": "女子花20万买房车陪读上高中儿子",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E4%B9%B0%E6%88%BF%E8%BD%A6%E9%99%AA%E8%AF%BB%E4%B8%8A%E9%AB%98%E4%B8%AD%E5%84%BF%E5%AD%90",
@@ -18,6 +31,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 16时28分]"
+        },
+        {
+          "title": "“宜宾一镇干部被指推女子入厕强奸”续：当地警方已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34056669",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 20时42分]"
         },
         {
           "title": "姆巴佩首个公开女友啥来头",
@@ -92,16 +117,17 @@
           "time_info": "[02时13分 ~ 07时56分]"
         },
         {
-          "title": "宜宾一镇干部否认推女子入厕强奸，警方复核称“有犯罪事实”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34052333",
-          "source": "澎湃新闻",
+          "title": "小钰生日,Rookie夸现任美女",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363737&amp;topic_name=%E5%B0%8F%E9%92%B0%E7%94%9F%E6%97%A5%2CRookie%E5%A4%B8%E7%8E%B0%E4%BB%BB%E7%BE%8E%E5%A5%B3",
+          "source": "贴吧",
           "ranks": [
-            8,
-            6
+            6,
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时53分 ~ 16时28分]"
+          "time_info": "[11时53分 ~ 20时42分]"
         },
         {
           "title": "3名俄男子被乌克兰女特工招募，称为其魅力倾倒(图)",
@@ -196,32 +222,9 @@
           "time_info": "[02时13分 ~ 07时56分]"
         },
         {
-          "title": "小钰生日,Rookie夸现任美女",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363737&amp;topic_name=%E5%B0%8F%E9%92%B0%E7%94%9F%E6%97%A5%2CRookie%E5%A4%B8%E7%8E%B0%E4%BB%BB%E7%BE%8E%E5%A5%B3",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 16时28分]"
-        },
-        {
           "title": "最尊重男扮女装的剧",
           "url": "https://www.baidu.com/s?wd=%E6%9C%80%E5%B0%8A%E9%87%8D%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E7%9A%84%E5%89%A7",
           "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "“宜宾一镇干部被指推女子入厕强奸”续：当地警方已立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34056669",
-          "source": "澎湃新闻",
           "ranks": [
             8
           ],
@@ -241,6 +244,17 @@
           "time_info": "[16时27分 ~ 16时28分]"
         },
         {
+          "title": "女子吃避孕药后久坐旅游患肺栓塞，一天坐车最多 12 小时，风险有多大？用药后哪些注意事项易被忽视？",
+          "url": "https://www.zhihu.com/question/2079657574324858948",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 20时42分]"
+        },
+        {
           "title": "泰国网红僧人被捕 身边女伴身份曝光",
           "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%83%A7%E4%BA%BA%E8%A2%AB%E6%8D%95+%E8%BA%AB%E8%BE%B9%E5%A5%B3%E4%BC%B4%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -252,15 +266,59 @@
           "time_info": "11时53分"
         },
         {
+          "title": "90后女生上门洗头",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E7%94%9F%E4%B8%8A%E9%97%A8%E6%B4%97%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "高级女助理收总统4.5万美元现金礼物，美国人吵翻了？",
+          "url": "https://news.ifeng.com/c/8wMVXrvTrkv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "最尊重男扮女装的剧",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%B0%8A%E9%87%8D%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E7%9A%84%E5%89%A7&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "郭晓婷自曝差点在日本女团出道",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%93%E5%A9%B7%E8%87%AA%E6%9B%9D%E5%B7%AE%E7%82%B9%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "“恩佳 N” 直播间鼓吹的抑菌片可让女性全脸年轻15岁，实为泡腾片",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34053721",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "女演员朱晏卖韭菜盒子？本人回应",
@@ -274,6 +332,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "女婴在月子中心无呼吸心跳送医死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%9C%A8%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%97%A0%E5%91%BC%E5%90%B8%E5%BF%83%E8%B7%B3%E9%80%81%E5%8C%BB%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "女子被洪水冲来的眼镜蛇咬伤身亡",
           "url": "https://www.toutiao.com/trending/7684009575141442075/",
           "source": "今日头条",
@@ -283,17 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        },
-        {
-          "title": "女子吃避孕药后久坐旅游患肺栓塞，一天坐车最多 12 小时，风险有多大？用药后哪些注意事项易被忽视？",
-          "url": "https://www.zhihu.com/question/2079657574324858948",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "蒋丽莎曝陈浩民曾给前女友买房",
@@ -340,13 +398,24 @@
           "time_info": "11时53分"
         },
         {
+          "title": "胡歌女儿觉得电视里的爸爸更帅",
+          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%A5%B3%E5%84%BF%E8%A7%89%E5%BE%97%E7%94%B5%E8%A7%86%E9%87%8C%E7%9A%84%E7%88%B8%E7%88%B8%E6%9B%B4%E5%B8%85",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "李梦新剧情郎男扮女装好刺激",
           "url": "https://www.douyin.com/hot/2646398",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
