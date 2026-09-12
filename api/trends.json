@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-12T11:53:23.428210+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-09-12T16:28:02.452986+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "女子花20万买房车陪读上高中儿子",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E4%B9%B0%E6%88%BF%E8%BD%A6%E9%99%AA%E8%AF%BB%E4%B8%8A%E9%AB%98%E4%B8%AD%E5%84%BF%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 16时28分]"
         },
         {
           "title": "姆巴佩首个公开女友啥来头",
@@ -25,7 +26,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -91,6 +92,18 @@
           "time_info": "[02时13分 ~ 07时56分]"
         },
         {
+          "title": "宜宾一镇干部否认推女子入厕强奸，警方复核称“有犯罪事实”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34052333",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 16时28分]"
+        },
+        {
           "title": "3名俄男子被乌克兰女特工招募，称为其魅力倾倒(图)",
           "url": "https://news.ifeng.com/c/8wKmIz5hmyO",
           "source": "凤凰网",
@@ -100,6 +113,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 07时56分]"
+        },
+        {
+          "title": "44岁女子包车回老家杀害七旬夫妇，行凶后洗脸淡定离开",
+          "url": "https://news.ifeng.com/c/8wLwpKzBnRi",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 16时28分]"
         },
         {
           "title": "女婴误吞电池26小时食道被腐蚀",
@@ -123,6 +147,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 07时56分]"
+        },
+        {
+          "title": "泰国网红僧人涉贪腐被捕，身边47岁女伴身份曝光",
+          "url": "https://news.ifeng.com/c/8wLuyotCuMh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 16时28分]"
         },
         {
           "title": "小女孩坐笔直满眼期待老师发小红花",
@@ -161,59 +196,71 @@
           "time_info": "[02时13分 ~ 07时56分]"
         },
         {
+          "title": "小钰生日,Rookie夸现任美女",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363737&amp;topic_name=%E5%B0%8F%E9%92%B0%E7%94%9F%E6%97%A5%2CRookie%E5%A4%B8%E7%8E%B0%E4%BB%BB%E7%BE%8E%E5%A5%B3",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 16时28分]"
+        },
+        {
+          "title": "最尊重男扮女装的剧",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E5%B0%8A%E9%87%8D%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E7%9A%84%E5%89%A7",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "“宜宾一镇干部被指推女子入厕强奸”续：当地警方已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34056669",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "郭晓婷曾差点在日本女团出道",
+          "url": "https://www.toutiao.com/trending/7684490165117288484/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "泰国网红僧人被捕 身边女伴身份曝光",
           "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%83%A7%E4%BA%BA%E8%A2%AB%E6%8D%95+%E8%BA%AB%E8%BE%B9%E5%A5%B3%E4%BC%B4%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
         {
-          "title": "小钰生日,Rookie夸现任美女",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363737&amp;topic_name=%E5%B0%8F%E9%92%B0%E7%94%9F%E6%97%A5%2CRookie%E5%A4%B8%E7%8E%B0%E4%BB%BB%E7%BE%8E%E5%A5%B3",
-          "source": "贴吧",
+          "title": "最尊重男扮女装的剧",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%B0%8A%E9%87%8D%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E7%9A%84%E5%89%A7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "宜宾一镇干部否认推女子入厕强奸，警方复核称“有犯罪事实”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34052333",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "44岁女子包车回老家杀害七旬夫妇，行凶后洗脸淡定离开",
-          "url": "https://news.ifeng.com/c/8wLwpKzBnRi",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "泰国网红僧人涉贪腐被捕，身边47岁女伴身份曝光",
-          "url": "https://news.ifeng.com/c/8wLuyotCuMh",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "16时28分"
         },
         {
           "title": "女演员朱晏卖韭菜盒子？本人回应",
@@ -222,7 +269,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -238,13 +285,24 @@
           "time_info": "05时34分"
         },
         {
+          "title": "女子吃避孕药后久坐旅游患肺栓塞，一天坐车最多 12 小时，风险有多大？用药后哪些注意事项易被忽视？",
+          "url": "https://www.zhihu.com/question/2079657574324858948",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "蒋丽莎曝陈浩民曾给前女友买房",
           "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%B8%BD%E8%8E%8E%E6%9B%9D%E9%99%88%E6%B5%A9%E6%B0%91%E6%9B%BE%E7%BB%99%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%B9%B0%E6%88%BF%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -266,7 +324,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -277,9 +335,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "李梦新剧情郎男扮女装好刺激",
+          "url": "https://www.douyin.com/hot/2646398",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -294,7 +363,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
