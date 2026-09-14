@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T06:57:51.169784+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-09-14T08:54:35.046756+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗女孩回忆遭美军轰炸：我看到我手上露出了骨头",
@@ -38,11 +38,12 @@
           "ranks": [
             11,
             13,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 08时54分]"
         },
         {
           "title": "倒反天罡,伏羲女娲被韩国认领",
@@ -52,19 +53,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 08时54分]"
         },
         {
           "title": "尾号985车送女儿报到事件反转",
           "url": "https://www.douyin.com/hot/2647546",
           "source": "抖音",
           "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 08时54分]"
+        },
+        {
+          "title": "演唱会女生拒绝男友亲吻转头亲闺蜜",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E7%94%B7%E5%8F%8B%E4%BA%B2%E5%90%BB%E8%BD%AC%E5%A4%B4%E4%BA%B2%E9%97%BA%E8%9C%9C",
+          "source": "百度热搜",
+          "ranks": [
+            14,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 08时54分]"
         },
         {
           "title": "炸裂,北工大两女装大佬互啃",
@@ -74,19 +88,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 08时54分]"
         },
         {
-          "title": "演唱会女生拒绝男友亲吻转头亲闺蜜",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E7%94%B7%E5%8F%8B%E4%BA%B2%E5%90%BB%E8%BD%AC%E5%A4%B4%E4%BA%B2%E9%97%BA%E8%9C%9C",
+          "title": "银环蛇爬进房间 女孩被沙沙声被吵醒",
+          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E7%8E%AF%E8%9B%87%E7%88%AC%E8%BF%9B%E6%88%BF%E9%97%B4+%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%B2%99%E6%B2%99%E5%A3%B0%E8%A2%AB%E5%90%B5%E9%86%92",
           "source": "百度热搜",
           "ranks": [
-            14
+            21,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "time_info": "[01时58分 ~ 08时54分]"
         },
         {
           "title": "张本美和回应女单夺冠",
@@ -100,6 +115,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 06时57分]"
+        },
+        {
+          "title": "刚上大学的少女心事",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%9A%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%B0%91%E5%A5%B3%E5%BF%83%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 08时54分]"
         },
         {
           "title": "女生在飞机上看到震撼的大国基建",
@@ -126,28 +153,6 @@
           "time_info": "[01时58分 ~ 06时57分]"
         },
         {
-          "title": "银环蛇爬进房间 女孩被沙沙声被吵醒",
-          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E7%8E%AF%E8%9B%87%E7%88%AC%E8%BF%9B%E6%88%BF%E9%97%B4+%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%B2%99%E6%B2%99%E5%A3%B0%E8%A2%AB%E5%90%B5%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 06时57分]"
-        },
-        {
-          "title": "刚上大学的少女心事",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%9A%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%B0%91%E5%A5%B3%E5%BF%83%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
           "title": "女子拍下骇人巨型蜗牛引热议",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8D%E4%B8%8B%E9%AA%87%E4%BA%BA%E5%B7%A8%E5%9E%8B%E8%9C%97%E7%89%9B%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -157,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "网红墙绘孤独少女被围挡增添孤寂感",
+          "url": "https://www.toutiao.com/trending/7684970771168477220/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "女儿房间怪味难消爸爸挪开柜子看傻",
@@ -170,6 +186,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "兰香如故男女主第七集终于说上话了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%AC%AC%E4%B8%83%E9%9B%86%E7%BB%88%E4%BA%8E%E8%AF%B4%E4%B8%8A%E8%AF%9D%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "国乒女单冠军赛颗粒无收",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%E8%B5%9B%E9%A2%97%E7%B2%92%E6%97%A0%E6%94%B6&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -179,6 +206,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么扎根西北的兰州大学，没有吃到「工科苦行僧」审美的红利？",
+          "url": "https://www.zhihu.com/question/2068727162681692756",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     }
