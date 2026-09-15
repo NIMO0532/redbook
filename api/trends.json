@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T15:21:46.973065+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-09-15T21:14:55.463127+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "女子拍到骇人巨型蜗牛引热议，它可能是哪种物种？会带来哪些潜在风险？",
@@ -25,11 +25,25 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364287&amp;topic_name=%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%B1%82%E6%AD%BB%E5%88%91%E6%8D%85%E6%9D%80%E8%80%81%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 21时14分]"
+        },
+        {
+          "title": "日本警察车内偷情女下属",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364147&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%AF%9F%E8%BD%A6%E5%86%85%E5%81%B7%E6%83%85%E5%A5%B3%E4%B8%8B%E5%B1%9E",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 21时14分]"
         },
         {
           "title": "北京一独居者离世，无配偶、子女、兄弟姐妹，叔舅姑姨九人争遗产，法院判房产归国家，如何从法律角度解读？",
@@ -43,18 +57,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 09时15分]"
-        },
-        {
-          "title": "日本警察车内偷情女下属",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364147&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%AF%9F%E8%BD%A6%E5%86%85%E5%81%B7%E6%83%85%E5%A5%B3%E4%B8%8B%E5%B1%9E",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 15时21分]"
         },
         {
           "title": "女童喝红牛,医生建议洗胃被挂",
@@ -125,6 +127,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 06时19分]"
+        },
+        {
+          "title": "被踢出845个工作群，女子遭公司“冷处理”最新后续：公积金追缴已到账",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34069445",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 21时14分]"
+        },
+        {
+          "title": "日本女演员在公关男友家自杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364283&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E5%85%AC%E5%85%B3%E7%94%B7%E5%8F%8B%E5%AE%B6%E8%87%AA%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 21时14分]"
+        },
+        {
+          "title": "女子骑车遭线缆勒颈身亡，警方介入",
+          "url": "https://news.ifeng.com/c/8wQEGFmgtpF",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 21时14分]"
         },
         {
           "title": "女子因7旬老人居住环境脏乱捅其6刀",
@@ -201,7 +238,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -223,20 +260,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
         {
-          "title": "日本女演员在公关男友家自杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364283&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E5%85%AC%E5%85%B3%E7%94%B7%E5%8F%8B%E5%AE%B6%E8%87%AA%E6%9D%80",
-          "source": "贴吧",
+          "title": "晚晚女装销售额破1000万",
+          "url": "https://www.baidu.com/s?wd=%E6%99%9A%E6%99%9A%E5%A5%B3%E8%A3%85%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B41000%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "21时14分"
         },
         {
           "title": "中国女足5:1中国香港女足",
@@ -250,15 +287,15 @@
           "time_info": "02时24分"
         },
         {
-          "title": "女子骑车遭线缆勒颈身亡，警方介入",
-          "url": "https://news.ifeng.com/c/8wQEGFmgtpF",
-          "source": "凤凰网",
+          "title": "退役女将军亲历北京香山论坛20年",
+          "url": "https://www.toutiao.com/trending/7685721355165728822/",
+          "source": "今日头条",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "21时14分"
         },
         {
           "title": "独身女子离世 叔姑舅姨9人争遗产",
@@ -267,7 +304,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -278,9 +315,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "董力儿女混血高颜值正面照首公开",
+          "url": "https://www.toutiao.com/trending/7685636089087885354/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "8岁女童被男孩推倒后用电话手表报警",
@@ -289,9 +337,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "为帮子女养娃 美国婴儿潮一代牺牲退休储蓄",
+          "url": "https://wallstreetcn.com/livenews/3165537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
+          "title": "如何看待女子称被公职人员推入自家烧烤店厕所强奸，县公安局不予立案，市公安局复核认定有犯罪事实？",
+          "url": "https://www.zhihu.com/question/2082117281681875625",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "女子买的“八角”数出13个角竟有剧毒",
@@ -300,20 +370,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
         {
-          "title": "被踢出845个工作群，女子遭公司“冷处理”最新后续：公积金追缴已到账",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34069445",
-          "source": "澎湃新闻",
+          "title": "前女足国脚高宏霞手握 29 个全国冠军，退役后当城管 19 年，这种职业转变有何意义？",
+          "url": "https://www.zhihu.com/question/2082918732372956669",
+          "source": "知乎",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "21时14分"
         },
         {
           "title": "妈妈吃无碘盐致女儿2岁多不会说话",
@@ -327,13 +397,24 @@
           "time_info": "02时24分"
         },
         {
+          "title": "出生6天死亡女婴已尸检",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F6%E5%A4%A9%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%A9%B4%E5%B7%B2%E5%B0%B8%E6%A3%80%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "揭秘女婴死亡月子中心",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%A5%B3%E5%A9%B4%E6%AD%BB%E4%BA%A1%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -344,7 +425,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -355,9 +436,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "6岁女孩边捡垃圾边哭说我要上学",
+          "url": "https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BE%B9%E6%8D%A1%E5%9E%83%E5%9C%BE%E8%BE%B9%E5%93%AD%E8%AF%B4%E6%88%91%E8%A6%81%E4%B8%8A%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "哈萨克斯坦执勤女警遭公主抱被开除",
@@ -366,7 +458,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -377,7 +469,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
