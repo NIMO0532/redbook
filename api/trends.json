@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T17:26:48.122479+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-09-18T22:10:47.976380+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "初代网红“晚晚”做女装月销额破千万",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时58分 ~ 12时28分]"
+        },
+        {
+          "title": "太惊险,女子被夹地铁门1分钟",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364627&amp;topic_name=%E5%A4%AA%E6%83%8A%E9%99%A9%2C%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%A4%B9%E5%9C%B0%E9%93%81%E9%97%A81%E5%88%86%E9%92%9F",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            19,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 22时10分]"
         },
         {
           "title": "马来西亚女子昆明认出外公照片",
@@ -73,7 +87,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -89,19 +103,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 07时58分]"
-        },
-        {
-          "title": "太惊险,女子被夹地铁门1分钟",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364627&amp;topic_name=%E5%A4%AA%E6%83%8A%E9%99%A9%2C%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%A4%B9%E5%9C%B0%E9%93%81%E9%97%A81%E5%88%86%E9%92%9F",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 17时26分]"
         },
         {
           "title": "23岁女孩吃半年避孕药险猝死",
@@ -127,6 +128,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 07时58分]"
+        },
+        {
+          "title": "女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34090377",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 22时10分]"
         },
         {
           "title": "女子生育后双目失明双耳失聪",
@@ -190,16 +204,15 @@
           "time_info": "[01时58分 ~ 05时15分]"
         },
         {
-          "title": "女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34090377",
-          "source": "澎湃新闻",
+          "title": "21岁巴西女网红被拖出家门当街枪杀，其父全程目睹",
+          "url": "https://news.ifeng.com/c/8wWQHfYXhQl",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时28分 ~ 17时26分]"
+          "time_info": "[17时26分 ~ 22时10分]"
         },
         {
           "title": "女子拍下米虫从米粒中破壳钻出过程",
@@ -297,7 +310,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -313,15 +326,15 @@
           "time_info": "12时28分"
         },
         {
-          "title": "21岁巴西女网红被拖出家门当街枪杀，其父全程目睹",
-          "url": "https://news.ifeng.com/c/8wWQHfYXhQl",
-          "source": "凤凰网",
+          "title": "《被裁掉的女孩》走红背后",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E",
+          "source": "百度热搜",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "22时10分"
         },
         {
           "title": "女子生孩子后失明失聪家人发声",
@@ -374,7 +387,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -385,7 +398,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -412,6 +425,28 @@
           "time_info": "07时58分"
         },
         {
+          "title": "女子隐瞒孩子非亲生构成重大欺诈",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9A%90%E7%9E%92%E5%AD%A9%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%9E%84%E6%88%90%E9%87%8D%E5%A4%A7%E6%AC%BA%E8%AF%88%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "巴西女网红被拖出家门当街枪杀",
+          "url": "https://www.toutiao.com/trending/7686686604333219876/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "女子持菜刀欲砍人 老板娘徒手夺刀",
           "url": "https://www.toutiao.com/trending/7685763041694482495/",
           "source": "今日头条",
@@ -432,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "男子编虚假信息胁迫女生发生关系获刑",
+          "url": "https://www.toutiao.com/trending/7686774738937905188/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
@@ -446,11 +492,12 @@
           "ranks": [
             6,
             10,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 17时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 22时10分]"
         },
         {
           "title": "新手化妆步骤极简版来了",
@@ -471,7 +518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -482,7 +529,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
