@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-19T02:07:42.384199+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-09-19T05:28:11.587077+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 05时28分]"
         },
         {
           "title": "21岁巴西女网红被拖出家门当街枪杀，其父全程目睹",
@@ -26,8 +26,55 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 05时28分]"
+        },
+        {
+          "title": "产后失明失聪女子：从不后悔生娃",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E5%90%8E%E5%A4%B1%E6%98%8E%E5%A4%B1%E8%81%AA%E5%A5%B3%E5%AD%90%EF%BC%9A%E4%BB%8E%E4%B8%8D%E5%90%8E%E6%82%94%E7%94%9F%E5%A8%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 05时28分]"
+        },
+        {
+          "title": "女子称失踪闺蜜托梦暗示尸骸位置",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%A4%B1%E8%B8%AA%E9%97%BA%E8%9C%9C%E6%89%98%E6%A2%A6%E6%9A%97%E7%A4%BA%E5%B0%B8%E9%AA%B8%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 05时28分]"
+        },
+        {
+          "title": "女子吐槽吃魏家凉皮牛肉堡像喝油",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%90%83%E9%AD%8F%E5%AE%B6%E5%87%89%E7%9A%AE%E7%89%9B%E8%82%89%E5%A0%A1%E5%83%8F%E5%96%9D%E6%B2%B9%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 05时28分]"
+        },
+        {
+          "title": "东北女孩在广州街边画彩绘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%B9%BF%E5%B7%9E%E8%A1%97%E8%BE%B9%E7%94%BB%E5%BD%A9%E7%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
         },
         {
           "title": "20吨货车溜车女司机徒手拽停",
@@ -41,44 +88,11 @@
           "time_info": "02时07分"
         },
         {
-          "title": "女子称失踪闺蜜托梦暗示尸骸位置",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%A4%B1%E8%B8%AA%E9%97%BA%E8%9C%9C%E6%89%98%E6%A2%A6%E6%9A%97%E7%A4%BA%E5%B0%B8%E9%AA%B8%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "女子吐槽吃魏家凉皮牛肉堡像喝油",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%90%83%E9%AD%8F%E5%AE%B6%E5%87%89%E7%9A%AE%E7%89%9B%E8%82%89%E5%A0%A1%E5%83%8F%E5%96%9D%E6%B2%B9%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
           "title": "《被裁掉的女孩》走红背后",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E",
           "source": "百度热搜",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "产后失明失聪女子：从不后悔生娃",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E5%90%8E%E5%A4%B1%E6%98%8E%E5%A4%B1%E8%81%AA%E5%A5%B3%E5%AD%90%EF%BC%9A%E4%BB%8E%E4%B8%8D%E5%90%8E%E6%82%94%E7%94%9F%E5%A8%83",
-          "source": "百度热搜",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -98,8 +112,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 05时28分]"
         }
       ]
     }
