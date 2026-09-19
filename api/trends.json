@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T03:13:58.272680+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-09-20T06:13:23.221948+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国女篮111:46大胜泰国",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
         },
         {
           "title": "日本女子给丈夫投毒被判无罪",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
         },
         {
           "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
         },
         {
           "title": "深圳一高中女老师上课讲话爆火",
@@ -51,8 +51,94 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "美色情电影制片人家藏失踪女子影像",
+          "url": "https://www.toutiao.com/trending/7686426138782302250/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "丈夫家暴妻子致死子女出具谅解书",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E5%AD%90%E5%A5%B3%E5%87%BA%E5%85%B7%E8%B0%85%E8%A7%A3%E4%B9%A6%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "父女在商场遭人围堵4岁女儿被吓哭",
+          "url": "https://www.toutiao.com/trending/7687057473010106409/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "父女在商场遭人围堵4岁女儿被吓哭",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%A5%B3%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BA%BA%E5%9B%B4%E5%A0%B54%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%90%93%E5%93%AD%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "女子淡定放生1米多长双头蛇",
+          "url": "https://www.toutiao.com/trending/7687078914254061606/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "贵州毕节一中学老师给女学生发骚扰信息，警方和纪委已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34103562",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "40岁许嵩结婚 女方为00后主持人",
+          "url": "https://www.toutiao.com/trending/7687095191551344690/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
         },
         {
           "title": "一年级女孩不识字拿书靠“人脸识别”",
@@ -67,87 +153,16 @@
           "time_info": "[00时21分 ~ 03时13分]"
         },
         {
-          "title": "丈夫家暴妻子致死子女出具谅解书",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E5%AD%90%E5%A5%B3%E5%87%BA%E5%85%B7%E8%B0%85%E8%A7%A3%E4%B9%A6%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "当红好莱坞女星大尺度广告翻车",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%BA%A2%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A5%B3%E6%98%9F%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%B9%BF%E5%91%8A%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "父女在商场遭人围堵4岁女儿被吓哭",
-          "url": "https://www.toutiao.com/trending/7687057473010106409/",
-          "source": "今日头条",
-          "ranks": [
-            13,
+            17,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "父女在商场遭人围堵4岁女儿被吓哭",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%A5%B3%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BA%BA%E5%9B%B4%E5%A0%B54%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%90%93%E5%93%AD%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "女子淡定放生1米多长双头蛇",
-          "url": "https://www.toutiao.com/trending/7687078914254061606/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "贵州毕节一中学老师给女学生发骚扰信息，警方和纪委已介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34103562",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "美色情电影制片人家藏失踪女子影像",
-          "url": "https://www.toutiao.com/trending/7686426138782302250/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "40岁许嵩结婚 女方为00后主持人",
-          "url": "https://www.toutiao.com/trending/7687095191551344690/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 06时13分]"
         },
         {
           "title": "于正承认秦岚是延禧攻略女主",
@@ -161,15 +176,26 @@
           "time_info": "00时21分"
         },
         {
-          "title": "当红好莱坞女星大尺度广告翻车",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%BA%A2%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A5%B3%E6%98%9F%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%B9%BF%E5%91%8A%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "AI女演员访谈卡壳后突然飙粤语",
+          "url": "https://www.toutiao.com/trending/7686681621265055790/",
+          "source": "今日头条",
           "ranks": [
-            17
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "06时13分"
+        },
+        {
+          "title": "孙颖莎 亚运女团",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%9B%A2&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -186,8 +212,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
         }
       ]
     },
@@ -200,11 +226,12 @@
           "url": "https://www.zhihu.com/question/2084709350677771843",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时13分]"
         }
       ]
     }
