@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-09-19T07:56:43.876501+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-09-19T11:58:36.318904+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "女装到底怎么了",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E8%A3%85%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "21岁巴西女网红被拖出家门当街枪杀，其父全程目睹",
+          "url": "https://news.ifeng.com/c/8wWQHfYXhQl",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 11时58分]"
+        },
         {
           "title": "女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_34090377",
@@ -14,17 +37,6 @@
           "ranks": [
             7,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时07分 ~ 07时56分]"
-        },
-        {
-          "title": "21岁巴西女网红被拖出家门当街枪杀，其父全程目睹",
-          "url": "https://news.ifeng.com/c/8wWQHfYXhQl",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -79,6 +91,61 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
+          "title": "AI女演员访谈突然卡壳 下秒飙粤语",
+          "url": "https://www.baidu.com/s?wd=AI%E5%A5%B3%E6%BC%94%E5%91%98%E8%AE%BF%E8%B0%88%E7%AA%81%E7%84%B6%E5%8D%A1%E5%A3%B3+%E4%B8%8B%E7%A7%92%E9%A3%99%E7%B2%A4%E8%AF%AD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "中国女篮65分狂胜泰国夺亚运开门红",
+          "url": "https://www.toutiao.com/trending/7686286457199181850/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "中国女篮111:46大胜泰国",
+          "url": "https://www.douyin.com/hot/2656070",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "当红好莱坞女星大尺度广告翻车",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%BA%A2%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A5%B3%E6%98%9F%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%B9%BF%E5%91%8A%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "中国女篮亚运会开门红",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
           "title": "20吨货车溜车女司机徒手拽停",
           "url": "https://www.toutiao.com/trending/7685902858901929990/",
           "source": "今日头条",
@@ -96,7 +163,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -122,11 +189,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364628&amp;topic_name=%E4%B8%8D%E6%BC%94%E4%BA%86%21%E7%A2%A7%E8%93%9D%E9%87%91%E9%B9%BF%E7%9A%AE%E8%82%A4%E8%A2%AB%E6%9B%9D%E7%94%A8AI",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 11时58分]"
         }
       ]
     }
