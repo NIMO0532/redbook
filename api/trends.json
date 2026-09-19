@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-19T16:44:38.869985+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-09-19T20:57:40.082587+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "中国女篮111:46大胜泰国",
+          "url": "https://www.douyin.com/hot/2656070",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 20时57分]"
+        },
         {
           "title": "21岁巴西女网红被拖出家门当街枪杀，其父全程目睹",
           "url": "https://news.ifeng.com/c/8wWQHfYXhQl",
@@ -26,18 +38,6 @@
           "ranks": [
             2,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 16时44分]"
-        },
-        {
-          "title": "中国女篮111:46大胜泰国",
-          "url": "https://www.douyin.com/hot/2656070",
-          "source": "抖音",
-          "ranks": [
-            11,
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -79,6 +79,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时07分 ~ 07时56分]"
+        },
+        {
+          "title": "女子淡定放生1米多长双头蛇",
+          "url": "https://www.toutiao.com/trending/7687078914254061606/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 20时57分]"
+        },
+        {
+          "title": "日本19岁女孩卖淫日接待3至4人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC19%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E6%B7%AB%E6%97%A5%E6%8E%A5%E5%BE%853%E8%87%B34%E4%BA%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 20时57分]"
         },
         {
           "title": "女子吐槽吃魏家凉皮牛肉堡像喝油",
@@ -126,26 +150,37 @@
           "time_info": "11时58分"
         },
         {
+          "title": "父女在商场遭人围堵4岁女儿被吓哭",
+          "url": "https://www.toutiao.com/trending/7687057473010106409/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "女生撞脸张柏芝火了 本人回应",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%92%9E%E8%84%B8%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%81%AB%E4%BA%86+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
         {
-          "title": "女子淡定放生1米多长双头蛇",
-          "url": "https://www.toutiao.com/trending/7687078914254061606/",
-          "source": "今日头条",
+          "title": "父女在商场遭人围堵4岁女儿被吓哭",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B6%E5%A5%B3%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BA%BA%E5%9B%B4%E5%A0%B54%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%90%93%E5%93%AD",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "20时57分"
         },
         {
           "title": "当红好莱坞女星大尺度广告翻车",
@@ -165,9 +200,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "父女在商场遭人围堵4岁女儿被吓哭",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%A5%B3%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BA%BA%E5%9B%B4%E5%A0%B54%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%90%93%E5%93%AD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "中国女篮亚运会开门红",
@@ -187,7 +233,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -203,24 +249,13 @@
           "time_info": "02时07分"
         },
         {
-          "title": "日本19岁女孩卖淫日接待3至4人",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC19%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E6%B7%AB%E6%97%A5%E6%8E%A5%E5%BE%853%E8%87%B34%E4%BA%BA%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
           "title": "女子看短剧发现演员是游戏骗子",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%9F%AD%E5%89%A7%E5%8F%91%E7%8E%B0%E6%BC%94%E5%91%98%E6%98%AF%E6%B8%B8%E6%88%8F%E9%AA%97%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -264,6 +299,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时07分 ~ 16时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待名古屋亚运会开幕式被吐槽诡异、审美丑？此前东京奥运会也遭吐槽，为何日式审美总给人感觉很阴冷？",
+          "url": "https://www.zhihu.com/question/2084709350677771843",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     }
