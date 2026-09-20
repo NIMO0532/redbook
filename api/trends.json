@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-20T13:50:08.488049+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-09-20T18:51:06.320141+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 32,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "40岁许嵩结婚 女方为00后主持人",
+          "url": "https://www.toutiao.com/trending/7687095191551344690/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 18时51分]"
+        },
         {
           "title": "中国女篮111:46大胜泰国",
           "url": "https://www.douyin.com/hot/2656070",
@@ -20,6 +32,19 @@
           "time_info": "[00时21分 ~ 06时13分]"
         },
         {
+          "title": "日本女子给丈夫投毒被判无罪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364893&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E7%BB%99%E4%B8%88%E5%A4%AB%E6%8A%95%E6%AF%92%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 18时51分]"
+        },
+        {
           "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
           "url": "https://www.zhihu.com/question/2082375926558599005",
           "source": "知乎",
@@ -28,18 +53,6 @@
             5,
             3,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 13时50分]"
-        },
-        {
-          "title": "日本女子给丈夫投毒被判无罪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364893&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E7%BB%99%E4%B8%88%E5%A4%AB%E6%8A%95%E6%AF%92%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -72,17 +85,6 @@
           "time_info": "[00时21分 ~ 13时50分]"
         },
         {
-          "title": "40岁许嵩结婚 女方为00后主持人",
-          "url": "https://www.toutiao.com/trending/7687095191551344690/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 13时50分]"
-        },
-        {
           "title": "老乡鸡董事长嫁女",
           "url": "https://www.toutiao.com/trending/7687223445677047858/",
           "source": "今日头条",
@@ -92,6 +94,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "她曾说“一切美好都自有其时”，8岁加沙女孩外出买食物时遭袭身亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34105532",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 18时51分]"
         },
         {
           "title": "贵州一中学老师给女学生发「我从未停止过爱你」等骚扰信息，已被调岗，警方和纪委介入，他还将承担哪些责任？",
@@ -131,6 +145,18 @@
           "time_info": "[00时21分 ~ 08时46分]"
         },
         {
+          "title": "60岁产妇生下女儿 2年前生下儿子",
+          "url": "https://www.baidu.com/s?wd=60%E5%B2%81%E4%BA%A7%E5%A6%87%E7%94%9F%E4%B8%8B%E5%A5%B3%E5%84%BF+2%E5%B9%B4%E5%89%8D%E7%94%9F%E4%B8%8B%E5%84%BF%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 18时51分]"
+        },
+        {
           "title": "一年级女孩不识字拿书靠“人脸识别”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E4%B8%8D%E8%AF%86%E5%AD%97%E6%8B%BF%E4%B9%A6%E9%9D%A0%E2%80%9C%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E2%80%9D",
           "source": "百度热搜",
@@ -144,15 +170,26 @@
           "time_info": "[00时21分 ~ 08时46分]"
         },
         {
-          "title": "她曾说“一切美好都自有其时”，8岁加沙女孩外出买食物时遭袭身亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34105532",
-          "source": "澎湃新闻",
+          "title": "台湾发生“冰柜藏尸案”，男子疑因不满被分手杀害泰籍女友",
+          "url": "https://news.ifeng.com/c/8wZMReK9Y1F",
+          "source": "凤凰网",
           "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时45分 ~ 13时50分]"
+          "time_info": "[13时49分 ~ 18时51分]"
+        },
+        {
+          "title": "女子称被快递员推门看光，多方回应",
+          "url": "https://news.ifeng.com/c/8wZFhAJi9Tv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 18时51分]"
         },
         {
           "title": "美色情电影制片人家藏失踪女子影像",
@@ -206,37 +243,50 @@
           "time_info": "[06时13分 ~ 08时46分]"
         },
         {
-          "title": "60岁产妇生下女儿 2年前生下儿子",
-          "url": "https://www.baidu.com/s?wd=60%E5%B2%81%E4%BA%A7%E5%A6%87%E7%94%9F%E4%B8%8B%E5%A5%B3%E5%84%BF+2%E5%B9%B4%E5%89%8D%E7%94%9F%E4%B8%8B%E5%84%BF%E5%AD%90",
-          "source": "百度热搜",
+          "title": "国乒女团3-1中国澳门 孙颖莎独得2分",
+          "url": "https://www.toutiao.com/trending/7687483988299022379/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
-          "title": "台湾发生“冰柜藏尸案”，男子疑因不满被分手杀害泰籍女友",
-          "url": "https://news.ifeng.com/c/8wZMReK9Y1F",
-          "source": "凤凰网",
+          "title": "司机好心补路、拉绳警示，导致路过女子被绳索勒颈身亡，被以过失致人死亡罪逮捕，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2083518548656252894",
+          "source": "知乎",
           "ranks": [
-            9
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "time_info": "[13时50分 ~ 18时51分]"
         },
         {
-          "title": "女子称被快递员推门看光，多方回应",
-          "url": "https://news.ifeng.com/c/8wZFhAJi9Tv",
+          "title": "拽头发拖行！印度民防队员当街殴打女子惹众怒",
+          "url": "https://v.ifeng.com/c/8wZGyBqimaZ",
           "source": "凤凰网",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
+          "title": "许嵩与冯禧官宣结婚，女方是其多年粉丝且两人相差 14 岁，你如何看待这对「偶像与粉丝」的结合？",
+          "url": "https://www.zhihu.com/question/2084756540834301461",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 18时51分]"
         },
         {
           "title": "当红好莱坞女星大尺度广告翻车",
@@ -251,6 +301,17 @@
           "time_info": "[03时13分 ~ 06时13分]"
         },
         {
+          "title": "于子迪女子200米蝶金牌 破亚运会纪录",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%A5%B3%E5%AD%90200%E7%B1%B3%E8%9D%B6%E9%87%91%E7%89%8C+%E7%A0%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "中国队女子10米气步枪团体赛破纪录",
           "url": "https://www.toutiao.com/trending/7687458151196528170/",
           "source": "今日头条",
@@ -260,6 +321,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "唐钱婷夺女子50米蛙泳金牌 成功卫冕",
+          "url": "https://www.baidu.com/s?wd=%E5%94%90%E9%92%B1%E5%A9%B7%E5%A4%BA%E5%A5%B3%E5%AD%9050%E7%B1%B3%E8%9B%99%E6%B3%B3%E9%87%91%E7%89%8C+%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
+          "title": "李冰洁女子1500米自由泳成功卫冕",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%86%B0%E6%B4%81%E5%A5%B3%E5%AD%901500%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
+          "title": "中学男教师多次骚扰女学生 官方通报",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E5%A4%9A%E6%AC%A1%E9%AA%9A%E6%89%B0%E5%A5%B3%E5%AD%A6%E7%94%9F+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
+          "title": "女子持刀追砍老人 商铺老板徒手夺刀",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E8%BF%BD%E7%A0%8D%E8%80%81%E4%BA%BA+%E5%95%86%E9%93%BA%E8%80%81%E6%9D%BF%E5%BE%92%E6%89%8B%E5%A4%BA%E5%88%80",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "那个爱自拍的女孩",
@@ -272,6 +377,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 13时50分]"
+        },
+        {
+          "title": "女童在动物园禁停地点下车被鹿撞飞",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%A6%81%E5%81%9C%E5%9C%B0%E7%82%B9%E4%B8%8B%E8%BD%A6%E8%A2%AB%E9%B9%BF%E6%92%9E%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "中国女排击败越南晋级亚运会四强",
@@ -296,6 +412,17 @@
           "time_info": "[08时45分 ~ 08时46分]"
         },
         {
+          "title": "女装 一扯就坏",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%A3%85+%E4%B8%80%E6%89%AF%E5%B0%B1%E5%9D%8F",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "8岁巴勒斯坦女孩遭以军袭击身亡",
           "url": "https://www.toutiao.com/trending/7687325013707342362/",
           "source": "今日头条",
@@ -305,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "国乒女团3比1胜中国澳门 孙颖莎得2分",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A23%E6%AF%941%E8%83%9C%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8+%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BE%972%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "被快递员看光女子称事发后长期失眠",
@@ -324,20 +462,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
         {
-          "title": "司机好心补路、拉绳警示，导致路过女子被绳索勒颈身亡，被以过失致人死亡罪逮捕，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2083518548656252894",
-          "source": "知乎",
+          "title": "女子洗澡不关门被快递员看光",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364965&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E4%B8%8D%E5%85%B3%E9%97%A8%E8%A2%AB%E5%BF%AB%E9%80%92%E5%91%98%E7%9C%8B%E5%85%89",
+          "source": "贴吧",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "18时51分"
+        },
+        {
+          "title": "我家那闺女张家齐母女争议",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%AF%8D%E5%A5%B3%E4%BA%89%E8%AE%AE&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "国乒女团3:0尼泊尔女团",
@@ -346,18 +495,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "许嵩与冯禧官宣结婚，女方是其多年粉丝且两人相差 14 岁，你如何看待这对「偶像与粉丝」的结合？",
-          "url": "https://www.zhihu.com/question/2084756540834301461",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -373,6 +511,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "已婚女子与男子开房次日全裸身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%AD%90%E5%BC%80%E6%88%BF%E6%AC%A1%E6%97%A5%E5%85%A8%E8%A3%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "孙颖莎 亚运女团",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%9B%A2&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -382,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "昨夜梦游版那女孩对我说",
+          "url": "https://www.douyin.com/hot/2657095",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
@@ -396,7 +556,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
