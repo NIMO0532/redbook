@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T17:08:36.775646+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-09-22T22:26:34.148923+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 45,
+      "match_count": 62,
       "titles": [
         {
           "title": "枣庄16岁少年与14岁女孩发生性关系获刑3年，申诉被驳回",
@@ -27,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 17时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 22时26分]"
         },
         {
           "title": "中国女排将与日本女排争夺金牌",
@@ -57,6 +58,30 @@
           "time_info": "[00时18分 ~ 11时50分]"
         },
         {
+          "title": "伊朗罕见公开女子特战队画面：骑摩托机动，手握火箭筒",
+          "url": "https://news.ifeng.com/c/8wcjxRKO7wm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 22时26分]"
+        },
+        {
+          "title": "闲鱼涉黄,14岁少女被标价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365071&amp;topic_name=%E9%97%B2%E9%B1%BC%E6%B6%89%E9%BB%84%2C14%E5%B2%81%E5%B0%91%E5%A5%B3%E8%A2%AB%E6%A0%87%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 22时26分]"
+        },
+        {
           "title": "00后女孩出生即持股 月领4000元",
           "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%87%BA%E7%94%9F%E5%8D%B3%E6%8C%81%E8%82%A1+%E6%9C%88%E9%A2%864000%E5%85%83",
           "source": "百度热搜",
@@ -66,6 +91,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 11时50分]"
+        },
+        {
+          "title": "完胜日本队！中国女排亚运会三连冠",
+          "url": "https://www.toutiao.com/trending/7688203629890830387/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "中国女排夺冠！3-0横扫日本",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "中国女排横扫日本夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "重庆理工大学通报女子称遭性侵",
@@ -79,6 +137,19 @@
           "time_info": "00时19分"
         },
         {
+          "title": "霓虹汉服女生拒与外国人合影",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365097&amp;topic_name=%E9%9C%93%E8%99%B9%E6%B1%89%E6%9C%8D%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B8%8E%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%88%E5%BD%B1",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 22时26分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：沙特空军对也门西南部穆哈市进行了至少3次空袭，造成14名平民伤亡，其中包括妇女和儿童。",
           "url": "https://flash.jin10.com/detail/20260922073526649800",
           "source": "金十数据",
@@ -90,27 +161,48 @@
           "time_info": "07时53分"
         },
         {
-          "title": "伊朗罕见公开女子特战队画面：骑摩托机动，手握火箭筒",
-          "url": "https://news.ifeng.com/c/8wcjxRKO7wm",
-          "source": "凤凰网",
+          "title": "一家三口打赏 650 万赖到女儿身上，要求以未成年人身份退款，真相是如何找到的？反映出家庭教育哪些问题？",
+          "url": "https://www.zhihu.com/question/2083594981109753152",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "西瓜比南京贵,韩女回应翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365358&amp;topic_name=%E8%A5%BF%E7%93%9C%E6%AF%94%E5%8D%97%E4%BA%AC%E8%B4%B5%2C%E9%9F%A9%E5%A5%B3%E5%9B%9E%E5%BA%94%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时08分"
+          "time_info": "22时26分"
         },
         {
-          "title": "闲鱼涉黄,14岁少女被标价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365071&amp;topic_name=%E9%97%B2%E9%B1%BC%E6%B6%89%E9%BB%84%2C14%E5%B2%81%E5%B0%91%E5%A5%B3%E8%A2%AB%E6%A0%87%E4%BB%B7",
-          "source": "贴吧",
+          "title": "中国女排亚运十冠王",
+          "url": "https://www.toutiao.com/trending/7687517824591515179/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 17时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "中国女排亚运会三连冠",
+          "url": "https://www.douyin.com/hot/2660052",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "16岁少年与14岁女孩发生关系判3年",
@@ -146,18 +238,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 07时53分]"
-        },
-        {
-          "title": "霓虹汉服女生拒与外国人合影",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365097&amp;topic_name=%E9%9C%93%E8%99%B9%E6%B1%89%E6%9C%8D%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B8%8E%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%88%E5%BD%B1",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 17时08分]"
         },
         {
           "title": "中国女排将与日本女排争冠",
@@ -319,6 +399,17 @@
           "time_info": "[00时19分 ~ 04时51分]"
         },
         {
+          "title": "高二女生一脚“踏空”，从宿舍楼顶层坠亡",
+          "url": "https://news.ifeng.com/c/8wcixexnjnR",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 22时26分]"
+        },
+        {
           "title": "中国女篮69分大胜印尼女篮",
           "url": "https://www.douyin.com/hot/2659701",
           "source": "抖音",
@@ -352,6 +443,18 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "韩国演员朴信惠二胎产女",
+          "url": "https://www.douyin.com/hot/2660536",
+          "source": "抖音",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 22时26分]"
+        },
+        {
           "title": "中国女排力克泰国队晋级决赛",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8A%9B%E5%85%8B%E6%B3%B0%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
@@ -374,6 +477,17 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "女顶流片酬跳水,几千万变100万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365360&amp;topic_name=%E5%A5%B3%E9%A1%B6%E6%B5%81%E7%89%87%E9%85%AC%E8%B7%B3%E6%B0%B4%2C%E5%87%A0%E5%8D%83%E4%B8%87%E5%8F%98100%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "杭州电梯事件涉事女子新账号被处置",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E6%A2%AF%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E6%96%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%A4%84%E7%BD%AE%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -385,13 +499,24 @@
           "time_info": "07时53分"
         },
         {
+          "title": "女孩听母亲指示从 5 楼扔快递坠亡，法院判快递公司担责三成，如何看待该责任划分？",
+          "url": "https://www.zhihu.com/question/2085738791592109687",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "中国女篮主教练：争取在决赛中打好",
           "url": "https://www.toutiao.com/trending/7687486991550300211/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -402,7 +527,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -418,15 +543,15 @@
           "time_info": "11时50分"
         },
         {
-          "title": "高二女生一脚“踏空”，从宿舍楼顶层坠亡",
-          "url": "https://news.ifeng.com/c/8wcixexnjnR",
-          "source": "凤凰网",
+          "title": "亚运会女排决赛，中国女排 3-0 完胜日本队，成就亚运「十冠王」，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2085652946457465509",
+          "source": "知乎",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时08分"
+          "time_info": "22时26分"
         },
         {
           "title": "朴信惠二胎产女",
@@ -446,9 +571,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "女子新提奔驰次日爬满蚂蚁",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%96%B0%E6%8F%90%E5%A5%94%E9%A9%B0%E6%AC%A1%E6%97%A5%E7%88%AC%E6%BB%A1%E8%9A%82%E8%9A%81",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "孙女整理遗物发现爽身粉罐里的秘密",
@@ -457,7 +593,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -473,6 +609,28 @@
           "time_info": "07时53分"
         },
         {
+          "title": "中国女排十冠王",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8D%81%E5%86%A0%E7%8E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "女孩为什么不敢用全力丢球？身体里的“不能”与“不公”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33840054",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "中国女排vs日本女排决赛",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%E5%86%B3%E8%B5%9B&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -484,24 +642,24 @@
           "time_info": "07时53分"
         },
         {
+          "title": "中国女排3连冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E8%BF%9E%E5%86%A0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "孙女整理遗物发现爽身粉罐里的秘密",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E6%95%B4%E7%90%86%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E7%88%BD%E8%BA%AB%E7%B2%89%E7%BD%90%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "韩国演员朴信惠二胎产女",
-          "url": "https://www.douyin.com/hot/2660536",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -515,6 +673,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "女孩遭强奸警方不立案纪委介入调查",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%BC%BA%E5%A5%B8%E8%AD%A6%E6%96%B9%E4%B8%8D%E7%AB%8B%E6%A1%88%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "中国女排回应三连冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%9B%9E%E5%BA%94%E4%B8%89%E8%BF%9E%E5%86%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "长期经营夜店女子任日财务大臣政务官",
+          "url": "https://www.toutiao.com/trending/7687481042445828122/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "中国女排3比2逆转泰国",
@@ -534,6 +725,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "官方将为 LPL 四支世界赛队伍和 FMVP 推出臻彩皮肤，怎么看待这一操作？唯 s 冠论要被逐渐打破了吗？",
+          "url": "https://www.zhihu.com/question/2084761266044802758",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 22时26分]"
+        },
+        {
           "title": "杨紫直播皮肤状态",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD%E7%9A%AE%E8%82%A4%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -543,17 +746,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "官方将为 LPL 四支世界赛队伍和 FMVP 推出臻彩皮肤，怎么看待这一操作？唯 s 冠论要被逐渐打破了吗？",
-          "url": "https://www.zhihu.com/question/2084761266044802758",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
         }
       ]
     },
