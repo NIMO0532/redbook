@@ -1,0 +1,61 @@
+==================================================
+           📕 小红书文案生成
+==================================================
+
+【第一部分：封面图文案】
+1. 5个雷区💣女生必看
+2. 智商税收割机⚠️
+3. 塌房预警🚨避坑指南
+
+【第二部分：标题】
+1. 关于智商税，我想说点实话
+2. 消费降级时代的生存法则
+
+【第三部分：正文】
+默认AI不可用
+
+【第四部分：末尾固定人设标签】
+——我是小雷达，专注分享女生视角的生活洞察。不制造焦虑，只提供思考角度。下期见。
+
+【第五部分：首评钩子】
+1. 你们有没有踩过类似的智商税？评论区聊聊！
+2. 想看更多避坑内容的可以关注我！
+
+【第六部分：参考新闻链接】
+1. 中国女排夺冠！3-0横扫日本
+   https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC
+2. 三大球第一金！中国女排成功加冕亚运会十冠王
+   https://www.thepaper.cn/newsDetail_forward_34125616
+3. 完胜日本队！中国女排亚运会三连冠
+   https://www.toutiao.com/trending/7688203629890830387/
+4. 中国女排十冠王
+   https://www.toutiao.com/trending/7687517824591515179/
+5. 中国女排队长龚翔宇赛后谈女排精神
+   https://www.toutiao.com/trending/7687859973504073770/
+6. 女子花3.9万相亲54岁男子实际63岁
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13.9%E4%B8%87%E7%9B%B8%E4%BA%B254%E5%B2%81%E7%94%B7%E5%AD%90%E5%AE%9E%E9%99%8563%E5%B2%81
+7. 朴信惠二胎产女
+   https://www.baidu.com/s?wd=%E6%9C%B4%E4%BF%A1%E6%83%A0%E4%BA%8C%E8%83%8E%E4%BA%A7%E5%A5%B3
+8. 中国女排十冠王
+   https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8D%81%E5%86%A0%E7%8E%8B
+9. 女子在消费帮扶展3200元买到假翡翠
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B6%88%E8%B4%B9%E5%B8%AE%E6%89%B6%E5%B1%953200%E5%85%83%E4%B9%B0%E5%88%B0%E5%81%87%E7%BF%A1%E7%BF%A0
+10. 女孩遇争执报警 是否浪费警力引热议
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%81%87%E4%BA%89%E6%89%A7%E6%8A%A5%E8%AD%A6+%E6%98%AF%E5%90%A6%E6%B5%AA%E8%B4%B9%E8%AD%A6%E5%8A%9B%E5%BC%95%E7%83%AD%E8%AE%AE
+11. 女排主帅赵勇：队员们克服了不少困难
+   https://www.toutiao.com/trending/7687488674178711602/
+12. 媒体：中国女排亚运第十冠价值千金
+   https://www.toutiao.com/trending/7688343146925326363/
+13. 日本女排颁奖仪式上全员黑脸
+   https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%E9%A2%81%E5%A5%96%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%85%A8%E5%91%98%E9%BB%91%E8%84%B8
+14. 女子称父亲离世6亿遗产都归了继母
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%966%E4%BA%BF%E9%81%97%E4%BA%A7%E9%83%BD%E5%BD%92%E4%BA%86%E7%BB%A7%E6%AF%8D
+15. 中国女排：23天破局续写女排精神
+   https://www.toutiao.com/trending/7688406774294183999/
+16. 女子为“排毒”吃素3年差点瘫痪
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E2%80%9C%E6%8E%92%E6%AF%92%E2%80%9D%E5%90%83%E7%B4%A03%E5%B9%B4%E5%B7%AE%E7%82%B9%E7%98%AB%E7%97%AA
+17. 女子过敏就诊被护士公主抱进抢救室
+   https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%87%E6%95%8F%E5%B0%B1%E8%AF%8A%E8%A2%AB%E6%8A%A4%E5%A3%AB%E5%85%AC%E4%B8%BB%E6%8A%B1%E8%BF%9B%E6%8A%A2%E6%95%91%E5%AE%A4
+18. 23岁女子吃完外卖后肾损伤
+   https://www.baidu.com/s?wd=23%E5%B2%81%E5%A5%B3%E5%AD%90%E5%90%83%E5%AE%8C%E5%A4%96%E5%8D%96%E5%90%8E%E8%82%BE%E6%8D%9F%E4%BC%A4
+
