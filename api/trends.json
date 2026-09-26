@@ -1,33 +1,47 @@
 {
-  "generated_at": "2026-09-27T00:55:10.036468+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-09-27T03:34:49.841786+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "21岁香港女生参加贴瓷砖比赛走红",
-          "url": "https://www.toutiao.com/trending/7688900168447442970/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
-        },
         {
           "title": "大陆学生赴台交流被女间谍主动接近",
           "url": "https://www.toutiao.com/trending/7689629168669229099/",
           "source": "今日头条",
           "ranks": [
+            30,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时34分]"
+        },
+        {
+          "title": "21岁香港女生参加贴瓷砖比赛走红",
+          "url": "https://www.toutiao.com/trending/7688900168447442970/",
+          "source": "今日头条",
+          "ranks": [
+            24,
             30
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时34分]"
+        },
+        {
+          "title": "UP主雀巢爆改美少女",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%80%E5%B7%A2%E7%88%86%E6%94%B9%E7%BE%8E%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "time_info": "[00时55分 ~ 03时34分]"
         },
         {
           "title": "六连冠!国乒女团横扫日本夺金",
@@ -36,31 +50,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "UP主雀巢爆改美少女",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%80%E5%B7%A2%E7%88%86%E6%94%B9%E7%BE%8E%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
-          "url": "https://www.zhihu.com/question/2086446703897310714",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时34分]"
         },
         {
           "title": "东京医大改分阻拦女生入学",
@@ -69,20 +61,21 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时34分]"
         },
         {
           "title": "女儿知道欧洲游花了30万后",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E7%9F%A5%E9%81%93%E6%AC%A7%E6%B4%B2%E6%B8%B8%E8%8A%B1%E4%BA%8630%E4%B8%87%E5%90%8E&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时34分]"
         },
         {
           "title": "渣男文鼻祖斥巨资求娶女友",
@@ -91,9 +84,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时34分]"
+        },
+        {
+          "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
+          "url": "https://www.zhihu.com/question/2086446703897310714",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "孙颖莎晋级女单四强",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     }
