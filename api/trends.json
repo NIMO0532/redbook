@@ -1,315 +1,99 @@
 {
-  "generated_at": "2026-09-26T20:44:41.770844+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-09-27T00:55:10.036468+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 24,
+      "match_count": 8,
       "titles": [
         {
-          "title": "亚运女子 100 米短跑决赛，陈妤颉夺冠，跑出 11.06 秒​​​​刷新亚运会纪录，如何评价本场对决？",
-          "url": "https://www.zhihu.com/question/2086885798066878405",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时15分]"
-        },
-        {
-          "title": "评论员：女篮失利暴露短板问题",
-          "url": "https://www.toutiao.com/trending/7689495227505053247/",
+          "title": "21岁香港女生参加贴瓷砖比赛走红",
+          "url": "https://www.toutiao.com/trending/7688900168447442970/",
           "source": "今日头条",
           "ranks": [
-            5
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "大陆学生赴台交流被女间谍主动接近",
+          "url": "https://www.toutiao.com/trending/7689629168669229099/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
           "title": "六连冠!国乒女团横扫日本夺金",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365665&amp;topic_name=%E5%85%AD%E8%BF%9E%E5%86%A0%21%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91",
           "source": "贴吧",
           "ranks": [
-            7,
-            14
+            16
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 20时44分]"
-        },
-        {
-          "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
-          "url": "https://www.zhihu.com/question/2086446703897310714",
-          "source": "知乎",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 20时44分]"
-        },
-        {
-          "title": "东京医大改分阻拦女生入学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 20时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "UP主雀巢爆改美少女",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%80%E5%B7%A2%E7%88%86%E6%94%B9%E7%BE%8E%E5%B0%91%E5%A5%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            28,
-            26,
-            17,
-            21,
-            30
+            18
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 20时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
+          "url": "https://www.zhihu.com/question/2086446703897310714",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "东京医大改分阻拦女生入学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "女儿知道欧洲游花了30万后",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E7%9F%A5%E9%81%93%E6%AC%A7%E6%B4%B2%E6%B8%B8%E8%8A%B1%E4%BA%8630%E4%B8%87%E5%90%8E&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "渣男文鼻祖斥巨资求娶女友",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365440&amp;topic_name=%E6%B8%A3%E7%94%B7%E6%96%87%E9%BC%BB%E7%A5%96%E6%96%A5%E5%B7%A8%E8%B5%84%E6%B1%82%E5%A8%B6%E5%A5%B3%E5%8F%8B",
           "source": "贴吧",
           "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 20时44分]"
-        },
-        {
-          "title": "西瓜比南京贵,韩女回应翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365358&amp;topic_name=%E8%A5%BF%E7%93%9C%E6%AF%94%E5%8D%97%E4%BA%AC%E8%B4%B5%2C%E9%9F%A9%E5%A5%B3%E5%9B%9E%E5%BA%94%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 20时44分]"
-        },
-        {
-          "title": "17岁陈妤颉女子百米夺冠",
-          "url": "https://www.toutiao.com/trending/7688791634830082074/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时15分]"
-        },
-        {
-          "title": "中国女篮半决赛不敌韩国，本届亚运会中国篮球各项均无缘决赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34149676",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 15时11分]"
-        },
-        {
-          "title": "2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？",
-          "url": "https://www.zhihu.com/question/2084210073728041046",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普会中文的外孙女出席欢迎仪式",
-          "url": "https://www.toutiao.com/trending/7688663315194809910/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时15分]"
-        },
-        {
-          "title": "女顶流片酬跳水,几千万变100万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365360&amp;topic_name=%E5%A5%B3%E9%A1%B6%E6%B5%81%E7%89%87%E9%85%AC%E8%B7%B3%E6%B0%B4%2C%E5%87%A0%E5%8D%83%E4%B8%87%E5%8F%98100%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时15分]"
-        },
-        {
-          "title": "宁波小孩姐陈妤颉成亚洲女子飞人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%B0%8F%E5%AD%A9%E5%A7%90%E9%99%88%E5%A6%A4%E9%A2%89%E6%88%90%E4%BA%9A%E6%B4%B2%E5%A5%B3%E5%AD%90%E9%A3%9E%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 09时15分]"
-        },
-        {
-          "title": "三分球13投0中凸显女篮高快结合困境",
-          "url": "https://www.toutiao.com/trending/7689477961749106214/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时02分]"
-        },
-        {
-          "title": "马琳：中日女队水平已在伯仲之间，未来十年“中日对决”不可避免",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34147999",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时02分]"
-        },
-        {
-          "title": "女演员王朱悦紧急道歉",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%98%E7%8E%8B%E6%9C%B1%E6%82%A6%E7%B4%A7%E6%80%A5%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时02分]"
-        },
-        {
-          "title": "记者评中国女篮80比85不敌韩国女篮",
-          "url": "https://www.toutiao.com/trending/7689552152590795290/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "中国女篮不敌韩国无缘决赛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "中国女足主帅：这是一场沮丧的胜利",
-          "url": "https://www.toutiao.com/trending/7689368858377420836/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "大陆学生赴台交流被女间谍主动接近",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%99%86%E5%AD%A6%E7%94%9F%E8%B5%B4%E5%8F%B0%E4%BA%A4%E6%B5%81%E8%A2%AB%E5%A5%B3%E9%97%B4%E8%B0%8D%E4%B8%BB%E5%8A%A8%E6%8E%A5%E8%BF%91%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
-          "title": "民国时期有哪些精致的女子？",
-          "url": "https://www.zhihu.com/question/23584359",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "媒体：期待崭新面貌的中国女篮",
-          "url": "https://www.toutiao.com/trending/7689769410812248106/",
-          "source": "今日头条",
-          "ranks": [
-            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "Luke身边一定有一位非常重要的女士",
-          "url": "https://s.weibo.com/weibo?q=%23Luke%E8%BA%AB%E8%BE%B9%E4%B8%80%E5%AE%9A%E6%9C%89%E4%B8%80%E4%BD%8D%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E7%9A%84%E5%A5%B3%E5%A3%AB%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全身为什么面部皮肤看起来最差",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BA%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E9%83%A8%E7%9A%AE%E8%82%A4%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9C%80%E5%B7%AE%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时15分]"
+          "time_info": "00时55分"
         }
       ]
     }
