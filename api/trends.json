@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T02:05:58.470317+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-09-28T05:53:04.609385+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "王曼昱亚运女单冠军",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "吴艳妮田径女子100米栏铜牌",
-          "url": "https://www.douyin.com/hot/2670241",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时53分]"
         },
         {
           "title": "吴艳妮女子100米栏摘铜",
@@ -37,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时53分]"
         },
         {
-          "title": "亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？",
-          "url": "https://www.zhihu.com/question/2087637427082851450",
-          "source": "知乎",
+          "title": "王曼昱夺得亚运乒乓球女单金牌，孙颖莎银牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34161501",
+          "source": "澎湃新闻",
           "ranks": [
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时53分]"
         },
         {
           "title": "王曼昱女单夺冠",
@@ -59,30 +49,78 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时53分]"
         },
         {
-          "title": "王曼昱夺得亚运乒乓球女单金牌，孙颖莎银牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34161501",
-          "source": "澎湃新闻",
+          "title": "吴艳妮田径女子100米栏铜牌",
+          "url": "https://www.douyin.com/hot/2670241",
+          "source": "抖音",
           "ranks": [
-            5
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 05时53分]"
         },
         {
           "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？",
           "url": "https://www.zhihu.com/question/2087541086738540004",
           "source": "知乎",
           "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 05时53分]"
+        },
+        {
+          "title": "亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？",
+          "url": "https://www.zhihu.com/question/2087637427082851450",
+          "source": "知乎",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 05时53分]"
+        },
+        {
+          "title": "广州景区女演员表演时高处坠落",
+          "url": "https://www.toutiao.com/trending/7690016612866490411/",
+          "source": "今日头条",
+          "ranks": [
+            24,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时53分]"
+        },
+        {
+          "title": "女性很容易慕强择偶",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%80%A7%E5%BE%88%E5%AE%B9%E6%98%93%E6%85%95%E5%BC%BA%E6%8B%A9%E5%81%B6&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 05时53分]"
+        },
+        {
+          "title": "东京医大改分阻拦女生入学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 05时53分]"
         },
         {
           "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
@@ -96,6 +134,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "谁家男女主第一集就跳楼",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%A2%E5%8F%AF%E5%AF%85%E9%95%BF%E7%94%9F%E5%A5%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
           "title": "英语书中“抱吉他女孩”爆火",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E4%B9%A6%E4%B8%AD%E2%80%9C%E6%8A%B1%E5%90%89%E4%BB%96%E5%A5%B3%E5%AD%A9%E2%80%9D%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -107,26 +156,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "女性很容易慕强择偶",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%80%A7%E5%BE%88%E5%AE%B9%E6%98%93%E6%85%95%E5%BC%BA%E6%8B%A9%E5%81%B6&t=31&band_rank=23&Refer=top",
+          "title": "亚运乒乓女单仅张立成功卫冕",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E5%A5%B3%E5%8D%95%E4%BB%85%E5%BC%A0%E7%AB%8B%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "广州景区女演员表演时高处坠落",
-          "url": "https://www.toutiao.com/trending/7690016612866490411/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "05时53分"
         },
         {
           "title": "陈瑶告别我家那闺女",
@@ -134,17 +172,6 @@
           "source": "微博",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "东京医大改分阻拦女生入学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
