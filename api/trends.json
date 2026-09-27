@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-09-27T21:36:45.731756+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-09-28T02:05:58.470317+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 31,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "“赛考斯”还有一个“中国女儿”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B5%9B%E8%80%83%E6%96%AF%E2%80%9D%E8%BF%98%E6%9C%89%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%84%BF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
         {
           "title": "王曼昱亚运女单冠军",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
@@ -25,32 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "02时05分"
         },
         {
-          "title": "王曼昱晋级亚运会女单决赛",
-          "url": "https://www.douyin.com/hot/2669678",
+          "title": "吴艳妮田径女子100米栏铜牌",
+          "url": "https://www.douyin.com/hot/2670241",
           "source": "抖音",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "东京医大改分阻拦女生入学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 21时36分]"
+          "time_info": "02时05分"
         },
         {
           "title": "吴艳妮女子100米栏摘铜",
@@ -59,326 +36,119 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "02时05分"
         },
         {
-          "title": "吴艳妮田径女子100米栏铜牌",
-          "url": "https://www.douyin.com/hot/2670241",
-          "source": "抖音",
+          "title": "亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？",
+          "url": "https://www.zhihu.com/question/2087637427082851450",
+          "source": "知乎",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "02时05分"
         },
         {
-          "title": "王曼昱女单夺冠 孙颖莎无缘卫冕",
+          "title": "王曼昱女单夺冠",
           "url": "https://www.toutiao.com/trending/7689743872243662875/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "亚运乒乓球女单",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%8D%95%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "02时05分"
         },
         {
-          "title": "亚运会乒乓球女单决赛，王曼昱 4-2 战胜孙颖莎夺冠， 国乒包揽女单金银牌，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2087560172042281680",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
-          "url": "https://www.zhihu.com/question/2087540791207879476",
-          "source": "知乎",
+          "title": "王曼昱夺得亚运乒乓球女单金牌，孙颖莎银牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34161501",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "大陆学生赴台交流被女间谍主动接近",
-          "url": "https://www.toutiao.com/trending/7689629168669229099/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 09时08分]"
-        },
-        {
-          "title": "六连冠!国乒女团横扫日本夺金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365665&amp;topic_name=%E5%85%AD%E8%BF%9E%E5%86%A0%21%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 15时43分]"
-        },
-        {
-          "title": "UP主雀巢爆改美少女",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%80%E5%B7%A2%E7%88%86%E6%94%B9%E7%BE%8E%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            15,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 09时08分]"
-        },
-        {
-          "title": "21岁香港女生参加贴瓷砖比赛走红",
-          "url": "https://www.toutiao.com/trending/7688900168447442970/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 06时27分]"
-        },
-        {
-          "title": "女儿知道欧洲游花了30万后",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E7%9F%A5%E9%81%93%E6%AC%A7%E6%B4%B2%E6%B8%B8%E8%8A%B1%E4%BA%8630%E4%B8%87%E5%90%8E&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            24,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 09时08分]"
-        },
-        {
-          "title": "渣男文鼻祖斥巨资求娶女友",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365440&amp;topic_name=%E6%B8%A3%E7%94%B7%E6%96%87%E9%BC%BB%E7%A5%96%E6%96%A5%E5%B7%A8%E8%B5%84%E6%B1%82%E5%A8%B6%E5%A5%B3%E5%8F%8B",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 09时08分]"
-        },
-        {
-          "title": "胡歌3岁女儿近照",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C3%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 15时43分]"
-        },
-        {
-          "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
-          "url": "https://www.zhihu.com/question/2086446703897310714",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 06时27分]"
-        },
-        {
-          "title": "孙颖莎晋级女单四强",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 06时27分]"
+          "time_info": "02时05分"
         },
         {
           "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？",
           "url": "https://www.zhihu.com/question/2087541086738540004",
           "source": "知乎",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "王曼昱女单夺冠",
-          "url": "https://www.douyin.com/hot/2669678",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "王曼昱孙颖莎会师女单决赛",
-          "url": "https://www.toutiao.com/trending/7689331909541298217/",
-          "source": "今日头条",
-          "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "02时05分"
         },
         {
-          "title": "瓷砖贴面项目唯一女选手笑着笑着哭了",
-          "url": "https://www.toutiao.com/trending/7689441879619944489/",
-          "source": "今日头条",
+          "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
+          "url": "https://www.zhihu.com/question/2087540791207879476",
+          "source": "知乎",
           "ranks": [
-            16
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "项目唯一女选手采访中笑着笑着哭了",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%B9%E7%9B%AE%E5%94%AF%E4%B8%80%E5%A5%B3%E9%80%89%E6%89%8B%E9%87%87%E8%AE%BF%E4%B8%AD%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "广州岭南印象园一女演员从高处坠落",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B2%AD%E5%8D%97%E5%8D%B0%E8%B1%A1%E5%9B%AD%E4%B8%80%E5%A5%B3%E6%BC%94%E5%91%98%E4%BB%8E%E9%AB%98%E5%A4%84%E5%9D%A0%E8%90%BD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "“瓷砖贴面女孩”戴心怡走红赛场",
-          "url": "https://www.toutiao.com/trending/7689992989875191851/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "02时05分"
         },
         {
           "title": "英语书中“抱吉他女孩”爆火",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E4%B9%A6%E4%B8%AD%E2%80%9C%E6%8A%B1%E5%90%89%E4%BB%96%E5%A5%B3%E5%AD%A9%E2%80%9D%E7%88%86%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
-            22
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "02时05分"
         },
         {
-          "title": "朱雨玲谈无缘亚运会女单四强",
-          "url": "https://www.toutiao.com/trending/7689900742169379338/",
+          "title": "女性很容易慕强择偶",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%80%A7%E5%BE%88%E5%AE%B9%E6%98%93%E6%85%95%E5%BC%BA%E6%8B%A9%E5%81%B6&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "广州景区女演员表演时高处坠落",
+          "url": "https://www.toutiao.com/trending/7690016612866490411/",
           "source": "今日头条",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "02时05分"
         },
         {
-          "title": "我不是大师富家女抢已婚男",
-          "url": "https://www.douyin.com/hot/2667363",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "天安门看升旗 香港女孩写下8个震惊",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E7%9C%8B%E5%8D%87%E6%97%97+%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%AD%A9%E5%86%99%E4%B8%8B8%E4%B8%AA%E9%9C%87%E6%83%8A",
-          "source": "百度热搜",
+          "title": "陈瑶告别我家那闺女",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%91%B6%E5%91%8A%E5%88%AB%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "02时05分"
         },
         {
-          "title": "帽子上有鲁迅徽章的女运动员夺冠了",
-          "url": "https://www.toutiao.com/trending/7689647263081168937/",
-          "source": "今日头条",
+          "title": "东京医大改分阻拦女生入学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
+          "source": "贴吧",
           "ranks": [
-            30
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "审美",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "拼布里藏着的中式审美",
-          "url": "https://www.douyin.com/hot/2669812",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "02时05分"
         }
       ]
     }
