@@ -1,23 +1,71 @@
 {
-  "generated_at": "2026-09-27T06:27:55.162770+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-09-27T09:08:59.804156+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "“赛考斯”还有一个“中国女儿”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B5%9B%E8%80%83%E6%96%AF%E2%80%9D%E8%BF%98%E6%9C%89%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%84%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "亚运乒乓球女单",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%8D%95%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
         {
           "title": "大陆学生赴台交流被女间谍主动接近",
           "url": "https://www.toutiao.com/trending/7689629168669229099/",
           "source": "今日头条",
           "ranks": [
             30,
-            6
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 09时08分]"
+        },
+        {
+          "title": "UP主雀巢爆改美少女",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%80%E5%B7%A2%E7%88%86%E6%94%B9%E7%BE%8E%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            15,
+            24,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时54分 ~ 06时27分]"
+          "time_info": "[00时55分 ~ 09时08分]"
+        },
+        {
+          "title": "六连冠!国乒女团横扫日本夺金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365665&amp;topic_name=%E5%85%AD%E8%BF%9E%E5%86%A0%21%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 09时08分]"
         },
         {
           "title": "21岁香港女生参加贴瓷砖比赛走红",
@@ -33,30 +81,6 @@
           "time_info": "[00时54分 ~ 06时27分]"
         },
         {
-          "title": "UP主雀巢爆改美少女",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%80%E5%B7%A2%E7%88%86%E6%94%B9%E7%BE%8E%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 06时27分]"
-        },
-        {
-          "title": "六连冠!国乒女团横扫日本夺金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365665&amp;topic_name=%E5%85%AD%E8%BF%9E%E5%86%A0%21%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 06时27分]"
-        },
-        {
           "title": "东京医大改分阻拦女生入学",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
           "source": "贴吧",
@@ -64,8 +88,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 09时08分]"
         },
         {
           "title": "女儿知道欧洲游花了30万后",
@@ -74,11 +98,12 @@
           "ranks": [
             23,
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 09时08分]"
         },
         {
           "title": "渣男文鼻祖斥巨资求娶女友",
@@ -88,8 +113,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 09时08分]"
         },
         {
           "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
@@ -116,13 +141,46 @@
           "time_info": "[03时34分 ~ 06时27分]"
         },
         {
+          "title": "胡歌3岁女儿近照",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C3%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "项目唯一女选手采访中笑着笑着哭了",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%B9%E7%9B%AE%E5%94%AF%E4%B8%80%E5%A5%B3%E9%80%89%E6%89%8B%E9%87%87%E8%AE%BF%E4%B8%AD%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%93%AD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "朱雨玲谈无缘亚运会女单四强",
+          "url": "https://www.toutiao.com/trending/7689900742169379338/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "我不是大师富家女抢已婚男",
           "url": "https://www.douyin.com/hot/2667363",
           "source": "抖音",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         }
