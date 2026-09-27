@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T15:43:58.260548+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-09-27T21:36:45.731756+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "“赛考斯”还有一个“中国女儿”",
@@ -19,15 +19,71 @@
           "time_info": "09时08分"
         },
         {
+          "title": "王曼昱亚运女单冠军",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "王曼昱晋级亚运会女单决赛",
           "url": "https://www.douyin.com/hot/2669678",
           "source": "抖音",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "东京医大改分阻拦女生入学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 21时36分]"
+        },
+        {
+          "title": "吴艳妮女子100米栏摘铜",
+          "url": "https://www.toutiao.com/trending/7689382446299627561/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "吴艳妮田径女子100米栏铜牌",
+          "url": "https://www.douyin.com/hot/2670241",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "王曼昱女单夺冠 孙颖莎无缘卫冕",
+          "url": "https://www.toutiao.com/trending/7689743872243662875/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "亚运乒乓球女单",
@@ -39,6 +95,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "亚运会乒乓球女单决赛，王曼昱 4-2 战胜孙颖莎夺冠， 国乒包揽女单金银牌，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2087560172042281680",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
+          "url": "https://www.zhihu.com/question/2087540791207879476",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "大陆学生赴台交流被女间谍主动接近",
@@ -60,18 +138,6 @@
           "ranks": [
             16,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 15时43分]"
-        },
-        {
-          "title": "东京医大改分阻拦女生入学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -166,13 +232,35 @@
           "time_info": "[03时34分 ~ 06时27分]"
         },
         {
+          "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？",
+          "url": "https://www.zhihu.com/question/2087541086738540004",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "王曼昱女单夺冠",
+          "url": "https://www.douyin.com/hot/2669678",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "王曼昱孙颖莎会师女单决赛",
           "url": "https://www.toutiao.com/trending/7689331909541298217/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -183,7 +271,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -205,7 +293,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -216,9 +304,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "英语书中“抱吉他女孩”爆火",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E4%B9%A6%E4%B8%AD%E2%80%9C%E6%8A%B1%E5%90%89%E4%BB%96%E5%A5%B3%E5%AD%A9%E2%80%9D%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "朱雨玲谈无缘亚运会女单四强",
@@ -249,9 +348,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "帽子上有鲁迅徽章的女运动员夺冠了",
+          "url": "https://www.toutiao.com/trending/7689647263081168937/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "拼布里藏着的中式审美",
+          "url": "https://www.douyin.com/hot/2669812",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     }
