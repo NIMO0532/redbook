@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T14:24:32.543919+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-09-28T23:03:02.781208+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 23,
+      "match_count": 35,
       "titles": [
         {
           "title": "王曼昱夺得亚运乒乓球女单金牌，孙颖莎银牌",
@@ -69,15 +69,37 @@
           "time_info": "[02时05分 ~ 08时22分]"
         },
         {
+          "title": "女顾客吐槽Tiffany后账号被限制",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BDTiffany%E5%90%8E%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%99%90%E5%88%B6&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "亚运乒乓球女双中日争冠",
           "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%8F%8C%E4%B8%AD%E6%97%A5%E4%BA%89%E5%86%A0",
           "source": "百度热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "中国队女子4×100米接力夺冠",
+          "url": "https://www.douyin.com/hot/2671951",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "广州景区女演员表演时高处坠落",
@@ -91,6 +113,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 08时22分]"
+        },
+        {
+          "title": "中国女子百米接力金牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "云南文山一供销社职工拐卖外籍妇女案二审维持原判，判刑五年九个月",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34157019",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 23时03分]"
         },
         {
           "title": "亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？",
@@ -114,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "中国女子百米接力金牌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？",
@@ -153,6 +209,17 @@
           "time_info": "[02时05分 ~ 08时22分]"
         },
         {
+          "title": "女孩中秋节离世 母亲称不愿再过中秋",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B8%AD%E7%A7%8B%E8%8A%82%E7%A6%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E7%A7%B0%E4%B8%8D%E6%84%BF%E5%86%8D%E8%BF%87%E4%B8%AD%E7%A7%8B",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "如何看待张家齐妈妈在女儿面前开念家书，公开批评张家齐缺点不少、爱吃零食，指责其反复辜负家人信任？",
           "url": "https://www.zhihu.com/question/2087678897236045853",
           "source": "知乎",
@@ -165,24 +232,68 @@
           "time_info": "[08时22分 ~ 14时24分]"
         },
         {
+          "title": "中国队女子4×100米接力夺金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%904%C3%97100%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%A4%BA%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "中国女选手何晓嫚获得世界技能大赛“王中王”，中国第3次拿下阿尔伯特·维达大奖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34162252",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "美国币圈华人女高管自杀",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B8%81%E5%9C%88%E5%8D%8E%E4%BA%BA%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%87%AA%E6%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "女双夺冠后侯英超连说6个棒",
+          "url": "https://www.toutiao.com/trending/7690495664211656723/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "孙颖莎现场观赛女双决战",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%B0%E5%9C%BA%E8%A7%82%E8%B5%9B%E5%A5%B3%E5%8F%8C%E5%86%B3%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "女子每月花3000元跨省2小时上班：划算",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13000%E5%85%83%E8%B7%A8%E7%9C%812%E5%B0%8F%E6%97%B6%E4%B8%8A%E7%8F%AD%EF%BC%9A%E5%88%92%E7%AE%97",
           "source": "百度热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "云南文山一供销社职工拐卖外籍妇女案二审维持原判，判刑五年九个月",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34157019",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -215,9 +326,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "亚运会乒乓球女双决赛，王曼昱 / 蒯曼 4-0 战胜张本美和 / 早田希娜夺得金牌，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2087912811338920038",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "英语书中“抱吉他女孩”爆火",
@@ -248,9 +370,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "早期迪丽热巴的微博是真正的少女心事",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%9C%9F%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%BE%AE%E5%8D%9A%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B0%91%E5%A5%B3%E5%BF%83%E4%BA%8B&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "陈瑶告别我家那闺女",
@@ -270,7 +403,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
