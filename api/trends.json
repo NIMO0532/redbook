@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T08:22:21.983924+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-09-28T14:24:32.543919+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "王曼昱夺得亚运乒乓球女单金牌，孙颖莎银牌",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 08时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 14时24分]"
         },
         {
           "title": "吴艳妮女子100米栏摘铜",
@@ -69,6 +69,17 @@
           "time_info": "[02时05分 ~ 08时22分]"
         },
         {
+          "title": "亚运乒乓球女双中日争冠",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%8F%8C%E4%B8%AD%E6%97%A5%E4%BA%89%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "广州景区女演员表演时高处坠落",
           "url": "https://www.toutiao.com/trending/7690016612866490411/",
           "source": "今日头条",
@@ -100,7 +111,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -118,6 +129,18 @@
           "time_info": "[02时05分 ~ 08时22分]"
         },
         {
+          "title": "东京医大改分阻拦女生入学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 14时24分]"
+        },
+        {
           "title": "女性很容易慕强择偶",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%80%A7%E5%BE%88%E5%AE%B9%E6%98%93%E6%85%95%E5%BC%BA%E6%8B%A9%E5%81%B6&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -130,26 +153,38 @@
           "time_info": "[02时05分 ~ 08时22分]"
         },
         {
-          "title": "东京医大改分阻拦女生入学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 08时22分]"
-        },
-        {
           "title": "如何看待张家齐妈妈在女儿面前开念家书，公开批评张家齐缺点不少、爱吃零食，指责其反复辜负家人信任？",
           "url": "https://www.zhihu.com/question/2087678897236045853",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 14时24分]"
+        },
+        {
+          "title": "女子每月花3000元跨省2小时上班：划算",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13000%E5%85%83%E8%B7%A8%E7%9C%812%E5%B0%8F%E6%97%B6%E4%B8%8A%E7%8F%AD%EF%BC%9A%E5%88%92%E7%AE%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时24分"
+        },
+        {
+          "title": "云南文山一供销社职工拐卖外籍妇女案二审维持原判，判刑五年九个月",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34157019",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
@@ -174,6 +209,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "未可为每一位女生喝彩",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%8F%AF%E4%B8%BA%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%A5%B3%E7%94%9F%E5%96%9D%E5%BD%A9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "英语书中“抱吉他女孩”爆火",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E4%B9%A6%E4%B8%AD%E2%80%9C%E6%8A%B1%E5%90%89%E4%BB%96%E5%A5%B3%E5%AD%A9%E2%80%9D%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -196,6 +242,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "谭松韵西装女团舞",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%A5%BF%E8%A3%85%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "陈瑶告别我家那闺女",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%91%B6%E5%91%8A%E5%88%AB%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -205,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "张家齐女王发言",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A5%B3%E7%8E%8B%E5%8F%91%E8%A8%80&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     }
