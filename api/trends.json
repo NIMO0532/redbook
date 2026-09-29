@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-09-29T09:33:08.793740+08:00",
-  "total_titles_processed": 484,
-  "failed_sources": [],
+  "generated_at": "2026-09-29T16:01:42.144826+08:00",
+  "total_titles_processed": 714,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 27,
       "titles": [
         {
           "title": "中国队女子4×100米接力夺冠",
@@ -17,6 +19,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 09时33分]"
+        },
+        {
+          "title": "中国女足vs朝鲜女足",
+          "url": "https://www.douyin.com/hot/2672776",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "云南文山一供销社职工拐卖外籍妇女案二审维持原判，判刑五年九个月",
@@ -53,6 +66,19 @@
           "time_info": "[05时38分 ~ 09时33分]"
         },
         {
+          "title": "中国女子百米接力金牌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 16时01分]"
+        },
+        {
           "title": "女孩中秋节离世 母亲称不愿再过中秋",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B8%AD%E7%A7%8B%E8%8A%82%E7%A6%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E7%A7%B0%E4%B8%8D%E6%84%BF%E5%86%8D%E8%BF%87%E4%B8%AD%E7%A7%8B",
           "source": "百度热搜",
@@ -63,6 +89,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 09时33分]"
+        },
+        {
+          "title": "邓亚萍：国乒女队要重点研究张本美和",
+          "url": "https://www.toutiao.com/trending/7690705979415445523/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
           "title": "中国队男女4×100米接力双双卫冕",
@@ -76,16 +113,48 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
-          "title": "中国女子百米接力金牌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C",
-          "source": "bilibili 热搜",
+          "title": "陈芋汐夺得女子10米跳台金牌",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%A4%BA%E5%BE%97%E5%A5%B3%E5%AD%9010%E7%B1%B3%E8%B7%B3%E5%8F%B0%E9%87%91%E7%89%8C",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时38分 ~ 09时33分]"
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "泰国“羽毛球女神”，药检阳性",
+          "url": "https://news.ifeng.com/c/8woL2oNWnKQ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "胡歌带妻女出门被偶遇",
+          "url": "https://www.toutiao.com/trending/7690726733876281354/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "《兰香如故》被指不把女配当人看",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B%E8%A2%AB%E6%8C%87%E4%B8%8D%E6%8A%8A%E5%A5%B3%E9%85%8D%E5%BD%93%E4%BA%BA%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
           "title": "女子回应花1分钱买5人票逛景区还中奖",
@@ -97,6 +166,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "女子每天5点起床从杭州到上海上班",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A95%E7%82%B9%E8%B5%B7%E5%BA%8A%E4%BB%8E%E6%9D%AD%E5%B7%9E%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%B8%8A%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "女儿回应父亲省钱没打狂犬疫苗离世",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E7%88%B6%E4%BA%B2%E7%9C%81%E9%92%B1%E6%B2%A1%E6%89%93%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97%E7%A6%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "泰国“羽毛球女神”药检阳性",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E2%80%9C%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E7%A5%9E%E2%80%9D%E8%8D%AF%E6%A3%80%E9%98%B3%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "锤娜丽莎长文谈我家那闺女",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "羽毛球女双决赛太悲壮了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "中国队女子4×100米接力夺金",
@@ -127,7 +251,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -174,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "昆凌发如雪最权威的女主角",
+          "url": "https://www.douyin.com/hot/2672855",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         }
       ]
     }
