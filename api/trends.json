@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T05:38:53.240148+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-09-29T09:33:08.793740+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国队女子4×100米接力夺冠",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 09时33分]"
         },
         {
           "title": "云南文山一供销社职工拐卖外籍妇女案二审维持原判，判刑五年九个月",
@@ -41,20 +41,67 @@
           "time_info": "05时38分"
         },
         {
-          "title": "中国队女子4×100米接力夺金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%904%C3%97100%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%A4%BA%E9%87%91",
-          "source": "百度热搜",
+          "title": "杭州女子每月花 3000 元跨省 2 小时去上海上班，称「算了笔账总体是划算的」，真划算吗？怎样看待她的选择？",
+          "url": "https://www.zhihu.com/question/2087928868850112302",
+          "source": "知乎",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 09时33分]"
+        },
+        {
+          "title": "女孩中秋节离世 母亲称不愿再过中秋",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B8%AD%E7%A7%8B%E8%8A%82%E7%A6%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E7%A7%B0%E4%B8%8D%E6%84%BF%E5%86%8D%E8%BF%87%E4%B8%AD%E7%A7%8B",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 09时33分]"
+        },
+        {
+          "title": "中国队男女4×100米接力双双卫冕",
+          "url": "https://www.toutiao.com/trending/7690631904081117235/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
         },
         {
           "title": "中国女子百米接力金牌",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C",
           "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 09时33分]"
+        },
+        {
+          "title": "女子回应花1分钱买5人票逛景区还中奖",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%8A%B11%E5%88%86%E9%92%B1%E4%B9%B05%E4%BA%BA%E7%A5%A8%E9%80%9B%E6%99%AF%E5%8C%BA%E8%BF%98%E4%B8%AD%E5%A5%96",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "中国队女子4×100米接力夺金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%904%C3%97100%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%A4%BA%E9%87%91",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
@@ -74,15 +121,15 @@
           "time_info": "05时38分"
         },
         {
-          "title": "杭州女子每月花 3000 元跨省 2 小时去上海上班，称「算了笔账总体是划算的」，真划算吗？怎样看待她的选择？",
-          "url": "https://www.zhihu.com/question/2087928868850112302",
-          "source": "知乎",
+          "title": "兰香如故被指不把女配当人看",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%A2%AB%E6%8C%87%E4%B8%8D%E6%8A%8A%E5%A5%B3%E9%85%8D%E5%BD%93%E4%BA%BA%E7%9C%8B&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "09时33分"
         },
         {
           "title": "如何评价 2026 年 9 月米哈游《原神》7.1 版本，冰神冰之女皇戏份？",
@@ -90,17 +137,6 @@
           "source": "知乎",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "女孩中秋节离世 母亲称不愿再过中秋",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B8%AD%E7%A7%8B%E8%8A%82%E7%A6%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E7%A7%B0%E4%B8%8D%E6%84%BF%E5%86%8D%E8%BF%87%E4%B8%AD%E7%A7%8B",
-          "source": "百度热搜",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
