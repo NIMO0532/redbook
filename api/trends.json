@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-09-29T16:01:42.144826+08:00",
-  "total_titles_processed": 714,
-  "failed_sources": [
-    "thepaper"
-  ],
+  "generated_at": "2026-09-29T22:49:24.990274+08:00",
+  "total_titles_processed": 957,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 27,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国队女子4×100米接力夺冠",
@@ -27,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "宋佳金鹰奖最佳女主",
+          "url": "https://www.toutiao.com/trending/7690477164835258404/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "云南文山一供销社职工拐卖外籍妇女案二审维持原判，判刑五年九个月",
@@ -207,9 +216,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "家有儿女小雪刘星合体",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%B0%8F%E9%9B%AA%E5%88%98%E6%98%9F%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "羽毛球女双决赛太悲壮了",
@@ -218,9 +238,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "梅婷获金鹰奖最佳女配角奖",
+          "url": "https://www.toutiao.com/trending/7690747282342395967/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "国企员工醉驾碾压拖行女教师5.9公里致死，5人涉嫌故意杀人被诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34171216",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "安洗莹卫冕亚运会羽毛球女单冠军",
+          "url": "https://www.douyin.com/hot/2673243",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "中国队女子4×100米接力夺金",
@@ -232,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "“女教师被拖行5.9公里致死”案将提级审理，死者妹妹发声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34171579",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "中国女子百米接力金牌",
@@ -256,6 +320,17 @@
           "time_info": "09时33分"
         },
         {
+          "title": "宋佳获金鹰奖最佳女主角",
+          "url": "https://www.douyin.com/hot/2673945",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "如何评价 2026 年 9 月米哈游《原神》7.1 版本，冰神冰之女皇戏份？",
           "url": "https://www.zhihu.com/question/2086242322979804924",
           "source": "知乎",
@@ -267,6 +342,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "梅婷 金鹰奖最佳女配角",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%85%E5%A9%B7+%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "亚运会乒乓球女双决赛，王曼昱 / 蒯曼 4-0 战胜张本美和 / 早田希娜夺得金牌，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2087912811338920038",
           "source": "知乎",
@@ -276,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "梅婷获金鹰奖最佳女配角",
+          "url": "https://www.douyin.com/hot/2673852",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "女子花1分钱买5人票逛景区还中奖",
@@ -300,15 +397,59 @@
           "time_info": "05时38分"
         },
         {
+          "title": "自摆乌龙！中国女足无缘决赛",
+          "url": "https://www.toutiao.com/trending/7690865601702776358/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "中国女足不敌朝鲜无缘决赛",
+          "url": "https://www.douyin.com/hot/2672776",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "媒体人：女足还在踢90年代足球",
+          "url": "https://www.toutiao.com/trending/7690081022289559602/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "昆凌发如雪最权威的女主角",
           "url": "https://www.douyin.com/hot/2672855",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "羽毛球女双决赛太悲壮了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     }
