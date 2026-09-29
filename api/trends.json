@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T03:51:04.567310+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-30T07:31:40.633281+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 07时31分]"
         },
         {
           "title": "宋佳凭借《山花烂漫时》获金鹰奖最佳女主角奖",
@@ -26,30 +26,80 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 07时31分]"
         },
         {
           "title": "国企员工醉驾碾压拖行女教师5.9公里致死，5人涉嫌故意杀人被诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_34171216",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 07时31分]"
         },
         {
           "title": "“女教师被拖行5.9公里致死”案将提级审理，死者妹妹发声",
           "url": "https://m.thepaper.cn/newsDetail_forward_34171579",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 07时31分]"
+        },
+        {
+          "title": "陈芋汐夺得女子10米跳台金牌",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%A4%BA%E5%BE%97%E5%A5%B3%E5%AD%9010%E7%B1%B3%E8%B7%B3%E5%8F%B0%E9%87%91%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 07时31分]"
+        },
+        {
+          "title": "安洗莹卫冕亚运会羽毛球女单冠军",
+          "url": "https://www.douyin.com/hot/2673243",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
+          "time_info": "[03时51分 ~ 07时31分]"
+        },
+        {
+          "title": "宋佳获金鹰奖最佳女主角",
+          "url": "https://www.douyin.com/hot/2673945",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 07时31分]"
+        },
+        {
+          "title": "亚运会男女混 4×100 米接力决赛，中国队以 40 秒 78 夺金，拿下该项目亚运会历史首金，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2088247556220400683",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 07时31分]"
         },
         {
           "title": "梅婷获金鹰奖最佳女配角奖",
@@ -63,20 +113,20 @@
           "time_info": "[03时50分 ~ 03时51分]"
         },
         {
-          "title": "胡歌带妻女出门被偶遇",
-          "url": "https://www.toutiao.com/trending/7690726733876281354/",
-          "source": "今日头条",
+          "title": "家有儿女小雪刘星合体",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%B0%8F%E9%9B%AA%E5%88%98%E6%98%9F%E5%90%88%E4%BD%93%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            27
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
+          "time_info": "[03时51分 ~ 07时31分]"
         },
         {
-          "title": "陈芋汐夺得女子10米跳台金牌",
-          "url": "https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%A4%BA%E5%BE%97%E5%A5%B3%E5%AD%9010%E7%B1%B3%E8%B7%B3%E5%8F%B0%E9%87%91%E7%89%8C",
-          "source": "百度热搜",
+          "title": "胡歌带妻女出门被偶遇",
+          "url": "https://www.toutiao.com/trending/7690726733876281354/",
+          "source": "今日头条",
           "ranks": [
             27
           ],
@@ -94,50 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 03时51分]"
-        },
-        {
-          "title": "安洗莹卫冕亚运会羽毛球女单冠军",
-          "url": "https://www.douyin.com/hot/2673243",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "宋佳获金鹰奖最佳女主角",
-          "url": "https://www.douyin.com/hot/2673945",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "亚运会男女混 4×100 米接力决赛，中国队以 40 秒 78 夺金，拿下该项目亚运会历史首金，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2088247556220400683",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "家有儿女小雪刘星合体",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%B0%8F%E9%9B%AA%E5%88%98%E6%98%9F%E5%90%88%E4%BD%93%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
         }
       ]
     }
