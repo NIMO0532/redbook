@@ -1,289 +1,110 @@
 {
-  "generated_at": "2026-10-01T16:28:39.474919+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-10-02T00:05:30.257463+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 24,
+      "match_count": 9,
       "titles": [
         {
-          "title": "黑龙江一女职工被控殴打男同事致耳膜穿孔判刑八个月，最高法指令再审",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34177871",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 09时08分]"
-        },
-        {
-          "title": "开国将军雷震为女儿取名“国庆”",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%BD%E5%B0%86%E5%86%9B%E9%9B%B7%E9%9C%87%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%8F%96%E5%90%8D%E2%80%9C%E5%9B%BD%E5%BA%86%E2%80%9D",
+          "title": "爸爸扛60多斤女儿看升旗硬扛30多分钟",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF%E7%9C%8B%E5%8D%87%E6%97%97%E7%A1%AC%E6%89%9B30%E5%A4%9A%E5%88%86%E9%92%9F",
           "source": "百度热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时05分"
         },
         {
-          "title": "赌王之女何超琼称遭骚扰恐吓",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%8C%E7%8E%8B%E4%B9%8B%E5%A5%B3%E4%BD%95%E8%B6%85%E7%90%BC%E7%A7%B0%E9%81%AD%E9%AA%9A%E6%89%B0%E6%81%90%E5%90%93",
-          "source": "百度热搜",
+          "title": "吧友自制夏梦,纯爱后宫双女主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366253&amp;topic_name=%E5%90%A7%E5%8F%8B%E8%87%AA%E5%88%B6%E5%A4%8F%E6%A2%A6%2C%E7%BA%AF%E7%88%B1%E5%90%8E%E5%AE%AB%E5%8F%8C%E5%A5%B3%E4%B8%BB",
+          "source": "贴吧",
           "ranks": [
-            13,
-            12,
-            29
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 09时08分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
-          "title": "南非一地连续发现11具女性尸体，多数曾遭严重性侵",
-          "url": "https://news.ifeng.com/c/8wqQ2McSvrS",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 09时08分]"
-        },
-        {
-          "title": "女子父亲突然离世邻居1分钟赶到帮忙",
-          "url": "https://www.toutiao.com/trending/7691204360935751722/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 09时08分]"
-        },
-        {
-          "title": "日媒：张本智和常私信搭讪女性",
-          "url": "https://www.toutiao.com/trending/7691236494375911478/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 09时08分]"
-        },
-        {
-          "title": "女子进矿山工作六年被亲戚羡慕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%9B%E7%9F%BF%E5%B1%B1%E5%B7%A5%E4%BD%9C%E5%85%AD%E5%B9%B4%E8%A2%AB%E4%BA%B2%E6%88%9A%E7%BE%A1%E6%85%95",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 09时08分]"
-        },
-        {
-          "title": "奚梦瑶给女儿买了可爱版菜篮子",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E4%BA%86%E5%8F%AF%E7%88%B1%E7%89%88%E8%8F%9C%E7%AF%AE%E5%AD%90%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 09时08分]"
-        },
-        {
-          "title": "穆欣月成首位亚运电竞女子冠军",
-          "url": "https://www.baidu.com/s?wd=%E7%A9%86%E6%AC%A3%E6%9C%88%E6%88%90%E9%A6%96%E4%BD%8D%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E5%A5%B3%E5%AD%90%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时17分]"
-        },
-        {
-          "title": "女子称去KTV后三台手机拍照出现紫斑",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8E%BBKTV%E5%90%8E%E4%B8%89%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E5%87%BA%E7%8E%B0%E7%B4%AB%E6%96%91",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 16时28分]"
-        },
-        {
-          "title": "穆欣月首位亚运电竞女子冠军",
-          "url": "https://www.douyin.com/hot/2675772",
-          "source": "抖音",
-          "ranks": [
-            16,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 09时08分]"
-        },
-        {
-          "title": "伊朗女歌手演出不戴头巾遭判笞刑74鞭",
-          "url": "https://www.toutiao.com/trending/7691120944848928811/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "伊朗女歌手演出不戴头巾，被认定“淫秽不雅”，遭判笞刑74鞭",
-          "url": "https://news.ifeng.com/c/8wqd1xFlODU",
+          "title": "以媒：阿曼籍飞行员同事称其为极端分子、拒与女性握手",
+          "url": "https://news.ifeng.com/c/8ws1QQ7XURh",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "穆欣月首位亚运电竞女子冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A9%86%E6%AC%A3%E6%9C%88%E9%A6%96%E4%BD%8D%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E5%A5%B3%E5%AD%90%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 05时17分]"
-        },
-        {
-          "title": "中国首位金牌电竞女选手桃晚安",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E9%87%91%E7%89%8C%E7%94%B5%E7%AB%9E%E5%A5%B3%E9%80%89%E6%89%8B%E6%A1%83%E6%99%9A%E5%AE%89%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 05时17分]"
-        },
-        {
-          "title": "我家那闺女 剪辑",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%20%E5%89%AA%E8%BE%91&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 05时17分]"
-        },
-        {
-          "title": "走近八一连女子国旗护卫队",
-          "url": "https://www.toutiao.com/trending/7691177906585174052/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "当女生频繁做美甲之后",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A5%B3%E7%94%9F%E9%A2%91%E7%B9%81%E5%81%9A%E7%BE%8E%E7%94%B2%E4%B9%8B%E5%90%8E%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 05时17分]"
-        },
-        {
-          "title": "穆欣月首位亚运电竞女子冠军",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A9%86%E6%AC%A3%E6%9C%88%E9%A6%96%E4%BD%8D%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E5%A5%B3%E5%AD%90%E5%86%A0%E5%86%9B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 05时17分]"
-        },
-        {
-          "title": "亚运会网球女单冠军",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BD%91%E7%90%83%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时05分"
         },
         {
-          "title": "美国女死刑犯“打了两针还没死”，行刑被迫中止",
-          "url": "https://news.ifeng.com/c/8wroPUNB8mm",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "女装信任市场崩溃商家改用防拆带",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E8%A3%85%E4%BF%A1%E4%BB%BB%E5%B8%82%E5%9C%BA%E5%B4%A9%E6%BA%83%E5%95%86%E5%AE%B6%E6%94%B9%E7%94%A8%E9%98%B2%E6%8B%86%E5%B8%A6&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "婆婆太宠爱 女子坐月子胖到426斤",
-          "url": "https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E5%A4%AA%E5%AE%A0%E7%88%B1+%E5%A5%B3%E5%AD%90%E5%9D%90%E6%9C%88%E5%AD%90%E8%83%96%E5%88%B0426%E6%96%A4",
+          "title": "女装高退货率逼出2.4米防拆丝带",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%A3%85%E9%AB%98%E9%80%80%E8%B4%A7%E7%8E%87%E9%80%BC%E5%87%BA2.4%E7%B1%B3%E9%98%B2%E6%8B%86%E4%B8%9D%E5%B8%A6",
           "source": "百度热搜",
           "ranks": [
-            23
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时05分"
         },
         {
-          "title": "文春爆料后张本智和紧急取关女主播",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%A5%E7%88%86%E6%96%99%E5%90%8E%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%B4%A7%E6%80%A5%E5%8F%96%E5%85%B3%E5%A5%B3%E4%B8%BB%E6%92%AD%23&t=31&band_rank=25&Refer=top",
+          "title": "反转又反转！美国女死囚被注射两剂致死药物后仍活着还打鼾，紧急送医治疗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34186218",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "女装高退货率逼出2.4米防拆丝带",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E9%AB%98%E9%80%80%E8%B4%A7%E7%8E%87%E9%80%BC%E5%87%BA2.4%E7%B1%B3%E9%98%B2%E6%8B%86%E4%B8%9D%E5%B8%A6%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时05分"
+        },
+        {
+          "title": "逐帧拆解张家齐母女饭局",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E6%8B%86%E8%A7%A3%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%AF%8D%E5%A5%B3%E9%A5%AD%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "爸爸扛60多斤女儿30多分钟看升旗",
+          "url": "https://www.toutiao.com/trending/7691288987524317238/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "电商女装卖10件退8件已成常态",
+          "url": "https://www.toutiao.com/trending/7691307536867360806/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
         }
       ]
     },
@@ -296,14 +117,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E6%99%AF%E5%8C%BA%E5%AE%A1%E7%BE%8E%E4%B8%BA%E4%BD%95%E6%80%BB%E8%A2%AB%E8%AF%9F%E7%97%85",
           "source": "bilibili 热搜",
           "ranks": [
-            23,
-            27,
-            24,
-            20
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 16时28分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         }
       ]
     }
