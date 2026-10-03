@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T04:44:41.412503+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-10-04T07:34:37.289457+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "张家齐这对母女真的是一期一个刀",
@@ -14,9 +14,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 07时34分]"
+        },
+        {
+          "title": "湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34195825",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 07时34分]"
         },
         {
           "title": "转转神秘眼镜女称被造黄谣",
@@ -26,8 +38,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时34分]"
+        },
+        {
+          "title": "女子靠AI婚庆培训年入200万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时34分]"
+        },
+        {
+          "title": "女子别车遭脚踹被罚200元",
+          "url": "https://www.toutiao.com/trending/7691298139562688538/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时34分]"
         },
         {
           "title": "吧友自制夏梦,纯爱后宫双女主",
@@ -37,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时34分]"
         },
         {
           "title": "汉大帮高育良的外甥女陆亦可为什么被大家厌恶？她和侯亮平是一类人吗？",
@@ -49,19 +86,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 04时44分]"
-        },
-        {
-          "title": "女子别车遭脚踹被罚200元",
-          "url": "https://www.toutiao.com/trending/7691298139562688538/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时34分]"
         },
         {
           "title": "新华社：留给中国女足的时间不多了",
@@ -69,67 +95,48 @@
           "source": "今日头条",
           "ranks": [
             25,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 04时44分]"
-        },
-        {
-          "title": "女子靠AI婚庆培训年入200万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时34分]"
         },
         {
           "title": "女子连公共WiFi被连扣3笔钱",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%85%AC%E5%85%B1WiFi%E8%A2%AB%E8%BF%9E%E6%89%A33%E7%AC%94%E9%92%B1%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时34分]"
         },
         {
           "title": "马斯克与高管女友分手 两人育有4孩",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B%E5%88%86%E6%89%8B+%E4%B8%A4%E4%BA%BA%E8%82%B2%E6%9C%894%E5%AD%A9",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34195825",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 07时34分]"
         },
         {
           "title": "女子做早餐被网友说对自己太差",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%81%9A%E6%97%A9%E9%A4%90%E8%A2%AB%E7%BD%91%E5%8F%8B%E8%AF%B4%E5%AF%B9%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%B7%AE&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 07时34分]"
         },
         {
           "title": "内娱编剧写不好低学历女主了",
@@ -152,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "30岁女子靠AI婚庆培训年入200万",
+          "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     }
