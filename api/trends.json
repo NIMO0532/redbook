@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T04:26:04.061772+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-03T08:13:26.064137+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://www.zhihu.com/question/2088728472214684789",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 08时13分]"
         },
         {
           "title": "女子因儿童未下车而阻挡列车关门，广州南车站回应：提醒教育，儿童已安全接回",
           "url": "https://m.thepaper.cn/newsDetail_forward_34191119",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 08时13分]"
         },
         {
           "title": "15万人广场上她把孩子交给女警",
           "url": "https://www.baidu.com/s?wd=15%E4%B8%87%E4%BA%BA%E5%B9%BF%E5%9C%BA%E4%B8%8A%E5%A5%B9%E6%8A%8A%E5%AD%A9%E5%AD%90%E4%BA%A4%E7%BB%99%E5%A5%B3%E8%AD%A6",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 08时13分]"
         },
         {
           "title": "吧友自制夏梦,纯爱后宫双女主",
@@ -47,9 +50,26 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 08时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子吐槽国内景区审美绝症",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%9B%BD%E5%86%85%E6%99%AF%E5%8C%BA%E5%AE%A1%E7%BE%8E%E7%BB%9D%E7%97%87&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "08时13分"
         }
       ]
     }
