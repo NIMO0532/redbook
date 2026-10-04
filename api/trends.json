@@ -1,303 +1,110 @@
 {
-  "generated_at": "2026-10-04T23:45:28.362692+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-10-05T03:17:32.130115+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 31,
+      "match_count": 10,
       "titles": [
         {
-          "title": "湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34195825",
-          "source": "澎湃新闻",
+          "title": "高速拥堵女子憋尿被紧急送进急诊",
+          "url": "https://www.toutiao.com/trending/7692707296652509220/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时44分 ~ 18时58分]"
-        },
-        {
-          "title": "张家齐这对母女真的是一期一个刀",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%BF%99%E5%AF%B9%E6%AF%8D%E5%A5%B3%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E6%9C%9F%E4%B8%80%E4%B8%AA%E5%88%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 07时34分]"
-        },
-        {
-          "title": "转转神秘眼镜女称被造黄谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 23时45分]"
-        },
-        {
-          "title": "于子迪当选亚运女子MVP",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%BD%93%E9%80%89%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%AD%90MVP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "于子迪当选亚运会女子MVP",
-          "url": "https://www.douyin.com/hot/2680633",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "吧友自制夏梦,纯爱后宫双女主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366253&amp;topic_name=%E5%90%A7%E5%8F%8B%E8%87%AA%E5%88%B6%E5%A4%8F%E6%A2%A6%2C%E7%BA%AF%E7%88%B1%E5%90%8E%E5%AE%AB%E5%8F%8C%E5%A5%B3%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 23时45分]"
+          "time_info": "03时17分"
         },
         {
           "title": "中东“空中浩劫”｜勇者们与6岁女孩的故事",
           "url": "https://m.thepaper.cn/newsDetail_forward_34195822",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 23时45分]"
-        },
-        {
-          "title": "张家齐明确表示母女关系不可能修复了，关键原因在哪？如何评价节目里母女这顿饭的交流？",
-          "url": "https://www.zhihu.com/question/2089982623648937503",
-          "source": "知乎",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "03时17分"
         },
         {
-          "title": "女子靠AI婚庆培训年入200万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87",
-          "source": "百度热搜",
+          "title": "转转神秘眼镜女称被造黄谣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
+          "source": "贴吧",
           "ranks": [
-            27,
-            28,
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
-          "title": "女子别车遭脚踹被罚200元",
-          "url": "https://www.toutiao.com/trending/7691298139562688538/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 07时34分]"
-        },
-        {
-          "title": "汉大帮高育良的外甥女陆亦可为什么被大家厌恶？她和侯亮平是一类人吗？",
-          "url": "https://www.zhihu.com/question/2086972101483930401",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 07时34分]"
-        },
-        {
-          "title": "新华社：留给中国女足的时间不多了",
-          "url": "https://www.toutiao.com/trending/7692016304194371593/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 07时34分]"
-        },
-        {
-          "title": "女子连公共WiFi被连扣3笔钱",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%85%AC%E5%85%B1WiFi%E8%A2%AB%E8%BF%9E%E6%89%A33%E7%AC%94%E9%92%B1%23&t=31&band_rank=30&Refer=top",
+          "title": "女特警礼貌拒绝老外过于热情的动作",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%89%B9%E8%AD%A6%E7%A4%BC%E8%B2%8C%E6%8B%92%E7%BB%9D%E8%80%81%E5%A4%96%E8%BF%87%E4%BA%8E%E7%83%AD%E6%83%85%E7%9A%84%E5%8A%A8%E4%BD%9C&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            30,
-            27
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "研二女生坠楼疑因导师压力",
+          "url": "https://s.weibo.com/weibo?q=%E7%A0%94%E4%BA%8C%E5%A5%B3%E7%94%9F%E5%9D%A0%E6%A5%BC%E7%96%91%E5%9B%A0%E5%AF%BC%E5%B8%88%E5%8E%8B%E5%8A%9B&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "吧友自制夏梦,纯爱后宫双女主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366253&amp;topic_name=%E5%90%A7%E5%8F%8B%E8%87%AA%E5%88%B6%E5%A4%8F%E6%A2%A6%2C%E7%BA%AF%E7%88%B1%E5%90%8E%E5%AE%AB%E5%8F%8C%E5%A5%B3%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "24岁女生吃2小时自助餐被送急诊",
+          "url": "https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%90%832%E5%B0%8F%E6%97%B6%E8%87%AA%E5%8A%A9%E9%A4%90%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "13岁于子迪当选亚运女子MVP",
           "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%BD%93%E9%80%89%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%AD%90MVP",
           "source": "百度热搜",
           "ranks": [
-            6
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
-          "title": "拿斧头砍机长的副驾驶身份披露，发了3000条“仇女”消息",
-          "url": "https://news.ifeng.com/c/8wwdWd1XKb8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "迪拜航空遇袭新细节：6岁女孩上厕所，母亲发现异常报空乘",
-          "url": "https://news.ifeng.com/c/8wwwdK7iFJf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 23时45分]"
-        },
-        {
-          "title": "北京独居女子离世房产判归国家",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E7%A6%BB%E4%B8%96%E6%88%BF%E4%BA%A7%E5%88%A4%E5%BD%92%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "马斯克与高管女友分手 两人育有4孩",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B%E5%88%86%E6%89%8B+%E4%B8%A4%E4%BA%BA%E8%82%B2%E6%9C%894%E5%AD%A9",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 07时34分]"
-        },
-        {
-          "title": "女子做早餐被网友说对自己太差",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%81%9A%E6%97%A9%E9%A4%90%E8%A2%AB%E7%BD%91%E5%8F%8B%E8%AF%B4%E5%AF%B9%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%B7%AE&t=31&band_rank=22&Refer=top",
+          "title": "男生描述喜欢的女生很少提性格",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%94%9F%E6%8F%8F%E8%BF%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E5%BE%88%E5%B0%91%E6%8F%90%E6%80%A7%E6%A0%BC&t=31&band_rank=23&Refer=top",
           "source": "微博",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 07时34分]"
-        },
-        {
-          "title": "于子迪亚运会女子MVP",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%AD%90MVP%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "张家齐妈妈看见张家齐就哭「我觉得你会不要我」，这是一种什么心理？为什么很多父母年纪大了会对子女更温和？",
-          "url": "https://www.zhihu.com/question/2090068922766549988",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "孙心然闯入中网女单32强",
-          "url": "https://www.douyin.com/hot/2680753",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "迪拜航空6岁女孩母亲发现异动上报",
-          "url": "https://www.toutiao.com/trending/7691936511364923434/",
-          "source": "今日头条",
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "女子回应收男友520红包未回礼被报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E6%94%B6%E7%94%B7%E5%8F%8B520%E7%BA%A2%E5%8C%85%E6%9C%AA%E5%9B%9E%E7%A4%BC%E8%A2%AB%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "女子报冰岛外国团除了导游全是中国人",
-          "url": "https://www.toutiao.com/trending/7691842289576198198/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
+          "time_info": "03时17分"
         },
         {
           "title": "猴子帮女子摘苍耳一脸嫌弃",
@@ -306,64 +113,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "内娱编剧写不好低学历女主了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%BC%96%E5%89%A7%E5%86%99%E4%B8%8D%E5%A5%BD%E4%BD%8E%E5%AD%A6%E5%8E%86%E5%A5%B3%E4%B8%BB%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "我家那闺女从哪找来这么多神人父母",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E4%BB%8E%E5%93%AA%E6%89%BE%E6%9D%A5%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A5%9E%E4%BA%BA%E7%88%B6%E6%AF%8D&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "武汉女子怀孕29周产下1公斤极早产儿",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%9529%E5%91%A8%E4%BA%A7%E4%B8%8B1%E5%85%AC%E6%96%A4%E6%9E%81%E6%97%A9%E4%BA%A7%E5%84%BF",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "30岁女子靠AI婚庆培训年入200万",
-          "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "给女友发红包没等来回礼男子报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%A5%B3%E5%8F%8B%E5%8F%91%E7%BA%A2%E5%8C%85%E6%B2%A1%E7%AD%89%E6%9D%A5%E5%9B%9E%E7%A4%BC%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "03时17分"
         }
       ]
     }
