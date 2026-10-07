@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T14:56:19.799534+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-10-07T22:19:25.567063+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
         {
           "title": "女子美容院灌肠肠子被捅破",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -35,11 +35,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 22时19分]"
         },
         {
           "title": "吧友自制夏梦,纯爱后宫双女主",
@@ -87,13 +88,57 @@
           "time_info": "[04时01分 ~ 04时02分]"
         },
         {
+          "title": "郑钦文闯入中网女单八强",
+          "url": "https://www.toutiao.com/trending/7693104265648652314/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "王星失联前向女友求救发猫喂了没",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "王星失联前向女友求救发猫喂了没",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "孙颖莎 1-3 不敌泰国选手，止步 WTT 中国大满贯女单 32 强，怎样评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2091257221887649002",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "养父怕养女受委屈终身未婚",
           "url": "https://www.baidu.com/s?wd=%E5%85%BB%E7%88%B6%E6%80%95%E5%85%BB%E5%A5%B3%E5%8F%97%E5%A7%94%E5%B1%88%E7%BB%88%E8%BA%AB%E6%9C%AA%E5%A9%9A",
           "source": "百度热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -104,7 +149,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -115,9 +160,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "美国女囚注射死刑失败后已清醒",
+          "url": "https://news.ifeng.com/c/8x1zIeDrhkW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "王星女友发博",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%8D%9A%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "缅北刘家诱骗大批妇女偷渡出境卖淫",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%88%98%E5%AE%B6%E8%AF%B1%E9%AA%97%E5%A4%A7%E6%89%B9%E5%A6%87%E5%A5%B3%E5%81%B7%E6%B8%A1%E5%87%BA%E5%A2%83%E5%8D%96%E6%B7%AB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "程序员为女友抢号搞瘫医院挂号系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%BA%E5%A5%B3%E5%8F%8B%E6%8A%A2%E5%8F%B7%E6%90%9E%E7%98%AB%E5%8C%BB%E9%99%A2%E6%8C%82%E5%8F%B7%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "邓紫棋自曝给女儿儿子取好名字",
@@ -137,7 +226,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -148,9 +237,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "《兰香如故》女配叙事还差了哪一步",
+          "url": "https://www.toutiao.com/trending/7693896577705840174/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     }
