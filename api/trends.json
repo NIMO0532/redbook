@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-08T04:27:32.430647+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-08T08:46:23.427171+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "孙颖莎 1-3 不敌泰国选手，止步 WTT 中国大满贯女单 32 强，怎样评价本场比赛？",
           "url": "https://www.zhihu.com/question/2091257221887649002",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 08时46分]"
         },
         {
           "title": "建议女孩子多用原相机拍照",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 08时46分]"
         },
         {
           "title": "王星失联前向女友求救发猫喂了没",
@@ -41,22 +42,58 @@
           "time_info": "04时27分"
         },
         {
-          "title": "郑钦文闯入中网女单八强",
-          "url": "https://www.toutiao.com/trending/7693104265648652314/",
-          "source": "今日头条",
+          "title": "九个舅舅染不同发色参加侄女婚礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E4%B8%8D%E5%90%8C%E5%8F%91%E8%89%B2%E5%8F%82%E5%8A%A0%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 08时46分]"
         },
         {
           "title": "孙颖莎不敌泰国选手帕拉南，止步WTT中国大满贯女单32强",
           "url": "https://m.thepaper.cn/newsDetail_forward_34209231",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 08时46分]"
+        },
+        {
+          "title": "郑钦文2比1战胜本届中网“最大黑马”，顺利挺进女单八强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34209228",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 08时46分]"
+        },
+        {
+          "title": "转转神秘眼镜女称被造黄谣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 08时46分]"
+        },
+        {
+          "title": "郑钦文闯入中网女单八强",
+          "url": "https://www.toutiao.com/trending/7693104265648652314/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,15 +111,15 @@
           "time_info": "04时27分"
         },
         {
-          "title": "九个舅舅染不同发色参加侄女婚礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E4%B8%8D%E5%90%8C%E5%8F%91%E8%89%B2%E5%8F%82%E5%8A%A0%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "女子买房多年才得知客厅上方有座坟",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%88%BF%E5%A4%9A%E5%B9%B4%E6%89%8D%E5%BE%97%E7%9F%A5%E5%AE%A2%E5%8E%85%E4%B8%8A%E6%96%B9%E6%9C%89%E5%BA%A7%E5%9D%9F",
+          "source": "百度热搜",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "08时46分"
         },
         {
           "title": "郑钦文 三盘女王",
@@ -96,15 +133,26 @@
           "time_info": "04时27分"
         },
         {
-          "title": "郑钦文2比1战胜本届中网“最大黑马”，顺利挺进女单八强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34209228",
-          "source": "澎湃新闻",
+          "title": "白俄罗斯女歌手在缅甸遭拐卖后被杀",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%9C%A8%E7%BC%85%E7%94%B8%E9%81%AD%E6%8B%90%E5%8D%96%E5%90%8E%E8%A2%AB%E6%9D%80",
+          "source": "百度热搜",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "08时46分"
+        },
+        {
+          "title": "9个舅舅染彩发给侄女婚礼撑腰",
+          "url": "https://www.baidu.com/s?wd=9%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E5%BD%A9%E5%8F%91%E7%BB%99%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%E6%92%91%E8%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "王星女友发博",
@@ -118,15 +166,26 @@
           "time_info": "04时27分"
         },
         {
-          "title": "转转神秘眼镜女称被造黄谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
-          "source": "贴吧",
+          "title": "女子肝气郁结大笑获小朋友回应",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%82%9D%E6%B0%94%E9%83%81%E7%BB%93%E5%A4%A7%E7%AC%91%E8%8E%B7%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "08时46分"
+        },
+        {
+          "title": "女子听到异响拦车救7人",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%AC%E5%88%B0%E5%BC%82%E5%93%8D%E6%8B%A6%E8%BD%A6%E6%95%917%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     }
