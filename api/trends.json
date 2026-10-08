@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T08:46:23.427171+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-10-08T15:04:11.219011+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "孙颖莎 1-3 不敌泰国选手，止步 WTT 中国大满贯女单 32 强，怎样评价本场比赛？",
@@ -31,6 +31,28 @@
           "time_info": "[04时27分 ~ 08时46分]"
         },
         {
+          "title": "张雪机车回应女子称男友进ICU想退车",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%94%B7%E5%8F%8B%E8%BF%9BICU%E6%83%B3%E9%80%80%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 15时04分]"
+        },
+        {
+          "title": "程序员为帮女友挂专家号写出「抢号软件」，后帮人收费「抢号」，最终获刑一年，怎样从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2091236241542836341",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "王星失联前向女友求救发猫喂了没",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -40,6 +62,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "孙颖莎不敌泰国选手帕拉南，止步WTT中国大满贯女单32强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34209231",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 15时04分]"
+        },
+        {
+          "title": "郑钦文2比1战胜本届中网“最大黑马”，顺利挺进女单八强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34209228",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 15时04分]"
+        },
+        {
+          "title": "转转神秘眼镜女称被造黄谣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 15时04分]"
         },
         {
           "title": "九个舅舅染不同发色参加侄女婚礼",
@@ -54,39 +113,15 @@
           "time_info": "[04时27分 ~ 08时46分]"
         },
         {
-          "title": "孙颖莎不敌泰国选手帕拉南，止步WTT中国大满贯女单32强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34209231",
-          "source": "澎湃新闻",
+          "title": "注射死刑失败，美国女囚昏迷6日后苏醒，张口问了两个问题",
+          "url": "https://news.ifeng.com/c/8x3QDBdlBam",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时27分 ~ 08时46分]"
-        },
-        {
-          "title": "郑钦文2比1战胜本届中网“最大黑马”，顺利挺进女单八强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34209228",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 08时46分]"
-        },
-        {
-          "title": "转转神秘眼镜女称被造黄谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 08时46分]"
+          "time_info": "[15时03分 ~ 15时04分]"
         },
         {
           "title": "郑钦文闯入中网女单八强",
@@ -117,7 +152,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -139,7 +174,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -150,7 +185,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -172,7 +207,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -183,9 +218,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "俄不明原因肺炎死亡女子同学回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%90%8C%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         }
       ]
     }
