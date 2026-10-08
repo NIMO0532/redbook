@@ -1,138 +1,22 @@
 {
-  "generated_at": "2026-10-08T23:18:50.816813+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-10-09T05:06:22.599318+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 13,
       "titles": [
         {
-          "title": "孙颖莎 1-3 不敌泰国选手，止步 WTT 中国大满贯女单 32 强，怎样评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2091257221887649002",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 08时46分]"
-        },
-        {
-          "title": "建议女孩子多用原相机拍照",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E5%AD%A9%E5%AD%90%E5%A4%9A%E7%94%A8%E5%8E%9F%E7%9B%B8%E6%9C%BA%E6%8B%8D%E7%85%A7&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 08时46分]"
-        },
-        {
-          "title": "张雪机车回应女子称男友进ICU想退车",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%94%B7%E5%8F%8B%E8%BF%9BICU%E6%83%B3%E9%80%80%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
-        },
-        {
-          "title": "程序员为帮女友挂专家号写出「抢号软件」，后帮人收费「抢号」，最终获刑一年，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2091236241542836341",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "王星失联前向女友求救发猫喂了没",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "孙颖莎不敌泰国选手帕拉南，止步WTT中国大满贯女单32强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34209231",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 15时04分]"
-        },
-        {
-          "title": "郑钦文2比1战胜本届中网“最大黑马”，顺利挺进女单八强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34209228",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 15时04分]"
-        },
-        {
-          "title": "转转神秘眼镜女称被造黄谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&amp;topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
+          "title": "30万养coser女友,博主遭NTR",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
           "source": "贴吧",
           "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 15时04分]"
-        },
-        {
-          "title": "九个舅舅染不同发色参加侄女婚礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E4%B8%8D%E5%90%8C%E5%8F%91%E8%89%B2%E5%8F%82%E5%8A%A0%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 08时46分]"
-        },
-        {
-          "title": "注射死刑失败，美国女囚昏迷6日后苏醒，张口问了两个问题",
-          "url": "https://news.ifeng.com/c/8x3QDBdlBam",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
-        },
-        {
-          "title": "郑钦文闯入中网女单八强",
-          "url": "https://www.toutiao.com/trending/7693104265648652314/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "05时06分"
         },
         {
           "title": "连美国人都看不下去了：这个日本女人，不该死！",
@@ -141,20 +25,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "女子开超小养老院只收六人",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E8%B6%85%E5%B0%8F%E5%85%BB%E8%80%81%E9%99%A2%E5%8F%AA%E6%94%B6%E5%85%AD%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "05时06分"
         },
         {
           "title": "被执行注射死刑失败后，美国女囚已能“下床走动”",
@@ -163,218 +36,119 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "05时06分"
+        },
+        {
+          "title": "女子在美容院做「排毒水光肌」套餐，灌肠时肠子被捅破致肠穿孔，这有多危险？美容院要承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2091169766090043415",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "高速免费最后一刻女子淡定缴费",
+          "url": "https://www.toutiao.com/trending/7693486233125273627/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
           "title": "美国女囚注射死刑失败后：围绕“该不该再杀她一次”的法律混战打响",
           "url": "https://m.thepaper.cn/newsDetail_forward_34210767",
           "source": "澎湃新闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美国女囚注射死刑失败后已清醒",
-          "url": "https://news.ifeng.com/c/8x1zIeDrhkW",
-          "source": "凤凰网",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "被举报婚内出轨的女局长系二婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E7%9A%84%E5%A5%B3%E5%B1%80%E9%95%BF%E7%B3%BB%E4%BA%8C%E5%A9%9A%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "湖南一女局长被举报婚内出轨多人",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "女子买房多年才得知客厅上方有座坟",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%88%BF%E5%A4%9A%E5%B9%B4%E6%89%8D%E5%BE%97%E7%9F%A5%E5%AE%A2%E5%8E%85%E4%B8%8A%E6%96%B9%E6%9C%89%E5%BA%A7%E5%9D%9F",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "湖南一女局长被举报婚内出轨多人",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "郑钦文 三盘女王",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87+%E4%B8%89%E7%9B%98%E5%A5%B3%E7%8E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "白俄罗斯女歌手在缅甸遭拐卖后被杀",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%9C%A8%E7%BC%85%E7%94%B8%E9%81%AD%E6%8B%90%E5%8D%96%E5%90%8E%E8%A2%AB%E6%9D%80",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "time_info": "05时06分"
         },
         {
           "title": "跳水运动员张家齐和她母亲的关系揭示了中国式母女的哪些问题？",
           "url": "https://www.zhihu.com/question/2088041826112618837",
           "source": "知乎",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "9个舅舅染彩发给侄女婚礼撑腰",
-          "url": "https://www.baidu.com/s?wd=9%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E5%BD%A9%E5%8F%91%E7%BB%99%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%E6%92%91%E8%85%B0",
-          "source": "百度热搜",
-          "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时46分"
+          "time_info": "05时06分"
         },
         {
-          "title": "王星女友发博",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%8D%9A%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "湖南一女局长被举报婚内出轨多人",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "05时06分"
         },
         {
-          "title": "烟草局人士称细烟带动女性烟民",
-          "url": "https://s.weibo.com/weibo?q=%E7%83%9F%E8%8D%89%E5%B1%80%E4%BA%BA%E5%A3%AB%E7%A7%B0%E7%BB%86%E7%83%9F%E5%B8%A6%E5%8A%A8%E5%A5%B3%E6%80%A7%E7%83%9F%E6%B0%91&t=31&band_rank=19&Refer=top",
+          "title": "纪委回应女局长被举报婚内出轨多人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%A7%94%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "死刑失败的美国女囚苏醒后问了俩问题",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E8%8B%8F%E9%86%92%E5%90%8E%E9%97%AE%E4%BA%86%E4%BF%A9%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "05时06分"
         },
         {
           "title": "女子捡到一袋5元纸币不知如何处理",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%B8%80%E8%A2%8B5%E5%85%83%E7%BA%B8%E5%B8%81%E4%B8%8D%E7%9F%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
           "source": "百度热搜",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "女子肝气郁结大笑获小朋友回应",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%82%9D%E6%B0%94%E9%83%81%E7%BB%93%E5%A4%A7%E7%AC%91%E8%8E%B7%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时46分"
+          "time_info": "05时06分"
+        },
+        {
+          "title": "女局长被举报婚内出轨多人家属发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "女子开超小养老院只收六人",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E8%B6%85%E5%B0%8F%E5%85%BB%E8%80%81%E9%99%A2%E5%8F%AA%E6%94%B6%E5%85%AD%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
           "title": "up主叮当猫 女朋友",
-          "url": "https://s.weibo.com/weibo?q=up%E4%B8%BB%E5%8F%AE%E5%BD%93%E7%8C%AB%20%E5%A5%B3%E6%9C%8B%E5%8F%8B&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "女子听到异响拦车救7人",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%AC%E5%88%B0%E5%BC%82%E5%93%8D%E6%8B%A6%E8%BD%A6%E6%95%917%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "王艺迪姜依依晋级中国大满贯女双四强",
-          "url": "https://www.toutiao.com/trending/7693421480155971626/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "俄不明原因肺炎死亡女子同学回应",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%90%8C%E5%AD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=30&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=up%E4%B8%BB%E5%8F%AE%E5%BD%93%E7%8C%AB%20%E5%A5%B3%E6%9C%8B%E5%8F%8B&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时04分"
+          "time_info": "05时06分"
         }
       ]
     }
