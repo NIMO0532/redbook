@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T02:16:18.643838+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-11T06:16:47.397919+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "郑钦文首次晋级中网女单决赛",
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "郑钦文首进中网女单决赛",
-          "url": "https://www.douyin.com/hot/2689461",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "创历史！郑钦文成为打进中网女单决赛首位中国球员",
           "url": "https://m.thepaper.cn/newsDetail_forward_34226698",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
+        },
+        {
+          "title": "郑钦文首进中网女单决赛",
+          "url": "https://www.douyin.com/hot/2689461",
+          "source": "抖音",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "白宫迎来会说中文的美女发言人",
@@ -48,8 +50,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
+        },
+        {
+          "title": "女子称 38 元买榴莲，切开后发现里面都是假果肉，还塞着年糕和土豆，是真的吗？可以怎样维权？",
+          "url": "https://www.zhihu.com/question/2092234755576001604",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "06时16分"
         },
         {
           "title": "郑钦文首进中网女单决赛",
@@ -59,19 +72,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "中网女单半决赛，郑钦文总比分 2-0 战胜梅尔滕斯，首次闯进中网决赛，如何评价本场比赛以及她的个人表现？",
           "url": "https://www.zhihu.com/question/2092297507661244000",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "11岁成都女孩拿下世界街舞冠军",
@@ -81,30 +95,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
           "url": "https://www.zhihu.com/question/2092196902880203160",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "黄磊二女儿和黄磊一模一样",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E4%BA%8C%E5%A5%B3%E5%84%BF%E5%92%8C%E9%BB%84%E7%A3%8A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "30万养coser女友,博主遭NTR",
@@ -114,8 +118,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
+        },
+        {
+          "title": "女子仅退款9斤蜜薯称有本事来拿",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE9%E6%96%A4%E8%9C%9C%E8%96%AF%E7%A7%B0%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%9D%A5%E6%8B%BF",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "女生校园内骑车被电动车撞倒离世，家属代理律师：复议后增加了两辆违停车辆的责任",
@@ -125,8 +141,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "女子仅退款9斤蜜薯称有本事就来拿",
@@ -136,26 +152,27 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
           "title": "至美至善星座女",
           "url": "https://www.douyin.com/hot/2688405",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 06时16分]"
         },
         {
-          "title": "女子仅退款9斤蜜薯称有本事来拿",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE9%E6%96%A4%E8%9C%9C%E8%96%AF%E7%A7%B0%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%9D%A5%E6%8B%BF",
-          "source": "百度热搜",
+          "title": "黄磊二女儿和黄磊一模一样",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E4%BA%8C%E5%A5%B3%E5%84%BF%E5%92%8C%E9%BB%84%E7%A3%8A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            30
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
