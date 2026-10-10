@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-10T14:45:28.232024+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-10-10T21:21:19.385589+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 36,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "WTT中国大满贯国乒女双夺冠",
+          "url": "https://www.douyin.com/hot/2688605",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 21时21分]"
+        },
         {
           "title": "女子买 42 元牛肉丸换支付方式付款被误会逃单，商家连发多条监控视频，商家这种行为涉嫌违法吗？",
           "url": "https://www.zhihu.com/question/2091935101781107354",
@@ -31,15 +43,39 @@
           "time_info": "08时32分"
         },
         {
-          "title": "WTT中国大满贯国乒女双夺冠",
-          "url": "https://www.douyin.com/hot/2688605",
+          "title": "郑钦文首次晋级中网女单决赛",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "郑钦文首进中网女单决赛",
+          "url": "https://www.douyin.com/hot/2689461",
           "source": "抖音",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "21时21分"
+        },
+        {
+          "title": "30万养coser女友,博主遭NTR",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 21时21分]"
         },
         {
           "title": "王曼昱蒯曼夺中国大满贯女双冠军",
@@ -48,21 +84,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
         {
-          "title": "30万养coser女友,博主遭NTR",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
-          "source": "贴吧",
+          "title": "白宫迎来会说中文的美女发言人",
+          "url": "https://news.ifeng.com/c/8x78oso9Zl5",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 14时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
+          "url": "https://www.zhihu.com/question/2092196902880203160",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "女子仅退款9斤蜜薯称有本事来拿",
@@ -199,15 +245,48 @@
           "time_info": "[04时37分 ~ 08时32分]"
         },
         {
+          "title": "女子爆改车位被要求恢复",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%86%E6%94%B9%E8%BD%A6%E4%BD%8D%E8%A2%AB%E8%A6%81%E6%B1%82%E6%81%A2%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "王曼昱晋级WTT女单决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7WTT%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "13岁中国女孩的一封信获全球唯一金奖",
           "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%E8%8E%B7%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E9%87%91%E5%A5%96",
           "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "黄磊二女儿和黄磊一模一样",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E4%BA%8C%E5%A5%B3%E5%84%BF%E5%92%8C%E9%BB%84%E7%A3%8A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "在甄嬛传中，为什么甄嬛从开始就对自己的太监和宫女比较仁慈？",
@@ -227,7 +306,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -238,7 +317,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -260,7 +339,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -271,7 +350,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -285,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "女生校园内骑车被电动车撞倒离世，家属代理律师：复议后增加了两辆违停车辆的责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34225164",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "男子往女生帽子里扔点燃烟头被行拘",
@@ -348,9 +438,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "至美至善星座女",
+          "url": "https://www.douyin.com/hot/2688405",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "WTT 中国大满贯，王艺迪 2-4 张本美和，止步女单八强，如何评价这场比赛 ？",
@@ -364,6 +465,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "中网女单半决赛，郑钦文总比分 2-0 战胜梅尔滕斯，首次闯进中网决赛，如何评价本场比赛以及她的个人表现？",
+          "url": "https://www.zhihu.com/question/2092297507661244000",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "飞天奖优秀女演员 宋佳",
           "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E5%A5%96%E4%BC%98%E7%A7%80%E5%A5%B3%E6%BC%94%E5%91%98+%E5%AE%8B%E4%BD%B3",
           "source": "百度热搜",
@@ -373,6 +485,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "女子癌症终末期的最后一个月",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%99%8C%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "举报女局长出轨多人男子再发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%A5%B3%E5%B1%80%E9%95%BF%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA%E7%94%B7%E5%AD%90%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "郑钦文进中网女单四强",
@@ -392,9 +526,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "李连杰谈小女儿患抑郁症",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%B0%8F%E5%A5%B3%E5%84%BF%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "妈妈说男的死得比女的早",
@@ -414,9 +559,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你那看啥都是审美的朋友",
+          "url": "https://www.douyin.com/hot/2688093",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     }
