@@ -1,58 +1,12 @@
 {
-  "generated_at": "2026-10-11T23:23:44.761202+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-10-12T03:59:05.039647+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 36,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "创历史！郑钦文成为打进中网女单决赛首位中国球员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34226698",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 16时25分]"
-        },
-        {
-          "title": "郑钦文首进中网女单决赛",
-          "url": "https://www.douyin.com/hot/2689461",
-          "source": "抖音",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 09时37分]"
-        },
-        {
-          "title": "郑钦文首次晋级中网女单决赛",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
-          "title": "白宫迎来会说中文的美女发言人",
-          "url": "https://news.ifeng.com/c/8x78oso9Zl5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
         {
           "title": "郑钦文首夺中网女单冠军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
@@ -62,18 +16,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "郑钦文中网女单夺冠",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "03时59分"
         },
         {
           "title": "郑钦文首夺中网女单冠军",
@@ -84,7 +27,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "03时59分"
         },
         {
           "title": "中网女单决赛，郑钦文 2-0 战胜安德列娃夺得冠军，如何评价本场比赛以及她的亮眼表现？",
@@ -95,183 +38,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "女子称 38 元买榴莲，切开后发现里面都是假果肉，还塞着年糕和土豆，是真的吗？可以怎样维权？",
-          "url": "https://www.zhihu.com/question/2092234755576001604",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 16时25分]"
-        },
-        {
-          "title": "30万养coser女友,博主遭NTR",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 23时23分]"
-        },
-        {
-          "title": "11岁成都女孩拿下世界街舞冠军",
-          "url": "https://www.baidu.com/s?wd=11%E5%B2%81%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E8%A1%97%E8%88%9E%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 09时37分]"
-        },
-        {
-          "title": "一公司领导给刚毕业女下属发淫秽照，媒体：不存在“没碰你就不算”模糊地带",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34226069",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 16时25分]"
-        },
-        {
-          "title": "女生校园内骑车被电动车撞倒离世，家属代理律师：复议后增加了两辆违停车辆的责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34225164",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 09时37分]"
-        },
-        {
-          "title": "至美至善星座女",
-          "url": "https://www.douyin.com/hot/2688405",
-          "source": "抖音",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 09时37分]"
-        },
-        {
-          "title": "郑钦文首进中网女单决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E8%BF%9B%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
-          "title": "中网女单半决赛，郑钦文总比分 2-0 战胜梅尔滕斯，首次闯进中网决赛，如何评价本场比赛以及她的个人表现？",
-          "url": "https://www.zhihu.com/question/2092297507661244000",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
-          "title": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
-          "url": "https://www.zhihu.com/question/2092196902880203160",
-          "source": "知乎",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
-          "title": "被举报女局长曾称选择了扶贫式婚姻",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A5%B3%E5%B1%80%E9%95%BF%E6%9B%BE%E7%A7%B0%E9%80%89%E6%8B%A9%E4%BA%86%E6%89%B6%E8%B4%AB%E5%BC%8F%E5%A9%9A%E5%A7%BB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
-        },
-        {
-          "title": "女子仅退款9斤蜜薯称有本事来拿",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE9%E6%96%A4%E8%9C%9C%E8%96%AF%E7%A7%B0%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%9D%A5%E6%8B%BF",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
-          "title": "女子仅退款9斤蜜薯称有本事就来拿",
-          "url": "https://www.toutiao.com/trending/7694623880660975625/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
-          "title": "被举报出轨女局长称长期遭受家暴",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%B1%80%E9%95%BF%E7%A7%B0%E9%95%BF%E6%9C%9F%E9%81%AD%E5%8F%97%E5%AE%B6%E6%9A%B4",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
-        },
-        {
-          "title": "女子陪孩子看病顺带查出自己患癌",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E5%AD%A9%E5%AD%90%E7%9C%8B%E7%97%85%E9%A1%BA%E5%B8%A6%E6%9F%A5%E5%87%BA%E8%87%AA%E5%B7%B1%E6%82%A3%E7%99%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "time_info": "03时59分"
         },
         {
           "title": "决赛击败佐藤瞳，王曼昱连续第二年夺得中国大满贯女单冠军",
           "url": "https://m.thepaper.cn/newsDetail_forward_34231779",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
@@ -280,119 +58,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "WTT 中国大满贯女单决赛，王曼昱 4-0 佐藤瞳成功卫冕，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2092634676540039677",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "王婆说媒现场29岁女舞蹈老师火了",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92%E7%8E%B0%E5%9C%BA29%E5%B2%81%E5%A5%B3%E8%88%9E%E8%B9%88%E8%80%81%E5%B8%88%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "黄磊二女儿和黄磊一模一样",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E4%BA%8C%E5%A5%B3%E5%84%BF%E5%92%8C%E9%BB%84%E7%A3%8A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "郑钦文爸爸妈妈现场见证女儿夺冠",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "华裔老两口枪杀女婿案曝惊天细节",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E8%A3%94%E8%80%81%E4%B8%A4%E5%8F%A3%E6%9E%AA%E6%9D%80%E5%A5%B3%E5%A9%BF%E6%A1%88%E6%9B%9D%E6%83%8A%E5%A4%A9%E7%BB%86%E8%8A%82&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "潘玮柏瘦到穿女装",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%98%A6%E5%88%B0%E7%A9%BF%E5%A5%B3%E8%A3%85%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "郑钦文 中网首位本土女单冠军",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87+%E4%B8%AD%E7%BD%91%E9%A6%96%E4%BD%8D%E6%9C%AC%E5%9C%9F%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "被骗缅北女孩遭遇惨不忍睹",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%AA%97%E7%BC%85%E5%8C%97%E5%A5%B3%E5%AD%A9%E9%81%AD%E9%81%87%E6%83%A8%E4%B8%8D%E5%BF%8D%E7%9D%B9&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "解说哽咽：我们迎来了自己的女单冠军",
           "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E8%BF%8E%E6%9D%A5%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
           "source": "百度热搜",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "女生一定要学会藏锋",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AD%A6%E4%BC%9A%E8%97%8F%E9%94%8B&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
+          "title": "潘玮柏自曝瘦了26斤 瘦到穿女装",
+          "url": "https://www.baidu.com/s?wd=%E6%BD%98%E7%8E%AE%E6%9F%8F%E8%87%AA%E6%9B%9D%E7%98%A6%E4%BA%8626%E6%96%A4+%E7%98%A6%E5%88%B0%E7%A9%BF%E5%A5%B3%E8%A3%85",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "女生被迫吸二手烟怒吼抽烟的把烟掐了",
@@ -401,37 +91,64 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
-          "title": "女子癌症终末期的最后一个月",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%99%8C%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=30&Refer=top",
+          "title": "中国女性传统坐姿松弛张扬",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E4%BC%A0%E7%BB%9F%E5%9D%90%E5%A7%BF%E6%9D%BE%E5%BC%9B%E5%BC%A0%E6%89%AC&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "女子 3 个月对盒马 399 件商品申请仅退款，快递员取件退还吃剩的，涉嫌诈骗罪被采取刑事强制，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2092372203266487423",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "被骗缅北女孩遭遇惨不忍睹",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%AA%97%E7%BC%85%E5%8C%97%E5%A5%B3%E5%AD%A9%E9%81%AD%E9%81%87%E6%83%A8%E4%B8%8D%E5%BF%8D%E7%9D%B9&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "30万养coser女友,博主遭NTR",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "郑钦文中网女单夺冠",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Baolan透露冠军皮肤分成",
-          "url": "https://search.bilibili.com/all?keyword=Baolan%E9%80%8F%E9%9C%B2%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%88%86%E6%88%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "03时59分"
         }
       ]
     }
