@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-11T06:16:47.397919+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-10-11T09:37:13.514396+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "郑钦文首次晋级中网女单决赛",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
         {
           "title": "创历史！郑钦文成为打进中网女单决赛首位中国球员",
           "url": "https://m.thepaper.cn/newsDetail_forward_34226698",
@@ -27,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时37分]"
         },
         {
           "title": "郑钦文首进中网女单决赛",
@@ -37,6 +26,17 @@
           "ranks": [
             1,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时37分]"
+        },
+        {
+          "title": "郑钦文首次晋级中网女单决赛",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -60,9 +60,57 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 09时37分]"
+        },
+        {
+          "title": "11岁成都女孩拿下世界街舞冠军",
+          "url": "https://www.baidu.com/s?wd=11%E5%B2%81%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E8%A1%97%E8%88%9E%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时37分]"
+        },
+        {
+          "title": "女生校园内骑车被电动车撞倒离世，家属代理律师：复议后增加了两辆违停车辆的责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34225164",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时37分]"
+        },
+        {
+          "title": "30万养coser女友,博主遭NTR",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时37分]"
+        },
+        {
+          "title": "至美至善星座女",
+          "url": "https://www.douyin.com/hot/2688405",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时37分]"
         },
         {
           "title": "郑钦文首进中网女单决赛",
@@ -88,17 +136,6 @@
           "time_info": "[02时16分 ~ 06时16分]"
         },
         {
-          "title": "11岁成都女孩拿下世界街舞冠军",
-          "url": "https://www.baidu.com/s?wd=11%E5%B2%81%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E8%A1%97%E8%88%9E%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
           "title": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
           "url": "https://www.zhihu.com/question/2092196902880203160",
           "source": "知乎",
@@ -111,15 +148,15 @@
           "time_info": "[02时16分 ~ 06时16分]"
         },
         {
-          "title": "30万养coser女友,博主遭NTR",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
-          "source": "贴吧",
+          "title": "被举报女局长曾称选择了扶贫式婚姻",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A5%B3%E5%B1%80%E9%95%BF%E6%9B%BE%E7%A7%B0%E9%80%89%E6%8B%A9%E4%BA%86%E6%89%B6%E8%B4%AB%E5%BC%8F%E5%A9%9A%E5%A7%BB",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
+          "time_info": "[09时36分 ~ 09时37分]"
         },
         {
           "title": "女子仅退款9斤蜜薯称有本事来拿",
@@ -128,17 +165,6 @@
           "ranks": [
             30,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
-        },
-        {
-          "title": "女生校园内骑车被电动车撞倒离世，家属代理律师：复议后增加了两辆违停车辆的责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34225164",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -156,16 +182,26 @@
           "time_info": "[02时16分 ~ 06时16分]"
         },
         {
-          "title": "至美至善星座女",
-          "url": "https://www.douyin.com/hot/2688405",
-          "source": "抖音",
+          "title": "一公司领导给刚毕业女下属发淫秽照，媒体：不存在“没碰你就不算”模糊地带",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34226069",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            29
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时16分 ~ 06时16分]"
+          "time_info": "[09时36分 ~ 09时37分]"
+        },
+        {
+          "title": "女子陪孩子看病顺带查出自己患癌",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E5%AD%A9%E5%AD%90%E7%9C%8B%E7%97%85%E9%A1%BA%E5%B8%A6%E6%9F%A5%E5%87%BA%E8%87%AA%E5%B7%B1%E6%82%A3%E7%99%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 09时37分]"
         },
         {
           "title": "黄磊二女儿和黄磊一模一样",
@@ -177,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "女生一定要学会藏锋",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AD%A6%E4%BC%9A%E8%97%8F%E9%94%8B&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         },
         {
           "title": "女子癌症终末期的最后一个月",
