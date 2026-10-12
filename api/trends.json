@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-12T12:52:47.942360+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-10-12T20:51:30.008667+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "郑钦文首夺中网女单冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时59分 ~ 12时52分]"
-        },
         {
           "title": "郑钦文首夺中网女单冠军",
           "url": "https://www.douyin.com/hot/2689795",
@@ -42,6 +31,53 @@
           "time_info": "[03时59分 ~ 07时35分]"
         },
         {
+          "title": "郑钦文首夺中网女单冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 20时51分]"
+        },
+        {
+          "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34232410",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时58分 ~ 20时51分]"
+        },
+        {
+          "title": "刘国梁女儿夺冠没奖金",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%E6%B2%A1%E5%A5%96%E9%87%91%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "“父母资助子女买房不是义务”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%88%B6%E6%AF%8D%E8%B5%84%E5%8A%A9%E5%AD%90%E5%A5%B3%E4%B9%B0%E6%88%BF%E4%B8%8D%E6%98%AF%E4%B9%89%E5%8A%A1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "女孩去马来西亚高薪工作后失联",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E5%8E%BB%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E5%90%8E%E5%A4%B1%E8%81%94&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -59,9 +95,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "如何看待穆欣月（桃晚安）成亚运会电竞项目首位女子冠军后，其父亲说后悔以前阻拦她打游戏搞电竞？",
+          "url": "https://www.zhihu.com/question/2092396723658346628",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "女局长离婚风波不能止于八卦",
@@ -70,7 +117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -88,16 +135,28 @@
           "time_info": "[03时59分 ~ 12时52分]"
         },
         {
-          "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34232410",
-          "source": "澎湃新闻",
+          "title": "莫氏鸡煲莫叔称为养鸡场砸了 600 万，儿女都已辞职，很可能会再背上一身债务，如何看待他的选择？",
+          "url": "https://www.zhihu.com/question/2091597639112512575",
+          "source": "知乎",
           "ranks": [
-            9,
-            7
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时58分 ~ 12时52分]"
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 20时51分]"
+        },
+        {
+          "title": "人民日报聚焦中网首位本土女单冠军郑钦文：最好的自己就在当下和未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34233923",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 20时51分]"
         },
         {
           "title": "决赛击败佐藤瞳，王曼昱连续第二年夺得中国大满贯女单冠军",
@@ -125,6 +184,18 @@
           "time_info": "[03时58分 ~ 12时52分]"
         },
         {
+          "title": "30万养coser女友,博主遭NTR",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 20时51分]"
+        },
+        {
           "title": "解说哽咽：我们迎来了自己的女单冠军",
           "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%EF%BC%9A%E6%88%91%E4%BB%AC%E8%BF%8E%E6%9D%A5%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
           "source": "百度热搜",
@@ -147,18 +218,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时58分 ~ 07时35分]"
-        },
-        {
-          "title": "30万养coser女友,博主遭NTR",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时59分 ~ 12时52分]"
         },
         {
           "title": "中国女性传统坐姿松弛张扬",
@@ -195,26 +254,59 @@
           "time_info": "[03时59分 ~ 07时35分]"
         },
         {
-          "title": "莫氏鸡煲莫叔称为养鸡场砸了 600 万，儿女都已辞职，很可能会再背上一身债务，如何看待他的选择？",
-          "url": "https://www.zhihu.com/question/2091597639112512575",
-          "source": "知乎",
+          "title": "女子晒结婚六金一掉地上弹跳作响",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%99%92%E7%BB%93%E5%A9%9A%E5%85%AD%E9%87%91%E4%B8%80%E6%8E%89%E5%9C%B0%E4%B8%8A%E5%BC%B9%E8%B7%B3%E4%BD%9C%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "马斯克直播被女儿打断匆忙下线",
+          "url": "https://www.toutiao.com/trending/7695069415066517547/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "20时51分"
         },
         {
-          "title": "人民日报聚焦中网首位本土女单冠军郑钦文：最好的自己就在当下和未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34233923",
-          "source": "澎湃新闻",
+          "title": "李若彤到访活死人墓梦回小龙女",
+          "url": "https://www.toutiao.com/trending/7695675543217258547/",
+          "source": "今日头条",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "20时51分"
+        },
+        {
+          "title": "男子同酒楼同时与2女子办婚宴百日宴",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%8C%E9%85%92%E6%A5%BC%E5%90%8C%E6%97%B6%E4%B8%8E2%E5%A5%B3%E5%AD%90%E5%8A%9E%E5%A9%9A%E5%AE%B4%E7%99%BE%E6%97%A5%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "双女主全女剧来了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%8C%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%A5%B3%E5%89%A7%E6%9D%A5%E4%BA%86&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "刘国梁女儿刘宇婕登顶中国女子公开赛",
@@ -223,9 +315,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "女子扯爆洗衣凝珠导致眼角膜受损",
+          "url": "https://www.toutiao.com/trending/7695676655343943689/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "刘国梁16岁女儿夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%8116%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "男子同日与两女子分别办婚宴百日宴",
+          "url": "https://www.toutiao.com/trending/7695675546050592778/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "媒体：女局长离婚风波不能止于八卦",
@@ -234,7 +359,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -248,6 +373,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "男子与2女子分别办婚宴百日宴",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E2%E5%A5%B3%E5%AD%90%E5%88%86%E5%88%AB%E5%8A%9E%E5%A9%9A%E5%AE%B4%E7%99%BE%E6%97%A5%E5%AE%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "郑钦文回应中网女单夺冠",
+          "url": "https://www.douyin.com/hot/2690700",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "化妆刷 猫毛",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%96%E5%A6%86%E5%88%B7+%E7%8C%AB%E6%AF%9B",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "王者十一周年庆皮肤主题天下奇观",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%8D%81%E4%B8%80%E5%91%A8%E5%B9%B4%E5%BA%86%E7%9A%AE%E8%82%A4%E4%B8%BB%E9%A2%98%E5%A4%A9%E4%B8%8B%E5%A5%87%E8%A7%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     }
