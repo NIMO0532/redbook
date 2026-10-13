@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T02:01:46.337967+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-14T07:12:25.725922+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "31岁女子被撬窗掳走戒网瘾",
@@ -14,20 +14,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 07时12分]"
         },
         {
-          "title": "16岁女孩打咏春拳快出残影",
-          "url": "https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E5%92%8F%E6%98%A5%E6%8B%B3%E5%BF%AB%E5%87%BA%E6%AE%8B%E5%BD%B1",
-          "source": "百度热搜",
+          "title": "女子高铁上和男友开免提打1小时电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%92%8C%E7%94%B7%E5%8F%8B%E5%BC%80%E5%85%8D%E6%8F%90%E6%89%931%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            9,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "time_info": "[02时01分 ~ 07时12分]"
         },
         {
           "title": "7起涉导向违法广告典型案例公布：滴露物化女性广告两公司被罚共超100万",
@@ -37,8 +38,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 07时12分]"
+        },
+        {
+          "title": "16岁女孩打咏春拳快出残影",
+          "url": "https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E5%92%8F%E6%98%A5%E6%8B%B3%E5%BF%AB%E5%87%BA%E6%AE%8B%E5%BD%B1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 07时12分]"
         },
         {
           "title": "男群演疑似猥亵女演员 剧组回应",
@@ -48,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 07时12分]"
         },
         {
           "title": "女子高铁上和男友开免提打1小时电话",
@@ -59,52 +72,44 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 07时12分]"
         },
         {
           "title": "AI女爱豆因怀孕暂停活动",
           "url": "https://www.toutiao.com/trending/7696000536685674550/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 07时12分]"
         },
         {
           "title": "24岁女吃播猝死 或因缺钾",
           "url": "https://www.toutiao.com/trending/7694892096247267347/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 07时12分]"
         },
         {
           "title": "朱琳真的美貌绝伦吗？为什么我看央视版《西游记》时觉得女儿国国王出场无感，蝎子精出场才有惊艳的感觉？",
           "url": "https://www.zhihu.com/question/418887484",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "女子高铁上和男友开免提打1小时电话",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%92%8C%E7%94%B7%E5%8F%8B%E5%BC%80%E5%85%8D%E6%8F%90%E6%89%931%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 07时12分]"
         },
         {
           "title": "郑钦文首夺中网女单冠军",
@@ -113,9 +118,21 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 07时12分]"
+        },
+        {
+          "title": "家有儿女早就教了我们正确的爱情观",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E6%97%A9%E5%B0%B1%E6%95%99%E4%BA%86%E6%88%91%E4%BB%AC%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%88%B1%E6%83%85%E8%A7%82%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 07时12分]"
         },
         {
           "title": "刘国梁 16 岁女儿刘宇婕登顶高尔夫中国女子公开赛，成赛事创办以来首位业余冠军，哪些信息值得关注？",
@@ -124,31 +141,43 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 07时12分]"
         },
         {
           "title": "10岁女童被男老师摸脸家长索赔20万",
           "url": "https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%94%B7%E8%80%81%E5%B8%88%E6%91%B8%E8%84%B8%E5%AE%B6%E9%95%BF%E7%B4%A2%E8%B5%9420%E4%B8%87%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "家有儿女早就教了我们正确的爱情观",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E6%97%A9%E5%B0%B1%E6%95%99%E4%BA%86%E6%88%91%E4%BB%AC%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%88%B1%E6%83%85%E8%A7%82%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
+            19,
             20
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 07时12分]"
+        },
+        {
+          "title": "女子高铁上和男友开免提打1小时电话",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%92%8C%E7%94%B7%E5%8F%8B%E5%BC%80%E5%85%8D%E6%8F%90%E6%89%931%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "07时12分"
+        },
+        {
+          "title": "男群演疑似猥亵女演员 剧组回应",
+          "url": "https://www.toutiao.com/trending/7695955690120691750/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
@@ -161,11 +190,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E7%9B%BE%E5%B1%B1%E5%91%A8%E5%B9%B4%E5%BA%86%E7%9A%AE%E8%82%A4CG",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 07时12分]"
         }
       ]
     }
