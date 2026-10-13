@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T05:37:06.487721+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-13T10:53:26.887297+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "人民日报聚焦中网首位本土女单冠军郑钦文：最好的自己就在当下和未来",
@@ -13,17 +13,6 @@
           "source": "澎湃新闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 05时37分]"
-        },
-        {
-          "title": "“共享儿女”你能接受吗",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -41,15 +30,61 @@
           "time_info": "[05时36分 ~ 05时37分]"
         },
         {
+          "title": "31岁女子被撬窗掳走戒网瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "“共享儿女”你能接受吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 10时53分]"
+        },
+        {
           "title": "李秀满新女团出道曲MV",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93%E6%9B%B2MV",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 10时53分]"
+        },
+        {
+          "title": "在沙特开美容院的中国女子：已买返程沙特机票，仍在观望局势",
+          "url": "https://news.ifeng.com/c/8xAULOsYAk9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 10时53分]"
+        },
+        {
+          "title": "刘国梁女儿登顶公开赛，成首位业余冠军",
+          "url": "https://news.ifeng.com/c/8xAPbp0ECwG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 10时53分]"
         },
         {
           "title": "女子长假把宠物鸡寄养在养鸡场",
@@ -63,15 +98,16 @@
           "time_info": "[05时36分 ~ 05时37分]"
         },
         {
-          "title": "在沙特开美容院的中国女子：已买返程沙特机票，仍在观望局势",
-          "url": "https://news.ifeng.com/c/8xAULOsYAk9",
-          "source": "凤凰网",
+          "title": "郑钦文首夺中网女单冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时36分 ~ 05时37分]"
+          "time_info": "[05时37分 ~ 10时53分]"
         },
         {
           "title": "女子左臀疼1个月挤出发黑注射针头",
@@ -85,15 +121,16 @@
           "time_info": "[05时36分 ~ 05时37分]"
         },
         {
-          "title": "刘国梁女儿登顶公开赛，成首位业余冠军",
-          "url": "https://news.ifeng.com/c/8xAPbp0ECwG",
-          "source": "凤凰网",
+          "title": "备婚女生因三金折现和父母争吵",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%87%E5%A9%9A%E5%A5%B3%E7%94%9F%E5%9B%A0%E4%B8%89%E9%87%91%E6%8A%98%E7%8E%B0%E5%92%8C%E7%88%B6%E6%AF%8D%E4%BA%89%E5%90%B5&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时36分 ~ 05时37分]"
+          "time_info": "[05时37分 ~ 10时53分]"
         },
         {
           "title": "美国女死刑犯注射后未死亡已出院返监",
@@ -151,6 +188,18 @@
           "time_info": "[05时36分 ~ 05时37分]"
         },
         {
+          "title": "30万养coser女友,博主遭NTR",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 10时53分]"
+        },
+        {
           "title": "李若彤到访活死人墓梦回小龙女",
           "url": "https://www.toutiao.com/trending/7695675543217258547/",
           "source": "今日头条",
@@ -168,20 +217,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
         {
-          "title": "郑钦文首夺中网女单冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
+          "title": "梅婷回应女儿演戏",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%85%E5%A9%B7%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E6%BC%94%E6%88%8F",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "10时53分"
         },
         {
           "title": "莫氏鸡煲莫叔称为养鸡场砸了 600 万，儿女都已辞职，很可能会再背上一身债务，如何看待他的选择？",
@@ -190,18 +239,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "备婚女生因三金折现和父母争吵",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%87%E5%A9%9A%E5%A5%B3%E7%94%9F%E5%9B%A0%E4%B8%89%E9%87%91%E6%8A%98%E7%8E%B0%E5%92%8C%E7%88%B6%E6%AF%8D%E4%BA%89%E5%90%B5&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -212,20 +250,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
         {
-          "title": "30万养coser女友,博主遭NTR",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&amp;topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR",
-          "source": "贴吧",
+          "title": "刘国梁 16 岁女儿刘宇婕登顶高尔夫中国女子公开赛，成赛事创办以来首位业余冠军，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2093019602653536666",
+          "source": "知乎",
           "ranks": [
-            26
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "10时53分"
         },
         {
           "title": "女子就餐被拍肩膀突然暴怒摔盘",
@@ -234,16 +272,49 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "被继母怀疑拿钱 女孩自学开车出走",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%BB%A7%E6%AF%8D%E6%80%80%E7%96%91%E6%8B%BF%E9%92%B1+%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%AD%A6%E5%BC%80%E8%BD%A6%E5%87%BA%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "王者盾山周年庆皮肤CG",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E7%9B%BE%E5%B1%B1%E5%91%A8%E5%B9%B4%E5%BA%86%E7%9A%AE%E8%82%A4CG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "盾山周年庆限定皮肤PV解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%BE%E5%B1%B1%E5%91%A8%E5%B9%B4%E5%BA%86%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4PV%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
         {
           "title": "盾山应县木塔联动皮肤",
           "url": "https://www.douyin.com/hot/2691786",
@@ -251,7 +322,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
