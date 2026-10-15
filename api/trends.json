@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T02:55:47.871775+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-16T06:00:06.049324+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "豆包力压鲸鱼娘,荣获虎扑女神",
@@ -15,30 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "杨和苏公开女友",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8F%E5%85%AC%E5%BC%80%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "适龄女孩早接种HPV疫苗早保护",
-          "url": "https://www.toutiao.com/trending/7696373748376240154/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 06时00分]"
         },
         {
           "title": "香港警方通报珠宝大劫案：拘捕1男1女",
@@ -48,8 +26,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 06时00分]"
+        },
+        {
+          "title": "医生回应女子健身后尿液变成深褐色",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E5%90%8E%E5%B0%BF%E6%B6%B2%E5%8F%98%E6%88%90%E6%B7%B1%E8%A4%90%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 06时00分]"
+        },
+        {
+          "title": "亚运网球冠军黄泽林与陈奕迅女儿分手",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%86%A0%E5%86%9B%E9%BB%84%E6%B3%BD%E6%9E%97%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 06时00分]"
+        },
+        {
+          "title": "杨和苏公开女友",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8F%E5%85%AC%E5%BC%80%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 06时00分]"
         },
         {
           "title": "女摊主遭顾客差评跳河身亡",
@@ -59,19 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "医生回应女子健身后尿液变成深褐色",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E5%90%8E%E5%B0%BF%E6%B6%B2%E5%8F%98%E6%88%90%E6%B7%B1%E8%A4%90%E8%89%B2",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 06时00分]"
         },
         {
           "title": "31岁女子被撬窗掳走戒网瘾",
@@ -79,6 +80,40 @@
           "source": "贴吧",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 06时00分]"
+        },
+        {
+          "title": "7岁女孩用电话手表给姨妈拍婚礼大片",
+          "url": "https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%BB%99%E5%A7%A8%E5%A6%88%E6%8B%8D%E5%A9%9A%E7%A4%BC%E5%A4%A7%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时00分]"
+        },
+        {
+          "title": "女子撞见朋友老公与另一女子亲密",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%92%9E%E8%A7%81%E6%9C%8B%E5%8F%8B%E8%80%81%E5%85%AC%E4%B8%8E%E5%8F%A6%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%AF%86&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 06时00分]"
+        },
+        {
+          "title": "适龄女孩早接种HPV疫苗早保护",
+          "url": "https://www.toutiao.com/trending/7696373748376240154/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,26 +131,26 @@
           "time_info": "02时55分"
         },
         {
-          "title": "亚运网球冠军黄泽林与陈奕迅女儿分手",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%86%A0%E5%86%9B%E9%BB%84%E6%B3%BD%E6%9E%97%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "女子撞见朋友老公与另一女子亲密",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%92%9E%E8%A7%81%E6%9C%8B%E5%8F%8B%E8%80%81%E5%85%AC%E4%B8%8E%E5%8F%A6%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%AF%86&t=31&band_rank=24&Refer=top",
+          "title": "男子将拆迁房给继子起诉女儿要赡养费",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E6%8B%86%E8%BF%81%E6%88%BF%E7%BB%99%E7%BB%A7%E5%AD%90%E8%B5%B7%E8%AF%89%E5%A5%B3%E5%84%BF%E8%A6%81%E8%B5%A1%E5%85%BB%E8%B4%B9%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时55分"
+          "time_info": "06时00分"
+        },
+        {
+          "title": "李秀满新女团出道舞台reaction",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93%E8%88%9E%E5%8F%B0reaction",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时00分"
         },
         {
           "title": "韩国人评李秀满新女团A2OLITE",
@@ -127,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "向太曝李连杰女儿患抑郁症被高校拒收",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E6%9B%9D%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%A5%B3%E5%84%BF%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E8%A2%AB%E9%AB%98%E6%A0%A1%E6%8B%92%E6%94%B6%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时00分"
         }
       ]
     }
