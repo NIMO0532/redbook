@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T07:01:35.188763+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-10-15T11:40:15.470292+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "妈妈误寄50斤羊粪到女儿母校放了20天",
@@ -52,6 +52,18 @@
           "time_info": "[03时13分 ~ 07时01分]"
         },
         {
+          "title": "女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34247433",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 11时40分]"
+        },
+        {
           "title": "“女老虎”包惠被开除党籍",
           "url": "https://www.toutiao.com/trending/7696446731625434651/",
           "source": "今日头条",
@@ -76,6 +88,19 @@
           "time_info": "[03时12分 ~ 07时01分]"
         },
         {
+          "title": "马上评｜“女摊主被差评后轻生”的网络发言警示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34248612",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 11时40分]"
+        },
+        {
           "title": "如何看待网红女装品牌 CHICYOU 因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？",
           "url": "https://www.zhihu.com/question/2093001535881832037",
           "source": "知乎",
@@ -88,16 +113,28 @@
           "time_info": "[03时13分 ~ 07时01分]"
         },
         {
-          "title": "女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34247433",
-          "source": "澎湃新闻",
+          "title": "女摊主遭顾客差评跳河身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
           "ranks": [
             6,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
+          "time_info": "[03时13分 ~ 11时40分]"
+        },
+        {
+          "title": "31岁女子被撬窗掳走戒网瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 11时40分]"
         },
         {
           "title": "官方通报女子高铁开免提电话1小时",
@@ -106,18 +143,6 @@
           "ranks": [
             10,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "马上评｜“女摊主被差评后轻生”的网络发言警示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34248612",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -147,6 +172,18 @@
           "time_info": "[03时12分 ~ 07时01分]"
         },
         {
+          "title": "郑钦文首夺中网女单冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 11时40分]"
+        },
+        {
           "title": "成都警方通报“女子持U型锁打人”",
           "url": "https://www.toutiao.com/trending/7696506565130076201/",
           "source": "今日头条",
@@ -157,17 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "女摊主遭顾客差评跳河身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
         },
         {
           "title": "群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？",
@@ -193,15 +219,15 @@
           "time_info": "[03时13分 ~ 07时01分]"
         },
         {
-          "title": "31岁女子被撬窗掳走戒网瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
-          "source": "贴吧",
+          "title": "“女子用U型锁打人致死”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%B3%E5%AD%90%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E4%BA%BA%E8%87%B4%E6%AD%BB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "韩国人评李秀满新女团A2OLITE",
@@ -210,17 +236,6 @@
           "ranks": [
             15,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
-        },
-        {
-          "title": "郑钦文首夺中网女单冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -239,13 +254,24 @@
           "time_info": "[03时13分 ~ 07时01分]"
         },
         {
+          "title": "女子晒iPhone 18 Pro订单后被人冒领",
+          "url": "https://www.toutiao.com/trending/7696548185762758697/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
           "title": "成都警方通报女子持U型锁伤人",
           "url": "https://www.douyin.com/hot/2695641",
           "source": "抖音",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -261,13 +287,24 @@
           "time_info": "03时13分"
         },
         {
+          "title": "女孩月经量大补铁食补",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%9C%88%E7%BB%8F%E9%87%8F%E5%A4%A7%E8%A1%A5%E9%93%81%E9%A3%9F%E8%A1%A5&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "女子被冒用身份办社保卡流水590万",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%86%92%E7%94%A8%E8%BA%AB%E4%BB%BD%E5%8A%9E%E7%A4%BE%E4%BF%9D%E5%8D%A1%E6%B5%81%E6%B0%B4590%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -275,7 +312,7 @@
     },
     {
       "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "王者蚩奼全新史诗皮肤爆料",
@@ -288,6 +325,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 07时01分]"
+        },
+        {
+          "title": "蚩姹新皮肤农味大回归",
+          "url": "https://www.douyin.com/hot/2695499",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "王者限定皮肤盾山爆料",
