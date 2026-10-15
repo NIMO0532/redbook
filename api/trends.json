@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T16:57:23.180140+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-10-15T22:04:51.924695+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "妈妈误寄50斤羊粪到女儿母校放了20天",
@@ -30,6 +30,18 @@
           "time_info": "[03时13分 ~ 07时01分]"
         },
         {
+          "title": "豆包力压鲸鱼娘,荣获虎扑女神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 22时04分]"
+        },
+        {
           "title": "好一个乖乖女",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -52,17 +64,6 @@
           "time_info": "[03时13分 ~ 07时01分]"
         },
         {
-          "title": "24岁猝死女子面试前已呼吸困难",
-          "url": "https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%8C%9D%E6%AD%BB%E5%A5%B3%E5%AD%90%E9%9D%A2%E8%AF%95%E5%89%8D%E5%B7%B2%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查",
           "url": "https://m.thepaper.cn/newsDetail_forward_34247433",
           "source": "澎湃新闻",
@@ -75,15 +76,17 @@
           "time_info": "[03时12分 ~ 11时40分]"
         },
         {
-          "title": "豆包力压鲸鱼娘,荣获虎扑女神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
+          "title": "女摊主遭顾客差评跳河身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
           "source": "贴吧",
           "ranks": [
-            4
+            6,
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 22时04分]"
         },
         {
           "title": "“女老虎”包惠被开除党籍",
@@ -123,17 +126,54 @@
           "time_info": "[03时12分 ~ 11时40分]"
         },
         {
-          "title": "女摊主遭顾客差评跳河身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
+          "title": "31岁女子被撬窗掳走戒网瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
           "source": "贴吧",
           "ranks": [
-            6,
-            8,
-            9
+            9,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 22时04分]"
+        },
+        {
+          "title": "郑钦文首夺中网女单冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 22时04分]"
+        },
+        {
+          "title": "成都警方通报“女子持U型锁打人”：打人者被控制，编造“打死人”谣言者被罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34251040",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 22时04分]"
+        },
+        {
+          "title": "24岁猝死女子面试前已呼吸困难",
+          "url": "https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%8C%9D%E6%AD%BB%E5%A5%B3%E5%AD%90%E9%9D%A2%E8%AF%95%E5%89%8D%E5%B7%B2%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 22时04分]"
         },
         {
           "title": "如何看待网红女装品牌 CHICYOU 因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？",
@@ -146,32 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 07时01分]"
-        },
-        {
-          "title": "31岁女子被撬窗掳走戒网瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 16时57分]"
-        },
-        {
-          "title": "郑钦文首夺中网女单冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 16时57分]"
         },
         {
           "title": "官方通报女子高铁开免提电话1小时",
@@ -291,15 +305,26 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
-          "title": "成都警方通报“女子持U型锁打人”：打人者被控制，编造“打死人”谣言者被罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34251040",
-          "source": "澎湃新闻",
+          "title": "7岁女孩用电话手表给姨妈拍婚礼大片",
+          "url": "https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%BB%99%E5%A7%A8%E5%A6%88%E6%8B%8D%E5%A9%9A%E7%A4%BC%E5%A4%A7%E7%89%87",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "22时04分"
+        },
+        {
+          "title": "和妈妈旅行最后一天彻底闹翻，她说「摊上你这个女儿是造孽」，我该怎么调节？",
+          "url": "https://www.zhihu.com/question/2080206699856773835",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "成都警方通报女子持U型锁伤人",
@@ -319,7 +344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -341,9 +366,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "医生回应女子健身后尿液变成深褐色",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E5%90%8E%E5%B0%BF%E6%B6%B2%E5%8F%98%E6%88%90%E6%B7%B1%E8%A4%90%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "亚运网球冠军黄泽林与陈奕迅女儿分手",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%86%A0%E5%86%9B%E9%BB%84%E6%B3%BD%E6%9E%97%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "女孩月经量大补铁食补",
@@ -374,7 +421,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -385,7 +432,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
