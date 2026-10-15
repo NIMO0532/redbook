@@ -1,385 +1,99 @@
 {
-  "generated_at": "2026-10-15T22:04:51.924695+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-10-16T02:55:47.871775+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 37,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "妈妈误寄50斤羊粪到女儿母校放了20天",
-          "url": "https://www.toutiao.com/trending/7696126314881744922/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "好一个乖乖女热度登顶",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3%E7%83%AD%E5%BA%A6%E7%99%BB%E9%A1%B6&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
-        },
         {
           "title": "豆包力压鲸鱼娘,荣获虎扑女神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            4,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 22时04分]"
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
-          "title": "好一个乖乖女",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3&t=31&band_rank=4&Refer=top",
+          "title": "杨和苏公开女友",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8F%E5%85%AC%E5%BC%80%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
-          "title": "男子因经济拮据心生怨愤杀陌生女子",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BB%8F%E6%B5%8E%E6%8B%AE%E6%8D%AE%E5%BF%83%E7%94%9F%E6%80%A8%E6%84%A4%E6%9D%80%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "适龄女孩早接种HPV疫苗早保护",
+          "url": "https://www.toutiao.com/trending/7696373748376240154/",
+          "source": "今日头条",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
-          "title": "女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34247433",
-          "source": "澎湃新闻",
+          "title": "香港警方通报珠宝大劫案：拘捕1男1女",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8F%A0%E5%AE%9D%E5%A4%A7%E5%8A%AB%E6%A1%88%EF%BC%9A%E6%8B%98%E6%8D%951%E7%94%B71%E5%A5%B3",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 11时40分]"
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "女摊主遭顾客差评跳河身亡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
           "source": "贴吧",
           "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 22时04分]"
-        },
-        {
-          "title": "“女老虎”包惠被开除党籍",
-          "url": "https://www.toutiao.com/trending/7696446731625434651/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "女子被母亲介绍的相亲对象骗122万",
-          "url": "https://www.toutiao.com/trending/7696377071119220790/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "马上评｜“女摊主被差评后轻生”的网络发言警示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34248612",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 11时40分]"
-        },
-        {
-          "title": "31岁女子被撬窗掳走戒网瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 22时04分]"
-        },
-        {
-          "title": "郑钦文首夺中网女单冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366956&amp;topic_name=%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 22时04分]"
-        },
-        {
-          "title": "成都警方通报“女子持U型锁打人”：打人者被控制，编造“打死人”谣言者被罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34251040",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 22时04分]"
-        },
-        {
-          "title": "24岁猝死女子面试前已呼吸困难",
-          "url": "https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%8C%9D%E6%AD%BB%E5%A5%B3%E5%AD%90%E9%9D%A2%E8%AF%95%E5%89%8D%E5%B7%B2%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 22时04分]"
-        },
-        {
-          "title": "如何看待网红女装品牌 CHICYOU 因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？",
-          "url": "https://www.zhihu.com/question/2093001535881832037",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
-        },
-        {
-          "title": "官方通报女子高铁开免提电话1小时",
-          "url": "https://www.toutiao.com/trending/7695661082907823679/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "“女子用U型锁打人致死”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%B3%E5%AD%90%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E4%BA%BA%E8%87%B4%E6%AD%BB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 16时57分]"
-        },
-        {
-          "title": "成都警方通报女子持U型锁打人",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%8C%81U%E5%9E%8B%E9%94%81%E6%89%93%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "媒体评男子同日与不同女子办婚宴和百日宴：以“进步”为幌子行封建之实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34247173",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "韩国人评李秀满新女团A2OLITE",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%AF%84%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2A2OLITE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 16时57分]"
-        },
-        {
-          "title": "成都警方通报“女子持U型锁打人”",
-          "url": "https://www.toutiao.com/trending/7696506565130076201/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
-        },
-        {
-          "title": "群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2093629140502933840",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
-        },
-        {
-          "title": "如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知？",
-          "url": "https://www.zhihu.com/question/2093283021692605069",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
-        },
-        {
-          "title": "低血糖女生以为不吃饭只会饿",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E8%A1%80%E7%B3%96%E5%A5%B3%E7%94%9F%E4%BB%A5%E4%B8%BA%E4%B8%8D%E5%90%83%E9%A5%AD%E5%8F%AA%E4%BC%9A%E9%A5%BF&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
-        },
-        {
-          "title": "女子晒iPhone 18 Pro订单后被人冒领",
-          "url": "https://www.toutiao.com/trending/7696548185762758697/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "7岁女孩用电话手表给姨妈拍婚礼大片",
-          "url": "https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%BB%99%E5%A7%A8%E5%A6%88%E6%8B%8D%E5%A9%9A%E7%A4%BC%E5%A4%A7%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "和妈妈旅行最后一天彻底闹翻，她说「摊上你这个女儿是造孽」，我该怎么调节？",
-          "url": "https://www.zhihu.com/question/2080206699856773835",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "成都警方通报女子持U型锁伤人",
-          "url": "https://www.douyin.com/hot/2695641",
-          "source": "抖音",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "24岁女孩上午面试完晚上猝死",
-          "url": "https://www.baidu.com/s?wd=24%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8A%E5%8D%88%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%99%9A%E4%B8%8A%E7%8C%9D%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "为什么《兰香如故》电视剧，女主结婚从丫鬟到豪门贵妇就劝退了观众？",
-          "url": "https://www.zhihu.com/question/2092260909305553126",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "女生遗失手机 找回后发现有趣留言",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%97%E5%A4%B1%E6%89%8B%E6%9C%BA+%E6%89%BE%E5%9B%9E%E5%90%8E%E5%8F%91%E7%8E%B0%E6%9C%89%E8%B6%A3%E7%95%99%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "02时55分"
         },
         {
           "title": "医生回应女子健身后尿液变成深褐色",
           "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E5%90%8E%E5%B0%BF%E6%B6%B2%E5%8F%98%E6%88%90%E6%B7%B1%E8%A4%90%E8%89%B2",
           "source": "百度热搜",
           "ranks": [
-            18
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "02时55分"
+        },
+        {
+          "title": "31岁女子被撬窗掳走戒网瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "黄子韬徐艺洋之子 正统帽男帽女",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B9%8B%E5%AD%90%20%E6%AD%A3%E7%BB%9F%E5%B8%BD%E7%94%B7%E5%B8%BD%E5%A5%B3&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "亚运网球冠军黄泽林与陈奕迅女儿分手",
@@ -388,93 +102,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "02时55分"
         },
         {
-          "title": "女孩月经量大补铁食补",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%9C%88%E7%BB%8F%E9%87%8F%E5%A4%A7%E8%A1%A5%E9%93%81%E9%A3%9F%E8%A1%A5&t=31&band_rank=23&Refer=top",
+          "title": "女子撞见朋友老公与另一女子亲密",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%92%9E%E8%A7%81%E6%9C%8B%E5%8F%8B%E8%80%81%E5%85%AC%E4%B8%8E%E5%8F%A6%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%AF%86&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "02时55分"
         },
         {
-          "title": "女子被冒用身份办社保卡流水590万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%86%92%E7%94%A8%E8%BA%AB%E4%BB%BD%E5%8A%9E%E7%A4%BE%E4%BF%9D%E5%8D%A1%E6%B5%81%E6%B0%B4590%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "女子吃苹果一口下去下巴脱臼",
-          "url": "https://www.toutiao.com/trending/7696685292858359844/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "女子买iPhone18Pro被5名骑手冒领快递",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0iPhone18Pro%E8%A2%AB5%E5%90%8D%E9%AA%91%E6%89%8B%E5%86%92%E9%A2%86%E5%BF%AB%E9%80%92%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化妆 护肤 皮肤",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "王者蚩奼全新史诗皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%9A%A9%E5%A5%BC%E5%85%A8%E6%96%B0%E5%8F%B2%E8%AF%97%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "title": "韩国人评李秀满新女团A2OLITE",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%AF%84%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2A2OLITE",
           "source": "bilibili 热搜",
           "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时01分]"
-        },
-        {
-          "title": "蚩姹新皮肤农味大回归",
-          "url": "https://www.douyin.com/hot/2695499",
-          "source": "抖音",
-          "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "王者限定皮肤盾山爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E7%9B%BE%E5%B1%B1%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "02时55分"
         }
       ]
     }
