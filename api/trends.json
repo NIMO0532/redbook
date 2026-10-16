@@ -1,22 +1,57 @@
 {
-  "generated_at": "2026-10-16T08:17:19.932358+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-10-16T13:34:10.684474+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
         {
           "title": "豆包力压鲸鱼娘,荣获虎扑女神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 08时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 13时34分]"
+        },
+        {
+          "title": "如何看待 13 岁女团成员出道仅数小时被曝父母恶意欠薪且被执行 345 万，母亲道歉并承诺会尽快解决？",
+          "url": "https://www.zhihu.com/question/2094093905973044678",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "母子衣衫不整游荡当事女子回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E8%A1%A3%E8%A1%AB%E4%B8%8D%E6%95%B4%E6%B8%B8%E8%8D%A1%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "女摊主遭顾客差评跳河身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 13时34分]"
         },
         {
           "title": "医生回应女子健身后尿液变成深褐色",
@@ -31,6 +66,18 @@
           "time_info": "[02时55分 ~ 08时17分]"
         },
         {
+          "title": "31岁女子被撬窗掳走戒网瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 13时34分]"
+        },
+        {
           "title": "香港警方通报珠宝大劫案：拘捕1男1女",
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8F%A0%E5%AE%9D%E5%A4%A7%E5%8A%AB%E6%A1%88%EF%BC%9A%E6%8B%98%E6%8D%951%E7%94%B71%E5%A5%B3",
           "source": "百度热搜",
@@ -42,26 +89,16 @@
           "time_info": "[02时55分 ~ 06时00分]"
         },
         {
-          "title": "女摊主遭顾客差评跳河身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
+          "title": "女主播揭露团播潜规则 被要求陪大哥",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%8F%AD%E9%9C%B2%E5%9B%A2%E6%92%AD%E6%BD%9C%E8%A7%84%E5%88%99+%E8%A2%AB%E8%A6%81%E6%B1%82%E9%99%AA%E5%A4%A7%E5%93%A5",
+          "source": "百度热搜",
           "ranks": [
-            11
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时55分 ~ 08时17分]"
-        },
-        {
-          "title": "31岁女子被撬窗掳走戒网瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 08时17分]"
+          "time_info": "[08时17分 ~ 13时34分]"
         },
         {
           "title": "7岁女孩用电话手表给姨妈拍婚礼大片",
@@ -96,6 +133,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 06时00分]"
+        },
+        {
+          "title": "机器人猥亵少女 主人被德国警方抓获",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3+%E4%B8%BB%E4%BA%BA%E8%A2%AB%E5%BE%B7%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "冯远征苦恼招不到一米六几的女演员",
+          "url": "https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%8B%A6%E6%81%BC%E6%8B%9B%E4%B8%8D%E5%88%B0%E4%B8%80%E7%B1%B3%E5%85%AD%E5%87%A0%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "用英语帮妈妈拿下订单女孩现身广交会",
+          "url": "https://www.toutiao.com/trending/7696908093850976319/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
         },
         {
           "title": "男子将拆迁房给继子起诉女儿要赡养费",
@@ -134,6 +204,28 @@
           "time_info": "[02时55分 ~ 06时00分]"
         },
         {
+          "title": "女生丢手机拾获者录视频喊其糊涂鬼",
+          "url": "https://www.toutiao.com/trending/7697066329795166218/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "女子不花钱起号火到外网",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B8%8D%E8%8A%B1%E9%92%B1%E8%B5%B7%E5%8F%B7%E7%81%AB%E5%88%B0%E5%A4%96%E7%BD%91&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "适龄女孩早接种HPV疫苗早保护",
           "url": "https://www.toutiao.com/trending/7696373748376240154/",
           "source": "今日头条",
@@ -143,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "女主播揭露团播潜规则 被要求陪大哥",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%8F%AD%E9%9C%B2%E5%9B%A2%E6%92%AD%E6%BD%9C%E8%A7%84%E5%88%99+%E8%A2%AB%E8%A6%81%E6%B1%82%E9%99%AA%E5%A4%A7%E5%93%A5",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时17分"
         },
         {
           "title": "黄子韬徐艺洋之子 正统帽男帽女",
@@ -176,6 +257,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
+        },
+        {
+          "title": "嫁金钗田曦薇阴狠女主人设立住了",
+          "url": "https://www.douyin.com/hot/2696468",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "团播女孩集体下播背后",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%A2%E6%92%AD%E5%A5%B3%E5%AD%A9%E9%9B%86%E4%BD%93%E4%B8%8B%E6%92%AD%E8%83%8C%E5%90%8E%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "向太曝李连杰女儿患抑郁症被高校拒收",
