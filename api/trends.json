@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T13:34:10.684474+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-10-16T18:56:20.008112+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "豆包力压鲸鱼娘,荣获虎扑女神",
@@ -13,22 +13,24 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 18时56分]"
         },
         {
           "title": "如何看待 13 岁女团成员出道仅数小时被曝父母恶意欠薪且被执行 345 万，母亲道歉并承诺会尽快解决？",
           "url": "https://www.zhihu.com/question/2094093905973044678",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 18时56分]"
         },
         {
           "title": "母子衣衫不整游荡当事女子回应",
@@ -37,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -47,11 +49,25 @@
           "source": "贴吧",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 18时56分]"
+        },
+        {
+          "title": "31岁女子被撬窗掳走戒网瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 18时56分]"
         },
         {
           "title": "医生回应女子健身后尿液变成深褐色",
@@ -66,16 +82,16 @@
           "time_info": "[02时55分 ~ 08时17分]"
         },
         {
-          "title": "31岁女子被撬窗掳走戒网瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&amp;topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE",
-          "source": "贴吧",
+          "title": "冯远征苦恼招不到一米六几的女演员",
+          "url": "https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%8B%A6%E6%81%BC%E6%8B%9B%E4%B8%8D%E5%88%B0%E4%B8%80%E7%B1%B3%E5%85%AD%E5%87%A0%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            16
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 13时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 18时56分]"
         },
         {
           "title": "香港警方通报珠宝大劫案：拘捕1男1女",
@@ -146,17 +162,6 @@
           "time_info": "[13时33分 ~ 13时34分]"
         },
         {
-          "title": "冯远征苦恼招不到一米六几的女演员",
-          "url": "https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%8B%A6%E6%81%BC%E6%8B%9B%E4%B8%8D%E5%88%B0%E4%B8%80%E7%B1%B3%E5%85%AD%E5%87%A0%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 13时34分]"
-        },
-        {
           "title": "用英语帮妈妈拿下订单女孩现身广交会",
           "url": "https://www.toutiao.com/trending/7696908093850976319/",
           "source": "今日头条",
@@ -221,7 +226,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -248,6 +253,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "周迅凭《初次尝到寂寞》获釜山电影节最佳女演员，加封国际 A 类影后，当下在华语演员里，她处于什么地位？",
+          "url": "https://www.zhihu.com/question/2094142905837250428",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "李秀满新女团出道舞台reaction",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93%E8%88%9E%E5%8F%B0reaction",
           "source": "bilibili 热搜",
@@ -265,7 +281,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -276,7 +292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -290,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
+        },
+        {
+          "title": "列车带起的风吹出了女主感",
+          "url": "https://www.douyin.com/hot/2698053",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     }
