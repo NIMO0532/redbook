@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T19:27:46.156239+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-10-17T23:10:09.295708+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？",
@@ -19,15 +19,34 @@
           "time_info": "[03时24分 ~ 09时09分]"
         },
         {
-          "title": "老赖之女在韩出道引众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
+          "title": "豆包力压鲸鱼娘,荣获虎扑女神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            4
+            7,
+            8,
+            15,
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[03时24分 ~ 23时10分]"
+        },
+        {
+          "title": "女摊主遭顾客差评跳河身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            23,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时24分 ~ 23时10分]"
         },
         {
           "title": "13岁中国女孩在韩出道 父母却在欠薪",
@@ -52,6 +71,29 @@
           "time_info": "09时09分"
         },
         {
+          "title": "杭州大三女孩7个月开20家柠檬奶店",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E4%B8%89%E5%A5%B3%E5%AD%A97%E4%B8%AA%E6%9C%88%E5%BC%8020%E5%AE%B6%E6%9F%A0%E6%AA%AC%E5%A5%B6%E5%BA%97%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "老赖之女在韩出道引众怒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 23时10分]"
+        },
+        {
           "title": "独生女离世后男友为其母亲养老送终",
           "url": "https://www.toutiao.com/trending/7697448357975146559/",
           "source": "今日头条",
@@ -69,7 +111,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -91,7 +133,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -107,20 +149,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "豆包力压鲸鱼娘,荣获虎扑女神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 19时27分]"
-        },
-        {
           "title": "李秀满新女团成员盛艾敬争议",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%9B%9B%E8%89%BE%E6%95%AC%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -128,20 +156,6 @@
             11,
             12,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 19时27分]"
-        },
-        {
-          "title": "女摊主遭顾客差评跳河身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&amp;topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            23,
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -160,6 +174,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时24分 ~ 19时27分]"
+        },
+        {
+          "title": "“我上去就给她三拳”，女篮热身赛爆发大规模冲突",
+          "url": "https://v.ifeng.com/c/8xIKbtgrJMm",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 23时10分]"
         },
         {
           "title": "欠债180万，俄男子拉19岁女儿当乌克兰间谍",
@@ -198,6 +224,18 @@
           "time_info": "[09时08分 ~ 14时41分]"
         },
         {
+          "title": "女子生下龙凤胎起诉已婚董事长望其承担养育责任，男方质疑其通过人工试管受孕，有哪些疑点待厘清？",
+          "url": "https://www.zhihu.com/question/2094717252792578329",
+          "source": "知乎",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 23时10分]"
+        },
+        {
           "title": "女研究员近4年老鼠仓亏损收场",
           "url": "https://www.cls.cn/detail/2507221",
           "source": "财联社热门",
@@ -223,6 +261,17 @@
           "time_info": "[03时24分 ~ 09时09分]"
         },
         {
+          "title": "模特女孩勇闯钓鱼圈 年营收千万",
+          "url": "https://www.baidu.com/s?wd=%E6%A8%A1%E7%89%B9%E5%A5%B3%E5%AD%A9%E5%8B%87%E9%97%AF%E9%92%93%E9%B1%BC%E5%9C%88+%E5%B9%B4%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "女子回应监控取证丈夫出轨不被采用",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E7%9B%91%E6%8E%A7%E5%8F%96%E8%AF%81%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E4%B8%8D%E8%A2%AB%E9%87%87%E7%94%A8%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -233,18 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 06时38分]"
-        },
-        {
-          "title": "女子生下龙凤胎起诉已婚董事长望其承担养育责任，男方质疑其通过人工试管受孕，有哪些疑点待厘清？",
-          "url": "https://www.zhihu.com/question/2094717252792578329",
-          "source": "知乎",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 19时27分]"
         },
         {
           "title": "女子生下龙凤胎后起诉已婚董事长",
@@ -258,18 +295,6 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "“我上去就给她三拳”，女篮热身赛爆发大规模冲突",
-          "url": "https://v.ifeng.com/c/8xIKbtgrJMm",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 19时27分]"
-        },
-        {
           "title": "女子回应监控取证丈夫出轨不被采用",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E7%9B%91%E6%8E%A7%E5%8F%96%E8%AF%81%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E4%B8%8D%E8%A2%AB%E9%87%87%E7%94%A8",
           "source": "百度热搜",
@@ -279,6 +304,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "演员全是俊男美女让冯远征犯了愁",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%85%A8%E6%98%AF%E4%BF%8A%E7%94%B7%E7%BE%8E%E5%A5%B3%E8%AE%A9%E5%86%AF%E8%BF%9C%E5%BE%81%E7%8A%AF%E4%BA%86%E6%84%81",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "女子被家暴终止妊娠 男方要求退彩礼",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E6%9A%B4%E7%BB%88%E6%AD%A2%E5%A6%8A%E5%A8%A0+%E7%94%B7%E6%96%B9%E8%A6%81%E6%B1%82%E9%80%80%E5%BD%A9%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "为什么 HR 大部分都是女性呢？",
@@ -305,6 +352,28 @@
           "time_info": "[14时41分 ~ 19时27分]"
         },
         {
+          "title": "男子为女友母亲养老送终获500万遗产",
+          "url": "https://www.toutiao.com/trending/7697448357975146559/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "女子选“聪明又老实”的结婚后后悔",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%89%E2%80%9C%E8%81%AA%E6%98%8E%E5%8F%88%E8%80%81%E5%AE%9E%E2%80%9D%E7%9A%84%E7%BB%93%E5%A9%9A%E5%90%8E%E5%90%8E%E6%82%94",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "刘国梁16岁女儿再参赛",
           "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%9B%BD%E6%A2%8116%E5%B2%81%E5%A5%B3%E5%84%BF%E5%86%8D%E5%8F%82%E8%B5%9B",
           "source": "百度热搜",
@@ -316,6 +385,17 @@
           "time_info": "[03时24分 ~ 06时38分]"
         },
         {
+          "title": "《我家那闺女》不要再诉苦了",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E3%80%8B%E4%B8%8D%E8%A6%81%E5%86%8D%E8%AF%89%E8%8B%A6%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任？",
           "url": "https://www.zhihu.com/question/2094141358558502945",
           "source": "知乎",
@@ -325,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "爸爸AB型妈妈A型女儿O型",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8AB%E5%9E%8B%E5%A6%88%E5%A6%88A%E5%9E%8B%E5%A5%B3%E5%84%BFO%E5%9E%8B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "拿打工人血汗钱给女儿铺星路",
@@ -349,13 +440,24 @@
           "time_info": "14时41分"
         },
         {
+          "title": "闪婚女子孕后终止妊娠返还9万彩礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AA%E5%A9%9A%E5%A5%B3%E5%AD%90%E5%AD%95%E5%90%8E%E7%BB%88%E6%AD%A2%E5%A6%8A%E5%A8%A0%E8%BF%94%E8%BF%989%E4%B8%87%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "华中科技大学女篮与武汉盛帆女篮爆发大规模冲突，华科主帅追打对方球员，具体情况如何？将面临什么处罚？",
           "url": "https://www.zhihu.com/question/2094458019136410730",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -366,7 +468,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -377,7 +479,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -399,7 +501,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -465,7 +567,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -476,7 +578,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -487,7 +589,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
