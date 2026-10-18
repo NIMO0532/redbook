@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T04:15:12.368784+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-10-19T06:50:46.519044+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
@@ -16,55 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时15分]"
-        },
-        {
-          "title": "35楼坠落生还女子淡然讲述伤情",
-          "url": "https://www.toutiao.com/trending/7697018280691220530/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时15分]"
-        },
-        {
-          "title": "“我的婚礼被一群追星女孩温柔到了”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%B8%80%E7%BE%A4%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%AD%A9%E6%B8%A9%E6%9F%94%E5%88%B0%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时15分]"
-        },
-        {
-          "title": "冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？",
-          "url": "https://www.zhihu.com/question/2094427246341485364",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时15分]"
-        },
-        {
-          "title": "中国女留学生英国遇害案",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E8%8B%B1%E5%9B%BD%E9%81%87%E5%AE%B3%E6%A1%88&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时15分]"
+          "time_info": "[01时08分 ~ 06时50分]"
         },
         {
           "title": "贾宝玉吃丫鬟嘴上的胭脂，放今天就是性骚扰，为什么在男女授受不亲的《红楼梦》里不是大问题？",
@@ -72,11 +25,63 @@
           "source": "知乎",
           "ranks": [
             17,
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 06时50分]"
+        },
+        {
+          "title": "35楼坠落生还女子淡然讲述伤情",
+          "url": "https://www.toutiao.com/trending/7697018280691220530/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时50分]"
+        },
+        {
+          "title": "“我的婚礼被一群追星女孩温柔到了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%B8%80%E7%BE%A4%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%AD%A9%E6%B8%A9%E6%9F%94%E5%88%B0%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时50分]"
+        },
+        {
+          "title": "冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？",
+          "url": "https://www.zhihu.com/question/2094427246341485364",
+          "source": "知乎",
+          "ranks": [
+            10,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 06时50分]"
+        },
+        {
+          "title": "中国女留学生英国遇害案",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E8%8B%B1%E5%9B%BD%E9%81%87%E5%AE%B3%E6%A1%88&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 06时50分]"
         },
         {
           "title": "老赖之女在韩出道引众怒",
@@ -86,8 +91,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 06时50分]"
+        },
+        {
+          "title": "WNBA总决赛G1女武神险胜梦想队",
+          "url": "https://www.douyin.com/hot/2700928",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "女子疑因没剪好头发情绪失控打砸酒铺",
