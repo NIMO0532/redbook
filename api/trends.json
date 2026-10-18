@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T16:40:01.768020+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-10-18T21:03:13.619857+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 21时03分]"
         },
         {
           "title": "杭州大三女孩7个月开20家柠檬奶店",
@@ -34,28 +35,30 @@
           "time_info": "[02时15分 ~ 11时32分]"
         },
         {
-          "title": "爸爸AB型血妈妈A型血 女儿O型血",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
           "title": "老赖之女在韩出道引众怒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
           "source": "贴吧",
           "ranks": [
             8,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 16时40分]"
+          "appearance_count": 6,
+          "time_info": "[02时15分 ~ 21时03分]"
+        },
+        {
+          "title": "爸爸AB型血妈妈A型血 女儿O型血",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 21时03分]"
         },
         {
           "title": "媒体评女篮热身赛爆发群殴：赛后炫耀打人更值得反思",
@@ -166,6 +169,17 @@
           "time_info": "[02时15分 ~ 07时50分]"
         },
         {
+          "title": "女子疑因没剪好头发情绪失控打砸酒铺",
+          "url": "https://www.toutiao.com/trending/7697891508204224566/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
           "title": "现役男女演员TOP",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%BD%B9%E7%94%B7%E5%A5%B3%E6%BC%94%E5%91%98TOP%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -176,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 07时50分]"
+        },
+        {
+          "title": "35楼坠落生还女子淡然讲述伤情",
+          "url": "https://www.toutiao.com/trending/7697018280691220530/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "“我上去就给她三拳”，女篮热身赛爆发大规模冲突",
@@ -198,6 +223,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
+          "title": "26岁女子肺癌晚期 公司帮其交社保",
+          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E5%A5%B3%E5%AD%90%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F+%E5%85%AC%E5%8F%B8%E5%B8%AE%E5%85%B6%E4%BA%A4%E7%A4%BE%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "女子老酒馆砸酒 店家称损失约30万",
@@ -234,6 +270,17 @@
           "time_info": "[16时39分 ~ 16时40分]"
         },
         {
+          "title": "女研究员“老鼠仓”被罚50万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%A0%94%E7%A9%B6%E5%91%98%E2%80%9C%E8%80%81%E9%BC%A0%E4%BB%93%E2%80%9D%E8%A2%AB%E7%BD%9A50%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
           "title": "深扒李秀满新女团成员盛艾敬争议",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%89%92%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%9B%9B%E8%89%BE%E6%95%AC%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -256,15 +303,48 @@
           "time_info": "11时32分"
         },
         {
+          "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
+          "url": "https://www.zhihu.com/question/2094925756694356770",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "WNBA总决赛G1女武神险胜梦想队",
+          "url": "https://www.douyin.com/hot/2700928",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "李秀满新女团成员盛艾敬争议",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%9B%9B%E8%89%BE%E6%95%AC%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "张家齐妈妈说没用女儿钱买房，她的钱都留着不动，为何不直接给她？小时候父母说帮你存起来的钱，后来给了吗？",
+          "url": "https://www.zhihu.com/question/2095138758165094701",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "爸爸AB型妈妈A型女儿O型",
