@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T07:50:12.773236+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-10-18T11:32:37.453155+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "杭州大三女孩7个月开20家柠檬奶店",
@@ -14,11 +14,46 @@
           "ranks": [
             1,
             13,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时32分]"
+        },
+        {
+          "title": "爸爸AB型血妈妈A型血 女儿O型血",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？",
+          "url": "https://www.zhihu.com/question/2094427246341485364",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "媒体评女篮热身赛爆发群殴：赛后炫耀打人更值得反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34270637",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时15分 ~ 11时32分]"
         },
         {
           "title": "模特女孩勇闯钓鱼圈 年营收千万",
@@ -33,16 +68,16 @@
           "time_info": "[02时15分 ~ 07时50分]"
         },
         {
-          "title": "媒体评女篮热身赛爆发群殴：赛后炫耀打人更值得反思",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34270637",
-          "source": "澎湃新闻",
+          "title": "老赖之女在韩出道引众怒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "贴吧",
           "ranks": [
-            10,
-            11
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "time_info": "[02时15分 ~ 11时32分]"
         },
         {
           "title": "向太：李连杰女儿患抑郁症遭高校拒收",
@@ -82,15 +117,16 @@
           "time_info": "[02时15分 ~ 07时50分]"
         },
         {
-          "title": "老赖之女在韩出道引众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
+          "title": "豆包力压鲸鱼娘,荣获虎扑女神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            8
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时32分]"
         },
         {
           "title": "男子为女友母亲养老送终获500万遗产",
@@ -103,17 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 07时50分]"
-        },
-        {
-          "title": "豆包力压鲸鱼娘,荣获虎扑女神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
         },
         {
           "title": "女子生下龙凤胎起诉已婚董事长望其承担养育责任，男方质疑其通过人工试管受孕，有哪些疑点待厘清？",
@@ -173,6 +198,28 @@
           "time_info": "[02时15分 ~ 05时18分]"
         },
         {
+          "title": "深扒李秀满新女团成员盛艾敬争议",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%89%92%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%9B%9B%E8%89%BE%E6%95%AC%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "司机将女子放进后备箱致其失温死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%B0%86%E5%A5%B3%E5%AD%90%E6%94%BE%E8%BF%9B%E5%90%8E%E5%A4%87%E7%AE%B1%E8%87%B4%E5%85%B6%E5%A4%B1%E6%B8%A9%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "爸爸AB型妈妈A型女儿O型",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8AB%E5%9E%8B%E5%A6%88%E5%A6%88A%E5%9E%8B%E5%A5%B3%E5%84%BFO%E5%9E%8B%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -190,7 +237,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
