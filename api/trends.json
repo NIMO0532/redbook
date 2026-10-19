@@ -1,391 +1,110 @@
 {
-  "generated_at": "2026-10-19T20:27:47.095782+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-10-20T03:06:20.922743+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 33,
+      "match_count": 9,
       "titles": [
         {
-          "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
-          "url": "https://www.zhihu.com/question/2094925756694356770",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 08时54分]"
-        },
-        {
-          "title": "贾宝玉吃丫鬟嘴上的胭脂，放今天就是性骚扰，为什么在男女授受不亲的《红楼梦》里不是大问题？",
-          "url": "https://www.zhihu.com/question/2083182622461670090",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 08时54分]"
-        },
-        {
-          "title": "女局长被“仙人跳”团伙敲诈19万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E2%80%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%E2%80%9D%E5%9B%A2%E4%BC%99%E6%95%B2%E8%AF%8819%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "女子离婚6天用AI救了前夫一命",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "李思潼入围金鸡奖最佳女主",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%80%9D%E6%BD%BC%E5%85%A5%E5%9B%B4%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "女子离婚6天用AI救了前夫一命",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "科比大女儿娜塔莉亚亮相维密大秀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%AF%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%A8%9C%E5%A1%94%E8%8E%89%E4%BA%9A%E4%BA%AE%E7%9B%B8%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "老赖之女在韩出道引众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 13时50分]"
-        },
-        {
-          "title": "女子晒 iPhone 18Pro 订单泄露物流单号，骗子找 5 人接力跑腿冒领，快递、跑腿平台该承担多少责任？",
-          "url": "https://www.zhihu.com/question/2093988287304284100",
-          "source": "知乎",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 20时27分]"
-        },
-        {
-          "title": "35楼坠落生还女子淡然讲述伤情",
-          "url": "https://www.toutiao.com/trending/7697018280691220530/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 06时50分]"
-        },
-        {
-          "title": "“我的婚礼被一群追星女孩温柔到了”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%B8%80%E7%BE%A4%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%AD%A9%E6%B8%A9%E6%9F%94%E5%88%B0%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 06时50分]"
-        },
-        {
-          "title": "冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？",
-          "url": "https://www.zhihu.com/question/2094427246341485364",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 06时50分]"
-        },
-        {
-          "title": "中国女留学生英国遇害案",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E8%8B%B1%E5%9B%BD%E9%81%87%E5%AE%B3%E6%A1%88&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 06时50分]"
-        },
-        {
-          "title": "山东一“仙人跳”团伙被诉：女局长被敲诈19万，三受害人曾被采取刑事措施",
+          "title": "山东一“仙人跳”团伙被诉：女局长被敲诈19万，另三名受害人曾被采取刑事措施",
           "url": "https://m.thepaper.cn/newsDetail_forward_34276793",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "03时06分"
         },
         {
-          "title": "女局长遭“仙人跳”被敲诈19万",
-          "url": "https://www.toutiao.com/trending/7698215836233764393/",
-          "source": "今日头条",
+          "title": "南太行徒步失联的33岁女子已找到",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E7%9A%8433%E5%B2%81%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            21
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "女子出车祸鲨鱼夹插入后脑勺",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A6%E7%A5%B8%E9%B2%A8%E9%B1%BC%E5%A4%B9%E6%8F%92%E5%85%A5%E5%90%8E%E8%84%91%E5%8B%BA",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "女儿用拼多多给农村父母远程装修",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BB%99%E5%86%9C%E6%9D%91%E7%88%B6%E6%AF%8D%E8%BF%9C%E7%A8%8B%E8%A3%85%E4%BF%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         },
         {
           "title": "K/DA女团新歌MV",
           "url": "https://search.bilibili.com/all?keyword=K%2FDA%E5%A5%B3%E5%9B%A2%E6%96%B0%E6%AD%8CMV",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 20时27分]"
-        },
-        {
-          "title": "宜宾警方通报女子打砸酒水经营店铺",
-          "url": "https://www.toutiao.com/trending/7698153448100859430/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "女儿用拼多多给农村父母远程装修",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BB%99%E5%86%9C%E6%9D%91%E7%88%B6%E6%AF%8D%E8%BF%9C%E7%A8%8B%E8%A3%85%E4%BF%AE%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "“金融女老虎”俞小平被开除党籍",
-          "url": "https://www.toutiao.com/trending/7698300945226350602/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "帅气小伙追脑瘫女孩半年成功求婚",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%85%E6%B0%94%E5%B0%8F%E4%BC%99%E8%BF%BD%E8%84%91%E7%98%AB%E5%A5%B3%E5%AD%A9%E5%8D%8A%E5%B9%B4%E6%88%90%E5%8A%9F%E6%B1%82%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "03时06分"
         },
         {
           "title": "科比23岁女儿首登维密T台大秀",
           "url": "https://www.toutiao.com/trending/7698175129792282643/",
           "source": "今日头条",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "03时06分"
         },
         {
-          "title": "志愿军女主 张子枫",
-          "url": "https://s.weibo.com/weibo?q=%E5%BF%97%E6%84%BF%E5%86%9B%E5%A5%B3%E4%B8%BB%20%E5%BC%A0%E5%AD%90%E6%9E%AB&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "30岁女教师突发疾病去世",
-          "url": "https://www.toutiao.com/trending/7697812922617151529/",
+          "title": "女局长遭“仙人跳”被敲诈19万",
+          "url": "https://www.toutiao.com/trending/7698215836233764393/",
           "source": "今日头条",
           "ranks": [
-            14
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "03时06分"
         },
         {
-          "title": "李秀满新女团 A2O 被曝最小成员仅 13 岁引发争议，如何看待 K-pop 偶像低龄化趋势？",
-          "url": "https://www.zhihu.com/question/2093069795629573489",
-          "source": "知乎",
+          "title": "女子离婚6天用AI救了前夫一命",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD",
+          "source": "百度热搜",
           "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "WNBA总决赛G1女武神险胜梦想队",
-          "url": "https://www.douyin.com/hot/2700928",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "建议女生初期交往走流程",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E5%88%9D%E6%9C%9F%E4%BA%A4%E5%BE%80%E8%B5%B0%E6%B5%81%E7%A8%8B&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "女子疑因没剪好头发情绪失控打砸酒铺",
-          "url": "https://www.toutiao.com/trending/7697891508204224566/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "宋佳 志愿军女配",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BD%B3%20%E5%BF%97%E6%84%BF%E5%86%9B%E5%A5%B3%E9%85%8D&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "女局长被仙人跳团伙敲诈19万后免职",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%BB%99%E4%BA%BA%E8%B7%B3%E5%9B%A2%E4%BC%99%E6%95%B2%E8%AF%8819%E4%B8%87%E5%90%8E%E5%85%8D%E8%81%8C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "03时06分"
         },
         {
           "title": "女子用AI救了前夫一命",
           "url": "https://www.toutiao.com/trending/7698189752482365483/",
           "source": "今日头条",
           "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "30岁中学女教师因病去世 学生悼念",
-          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E4%B8%AD%E5%AD%A6%E5%A5%B3%E6%95%99%E5%B8%88%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96+%E5%AD%A6%E7%94%9F%E6%82%BC%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            28
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "26岁女子肺癌晚期公司帮其交社保",
-          "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%90%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%85%AC%E5%8F%B8%E5%B8%AE%E5%85%B6%E4%BA%A4%E7%A4%BE%E4%BF%9D%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "陈丽君凭阿育娅入围金鸡最佳女主",
-          "url": "https://www.toutiao.com/trending/7697444732192292900/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "03时06分"
         }
       ]
     }
