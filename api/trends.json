@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T06:50:46.519044+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-10-19T08:54:02.839158+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 08时54分]"
         },
         {
           "title": "贾宝玉吃丫鬟嘴上的胭脂，放今天就是性骚扰，为什么在男女授受不亲的《红楼梦》里不是大问题？",
@@ -26,11 +26,12 @@
           "ranks": [
             17,
             14,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 08时54分]"
         },
         {
           "title": "35楼坠落生还女子淡然讲述伤情",
@@ -56,6 +57,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时08分 ~ 06时50分]"
+        },
+        {
+          "title": "老赖之女在韩出道引众怒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 08时54分]"
         },
         {
           "title": "冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？",
@@ -84,15 +97,26 @@
           "time_info": "[01时08分 ~ 06时50分]"
         },
         {
-          "title": "老赖之女在韩出道引众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&amp;topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "贴吧",
+          "title": "宜宾警方通报女子打砸酒水经营店铺",
+          "url": "https://www.toutiao.com/trending/7698153448100859430/",
+          "source": "今日头条",
           "ranks": [
-            23
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 06时50分]"
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "李秀满新女团 A2O 被曝最小成员仅 13 岁引发争议，如何看待 K-pop 偶像低龄化趋势？",
+          "url": "https://www.zhihu.com/question/2093069795629573489",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "WNBA总决赛G1女武神险胜梦想队",
@@ -101,7 +125,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
