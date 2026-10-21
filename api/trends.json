@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T06:14:49.781720+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-10-21T09:22:55.742994+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "渣男1v4,美女同桌暗恋我",
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 09时22分]"
         },
         {
           "title": "邯郸12岁女孩在橡皮泥黑作坊打工致6级伤残：厂方被判担责7成，监护人担责3成",
           "url": "https://m.thepaper.cn/newsDetail_forward_34281346",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时00分 ~ 06时14分]"
+          "appearance_count": 4,
+          "time_info": "[03时00分 ~ 09时22分]"
         },
         {
           "title": "女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元",
           "url": "https://m.thepaper.cn/newsDetail_forward_34283132",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时00分 ~ 06时14分]"
+          "appearance_count": 4,
+          "time_info": "[03时00分 ~ 09时22分]"
         },
         {
           "title": "肥鱼女友太撩人,吧友急哭",
@@ -48,19 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 06时14分]"
-        },
-        {
-          "title": "独生女车祸去世 10 年后赔偿所剩不多，父母再次起诉获批 5 年生活费，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2095673449092072909",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 09时22分]"
         },
         {
           "title": "陆毅鲍蕾女儿18岁生日试装",
@@ -68,11 +59,24 @@
           "source": "微博",
           "ranks": [
             7,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 09时22分]"
+        },
+        {
+          "title": "独生女车祸去世 10 年后赔偿所剩不多，父母再次起诉获批 5 年生活费，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2095673449092072909",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 09时22分]"
         },
         {
           "title": "周芙已经认出了魏娆才是亲生女儿",
@@ -99,15 +103,37 @@
           "time_info": "[03时01分 ~ 06时14分]"
         },
         {
+          "title": "父亲盼刘恺威女友春节来家过年",
+          "url": "https://www.toutiao.com/trending/7698642617374015524/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "如何评价《原神》「冰宫密令·琪一（5）」女皇以旅者朋友的身份参加茶会？",
           "url": "https://www.zhihu.com/question/2095815988965029538",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "电商女装退货率普遍冲上 80%，背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/2090369917635781397",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "女子打喷嚏震断肋骨，这和每天喝 2 杯以上咖啡的关系有多大？为什么现在骨质疏松年轻化了？可以如何预防？",
@@ -119,6 +145,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "国产剧恶女叙事为何越热越单薄",
+          "url": "https://www.toutiao.com/trending/7697820665307267135/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "K/DA女团新歌MV",
+          "url": "https://search.bilibili.com/all?keyword=K%2FDA%E5%A5%B3%E5%9B%A2%E6%96%B0%E6%AD%8CMV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "审美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "观众对打小三斗渣男剧情审美疲劳了吗",
+          "url": "https://www.toutiao.com/trending/7698594688470859818/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     }
