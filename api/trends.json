@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T02:28:08.611819+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-22T06:11:20.826744+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "官方通报“女子迟到错过检票下跪哀求”：列车已停止检票，按规定未予放行",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 06时11分]"
         },
         {
           "title": "霓虹12岁女生抢劫86岁店主",
@@ -25,31 +25,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "女子称被自家12斤猫踹进手术室",
-          "url": "https://www.toutiao.com/trending/7699035140236017715/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
+          "time_info": "[02时28分 ~ 06时11分]"
+        },
+        {
+          "title": "体操世锦赛女团决赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%93%8D%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%9B%A2%E5%86%B3%E8%B5%9B%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "独家｜太原被辞退“非全日制”务工女子索赔案最新进展：终审获补偿6万余元",
           "url": "https://m.thepaper.cn/newsDetail_forward_34301133",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 06时11分]"
+        },
+        {
+          "title": "女子称被自家12斤猫踹进手术室",
+          "url": "https://www.toutiao.com/trending/7699035140236017715/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 06时11分]"
         },
         {
           "title": "田曦薇演恶女 用力过猛",
@@ -59,19 +72,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 06时11分]"
         },
         {
           "title": "日本79岁女护理员上18小时夜班",
           "url": "https://www.toutiao.com/trending/7698280398018674742/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 06时11分]"
         },
         {
           "title": "和女同事相处真的要小心分寸",
@@ -80,9 +94,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时11分]"
         },
         {
           "title": "渣男1v4,美女同桌暗恋我",
@@ -91,20 +105,21 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时11分]"
         },
         {
-          "title": "罗晋和唐嫣讨论女儿画的画",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%99%8B%E5%92%8C%E5%94%90%E5%AB%A3%E8%AE%A8%E8%AE%BA%E5%A5%B3%E5%84%BF%E7%94%BB%E7%9A%84%E7%94%BB%23&t=31&band_rank=14&Refer=top",
+          "title": "女孩回应撞脸大S",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E5%A4%A7S%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
+            26,
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时11分]"
         },
         {
           "title": "肥鱼女友太撩人,吧友急哭",
@@ -113,42 +128,66 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "印度男子谋杀39岁中国女子终身监禁",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E8%B0%8B%E6%9D%8039%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%BB%88%E8%BA%AB%E7%9B%91%E7%A6%81%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时11分]"
         },
         {
           "title": "女子下班后绕道买菜，遭遇车祸身亡，人社部门不予认定工伤，法院判决算工伤，如何理解？",
           "url": "https://www.zhihu.com/question/2095276237493102205",
           "source": "知乎",
           "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时11分]"
+        },
+        {
+          "title": "印度男子谋杀39岁中国女子终身监禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E8%B0%8B%E6%9D%8039%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%BB%88%E8%BA%AB%E7%9B%91%E7%A6%81%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
             19
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时11分]"
+        },
+        {
+          "title": "罗晋和唐嫣讨论女儿画的画",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%99%8B%E5%92%8C%E5%94%90%E5%AB%A3%E8%AE%A8%E8%AE%BA%E5%A5%B3%E5%84%BF%E7%94%BB%E7%9A%84%E7%94%BB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
         {
-          "title": "女孩回应撞脸大S",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E5%A4%A7S%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
+          "url": "https://www.zhihu.com/question/2095115972684112468",
+          "source": "知乎",
           "ranks": [
-            26
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "06时11分"
+        },
+        {
+          "title": "中国体操女团跳马总分40.966分",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E8%B7%B3%E9%A9%AC%E6%80%BB%E5%88%8640.966%E5%88%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "女子在冰箱养蛙现吃现捞",
@@ -157,7 +196,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
