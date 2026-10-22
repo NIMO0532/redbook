@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T09:19:27.516062+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-10-22T15:15:11.206549+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "官方通报“女子迟到错过检票下跪哀求”：列车已停止检票，按规定未予放行",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 09时19分]"
-        },
-        {
-          "title": "霓虹12岁女生抢劫86岁店主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367923&amp;topic_name=%E9%9C%93%E8%99%B912%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8A%A2%E5%8A%AB86%E5%B2%81%E5%BA%97%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 15时15分]"
         },
         {
           "title": "独家｜太原被辞退“非全日制”务工女子索赔案最新进展：终审获补偿6万余元",
@@ -35,11 +24,24 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 15时15分]"
+        },
+        {
+          "title": "霓虹12岁女生抢劫86岁店主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367923&amp;topic_name=%E9%9C%93%E8%99%B912%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8A%A2%E5%8A%AB86%E5%B2%81%E5%BA%97%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时27分 ~ 09时19分]"
+          "time_info": "[02时28分 ~ 15时15分]"
         },
         {
           "title": "华人女子两天内在意两座城市亲历骚乱",
@@ -48,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -70,9 +72,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "女子地铁站内看书 5 个小时被扣 15 元，怎么看待地铁超时收费？其中读书空间等消费场景的设置合理吗？",
+          "url": "https://www.zhihu.com/question/2096527240208938063",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "女子称被自家12斤猫踹进手术室",
@@ -88,6 +101,18 @@
           "time_info": "[02时27分 ~ 09时19分]"
         },
         {
+          "title": "渣男1v4,美女同桌暗恋我",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367866&amp;topic_name=%E6%B8%A3%E7%94%B71v4%2C%E7%BE%8E%E5%A5%B3%E5%90%8C%E6%A1%8C%E6%9A%97%E6%81%8B%E6%88%91",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 15时15分]"
+        },
+        {
           "title": "田曦薇演恶女 用力过猛",
           "url": "https://www.baidu.com/s?wd=%E7%94%B0%E6%9B%A6%E8%96%87%E6%BC%94%E6%81%B6%E5%A5%B3+%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B",
           "source": "百度热搜",
@@ -98,6 +123,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 09时19分]"
+        },
+        {
+          "title": "肥鱼女友太撩人,吧友急哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367835&amp;topic_name=%E8%82%A5%E9%B1%BC%E5%A5%B3%E5%8F%8B%E5%A4%AA%E6%92%A9%E4%BA%BA%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 15时15分]"
+        },
+        {
+          "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34305177",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 15时15分]"
         },
         {
           "title": "和女同事相处真的要小心分寸",
@@ -112,26 +161,16 @@
           "time_info": "[02时28分 ~ 09时19分]"
         },
         {
-          "title": "渣男1v4,美女同桌暗恋我",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367866&amp;topic_name=%E6%B8%A3%E7%94%B71v4%2C%E7%BE%8E%E5%A5%B3%E5%90%8C%E6%A1%8C%E6%9A%97%E6%81%8B%E6%88%91",
-          "source": "贴吧",
+          "title": "中国体操女队终结美国7连冠",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD7%E8%BF%9E%E5%86%A0",
+          "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时19分]"
-        },
-        {
-          "title": "肥鱼女友太撩人,吧友急哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367835&amp;topic_name=%E8%82%A5%E9%B1%BC%E5%A5%B3%E5%8F%8B%E5%A4%AA%E6%92%A9%E4%BA%BA%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时19分]"
+          "time_info": "[09时19分 ~ 15时15分]"
         },
         {
           "title": "日本79岁女护理员上18小时夜班",
@@ -144,6 +183,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 06时11分]"
+        },
+        {
+          "title": "女子摔坏双层保温碗 发现满是霉菌",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%91%94%E5%9D%8F%E5%8F%8C%E5%B1%82%E4%BF%9D%E6%B8%A9%E7%A2%97+%E5%8F%91%E7%8E%B0%E6%BB%A1%E6%98%AF%E9%9C%89%E8%8F%8C",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
+          "title": "女子称地铁站内看5小时书被扣15元",
+          "url": "https://www.toutiao.com/trending/7699102435960291379/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "女孩回应撞脸大S",
@@ -182,37 +243,37 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
+          "title": "王嘉尔问穿礼服的女主持人冷不冷",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%98%89%E5%B0%94%E9%97%AE%E7%A9%BF%E7%A4%BC%E6%9C%8D%E7%9A%84%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%86%B7%E4%B8%8D%E5%86%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
           "title": "中国体操女团时隔20年世锦赛夺冠",
           "url": "https://www.toutiao.com/trending/7699256509187755570/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
         {
-          "title": "中国体操女队终结美国7连冠",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD7%E8%BF%9E%E5%86%A0",
-          "source": "百度热搜",
+          "title": "前女友曝陈天润语音",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%9B%9D%E9%99%88%E5%A4%A9%E6%B6%A6%E8%AF%AD%E9%9F%B3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "中国体操队时隔20年再夺世锦赛女团金牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34305177",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "15时15分"
         },
         {
           "title": "罗晋和唐嫣讨论女儿画的画",
