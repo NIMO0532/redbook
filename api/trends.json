@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T02:23:10.325009+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-23T06:10:49.359669+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "女子100天零违章获奖1吨汽油",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
-        },
-        {
-          "title": "中国女团2-3日本女团",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
@@ -36,9 +25,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
+        },
+        {
+          "title": "中国女团2-3日本女团",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "乒乓亚锦赛女团决赛，中国队 2-3 不敌日本获女团亚军，如何评价本场比赛？",
@@ -47,31 +48,56 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2096547342124172821",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "国乒女团2比3日本女团",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
+        },
+        {
+          "title": "印度男子谋杀 39 岁中国女子被终身监禁，交往期间谎称是模特和演员，实则是工地临时工，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2096354020902420874",
+          "source": "知乎",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "06时10分"
+        },
+        {
+          "title": "亚锦赛国乒女团决赛不敌日本",
+          "url": "https://www.douyin.com/hot/2708670",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
+        },
+        {
+          "title": "女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2096547342124172821",
+          "source": "知乎",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "中国体操队时隔20年再夺世锦赛女团金牌",
@@ -81,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "国乒女团2比3日本 获亚锦赛亚军",
@@ -92,19 +118,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
+        },
+        {
+          "title": "女子叫顺风车司机竟让她来开",
+          "url": "https://www.toutiao.com/trending/7699376676354146346/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "“女童被泳池排水口吸入不幸身亡”事故调查报告发布：回水管口安全防护罩缺失",
           "url": "https://m.thepaper.cn/newsDetail_forward_34305763",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "亚锦赛国乒女团决赛不敌日本",
@@ -114,19 +153,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "女子称地铁站内看5小时书被扣15元",
           "url": "https://www.toutiao.com/trending/7699102435960291379/",
           "source": "今日头条",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "中国女留学生在韩国遇害案首次庭审，嫌犯作案后曾将受害人分尸",
@@ -136,63 +176,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "女子100天零违章获奖1吨汽油",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90100%E5%A4%A9%E9%9B%B6%E8%BF%9D%E7%AB%A0%E8%8E%B7%E5%A5%961%E5%90%A8%E6%B1%BD%E6%B2%B9",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
-        },
-        {
-          "title": "女子叫顺风车司机竟让她来开",
-          "url": "https://www.toutiao.com/trending/7699376676354146346/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
-        },
-        {
-          "title": "亚锦赛国乒女团决赛不敌日本",
-          "url": "https://www.douyin.com/hot/2708670",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时10分]"
         },
         {
           "title": "41岁女子存百万后去世",
           "url": "https://s.weibo.com/weibo?q=41%E5%B2%81%E5%A5%B3%E5%AD%90%E5%AD%98%E7%99%BE%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "女子地铁站内看书 5 个小时被扣 15 元，怎么看待地铁超时收费？其中读书空间等消费场景的设置合理吗？",
           "url": "https://www.zhihu.com/question/2096527240208938063",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "霓虹12岁女生抢劫86岁店主",
@@ -201,20 +222,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "孙俪邓超女儿小花跳舞总是撞上其他舞者",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8A%B1%E8%B7%B3%E8%88%9E%E6%80%BB%E6%98%AF%E6%92%9E%E4%B8%8A%E5%85%B6%E4%BB%96%E8%88%9E%E8%80%85%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "女子称惠州海景房跌剩一千八",
@@ -223,9 +233,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "中国体操女团世锦赛夺冠",
@@ -234,20 +244,21 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "国乒女团 桥本帆乃香",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%20%E6%A1%A5%E6%9C%AC%E5%B8%86%E4%B9%83%E9%A6%99&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "渣男1v4,美女同桌暗恋我",
@@ -256,9 +267,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
         },
         {
           "title": "肥鱼女友太撩人,吧友急哭",
@@ -267,9 +278,42 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 06时10分]"
+        },
+        {
+          "title": "孙俪邓超女儿小花跳舞总是撞上其他舞者",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8A%B1%E8%B7%B3%E8%88%9E%E6%80%BB%E6%98%AF%E6%92%9E%E4%B8%8A%E5%85%B6%E4%BB%96%E8%88%9E%E8%80%85%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "女子讲述妈妈56岁为何得老年痴呆",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%A6%88%E5%A6%8856%E5%B2%81%E4%B8%BA%E4%BD%95%E5%BE%97%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "“双十一”女装模特可能不是人",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E5%8D%81%E4%B8%80%E2%80%9D%E5%A5%B3%E8%A3%85%E6%A8%A1%E7%89%B9%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%98%AF%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "陈天润 前女友",
@@ -278,7 +322,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
@@ -295,7 +339,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
