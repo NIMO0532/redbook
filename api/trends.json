@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-10-24T02:09:30.789500+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-24T05:54:06.873652+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "独生女继承2亿遗产1年后遭离婚分产",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "一个家里只能有一个女主人",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%AE%B6%E9%87%8C%E5%8F%AA%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%B8%BB%E4%BA%BA&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
         {
           "title": "13岁女孩卖妈妈金项链 金店当面熔化",
           "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE+%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96",
@@ -37,8 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 05时54分]"
+        },
+        {
+          "title": "独生女继承2亿遗产1年后遭离婚分产",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
+        },
+        {
+          "title": "一个家里只能有一个女主人",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%AE%B6%E9%87%8C%E5%8F%AA%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%B8%BB%E4%BA%BA&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
         },
         {
           "title": "两女生投150万开无烟酒吧倒闭",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 05时54分]"
         },
         {
           "title": "被拐卖到电诈园区的女性会经历什么",
@@ -59,52 +60,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
-          "url": "https://www.zhihu.com/question/2095942778563970468",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 05时54分]"
         },
         {
           "title": "刘亦菲亮相红毯被称“凤凰神女”",
           "url": "https://www.toutiao.com/trending/7699155786609704996/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "第五人格女团出道MV首曝",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93MV%E9%A6%96%E6%9B%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "马斯克：乌克兰当下的真实状况是，精英阶层与普通民众之间存在着巨大的利益动机差异。前者靠流入乌克兰的数千亿美元变得非常富有，而后者子女则被征召到战壕中送死。",
-          "url": "https://flash.jin10.com/detail/20261024010623681800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 05时54分]"
         },
         {
           "title": "刘亦菲 凤凰神女",
@@ -114,8 +83,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 05时54分]"
+        },
+        {
+          "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
+          "url": "https://www.zhihu.com/question/2095942778563970468",
+          "source": "知乎",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
+        },
+        {
+          "title": "第五人格女团出道MV首曝",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93MV%E9%A6%96%E6%9B%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
         },
         {
           "title": "中国体操女团时隔20年夺冠",
@@ -125,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
         },
         {
           "title": "13岁女孩卖金项链被金店当面熔化",
@@ -134,6 +127,62 @@
           "source": "微博",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
+        },
+        {
+          "title": "中国女团2-3日本女团",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
+        },
+        {
+          "title": "中国女足主帅米利西奇为何下课",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%B1%B3%E5%88%A9%E8%A5%BF%E5%A5%87%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
+        },
+        {
+          "title": "霓虹12岁女生抢劫86岁店主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367923&amp;topic_name=%E9%9C%93%E8%99%B912%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8A%A2%E5%8A%AB86%E5%B2%81%E5%BA%97%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 05时54分]"
+        },
+        {
+          "title": "如何看待最高法通报牟某虐待案中曾高频次、长时间、持续性辱骂女友，让其通过人工流产等方式换取心理平衡？",
+          "url": "https://www.zhihu.com/question/2097051890424832268",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "马斯克：乌克兰当下的真实状况是，精英阶层与普通民众之间存在着巨大的利益动机差异。前者靠流入乌克兰的数千亿美元变得非常富有，而后者子女则被征召到战壕中送死。",
+          "url": "https://flash.jin10.com/detail/20261024010623681800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -156,28 +205,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "中国女团2-3日本女团",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "霓虹12岁女生抢劫86岁店主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367923&amp;topic_name=%E9%9C%93%E8%99%B912%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8A%A2%E5%8A%AB86%E5%B2%81%E5%BA%97%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
