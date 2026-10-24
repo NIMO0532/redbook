@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T08:21:12.504937+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-10-24T13:29:21.927478+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "独生女继承2亿遗产1年后遭离婚分产",
@@ -31,6 +31,19 @@
           "time_info": "[02时09分 ~ 08时21分]"
         },
         {
+          "title": "两女生投150万开无烟酒吧倒闭",
+          "url": "https://www.toutiao.com/trending/7699658939898413099/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 13时29分]"
+        },
+        {
           "title": "一个家里只能有一个女主人",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E5%AE%B6%E9%87%8C%E5%8F%AA%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%B8%BB%E4%BA%BA&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -41,18 +54,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时09分 ~ 08时21分]"
-        },
-        {
-          "title": "两女生投150万开无烟酒吧倒闭",
-          "url": "https://www.toutiao.com/trending/7699658939898413099/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[02时09分 ~ 08时21分]"
         },
         {
@@ -114,8 +115,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 08时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 13时29分]"
         },
         {
           "title": "中国体操女团时隔20年夺冠",
@@ -123,11 +124,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 08时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 13时29分]"
         },
         {
           "title": "中国女团2-3日本女团",
@@ -167,6 +169,30 @@
           "time_info": "[02时09分 ~ 05时54分]"
         },
         {
+          "title": "你怎么看毛不易在女性好友婚礼上的致辞，算越界吗？为什么「结婚越来越不意味着什么」引发热议？",
+          "url": "https://www.zhihu.com/question/2096550287901307789",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 13时29分]"
+        },
+        {
+          "title": "第五人格全新女团PerVade",
+          "url": "https://www.douyin.com/hot/2710358",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 13时29分]"
+        },
+        {
           "title": "中国女足主帅米利西奇为何下课",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%B1%B3%E5%88%A9%E8%A5%BF%E5%A5%87%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%AF%BE",
           "source": "百度热搜",
@@ -189,17 +215,6 @@
           "time_info": "[02时09分 ~ 05时54分]"
         },
         {
-          "title": "你怎么看毛不易在女性好友婚礼上的致辞，算越界吗？为什么「结婚越来越不意味着什么」引发热议？",
-          "url": "https://www.zhihu.com/question/2096550287901307789",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
           "title": "马斯克：乌克兰当下的真实状况是，精英阶层与普通民众之间存在着巨大的利益动机差异。前者靠流入乌克兰的数千亿美元变得非常富有，而后者子女则被征召到战壕中送死。",
           "url": "https://flash.jin10.com/detail/20261024010623681800",
           "source": "金十数据",
@@ -211,15 +226,15 @@
           "time_info": "02时09分"
         },
         {
-          "title": "第五人格全新女团PerVade",
-          "url": "https://www.douyin.com/hot/2710358",
-          "source": "抖音",
+          "title": "律师回应独生女继承2亿遭离婚分产",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "13时29分"
         },
         {
           "title": "【泽连斯基：确认乌美俄三方会谈将于11月上半月举行】乌克兰总统泽连斯基23日表示，他已与美国总统特使威特科夫和女婿库什纳通话，与俄罗斯和美国方面举行会晤的计划安排在11月上半月。泽连斯基同时表示，乌方愿意在任何一天举行会晤。俄罗斯总统新闻秘书佩斯科夫10月23日表示，11月上半月，俄、美、乌三方将在阿布扎比开始举行俄罗斯和乌克兰安全保障问题的谈判。（央视新闻）",
@@ -231,6 +246,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "女子嫁给老外立遗嘱财产全给哥哥",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AB%81%E7%BB%99%E8%80%81%E5%A4%96%E7%AB%8B%E9%81%97%E5%98%B1%E8%B4%A2%E4%BA%A7%E5%85%A8%E7%BB%99%E5%93%A5%E5%93%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "1岁多女童确诊糖尿病",
+          "url": "https://www.baidu.com/s?wd=1%E5%B2%81%E5%A4%9A%E5%A5%B3%E7%AB%A5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "VOGUE红毯女明星战袍解析",
+          "url": "https://www.douyin.com/hot/2710956",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     }
