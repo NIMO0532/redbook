@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-24T05:54:06.873652+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-10-24T08:21:12.504937+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "13岁女孩卖妈妈金项链 金店当面熔化",
-          "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE+%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时54分]"
-        },
         {
           "title": "独生女继承2亿遗产1年后遭离婚分产",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=1&Refer=top",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 08时21分]"
+        },
+        {
+          "title": "13岁女孩卖妈妈金项链 金店当面熔化",
+          "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE+%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 08时21分]"
         },
         {
           "title": "一个家里只能有一个女主人",
@@ -35,33 +36,48 @@
           "source": "微博",
           "ranks": [
             4,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 08时21分]"
         },
         {
           "title": "两女生投150万开无烟酒吧倒闭",
           "url": "https://www.toutiao.com/trending/7699658939898413099/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 08时21分]"
         },
         {
           "title": "被拐卖到电诈园区的女性会经历什么",
           "url": "https://www.toutiao.com/trending/7699779536128314922/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 08时21分]"
+        },
+        {
+          "title": "13岁女孩卖金项链被金店当面熔化",
+          "url": "https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E9%87%91%E9%A1%B9%E9%93%BE%E8%A2%AB%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时54分]"
+          "time_info": "[02时09分 ~ 08时21分]"
         },
         {
           "title": "刘亦菲亮相红毯被称“凤凰神女”",
@@ -69,22 +85,74 @@
           "source": "今日头条",
           "ranks": [
             13,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 08时21分]"
         },
         {
           "title": "刘亦菲 凤凰神女",
           "url": "https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%87%A4%E5%87%B0%E7%A5%9E%E5%A5%B3",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 08时21分]"
+        },
+        {
+          "title": "第五人格女团出道MV首曝",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93MV%E9%A6%96%E6%9B%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            19,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时54分]"
+          "time_info": "[02时09分 ~ 08时21分]"
+        },
+        {
+          "title": "中国体操女团时隔20年夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367963&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 08时21分]"
+        },
+        {
+          "title": "中国女团2-3日本女团",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 08时21分]"
+        },
+        {
+          "title": "如何看待最高法通报牟某虐待案中曾高频次、长时间、持续性辱骂女友，让其通过人工流产等方式换取心理平衡？",
+          "url": "https://www.zhihu.com/question/2097051890424832268",
+          "source": "知乎",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 08时21分]"
         },
         {
           "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
@@ -93,52 +161,6 @@
           "ranks": [
             8,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 05时54分]"
-        },
-        {
-          "title": "第五人格女团出道MV首曝",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93MV%E9%A6%96%E6%9B%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 05时54分]"
-        },
-        {
-          "title": "中国体操女团时隔20年夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367963&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 05时54分]"
-        },
-        {
-          "title": "13岁女孩卖金项链被金店当面熔化",
-          "url": "https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E9%87%91%E9%A1%B9%E9%93%BE%E8%A2%AB%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 05时54分]"
-        },
-        {
-          "title": "中国女团2-3日本女团",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -167,15 +189,15 @@
           "time_info": "[02时09分 ~ 05时54分]"
         },
         {
-          "title": "如何看待最高法通报牟某虐待案中曾高频次、长时间、持续性辱骂女友，让其通过人工流产等方式换取心理平衡？",
-          "url": "https://www.zhihu.com/question/2097051890424832268",
+          "title": "你怎么看毛不易在女性好友婚礼上的致辞，算越界吗？为什么「结婚越来越不意味着什么」引发热议？",
+          "url": "https://www.zhihu.com/question/2096550287901307789",
           "source": "知乎",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "08时21分"
         },
         {
           "title": "马斯克：乌克兰当下的真实状况是，精英阶层与普通民众之间存在着巨大的利益动机差异。前者靠流入乌克兰的数千亿美元变得非常富有，而后者子女则被征召到战壕中送死。",
