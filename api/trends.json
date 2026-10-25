@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T05:31:19.070588+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-10-26T07:55:06.113065+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "陈熠首夺亚锦赛女单冠军",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时55分]"
         },
         {
           "title": "24岁女子赴泰见男网友被绑往边境",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             2,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时55分]"
         },
         {
           "title": "再夺一冠！孙心然赢得ITF青少年年终总决赛女单冠军",
@@ -36,11 +37,72 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 07时55分]"
+        },
+        {
+          "title": "女子回应离婚12年接前婆婆一起生活",
+          "url": "https://www.toutiao.com/trending/7700097025165459499/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 07时55分]"
+        },
+        {
+          "title": "乒乓球亚锦赛女单决赛，陈熠 3-0 张本美和，夺得冠军，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2097756044503901539",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "time_info": "[02时14分 ~ 07时55分]"
+        },
+        {
+          "title": "张智霖与前女友许秋怡世纪合体",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%AE%B8%E7%A7%8B%E6%80%A1%E4%B8%96%E7%BA%AA%E5%90%88%E4%BD%93%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时55分]"
+        },
+        {
+          "title": "如何看待夫妻携 242 枚商周至民国时期钱币出国，想送给国外定居子女，被海关查扣？",
+          "url": "https://www.zhihu.com/question/2096989809973711640",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时55分]"
+        },
+        {
+          "title": "张智霖与前女友许秋怡世纪合体",
+          "url": "https://www.toutiao.com/trending/7699471910027378742/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时55分]"
         },
         {
           "title": "陈熠横扫张本美和获亚锦赛女单冠军",
@@ -55,16 +117,26 @@
           "time_info": "[02时14分 ~ 05时31分]"
         },
         {
-          "title": "女子回应离婚12年接前婆婆一起生活",
-          "url": "https://www.toutiao.com/trending/7700097025165459499/",
-          "source": "今日头条",
+          "title": "美国女孩来华上学,英语考倒一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368007&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%9D%A5%E5%8D%8E%E4%B8%8A%E5%AD%A6%2C%E8%8B%B1%E8%AF%AD%E8%80%83%E5%80%92%E4%B8%80",
+          "source": "贴吧",
           "ranks": [
-            18,
-            16
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "time_info": "[02时14分 ~ 07时55分]"
+        },
+        {
+          "title": "兵部尚书被冻死,女频剧情引激辩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368006&amp;topic_name=%E5%85%B5%E9%83%A8%E5%B0%9A%E4%B9%A6%E8%A2%AB%E5%86%BB%E6%AD%BB%2C%E5%A5%B3%E9%A2%91%E5%89%A7%E6%83%85%E5%BC%95%E6%BF%80%E8%BE%A9",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时55分]"
         },
         {
           "title": "女生拒绝表白后照片被发色情软件",
@@ -91,51 +163,6 @@
           "time_info": "[02时14分 ~ 05时31分]"
         },
         {
-          "title": "乒乓球亚锦赛女单决赛，陈熠 3-0 张本美和，夺得冠军，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2097756044503901539",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
-          "title": "张智霖与前女友许秋怡世纪合体",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%AE%B8%E7%A7%8B%E6%80%A1%E4%B8%96%E7%BA%AA%E5%90%88%E4%BD%93%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
-          "title": "如何看待夫妻携 242 枚商周至民国时期钱币出国，想送给国外定居子女，被海关查扣？",
-          "url": "https://www.zhihu.com/question/2096989809973711640",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
-          "title": "美国女孩来华上学,英语考倒一",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368007&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%9D%A5%E5%8D%8E%E4%B8%8A%E5%AD%A6%2C%E8%8B%B1%E8%AF%AD%E8%80%83%E5%80%92%E4%B8%80",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
           "title": "老戏骨集体飙戏 男女主像睡着了",
           "url": "https://s.weibo.com/weibo?q=%E8%80%81%E6%88%8F%E9%AA%A8%E9%9B%86%E4%BD%93%E9%A3%99%E6%88%8F%20%E7%94%B7%E5%A5%B3%E4%B8%BB%E5%83%8F%E7%9D%A1%E7%9D%80%E4%BA%86&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -148,15 +175,15 @@
           "time_info": "[02时14分 ~ 05时31分]"
         },
         {
-          "title": "兵部尚书被冻死,女频剧情引激辩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368006&amp;topic_name=%E5%85%B5%E9%83%A8%E5%B0%9A%E4%B9%A6%E8%A2%AB%E5%86%BB%E6%AD%BB%2C%E5%A5%B3%E9%A2%91%E5%89%A7%E6%83%85%E5%BC%95%E6%BF%80%E8%BE%A9",
-          "source": "贴吧",
+          "title": "U17女足世界杯中国队力克美国队",
+          "url": "https://www.toutiao.com/trending/7700690254268760626/",
+          "source": "今日头条",
           "ranks": [
-            22
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
           "title": "母亲患病 124万被女儿女婿擅自取走",
@@ -170,26 +197,26 @@
           "time_info": "[05时30分 ~ 05时31分]"
         },
         {
+          "title": "如何看待周星驰《功夫女足》在烂番茄开分 0 分？",
+          "url": "https://www.zhihu.com/question/2097377496731853442",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "16岁女儿书包翻出避孕药妈妈崩溃",
           "url": "https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B9%A6%E5%8C%85%E7%BF%BB%E5%87%BA%E9%81%BF%E5%AD%95%E8%8D%AF%E5%A6%88%E5%A6%88%E5%B4%A9%E6%BA%83%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "张智霖与前女友许秋怡世纪合体",
-          "url": "https://www.toutiao.com/trending/7699471910027378742/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "05时31分"
         },
         {
           "title": "上海 90 岁老人在公共楼道住近一年，三名女儿因赡养问题互相推诿，该怎样破局？如何从法律角度解读？",
@@ -201,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "全网都在晒女儿",
+          "url": "https://www.douyin.com/hot/2712785",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
