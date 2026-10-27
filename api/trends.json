@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T05:27:01.190332+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-10-27T09:15:24.933600+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "女子新房未入住被他人装修出租20年",
@@ -23,11 +23,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368122&amp;topic_name=%E4%B8%A4%E5%A5%B3%E7%94%9F%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%2C150%E4%B8%87%E6%89%93%E6%B0%B4%E6%BC%82",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 09时15分]"
         },
         {
           "title": "母女被未拴绳大狗逼到墙角 警方回应",
@@ -59,33 +60,59 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 05时27分]"
-        },
-        {
-          "title": "女子驾车过高架车顶被风筝线割破",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%87%E9%AB%98%E6%9E%B6%E8%BD%A6%E9%A1%B6%E8%A2%AB%E9%A3%8E%E7%AD%9D%E7%BA%BF%E5%89%B2%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
+            7,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 09时15分]"
         },
         {
           "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 09时15分]"
+        },
+        {
+          "title": "女子驾车过高架车顶被风筝线割破",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%87%E9%AB%98%E6%9E%B6%E8%BD%A6%E9%A1%B6%E8%A2%AB%E9%A3%8E%E7%AD%9D%E7%BA%BF%E5%89%B2%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 09时15分]"
+        },
+        {
+          "title": "残局卖女友保装备,洲友惨遭分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368041&amp;topic_name=%E6%AE%8B%E5%B1%80%E5%8D%96%E5%A5%B3%E5%8F%8B%E4%BF%9D%E8%A3%85%E5%A4%87%2C%E6%B4%B2%E5%8F%8B%E6%83%A8%E9%81%AD%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "time_info": "[00时36分 ~ 09时15分]"
+        },
+        {
+          "title": "中国U17女足小组第一出线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 09时15分]"
         },
         {
           "title": "夫妻俩看不见世界却培养出博士女儿",
@@ -100,15 +127,26 @@
           "time_info": "[00时36分 ~ 05时27分]"
         },
         {
-          "title": "残局卖女友保装备,洲友惨遭分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368041&amp;topic_name=%E6%AE%8B%E5%B1%80%E5%8D%96%E5%A5%B3%E5%8F%8B%E4%BF%9D%E8%A3%85%E5%A4%87%2C%E6%B4%B2%E5%8F%8B%E6%83%A8%E9%81%AD%E5%88%86%E6%89%8B",
+          "title": "美国女孩来华上学,英语考倒一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368007&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%9D%A5%E5%8D%8E%E4%B8%8A%E5%AD%A6%2C%E8%8B%B1%E8%AF%AD%E8%80%83%E5%80%92%E4%B8%80",
           "source": "贴吧",
           "ranks": [
-            8
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 09时15分]"
+        },
+        {
+          "title": "兵部尚书被冻死,女频剧情引激辩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368006&amp;topic_name=%E5%85%B5%E9%83%A8%E5%B0%9A%E4%B9%A6%E8%A2%AB%E5%86%BB%E6%AD%BB%2C%E5%A5%B3%E9%A2%91%E5%89%A7%E6%83%85%E5%BC%95%E6%BF%80%E8%BE%A9",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 09时15分]"
         },
         {
           "title": "U17女足世界杯中国3:2美国",
@@ -116,17 +154,6 @@
           "source": "抖音",
           "ranks": [
             10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 05时27分]"
-        },
-        {
-          "title": "中国U17女足小组第一出线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
             11
           ],
           "is_new": false,
@@ -168,26 +195,15 @@
           "time_info": "[05时26分 ~ 05时27分]"
         },
         {
-          "title": "美国女孩来华上学,英语考倒一",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368007&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%9D%A5%E5%8D%8E%E4%B8%8A%E5%AD%A6%2C%E8%8B%B1%E8%AF%AD%E8%80%83%E5%80%92%E4%B8%80",
-          "source": "贴吧",
+          "title": "刚入职叫女领导一个月熊大",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%9A%E5%85%A5%E8%81%8C%E5%8F%AB%E5%A5%B3%E9%A2%86%E5%AF%BC%E4%B8%80%E4%B8%AA%E6%9C%88%E7%86%8A%E5%A4%A7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 05时27分]"
-        },
-        {
-          "title": "兵部尚书被冻死,女频剧情引激辩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368006&amp;topic_name=%E5%85%B5%E9%83%A8%E5%B0%9A%E4%B9%A6%E8%A2%AB%E5%86%BB%E6%AD%BB%2C%E5%A5%B3%E9%A2%91%E5%89%A7%E6%83%85%E5%BC%95%E6%BF%80%E8%BE%A9",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "8旬老人称因换保姆被女儿冷暴力",
@@ -212,13 +228,24 @@
           "time_info": "00时36分"
         },
         {
+          "title": "女子险遭保安性侵后酒店竟涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%A9%E9%81%AD%E4%BF%9D%E5%AE%89%E6%80%A7%E4%BE%B5%E5%90%8E%E9%85%92%E5%BA%97%E7%AB%9F%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "榜一大哥打赏100万要女主播缴22万税",
           "url": "https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%89%93%E8%B5%8F100%E4%B8%87%E8%A6%81%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%BC%B422%E4%B8%87%E7%A8%8E%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -232,6 +259,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "交警提醒没戴头盔女子前面罚款嘞",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E6%8F%90%E9%86%92%E6%B2%A1%E6%88%B4%E5%A4%B4%E7%9B%94%E5%A5%B3%E5%AD%90%E5%89%8D%E9%9D%A2%E7%BD%9A%E6%AC%BE%E5%98%9E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化妆 护肤 皮肤",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年轻人流行起「重养父母」，教妈妈护肤、帮爸爸抢演唱会票，怎样看待这种反向哺育？其中的边界感该如何把控？",
+          "url": "https://www.zhihu.com/question/2088693226144281181",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     }
