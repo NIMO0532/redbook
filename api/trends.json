@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T06:30:02.893962+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-10-29T10:12:18.806576+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
@@ -13,22 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[02时00分 ~ 10时12分]"
         },
         {
           "title": "女子欠1700元被限高公开照片",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%A01700%E5%85%83%E8%A2%AB%E9%99%90%E9%AB%98%E5%85%AC%E5%BC%80%E7%85%A7%E7%89%87%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 06时30分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 10时12分]"
         },
         {
           "title": "三甲医生回应女子被蜱虫咬伤后瘫痪",
@@ -37,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -46,22 +48,37 @@
           "url": "https://www.toutiao.com/trending/7701306782418747435/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[02时00分 ~ 10时12分]"
         },
         {
           "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%E4%BD%8FICU28%E5%A4%A9%E5%9B%9B%E8%82%A2%E7%98%AB%E7%97%AA",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[02时00分 ~ 10时12分]"
+        },
+        {
+          "title": "31岁女子欠1700元被限高",
+          "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E5%AD%90%E6%AC%A01700%E5%85%83%E8%A2%AB%E9%99%90%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时00分 ~ 10时12分]"
         },
         {
           "title": "身家1270亿周群飞成中国女首富",
@@ -76,27 +93,40 @@
           "time_info": "[02时00分 ~ 06时30分]"
         },
         {
-          "title": "31岁女子欠1700元被限高",
-          "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E5%AD%90%E6%AC%A01700%E5%85%83%E8%A2%AB%E9%99%90%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 06时30分]"
-        },
-        {
           "title": "赛博女儿变迟钝,吧友烧钱续命",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368229&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%84%BF%E5%8F%98%E8%BF%9F%E9%92%9D%2C%E5%90%A7%E5%8F%8B%E7%83%A7%E9%92%B1%E7%BB%AD%E5%91%BD",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 06时30分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 10时12分]"
+        },
+        {
+          "title": "娶二婚女带娃,吧友陷两难",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368210&amp;topic_name=%E5%A8%B6%E4%BA%8C%E5%A9%9A%E5%A5%B3%E5%B8%A6%E5%A8%83%2C%E5%90%A7%E5%8F%8B%E9%99%B7%E4%B8%A4%E9%9A%BE",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 10时12分]"
+        },
+        {
+          "title": "女子编造停车场剐蹭惊魂被拘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368212&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%BC%96%E9%80%A0%E5%81%9C%E8%BD%A6%E5%9C%BA%E5%89%90%E8%B9%AD%E6%83%8A%E9%AD%82%E8%A2%AB%E6%8B%98",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 10时12分]"
         },
         {
           "title": "《影之刃零》的特别鸣谢名单占据游戏界的半壁江山，刘伟、女流、冯骥统统上榜，对此你怎么看？",
@@ -122,17 +152,6 @@
           "time_info": "[02时01分 ~ 06时30分]"
         },
         {
-          "title": "娶二婚女带娃,吧友陷两难",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368210&amp;topic_name=%E5%A8%B6%E4%BA%8C%E5%A9%9A%E5%A5%B3%E5%B8%A6%E5%A8%83%2C%E5%90%A7%E5%8F%8B%E9%99%B7%E4%B8%A4%E9%9A%BE",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 06时30分]"
-        },
-        {
           "title": "杭州女孩东北旅游回来后吃啥都不香了",
           "url": "https://www.toutiao.com/trending/7701659787045437978/",
           "source": "今日头条",
@@ -142,17 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 06时30分]"
-        },
-        {
-          "title": "女子编造停车场剐蹭惊魂被拘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368212&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%BC%96%E9%80%A0%E5%81%9C%E8%BD%A6%E5%9C%BA%E5%89%90%E8%B9%AD%E6%83%8A%E9%AD%82%E8%A2%AB%E6%8B%98",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 06时30分]"
         },
         {
           "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
@@ -166,6 +174,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "吴绮莉否认成龙给女儿提供经济资助",
+          "url": "https://www.toutiao.com/trending/7701315608780079123/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "少女前线2追放破坏者角色PV",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF2%E8%BF%BD%E6%94%BE%E7%A0%B4%E5%9D%8F%E8%80%85%E8%A7%92%E8%89%B2PV",
           "source": "bilibili 热搜",
@@ -175,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "造山女团的阿姨们太有劲了",
+          "url": "https://www.douyin.com/hot/2718579",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "张铭恩 给女友拍照是男人一生的课题",
@@ -188,13 +218,24 @@
           "time_info": "02时01分"
         },
         {
+          "title": "海归医学女博士上综艺不会用显微镜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BD%92%E5%8C%BB%E5%AD%A6%E5%A5%B3%E5%8D%9A%E5%A3%AB%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%B8%8D%E4%BC%9A%E7%94%A8%E6%98%BE%E5%BE%AE%E9%95%9C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "专访35楼坠落奇迹生还女子",
           "url": "https://www.douyin.com/hot/2717421",
           "source": "抖音",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
