@@ -1,55 +1,59 @@
 {
-  "generated_at": "2026-10-30T00:42:02.877133+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-30T05:36:53.818611+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "岳父回应女婿“小小徐”娶女儿走红",
           "url": "https://www.baidu.com/s?wd=%E5%B2%B3%E7%88%B6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%A9%BF%E2%80%9C%E5%B0%8F%E5%B0%8F%E5%BE%90%E2%80%9D%E5%A8%B6%E5%A5%B3%E5%84%BF%E8%B5%B0%E7%BA%A2",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时36分]"
         },
         {
           "title": "何洁直言05超女“前三我都不爽”",
           "url": "https://www.toutiao.com/trending/7701991501798310410/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时36分]"
         },
         {
           "title": "女高管隆胸死亡 7个月消费108万元",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E7%AE%A1%E9%9A%86%E8%83%B8%E6%AD%BB%E4%BA%A1+7%E4%B8%AA%E6%9C%88%E6%B6%88%E8%B4%B9108%E4%B8%87%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时36分]"
         },
         {
           "title": "邀网友赴婚礼的小伙：女友是我的动力",
           "url": "https://www.toutiao.com/trending/7701356719021211698/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时36分]"
         },
         {
           "title": "小博索纳罗携妻女“流亡”路线曝光：途经三国，经陆路转私人飞机抵美",
@@ -59,19 +63,43 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时36分]"
         },
         {
           "title": "72岁成龙和外甥女互动 肌肉抢镜",
           "url": "https://www.baidu.com/s?wd=72%E5%B2%81%E6%88%90%E9%BE%99%E5%92%8C%E5%A4%96%E7%94%A5%E5%A5%B3%E4%BA%92%E5%8A%A8+%E8%82%8C%E8%82%89%E6%8A%A2%E9%95%9C",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时36分]"
+        },
+        {
+          "title": "女裤裆部太长做成吊裆裤",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%A4%E8%A3%86%E9%83%A8%E5%A4%AA%E9%95%BF%E5%81%9A%E6%88%90%E5%90%8A%E8%A3%86%E8%A3%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "time_info": "[00时42分 ~ 05时36分]"
+        },
+        {
+          "title": "赛博女儿变迟钝,吧友烧钱续命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368229&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%84%BF%E5%8F%98%E8%BF%9F%E9%92%9D%2C%E5%90%A7%E5%8F%8B%E7%83%A7%E9%92%B1%E7%BB%AD%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 05时36分]"
         },
         {
           "title": "女高管隆胸死亡前曾抱怨全是坑",
@@ -80,20 +108,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         },
         {
-          "title": "女裤裆部太长做成吊裆裤",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%A4%E8%A3%86%E9%83%A8%E5%A4%AA%E9%95%BF%E5%81%9A%E6%88%90%E5%90%8A%E8%A3%86%E8%A3%A4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "女子金手镯剪开发现大量黑色物质",
+          "url": "https://www.toutiao.com/trending/7700902216395325478/",
+          "source": "今日头条",
           "ranks": [
-            20
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "05时36分"
+        },
+        {
+          "title": "三轮车被吹水中溺亡女生是尖子生",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%BD%AE%E8%BD%A6%E8%A2%AB%E5%90%B9%E6%B0%B4%E4%B8%AD%E6%BA%BA%E4%BA%A1%E5%A5%B3%E7%94%9F%E6%98%AF%E5%B0%96%E5%AD%90%E7%94%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "造山女团的阿姨们太有劲了",
@@ -102,7 +141,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         },
@@ -113,18 +152,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "赛博女儿变迟钝,吧友烧钱续命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368229&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%84%BF%E5%8F%98%E8%BF%9F%E9%92%9D%2C%E5%90%A7%E5%8F%8B%E7%83%A7%E9%92%B1%E7%BB%AD%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         }
