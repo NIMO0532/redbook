@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-30T09:39:21.407706+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-10-30T16:13:35.957971+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "中国U17女足首进世界杯8强",
+          "url": "https://www.douyin.com/hot/2720335",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 16时13分]"
+        },
         {
           "title": "中国队首次晋级U17女足世界杯8强",
           "url": "https://www.toutiao.com/trending/7702137789407576585/",
@@ -14,20 +26,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
         {
-          "title": "中国U17女足首进世界杯8强",
-          "url": "https://www.douyin.com/hot/2720335",
-          "source": "抖音",
+          "title": "中方驳斥派女情报人员接触黄仁勋报道",
+          "url": "https://www.toutiao.com/trending/7702358873853280275/",
+          "source": "今日头条",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时39分"
+          "time_info": "16时13分"
         },
         {
           "title": "岳父回应女婿“小小徐”娶女儿走红",
@@ -104,6 +116,18 @@
           "time_info": "[00时41分 ~ 05时36分]"
         },
         {
+          "title": "女孩恳请学校取消周日返校，称其带来严重焦虑，甚至影响周六，学校应该取消吗？周日返校有什么意义？",
+          "url": "https://www.zhihu.com/question/2098745060527432814",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 16时13分]"
+        },
+        {
           "title": "造山女团的阿姨们太有劲了",
           "url": "https://www.douyin.com/hot/2718579",
           "source": "抖音",
@@ -139,26 +163,37 @@
           "time_info": "[00时42分 ~ 05时36分]"
         },
         {
-          "title": "女孩恳请学校取消周日返校，称其带来严重焦虑，甚至影响周六，学校应该取消吗？周日返校有什么意义？",
-          "url": "https://www.zhihu.com/question/2098745060527432814",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
           "title": "U17女足首进世界杯八强",
           "url": "https://search.bilibili.com/all?keyword=U17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "AI珍珠圣女妆",
+          "url": "https://www.douyin.com/hot/2720954",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "女子按摩十几年确诊颈动脉血管夹层",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%89%E6%91%A9%E5%8D%81%E5%87%A0%E5%B9%B4%E7%A1%AE%E8%AF%8A%E9%A2%88%E5%8A%A8%E8%84%89%E8%A1%80%E7%AE%A1%E5%A4%B9%E5%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "母亲因情绪失控将7岁女儿推下窗台",
@@ -167,7 +202,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -194,6 +229,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "中国女子在西班牙因赖床错过事故列车",
+          "url": "https://www.toutiao.com/trending/7701977389328547876/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "三轮车被吹水中溺亡女生是尖子生",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%BD%AE%E8%BD%A6%E8%A2%AB%E5%90%B9%E6%B0%B4%E4%B8%AD%E6%BA%BA%E4%BA%A1%E5%A5%B3%E7%94%9F%E6%98%AF%E5%B0%96%E5%AD%90%E7%94%9F%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -203,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "HYROX腹泻事件女运动员出镜道歉",
+          "url": "https://www.baidu.com/s?wd=HYROX%E8%85%B9%E6%B3%BB%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E5%87%BA%E9%95%9C%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "女生买驴打滚问那么多火了",
@@ -216,13 +273,24 @@
           "time_info": "00时42分"
         },
         {
+          "title": "外嫁女回娘家：莫让排场账算丢亲情账",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%AB%81%E5%A5%B3%E5%9B%9E%E5%A8%98%E5%AE%B6%EF%BC%9A%E8%8E%AB%E8%AE%A9%E6%8E%92%E5%9C%BA%E8%B4%A6%E7%AE%97%E4%B8%A2%E4%BA%B2%E6%83%85%E8%B4%A6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "中国U17女足点球淘汰法国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E7%82%B9%E7%90%83%E6%B7%98%E6%B1%B0%E6%B3%95%E5%9B%BD%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         }
