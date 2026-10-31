@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T08:30:48.212622+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-10-31T14:44:16.914899+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
           "title": "街道试点“共享儿女”：最低199元每月",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "23亿票房的功夫女足是烂片吗",
+          "url": "https://search.bilibili.com/all?keyword=23%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%98%AF%E7%83%82%E7%89%87%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "黄仁勋与中国女情报人员关系密切？中方回应",
@@ -35,11 +46,24 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 14时44分]"
+        },
+        {
+          "title": "“共享儿女”试点：每月最低199元",
+          "url": "https://www.toutiao.com/trending/7701986310748061734/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时29分 ~ 08时30分]"
+          "time_info": "[08时30分 ~ 14时44分]"
         },
         {
           "title": "中国女子在西班牙因赖床错过事故列车",
@@ -77,6 +101,18 @@
           "time_info": "[04时29分 ~ 08时30分]"
         },
         {
+          "title": "AI珍珠圣女妆",
+          "url": "https://www.douyin.com/hot/2720954",
+          "source": "抖音",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 14时44分]"
+        },
+        {
           "title": "女子万元手机火车上充电时被顺走",
           "url": "https://www.toutiao.com/trending/7702085348448895030/",
           "source": "今日头条",
@@ -88,15 +124,15 @@
           "time_info": "04时29分"
         },
         {
-          "title": "“共享儿女”试点：每月最低199元",
-          "url": "https://www.toutiao.com/trending/7701986310748061734/",
-          "source": "今日头条",
+          "title": "注射死刑失败一个月后 美国女囚发声",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%A8%E5%B0%84%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E+%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时30分"
+          "time_info": "14时44分"
         },
         {
           "title": "中国U17女足首进世界杯8强",
@@ -116,9 +152,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
+        },
+        {
+          "title": "闫妮携女儿现身大孤山",
+          "url": "https://www.toutiao.com/trending/7701994900249935898/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "长期吃外卖 14岁初中女生突发脑梗",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%96%E5%8D%96+14%E5%B2%81%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "女硕士案 性同意认定",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%A1%95%E5%A3%AB%E6%A1%88%20%E6%80%A7%E5%90%8C%E6%84%8F%E8%AE%A4%E5%AE%9A&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "公安部拟规定：办理性侵害案件询问未成年女性时，应由女警员尽量一次完成",
@@ -132,15 +201,37 @@
           "time_info": "04时29分"
         },
         {
-          "title": "AI珍珠圣女妆",
-          "url": "https://www.douyin.com/hot/2720954",
-          "source": "抖音",
+          "title": "21岁女生当环卫工：不用处理人际关系",
+          "url": "https://www.baidu.com/s?wd=21%E5%B2%81%E5%A5%B3%E7%94%9F%E5%BD%93%E7%8E%AF%E5%8D%AB%E5%B7%A5%EF%BC%9A%E4%B8%8D%E7%94%A8%E5%A4%84%E7%90%86%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "14时44分"
+        },
+        {
+          "title": "广东26岁女孩胸痛一查是印戒细胞癌晚期",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C26%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%83%B8%E7%97%9B%E4%B8%80%E6%9F%A5%E6%98%AF%E5%8D%B0%E6%88%92%E7%BB%86%E8%83%9E%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "胡先煦 王楚然跟我抢女主干啥",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%B7%9F%E6%88%91%E6%8A%A2%E5%A5%B3%E4%B8%BB%E5%B9%B2%E5%95%A5&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "闫妮和女儿现身大孤山祈福",
@@ -149,9 +240,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
+        },
+        {
+          "title": "胡歌接女儿放学",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8E%A5%E5%A5%B3%E5%84%BF%E6%94%BE%E5%AD%A6%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "WTT蒙彼利埃女单八强赛",
@@ -171,7 +273,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
         }
