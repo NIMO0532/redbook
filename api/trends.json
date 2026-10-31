@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T14:44:16.914899+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-10-31T21:24:41.758534+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 24,
+      "match_count": 35,
       "titles": [
         {
           "title": "街道试点“共享儿女”：最低199元每月",
@@ -19,17 +19,6 @@
           "time_info": "04时29分"
         },
         {
-          "title": "23亿票房的功夫女足是烂片吗",
-          "url": "https://search.bilibili.com/all?keyword=23%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%98%AF%E7%83%82%E7%89%87%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
           "title": "黄仁勋与中国女情报人员关系密切？中方回应",
           "url": "https://news.ifeng.com/c/8xe5PiROivb",
           "source": "凤凰网",
@@ -41,17 +30,96 @@
           "time_info": "04时29分"
         },
         {
+          "title": "女子花3元买彩票中1439万",
+          "url": "https://www.toutiao.com/trending/7702677396650230282/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "注射死刑失败一个月后，美国女囚首次公开发声",
+          "url": "https://news.ifeng.com/c/8xfYZ8iQx8M",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "六姐妹齐嫁权贵,女频权谋太儿戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&amp;topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "女子注射生长因子脸疯长成畸形",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%A8%E5%B0%84%E7%94%9F%E9%95%BF%E5%9B%A0%E5%AD%90%E8%84%B8%E7%96%AF%E9%95%BF%E6%88%90%E7%95%B8%E5%BD%A2%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "因吃猪蹄住院女子从170斤瘦到88斤",
+          "url": "https://www.toutiao.com/trending/7702672187970322451/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "女子被火车上铺手机砸伤获赔23000元",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%81%AB%E8%BD%A6%E4%B8%8A%E9%93%BA%E6%89%8B%E6%9C%BA%E7%A0%B8%E4%BC%A4%E8%8E%B7%E8%B5%9423000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "23亿票房的功夫女足是烂片吗",
+          "url": "https://search.bilibili.com/all?keyword=23%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%98%AF%E7%83%82%E7%89%87%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 21时24分]"
+        },
+        {
           "title": "电脑清灰被坑,女友死倔不认",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368603&amp;topic_name=%E7%94%B5%E8%84%91%E6%B8%85%E7%81%B0%E8%A2%AB%E5%9D%91%2C%E5%A5%B3%E5%8F%8B%E6%AD%BB%E5%80%94%E4%B8%8D%E8%AE%A4",
           "source": "贴吧",
           "ranks": [
             7,
             8,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 21时24分]"
         },
         {
           "title": "“共享儿女”试点：每月最低199元",
@@ -130,9 +198,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "女子花3元买彩票中1439万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "中国U17女足首进世界杯8强",
@@ -146,6 +225,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "遭处决失败后美国女囚首次发声：身体遭受痛苦、精神饱受折磨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34376878",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "以色列女演员直播翻车当场离席",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E6%BC%94%E5%91%98%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%E5%BD%93%E5%9C%BA%E7%A6%BB%E5%B8%AD%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -157,13 +247,24 @@
           "time_info": "08时30分"
         },
         {
+          "title": "真心话全播出去了！以色列女演员直播时说漏嘴了",
+          "url": "https://news.ifeng.com/c/8xfJfxOe9d8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "闫妮携女儿现身大孤山",
           "url": "https://www.toutiao.com/trending/7701994900249935898/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -174,7 +275,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -185,9 +286,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "闺蜜谢帝这身女装是唠顺眼了",
+          "url": "https://www.douyin.com/hot/2722614",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "公安部拟规定：办理性侵害案件询问未成年女性时，应由女警员尽量一次完成",
@@ -207,9 +319,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "苏州女足首获全国U-16女足锦标赛冠军",
+          "url": "https://www.toutiao.com/trending/7702746250998906943/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "广东26岁女孩胸痛一查是印戒细胞癌晚期",
@@ -218,7 +341,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -229,7 +352,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -251,7 +374,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
