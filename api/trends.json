@@ -1,12 +1,61 @@
 {
-  "generated_at": "2026-11-01T16:57:44.578131+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-11-01T23:56:49.851495+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "35岁保时捷女销售登顶全国销冠",
+          "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E7%99%BB%E9%A1%B6%E5%85%A8%E5%9B%BD%E9%94%80%E5%86%A0%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "女子买2套房打通后喜提环形跑道",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B02%E5%A5%97%E6%88%BF%E6%89%93%E9%80%9A%E5%90%8E%E5%96%9C%E6%8F%90%E7%8E%AF%E5%BD%A2%E8%B7%91%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "六姐妹齐嫁权贵,女频权谋太儿戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&amp;topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 23时56分]"
+        },
+        {
+          "title": "23亿票房的功夫女足是烂片吗",
+          "url": "https://search.bilibili.com/all?keyword=23%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%98%AF%E7%83%82%E7%89%87%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 23时56分]"
+        },
         {
           "title": "和初二女儿约定好，晚上 10 点半把手机放客厅，不留卧室，第一天到点女儿没放，我该怎么沟通呢？",
           "url": "https://www.zhihu.com/question/2035506887307813404",
@@ -18,19 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时56分 ~ 16时57分]"
-        },
-        {
-          "title": "六姐妹齐嫁权贵,女频权谋太儿戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&amp;topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 16时57分]"
         },
         {
           "title": "因吃猪蹄住院女子从170斤瘦到88斤",
@@ -52,18 +88,6 @@
             12,
             11,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 16时57分]"
-        },
-        {
-          "title": "23亿票房的功夫女足是烂片吗",
-          "url": "https://search.bilibili.com/all?keyword=23%E4%BA%BF%E7%A5%A8%E6%88%BF%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%98%AF%E7%83%82%E7%89%87%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            25
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -132,6 +156,18 @@
           "time_info": "[09时56分 ~ 16时57分]"
         },
         {
+          "title": "女子称翻出第三者物品才知被出轨",
+          "url": "https://www.toutiao.com/trending/7701986659813933110/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 23时56分]"
+        },
+        {
           "title": "肖战刘铮亮差点喜提三个前女友",
           "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%B7%AE%E7%82%B9%E5%96%9C%E6%8F%90%E4%B8%89%E4%B8%AA%E5%89%8D%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -142,6 +178,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 06时16分]"
+        },
+        {
+          "title": "女性在这两个年龄或会断崖式衰老",
+          "url": "https://www.toutiao.com/trending/7702772249719750698/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 23时56分]"
         },
         {
           "title": "女子注射生长因子脸疯长成畸形",
@@ -192,6 +240,28 @@
           "time_info": "[02时18分 ~ 06时16分]"
         },
         {
+          "title": "10岁女孩身高1米8基本每晚9点睡觉",
+          "url": "https://www.baidu.com/s?wd=10%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%981%E7%B1%B38%E5%9F%BA%E6%9C%AC%E6%AF%8F%E6%99%9A9%E7%82%B9%E7%9D%A1%E8%A7%89",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "全运会“最美女记者”刘琰官宣离职",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E4%BC%9A%E2%80%9C%E6%9C%80%E7%BE%8E%E5%A5%B3%E8%AE%B0%E8%80%85%E2%80%9D%E5%88%98%E7%90%B0%E5%AE%98%E5%AE%A3%E7%A6%BB%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "女生年轻时怎么赚到钱",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%B9%B4%E8%BD%BB%E6%97%B6%E6%80%8E%E4%B9%88%E8%B5%9A%E5%88%B0%E9%92%B1&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -225,24 +295,13 @@
           "time_info": "06时16分"
         },
         {
-          "title": "女子称翻出第三者物品才知被出轨",
-          "url": "https://www.toutiao.com/trending/7701986659813933110/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "胡歌参加女儿亲子活动",
           "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%84%BF%E4%BA%B2%E5%AD%90%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -253,18 +312,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "女性在这两个年龄或会断崖式衰老",
-          "url": "https://www.toutiao.com/trending/7702772249719750698/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -319,7 +367,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -341,7 +389,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -357,15 +405,37 @@
           "time_info": "09时56分"
         },
         {
+          "title": "女子常年按摩头痛脸麻险中风",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%B8%E5%B9%B4%E6%8C%89%E6%91%A9%E5%A4%B4%E7%97%9B%E8%84%B8%E9%BA%BB%E9%99%A9%E4%B8%AD%E9%A3%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "印度男子持电锯闯入学校袭击2女生",
           "url": "https://www.toutiao.com/trending/7703009208513479177/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "男子将身边多名女性照片挂色情网站",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E8%BA%AB%E8%BE%B9%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7%E7%85%A7%E7%89%87%E6%8C%82%E8%89%B2%E6%83%85%E7%BD%91%E7%AB%99%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
