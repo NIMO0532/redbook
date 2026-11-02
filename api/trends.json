@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T08:22:56.892197+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-11-02T15:24:09.178599+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "女子买2套房打通后喜提环形跑道",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 08时22分]"
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 15时24分]"
         },
         {
           "title": "孙颖莎4比1蒯曼 获得女单冠军",
@@ -26,9 +27,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "美女声优cos小羊肖恩遭炎上",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368858&amp;topic_name=%E7%BE%8E%E5%A5%B3%E5%A3%B0%E4%BC%98cos%E5%B0%8F%E7%BE%8A%E8%82%96%E6%81%A9%E9%81%AD%E7%82%8E%E4%B8%8A",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "女性在这两个年龄或会断崖式衰老",
@@ -55,6 +67,18 @@
           "time_info": "[04时22分 ~ 08时22分]"
         },
         {
+          "title": "六姐妹齐嫁权贵,女频权谋太儿戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&amp;topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 15时24分]"
+        },
+        {
           "title": "11岁女孩确诊甲状腺癌已肺转移",
           "url": "https://www.toutiao.com/trending/7703155124209877035/",
           "source": "今日头条",
@@ -64,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 04时23分]"
+        },
+        {
+          "title": "韩国瑜为许崑源女儿助选，再爆金句：台湾最有钱城市应该是高雄",
+          "url": "https://news.ifeng.com/c/8xizmfYsvSk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "中国女生借卫生巾震撼外国网友",
@@ -77,15 +112,37 @@
           "time_info": "[04时23分 ~ 08时22分]"
         },
         {
-          "title": "六姐妹齐嫁权贵,女频权谋太儿戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&amp;topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F",
-          "source": "贴吧",
+          "title": "年轻女性纷纷涌入男装区",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E7%BA%B7%E7%BA%B7%E6%B6%8C%E5%85%A5%E7%94%B7%E8%A3%85%E5%8C%BA",
+          "source": "百度热搜",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时23分 ~ 08时22分]"
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "保时捷女销冠母公司半年亏2.75亿",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%8D%8A%E5%B9%B4%E4%BA%8F2.75%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "女子从泰国酒店8楼跳下 坠入泳池生还",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BB%8E%E6%B3%B0%E5%9B%BD%E9%85%92%E5%BA%978%E6%A5%BC%E8%B7%B3%E4%B8%8B+%E5%9D%A0%E5%85%A5%E6%B3%B3%E6%B1%A0%E7%94%9F%E8%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "蒯曼击败陈熠晋级女单决赛",
@@ -105,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -116,7 +173,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -127,7 +184,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -138,7 +195,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
