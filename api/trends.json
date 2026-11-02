@@ -1,22 +1,58 @@
 {
-  "generated_at": "2026-11-02T04:23:06.142566+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-11-02T08:22:56.892197+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "女子买2套房打通后喜提环形跑道",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B02%E5%A5%97%E6%88%BF%E6%89%93%E9%80%9A%E5%90%8E%E5%96%9C%E6%8F%90%E7%8E%AF%E5%BD%A2%E8%B7%91%E9%81%93",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 08时22分]"
+        },
+        {
+          "title": "孙颖莎4比1蒯曼 获得女单冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%941%E8%92%AF%E6%9B%BC+%E8%8E%B7%E5%BE%97%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
+          "title": "女性在这两个年龄或会断崖式衰老",
+          "url": "https://www.toutiao.com/trending/7702772249719750698/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 08时22分]"
+        },
+        {
+          "title": "女子称翻出第三者物品才知被出轨",
+          "url": "https://www.toutiao.com/trending/7701986659813933110/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 08时22分]"
         },
         {
           "title": "11岁女孩确诊甲状腺癌已肺转移",
@@ -30,26 +66,26 @@
           "time_info": "[04时22分 ~ 04时23分]"
         },
         {
-          "title": "女性在这两个年龄或会断崖式衰老",
-          "url": "https://www.toutiao.com/trending/7702772249719750698/",
-          "source": "今日头条",
+          "title": "中国女生借卫生巾震撼外国网友",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%80%9F%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%9C%87%E6%92%BC%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时23分]"
+          "time_info": "[04时23分 ~ 08时22分]"
         },
         {
-          "title": "女子称翻出第三者物品才知被出轨",
-          "url": "https://www.toutiao.com/trending/7701986659813933110/",
-          "source": "今日头条",
+          "title": "六姐妹齐嫁权贵,女频权谋太儿戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&amp;topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F",
+          "source": "贴吧",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时23分]"
+          "time_info": "[04时23分 ~ 08时22分]"
         },
         {
           "title": "蒯曼击败陈熠晋级女单决赛",
@@ -63,26 +99,48 @@
           "time_info": "[04时22分 ~ 04时23分]"
         },
         {
-          "title": "中国女生借卫生巾震撼外国网友",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%80%9F%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%9C%87%E6%92%BC%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "U17女足世界杯中国队1比2不敌巴西",
+          "url": "https://www.baidu.com/s?wd=U17%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F1%E6%AF%942%E4%B8%8D%E6%95%8C%E5%B7%B4%E8%A5%BF",
+          "source": "百度热搜",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时23分"
+          "time_info": "08时22分"
         },
         {
-          "title": "六姐妹齐嫁权贵,女频权谋太儿戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&amp;topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F",
-          "source": "贴吧",
+          "title": "刘建宏谈U17女足不敌巴西",
+          "url": "https://www.toutiao.com/trending/7703302308192453130/",
+          "source": "今日头条",
           "ranks": [
-            18
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时23分"
+          "time_info": "08时22分"
+        },
+        {
+          "title": "中国队结束U17女足世界杯之旅",
+          "url": "https://www.toutiao.com/trending/7703304735142642214/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
+          "title": "保时捷女销冠超三成客户来自线上",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E8%B6%85%E4%B8%89%E6%88%90%E5%AE%A2%E6%88%B7%E6%9D%A5%E8%87%AA%E7%BA%BF%E4%B8%8A%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         },
         {
           "title": "WTT蒙彼利埃女单决赛",
@@ -91,7 +149,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
