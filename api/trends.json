@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T15:40:29.513482+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-11-03T23:55:57.329443+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "女",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "女子追讨13年前开店“保证金”申请再审被驳回：已过诉讼时效",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -48,9 +48,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "女子每天玩手机10小时患手机痴呆症",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "女生刷到另一个自己竟是双胞胎",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%AB%9F%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "「赴港看演唱会触发低保预警」女孩全家低保已被取消，哪些细节值得关注？如何看待这一处理？",
@@ -59,9 +81,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "女子每天玩手机10小时患手机痴呆症",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "俄女高官访华就日本军事化加速发声",
+          "url": "https://www.toutiao.com/trending/7702921083061616676/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "女作家称AI写书赚百万美元",
@@ -70,7 +114,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -80,11 +124,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 23时55分]"
         },
         {
           "title": "美女声优cos小羊肖恩遭炎上",
@@ -92,11 +137,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 23时55分]"
         },
         {
           "title": "汪峰发长文谈儿女",
@@ -140,7 +186,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -151,9 +197,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "女子买一等座却只能站着平台无补偿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E4%B8%80%E7%AD%89%E5%BA%A7%E5%8D%B4%E5%8F%AA%E8%83%BD%E7%AB%99%E7%9D%80%E5%B9%B3%E5%8F%B0%E6%97%A0%E8%A1%A5%E5%81%BF%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "“对贩毒、强奸幼女，均废除死刑”",
@@ -184,7 +241,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -195,9 +252,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "一在校女生将其初中同学男扮女装带入宿舍，武汉工商学院通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34392888",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "广州一8岁女孩被同学撞倒后脑死亡",
@@ -206,7 +274,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -217,9 +285,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "女孩贺兰山失联 家属称“人没有了”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B4%BA%E5%85%B0%E5%B1%B1%E5%A4%B1%E8%81%94+%E5%AE%B6%E5%B1%9E%E7%A7%B0%E2%80%9C%E4%BA%BA%E6%B2%A1%E6%9C%89%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "杨超越早期言情小说女主照进现实",
@@ -228,7 +307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -239,7 +318,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -253,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "清华在读女生怀孕生娃神级时间管理",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%9C%A8%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%80%80%E5%AD%95%E7%94%9F%E5%A8%83%E7%A5%9E%E7%BA%A7%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "保时捷女销冠再夺第1 其公司营收下滑",
@@ -272,7 +362,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
