@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T00:58:51.704895+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-11-05T06:31:45.884844+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34403162",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时31分]"
         },
         {
           "title": "吧友实测:AI偏爱当女孩",
@@ -26,52 +27,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时31分]"
         },
         {
           "title": "女儿初潮弄脏沙发爸爸送花安慰",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9D%E6%BD%AE%E5%BC%84%E8%84%8F%E6%B2%99%E5%8F%91%E7%88%B8%E7%88%B8%E9%80%81%E8%8A%B1%E5%AE%89%E6%85%B0%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "女子在胖东来洗手间洗头引热议",
-          "url": "https://www.toutiao.com/trending/7704062848699301951/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "女孩结婚不要彩礼用三轮车接亲",
-          "url": "https://www.toutiao.com/trending/7704193733839044650/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时31分]"
         },
         {
           "title": "刘亦菲凤凰神女仿妆申请出战",
           "url": "https://www.douyin.com/hot/2728612",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时31分]"
+        },
+        {
+          "title": "女孩结婚不要彩礼用三轮车接亲",
+          "url": "https://www.toutiao.com/trending/7704193733839044650/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时31分]"
         },
         {
           "title": "何洁在《后会友期》中直言「05 超女前三她都不爽」，她们之间发生了什么？",
@@ -79,6 +72,17 @@
           "source": "知乎",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时31分]"
+        },
+        {
+          "title": "女子在胖东来洗手间洗头引热议",
+          "url": "https://www.toutiao.com/trending/7704062848699301951/",
+          "source": "今日头条",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -128,11 +132,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时31分]"
         }
       ]
     }
